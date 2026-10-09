@@ -1,0 +1,1051 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<hotpot-jquiz-file>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description rdf:about="">
+</rdf:Description>
+</rdf:RDF>
+<version>6</version>
+<data>
+<title>Cinematica</title>
+<timer>
+<include-timer>0</include-timer>
+<seconds>59</seconds>
+</timer>
+<reading>
+<reading-text></reading-text>
+<include-reading>0</include-reading>
+<reading-title></reading-title>
+</reading>
+<questions>
+<question-record>
+<question>In relazione al grafico mostrato in figura, il massimo valore del modulo dell&apos;accelerazione &amp;#x00e8; . . . 
+
+&amp;#x003C;img src=&quot;0010.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;300&quot; height=&quot;140&quot; /&amp;#x003E;</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>2 m s&amp;#x003C;sup&amp;#x003E;-2&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>4 m s&amp;#x003C;sup&amp;#x003E;-2&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>6 m s&amp;#x003C;sup&amp;#x003E;-2&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>8 m s&amp;#x003C;sup&amp;#x003E;-2&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>16 m s&amp;#x003C;sup&amp;#x003E;-2&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Il grafico mostra la variazione nel tempo della velocit&amp;#x00e0; di un carrello, inizialmente lanciato verso l&apos;alto lungo una pista inclinata. 
+
+&amp;#x003C;img src=&quot;0110.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;240&quot; height=&quot;200&quot; /&amp;#x003E;
+
+Qual &amp;#x00e8; la distanza massima dal punto di lancio raggiunta dal carrello lungo la pista?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>0.80 m</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>1.0 m</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>2.0 m</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>2.5 m</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>4.0 m</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Una palla viene lanciata verticalmente verso l&apos;alto con una velocit&amp;#x00e0; iniziale di 15 m s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E;.
+
+Ammettendo che l&apos;accelerazione di gravit&amp;#x00e0; valga 10 m s&amp;#x003C;sup&amp;#x003E;-2&amp;#x003C;/sup&amp;#x003E; e che si possa trascurare l&apos;attrito con l&apos;aria, qual &amp;#x00e8; il tempo complessivo impiegato dalla palla per arrivare alla massima altezza e ritornare al punto di partenza?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>1 s</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>1.5 s</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>2 s</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>3 s</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>6 s</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Quale delle seguenti espressioni potrebbe esprimere correttamente - a meno di costanti numeriche - la velocit&amp;#x00e0; delle onde nell&apos;oceano, se si indica con &amp;#x003C;i&amp;#x003E;g&amp;#x003C;/i&amp;#x003E; l&apos;accelerazione di gravit&amp;#x00e0;, con &amp;#x0026;rho; la densit&amp;#x00e0; dell&apos;acqua di mare, con &amp;#x003C;i&amp;#x003E;h&amp;#x003C;/i&amp;#x003E; la profondit&amp;#x00e0; dell&apos;oceano e con &amp;#x0026;lambda; la lunghezza d&apos;onda?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>&amp;#x003C;img src=&quot;0120a.jpg&quot; alt=&quot;&quot; title=&quot;&quot; height=&quot;50&quot; width=&quot;50&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;0120b.jpg&quot; alt=&quot;&quot; title=&quot;&quot; height=&quot;48&quot; width=&quot;60&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;0120c.jpg&quot; alt=&quot;&quot; title=&quot;&quot; height=&quot;46&quot; width=&quot;64&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;0120d.jpg&quot; alt=&quot;&quot; title=&quot;&quot; height=&quot;46&quot; width=&quot;64&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;0120e.jpg&quot; alt=&quot;&quot; title=&quot;&quot; height=&quot;42&quot; width=&quot;60&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Un ascensore di un hotel effettua un viaggio dal piano terreno all&apos;ultimo piano e quindi ritorna indietro. Il corrispondente grafico velocit&amp;#x00e0;-tempo &amp;#x00e8; mostrato di seguito. 
+
+&amp;#x003C;img src=&quot;0131.jpg&quot; alt=&quot;&quot; title=&quot;&quot; height=&quot;146&quot; width=&quot;184&quot; /&amp;#x003E;
+
+Quale dei seguenti rappresenta il grafico accelerazione-tempo per il viaggio in questione?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>&amp;#x003C;img src=&quot;0131a.jpg&quot; alt=&quot;&quot; title=&quot;&quot; height=&quot;166&quot; width=&quot;144&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;0131b.jpg&quot; alt=&quot;&quot; title=&quot;&quot; height=&quot;166&quot; width=&quot;144&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;0131c.jpg&quot; alt=&quot;&quot; title=&quot;&quot; height=&quot;166&quot; width=&quot;144&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;0131d.jpg&quot; alt=&quot;&quot; title=&quot;&quot;  height=&quot;166&quot; width=&quot;144&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;0131e.jpg&quot; alt=&quot;&quot; title=&quot;&quot; height=&quot;166&quot; width=&quot;144&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Il diagramma mostra il grafico velocit&amp;#x00e0;-tempo per un trenino che sta percorrendo un tratto rettilineo di una rotaia. 
+
+&amp;#x003C;img src=&quot;0139.jpg&quot; alt=&quot;&quot; title=&quot;&quot; height=&quot;146&quot; width=&quot;184&quot; /&amp;#x003E;
+
+Quale dei seguenti potrebbe rappresentare il grafico posizione-tempo per il moto in questione?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>&amp;#x003C;img src=&quot;0139a.jpg&quot; alt=&quot;&quot; title=&quot;&quot; height=&quot;166&quot; width=&quot;144&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;0139b.jpg&quot; alt=&quot;&quot; title=&quot;&quot; height=&quot;166&quot; width=&quot;144&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;0139c.jpg&quot; alt=&quot;&quot; title=&quot;&quot;  height=&quot;166&quot; width=&quot;144&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;0139d.jpg&quot; alt=&quot;&quot; title=&quot;&quot; height=&quot;166&quot; width=&quot;144&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;0139e.jpg&quot; alt=&quot;&quot; title=&quot;&quot; height=&quot;166&quot; width=&quot;144&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Una macchina viaggia lungo una strada rettilinea. Il grafico mostra come varia nel tempo la sua accelerazione dal momento in cui parte, per un certo tempo. 
+
+&amp;#x003C;img src=&quot;0205.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;270&quot; height=&quot;170&quot; /&amp;#x003E;
+
+Quale punto del grafico si riferisce al momento in cui la macchina raggiunge la massima velocit&amp;#x00e0;?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>A</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>B</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>C</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>D</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>E</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Un&apos;automobile si muove con velocit&amp;#x00e0; iniziale di 16 m s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E; e viene fermata con accelerazione costante in 4 s. 
+
+Qual &amp;#x00e8; lo spazio percorso dall&apos;automobile durante la frenata?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>4 m</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>16 m</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>32 m</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>64 m</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>96 m</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>L&apos;accelerazione di caduta libera di una sferetta d&apos;acciaio pu&amp;#x00f2; essere determinata misurando i tempi &amp;#x003C;i&amp;#x003E;t&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;1&amp;#x003C;/sub&amp;#x003E; e &amp;#x003C;i&amp;#x003E;t&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;2&amp;#x003C;/sub&amp;#x003E; negli istanti in cui la sferetta, lasciata cadere da ferma al tempo &amp;#x003C;i&amp;#x003E;t&amp;#x003C;/i&amp;#x003E; = 0, passa nei punti X e Y mostrati in figura. &amp;#x003C;img src=&quot;0437.jpg&quot; alt=&quot;&quot; title=&quot;&quot; height=&quot;200&quot; width=&quot;120&quot; /&amp;#x003E;
+
+L&apos;accelerazione cos&amp;#x00ec; determinata risulta</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>2&amp;#x003C;i&amp;#x003E;h&amp;#x003C;/i&amp;#x003E; / (&amp;#x003C;i&amp;#x003E;t&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;2&amp;#x003C;/sub&amp;#x003E; - t&amp;#x003C;sub&amp;#x003E;1&amp;#x003C;/sub&amp;#x003E;)&amp;#x003C;sup&amp;#x003E;2&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>2&amp;#x003C;i&amp;#x003E;h&amp;#x003C;/i&amp;#x003E; / (&amp;#x003C;i&amp;#x003E;t&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;2&amp;#x003C;/sub&amp;#x003E; - t&amp;#x003C;sub&amp;#x003E;1&amp;#x003C;/sub&amp;#x003E;)</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;i&amp;#x003E;h&amp;#x003C;/i&amp;#x003E; / 2(&amp;#x003C;i&amp;#x003E;t&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;2&amp;#x003C;/sub&amp;#x003E; - t&amp;#x003C;sub&amp;#x003E;1&amp;#x003C;/sub&amp;#x003E;)&amp;#x003C;sup&amp;#x003E;2&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>2&amp;#x003C;i&amp;#x003E;h&amp;#x003C;/i&amp;#x003E; / (&amp;#x003C;i&amp;#x003E;t&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;2&amp;#x003C;/sub&amp;#x003E;&amp;#x003C;sup&amp;#x003E;2&amp;#x003C;/sup&amp;#x003E; - t&amp;#x003C;sub&amp;#x003E;1&amp;#x003C;/sub&amp;#x003E;&amp;#x003C;sup&amp;#x003E;2&amp;#x003C;/sup&amp;#x003E;)</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;i&amp;#x003E;h&amp;#x003C;/i&amp;#x003E; / 2(&amp;#x003C;i&amp;#x003E;t&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;2&amp;#x003C;/sub&amp;#x003E;&amp;#x003C;sup&amp;#x003E;2&amp;#x003C;/sup&amp;#x003E; - t&amp;#x003C;sub&amp;#x003E;1&amp;#x003C;/sub&amp;#x003E;&amp;#x003C;sup&amp;#x003E;2&amp;#x003C;/sup&amp;#x003E;)</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Il diagramma rappresenta la posizione di un corpo che si muove su traiettoria rettilinea.
+
+&amp;#x003C;img src=&quot;0438.jpg&quot; alt=&quot;&quot; title=&quot;&quot; height=&quot;140&quot; width=&quot;190&quot; /&amp;#x003E;
+
+Qual &amp;#x00e8; la velocit&amp;#x00e0; media dell&apos;oggetto durante i primi 5 s?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>0 m s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>12 m s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>20 m s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>40 m s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>80 m s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Il grafico rappresenta l&apos;andamento nel tempo della velocit&amp;#x00e0; di un oggetto di 2.0 kg che si muove su una rotaia diritta, orizzontale e con attrito trascurabile.
+
+&amp;#x003C;img src=&quot;0507.jpg&quot; alt=&quot;&quot; title=&quot;&quot; height=&quot;120&quot; width=&quot;260&quot; /&amp;#x003E;
+
+Quanto &amp;#x00e8; lungo il tratto percorso dall&apos;oggetto quando questo passa dalla situazione configurata nel punto E a quella configurata nel punto F?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>2.0 m</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>2.5 m</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>3.0 m</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>3.6 m</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>6.0 m</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Un automobilista percorre i primi tre quarti del tragitto del proprio viaggio ad una velocit&amp;#x00e0; &amp;#x003C;i&amp;#x003E;v&amp;#x003C;/i&amp;#x003E; e la parte rimanente del tragitto ad una velocit&amp;#x00e0; &amp;#x003C;i&amp;#x003E;v&amp;#x003C;/i&amp;#x003E;/2.
+
+Qual &amp;#x00e8; stata la velocit&amp;#x00e0; media complessiva nel viaggio?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>0.85 &amp;#x003C;i&amp;#x003E;v&amp;#x003C;/i&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>0.80 &amp;#x003C;i&amp;#x003E;v&amp;#x003C;/i&amp;#x003E;</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>0.75 &amp;#x003C;i&amp;#x003E;v&amp;#x003C;/i&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>0.70 &amp;#x003C;i&amp;#x003E;v&amp;#x003C;/i&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>0.65 &amp;#x003C;i&amp;#x003E;v&amp;#x003C;/i&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Il grafico rappresenta la legge oraria di un oggetto in moto rettilineo. 
+
+&amp;#x003C;img src=&quot;0630.jpg&quot; alt=&quot;&quot; title=&quot;&quot; height=&quot;160&quot; width=&quot;220&quot; /&amp;#x003E;
+
+Qual &amp;#x00e8; lo spostamento dell&apos;oggetto tra gli istanti &amp;#x003C;i&amp;#x003E;t&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;0&amp;#x003C;/sub&amp;#x003E; = 0 s e &amp;#x003C;i&amp;#x003E;t&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;1&amp;#x003C;/sub&amp;#x003E; = 6 s?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>0 m</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>4 m</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>6 m</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>8 m</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>12 m</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Quale grafico rappresenta meglio la relazione tra velocit&amp;#x00e0; e tempo di un oggetto lanciato verticalmente verso l&apos;alto, stando in prossimit&amp;#x00e0; della superficie della Terra?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>&amp;#x003C;img src=&quot;0714a.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;140&quot; height=&quot;180&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;0714b.jpg&quot; alt=&quot;&quot; title=&quot;&quot;  width=&quot;140&quot; height=&quot;180&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;0714c.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;140&quot; height=&quot;180&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;0714d.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;140&quot; height=&quot;180&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;0714e.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;140&quot; height=&quot;180&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Un ragazzo getta in aria una palla, verticalmente verso l&apos;alto. Sia &amp;#x003C;i&amp;#x003E;T&amp;#x003C;/i&amp;#x003E; il tempo totale in cui la palla resta in aria, e &amp;#x003C;i&amp;#x003E;H&amp;#x003C;/i&amp;#x003E; la massima altezza raggiunta, rispetto al punto di lancio. 
+
+Qual &amp;#x00e8; la sua altezza dopo un tempo &amp;#x003C;i&amp;#x003E;T/4&amp;#x003C;/i&amp;#x003E; dall&apos;istante del lancio se la resistenza dell&apos;aria &amp;#x00e8; trascurabile?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>1/4 &amp;#x003C;i&amp;#x003E;H&amp;#x003C;/i&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>1/3 &amp;#x003C;i&amp;#x003E;H&amp;#x003C;/i&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>1/2 &amp;#x003C;i&amp;#x003E;H&amp;#x003C;/i&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>2/3 &amp;#x003C;i&amp;#x003E;H&amp;#x003C;/i&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>3/4 &amp;#x003C;i&amp;#x003E;H&amp;#x003C;/i&amp;#x003E;</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Un corpo parte da fermo e accelera lungo una linea retta. Il grafico mostra come varia nel tempo l&apos;accelerazione del corpo. 
+
+&amp;#x003C;img src=&quot;0811.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;200&quot; height=&quot;200&quot; /&amp;#x003E;
+
+La velocit&amp;#x00e0; del corpo all&apos;istante &amp;#x003C;i&amp;#x003E;t&amp;#x003C;/i&amp;#x003E; = 5 s &amp;#x00e8;</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>2 m s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>8 m s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>12 m s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>16 m s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>20 m s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Una giocatrice di pallacanestro salta in alto in verticale per afferrare un rimbalzo e rimane in aria per 0.80 s. 
+Considerando il moto verticale del centro di massa della giocatrice durante il salto, nell&apos;ipotesi che la sua posizione sia la stessa nell&apos;attimo dello stacco e al momento della ricaduta a terra, di quanto si &amp;#x00e8; sollevato in alto?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>0.52 m</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>0.78 m</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>0.93 m</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>1.20 m</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>1.56 m</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Un&apos;automobile che viaggia alla velocit&amp;#x00e0; di 120 km/h frena (con accelerazione che si suppone costante) e si arresta in 70 m. 
+
+Quanto tempo impiega la macchina a fermarsi?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>0.6 s</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>1.2 s</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>2.1 s</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>3.1 s</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>4.2 s</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Un carrello scende lungo un piano inclinato. La sua velocit&amp;#x00e0; &amp;#x00e8; stata misurata ad intervalli regolari di tempo. L&apos;andamento della velocit&amp;#x00e0; in funzione del tempo &amp;#x00e8; mostrato nel grafico. 
+
+&amp;#x003C;img src=&quot;0901.jpg&quot; alt=&quot;&quot; title=&quot;&quot;  /&amp;#x003E;
+
+Durante i primi 10 s &amp;#x00e8; stata percorsa una distanza pari a</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>0.8 m</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>4.0 m</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>8.0 m</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>40 m</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>80 m</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Un cane da caccia addestrato pu&amp;#x00f2; correre alla velocit&amp;#x00e0; di 18 m s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E; mentre insegue una volpe che scappa alla velocit&amp;#x00e0; di 13 m s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E;.
+
+Se la volpe ad un certo istante ha un vantaggio di 45 m sul cane, quanto tempo ha a disposizione per infilarsi nella sua tana prima che il cane la raggiunga?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>1.5 s</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>5 s</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>9 s</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>17 s</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>25 s</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Il grafico seguente rappresenta il moto di un oggetto. Il grafico potrebbe essere usato per trovare. . . 
+1 - . . . la distanza percorsa dall&apos;oggetto in un certo intervallo di tempo, se &amp;#x003C;i&amp;#x003E;y&amp;#x003C;/i&amp;#x003E; rappresenta la sua velocit&amp;#x00e0;. 
+2 - . . . la velocit&amp;#x00e0; dell&apos;oggetto, se &amp;#x003C;i&amp;#x003E;y&amp;#x003C;/i&amp;#x003E; rappresenta la distanza percorsa. 
+3 - . . . l&apos;accelerazione dell&apos;oggetto, se &amp;#x003C;i&amp;#x003E;y&amp;#x003C;/i&amp;#x003E; rappresenta la sua velocit&amp;#x00e0;. 
+
+Quale o quali delle precedenti affermazioni sono corrette?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>Tutte e tre.</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Solo la 1 e la 2.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Solo la 2 e la 3.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Solo la 1.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Solo la 3.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Un veicolo si muove lungo una strada dritta. Nei grafici seguenti sono mostrate la velocit&amp;#x00e0; e l&apos;accelerazione del veicolo in funzione del tempo. 
+
+Quale coppia di grafici potrebbe correttamente rappresentare il moto del veicolo?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>&amp;#x003C;img src=&quot;1032a.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;120&quot; height=&quot;220&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;1032b.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;120&quot; height=&quot;220&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;1032c.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;120&quot; height=&quot;220&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;1032d.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;120&quot; height=&quot;220&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;1032e.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;120&quot; height=&quot;220&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Una studentessa esce di casa ed inizia a camminare a velocit&amp;#x00e0; costante. Dopo un certo tempo si ferma per un po&apos; e successivamente riprende a camminare con una valocit&amp;#x00e0; maggiore di quella che aveva precedentemente. Improvvisamente torna indietro e si incammina molto velocemente verso casa. 
+
+Quale dei seguenti grafici rappresenta meglio la sua posizione in funzione del tempo?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>&amp;#x003C;img src=&quot;1037a.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;130&quot; height=&quot;150&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;1037b.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;130&quot; height=&quot;150&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;1037c.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;130&quot; height=&quot;150&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;1037d.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;130&quot; height=&quot;150&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;1037e.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;130&quot; height=&quot;150&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Il diagramma rappresenta l&apos;andamento velocit&amp;#x00e0;-tempo di cinque automobili diverse, A, B, C, D ed E. 
+
+&amp;#x003C;img src=&quot;1104.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;240&quot; height=&quot;160&quot; /&amp;#x003E;
+
+Qual &amp;#x00e8; l&apos;automobile che ha l&apos;accelerazione pi&amp;#x00f9; grande in modulo, nell&apos;intervallo di tempo che va da 10 s a 15 s?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>A</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>B</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>C</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>D</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>E</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Il grafico in figura rappresenta, in funzione del tempo, la posizione di un oggetto che si muove lungo l&apos;asse &amp;#x003C;i&amp;#x003E;x&amp;#x003C;/i&amp;#x003E;.
+
+&amp;#x003C;img src=&quot;1130.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;270&quot; height=&quot;150&quot; /&amp;#x003E;
+
+In quale tratto, tra quelli indicati con A, B, C, D od E, la velocit&amp;#x00e0; del corpo &amp;#x00e8; positiva mentre la sua accelerazione &amp;#x00e8; negativa?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>A</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>B</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>C</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>D</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>E</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+</questions></data>
+<hotpot-config-file>
+<global>
+<separate-js-file>0</separate-js-file>
+<clue-caption>Clue</clue-caption>
+<next-q-caption>=&amp;#x003E;</next-q-caption>
+<last-q-caption>&amp;#x003C;=</last-q-caption>
+<incorrect-indicator>X</incorrect-indicator>
+<font-size>10pt</font-size>
+<include-next-ex>0</include-next-ex>
+<restart-caption>Restart</restart-caption>
+<contents-url>contents.htm</contents-url>
+<include-timer>0</include-timer>
+<font-face>Arial,Verdana,sans-serif</font-face>
+<include-scorm-12>0</include-scorm-12>
+<user-string-3>three</user-string-3>
+<show-correct-first-time>0</show-correct-first-time>
+<user-string-2>two</user-string-2>
+<user-string-1>one</user-string-1>
+<vlink-color>#0000CC</vlink-color>
+<title-color>#FF0000</title-color>
+<correct-indicator>:-)</correct-indicator>
+<contents-caption>Index</contents-caption>
+<show-all-questions-caption>Mostra tutte le domande</show-all-questions-caption>
+<undo-caption>Undo</undo-caption>
+<header-code></header-code>
+<hint-caption>Hint</hint-caption>
+<check-button-caption>Check</check-button-caption>
+<email>you@yourserver.com</email>
+<show-one-by-one-caption>Mostra le domande una alla volta</show-one-by-one-caption>
+<name-please>Please enter your name:</name-please>
+<formmail-url>http://yourserver.com/cgi-bin/FormMail.pl</formmail-url>
+<next-ex-caption>=&amp;#x003E;</next-ex-caption>
+<back-caption>&amp;#x003C;=</back-caption>
+<text-color>#333333</text-color>
+<page-bg-color>#ffeee8</page-bg-color>
+<times-up>Your time is over!</times-up>
+<nav-bar-color>#FF9900</nav-bar-color>
+<include-contents>0</include-contents>
+<your-score-is>Il tuo punteggio &amp;#x00e8;:</your-score-is>
+<graphic-url></graphic-url>
+<link-color>#0000FF</link-color>
+<keypad-characters></keypad-characters>
+<show-also-correct>1</show-also-correct>
+<correct-first-time>Risposte esatte al primo tentativo: </correct-first-time>
+<include-cgi>0</include-cgi>
+<ex-bg-color>#FFFFFF</ex-bg-color>
+<ok-caption>OK</ok-caption>
+<process-for-rtl>0</process-for-rtl>
+<check-caption>Controlla</check-caption>
+<include-back>0</include-back>
+<next-correct-letter>Next correct letter is: </next-correct-letter>
+</global>
+<jquiz>
+<next-caption>Next</next-caption>
+<instructions></instructions>
+<enter-a-guess>Prova a dare una risposta:</enter-a-guess>
+<correct-list>Risposte esatte:</correct-list>
+<completed-so-far>Domande completate finora:</completed-so-far>
+<header-code></header-code>
+<include-hint>0</include-hint>
+<include-keypad>0</include-keypad>
+<short-answer-tries-on-hybrid-q>2</short-answer-tries-on-hybrid-q>
+<partly-incorrect>La tua risposta &amp;#x00e8; parzialmente sbagliata: </partly-incorrect>
+<guess-incorrect>Sbagliato! Riprova:</guess-incorrect>
+<case-sensitive>0</case-sensitive>
+<continuous-scoring>1</continuous-scoring>
+<next-ex-url>nextpage.htm</next-ex-url>
+<send-email>0</send-email>
+<show-also-correct>1</show-also-correct>
+<exercise-subtitle>Quiz</exercise-subtitle>
+<exercise-completed>L&apos;esercizio &amp;#x00e8; stato completato. </exercise-completed>
+<questions-to-show>10</questions-to-show>
+<shuffle-answers>0</shuffle-answers>
+<guess-correct>Esatto!</guess-correct>
+<next-correct-letter>Lettera esatta successiva nella risposta:</next-correct-letter>
+<show-limited-questions>0</show-limited-questions>
+<shuffle-questions>0</shuffle-questions>
+<include-show-answer>1</include-show-answer>
+<show-correct-first-time>0</show-correct-first-time>
+<separate-javascript-file>0</separate-javascript-file>
+<delete-caption>Delete This Flashcard</delete-caption>
+<show-answer-caption>Mostra risposta</show-answer-caption>
+</jquiz>
+</hotpot-config-file>
+
+</hotpot-jquiz-file>

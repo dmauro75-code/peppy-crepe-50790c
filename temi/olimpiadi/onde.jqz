@@ -1,0 +1,1849 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<hotpot-jquiz-file>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description rdf:about="">
+</rdf:Description>
+</rdf:RDF>
+<version>6</version>
+<data>
+<title>Onde</title>
+<timer>
+<include-timer>0</include-timer>
+<seconds>59</seconds>
+</timer>
+<reading>
+<reading-text></reading-text>
+<include-reading>0</include-reading>
+<reading-title></reading-title>
+</reading>
+<questions>
+<question-record>
+<question>Due fasci di uguale lunghezza d&apos;onda e coerenti producono su uno schermo delle frange d&apos;interferenza. 
+I due fasci hanno diversa intensit&amp;#x00e0; luminosa: l&apos;intensit&amp;#x00e0; del primo fascio &amp;#x00e8; pari a 4 volte quella dell&apos;altro. 
+
+Qual &amp;#x00e8; il rapporto tra il massimo e il minimo d&apos;intensit&amp;#x00e0; sullo schermo?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>16:1</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>2:1</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>5:3</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>9:1</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>4:1</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Quando la luce passa da un mezzo a un altro, con indice di rifrazione diverso, si ha una variazione . . .</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>. . . della frequenza e della velocit&amp;#x00e0;.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>. . . della frequenza e della lunghezza d&apos;onda.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>. . . della lunghezza d&apos;onda e della velocit&amp;#x00e0;.</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>. . . della frequenza, della lunghezza d&apos;onda e della velocit&amp;#x00e0;.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>. . . solo della velocit&amp;#x00e0;.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Il diagramma mostrato in figura rappresenta la struttura dei livelli energetici per gli elettroni degli orbitali esterni di un certo atomo e &amp;#x0026;lambda;&amp;#x003C;sub&amp;#x003E;1&amp;#x003C;/sub&amp;#x003E;, &amp;#x0026;lambda;&amp;#x003C;sub&amp;#x003E;2&amp;#x003C;/sub&amp;#x003E; e &amp;#x0026;lambda;&amp;#x003C;sub&amp;#x003E;3&amp;#x003C;/sub&amp;#x003E; rappresentano le lunghezze d&apos;onda delle radiazioni emesse quando gli elettroni &quot;&amp;#x003C;i&amp;#x003E;saltano&amp;#x003C;/i&amp;#x003E;&quot; tra i livelli di energia &amp;#x003C;i&amp;#x003E;E&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;1&amp;#x003C;/sub&amp;#x003E;, &amp;#x003C;i&amp;#x003E;E&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;2&amp;#x003C;/sub&amp;#x003E; ed &amp;#x003C;i&amp;#x003E;E&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;3&amp;#x003C;/sub&amp;#x003E;, come indicato dalle frecce.
+
+&amp;#x003C;img src=&quot;0030.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;180&quot; height=&quot;160&quot; /&amp;#x003E;
+
+Quale o quali delle seguenti affermazioni sono corrette?
+
+1 - &amp;#x0026;lambda;&amp;#x003C;sub&amp;#x003E;31&amp;#x003C;/sub&amp;#x003E; = &amp;#x0026;lambda;&amp;#x003C;sub&amp;#x003E;21&amp;#x003C;/sub&amp;#x003E; + &amp;#x0026;lambda;&amp;#x003C;sub&amp;#x003E;32&amp;#x003C;/sub&amp;#x003E;.
+2 - La frequenza della radiazione di lunghezza d&apos;onda  &amp;#x0026;lambda;&amp;#x003C;sub&amp;#x003E;32&amp;#x003C;/sub&amp;#x003E; &amp;#x00e8; minore di quella della radiazione di lunghezza d&apos;onda  &amp;#x0026;lambda;&amp;#x003C;sub&amp;#x003E;31&amp;#x003C;/sub&amp;#x003E;.
+3 - Se  &amp;#x0026;lambda;&amp;#x003C;sub&amp;#x003E;31&amp;#x003C;/sub&amp;#x003E; &amp;#x00e8; una lunghezza d&apos;onda nella regione dell&apos;ultravioletto, allora  &amp;#x0026;lambda;&amp;#x003C;sub&amp;#x003E;21&amp;#x003C;/sub&amp;#x003E; potrebbe essere una lunghezza d&apos;onda nello spettro visibile.</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>Tutte e tre.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Sia la 1 che la 2.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Sia la 2 che la 3.</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Soltanto la 1.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Soltanto la 3.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>L&apos;occhio umano riesce appena a vedere una luce arancione (&amp;#x0026;lambda; = 600 nm) se sulla retina incide una potenza di 1.7 x 10&amp;#x003C;sup&amp;#x003E;-18&amp;#x003C;/sup&amp;#x003E; W.
+
+In tale situazione, il numero di fotoni che in un secondo colpiscono l&apos;occhio &amp;#x00e8; approssimativamente . . .</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>5</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>50</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>500</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>5 x 10&amp;#x003C;sup&amp;#x003E;4&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>5 x 10&amp;#x003C;sup&amp;#x003E;9&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Un LED (&amp;#x003C;i&amp;#x003E;Light Emitting Diode&amp;#x003C;/i&amp;#x003E;), ovvero un diodo che emette luce, produce una radiazione luminosa di lunghezza d&apos;onda &amp;#x0026;lambda;.
+
+L&apos;energia di un fotone emesso da questo diodo &amp;#x00e8; data da</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>&amp;#x003C;i&amp;#x003E;h&amp;#x003C;/i&amp;#x003E; &amp;#x0026;lambda;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;i&amp;#x003E;h&amp;#x003C;/i&amp;#x003E; / &amp;#x0026;lambda;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;i&amp;#x003E;h&amp;#x003C;/i&amp;#x003E; &amp;#x0026;lambda; / &amp;#x003C;i&amp;#x003E;c&amp;#x003C;/i&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;i&amp;#x003E;h&amp;#x003C;/i&amp;#x003E; &amp;#x003C;i&amp;#x003E;c&amp;#x003C;/i&amp;#x003E; / &amp;#x0026;lambda;</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;i&amp;#x003E;h&amp;#x003C;/i&amp;#x003E; &amp;#x003C;i&amp;#x003E;c&amp;#x003C;/i&amp;#x003E; &amp;#x0026;lambda;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>In una camera oscura, a una distanza di 0.50 m da una sorgente puntiforme di luce, la potenza luminosa per unit&amp;#x00e0; di superficie vale 160 unit&amp;#x00e0;. 
+
+Alla distanza di 2.0 m dalla sorgente, la stessa grandezza ha il valore di</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>160 unit&amp;#x00e0;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>80 unit&amp;#x00e0;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>40 unit&amp;#x00e0;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>10 unit&amp;#x00e0;</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>5 unit&amp;#x00e0;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Una sorgente di microonde di lunghezza d&apos;onda &amp;#x0026;lambda; &amp;#x00e8; posta di fronte a due fenditure, indicate con R e S in figura. Un rivelatore di microonde registra un massimo di intensit&amp;#x00e0; quando si trova nel punto P, per il quale RP = SP.
+Il rilevatore viene quindi spostato e il primo punto in cui si registra un nuovo massimo &amp;#x00e8; Q. 
+
+&amp;#x003C;img src=&quot;0118.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;240&quot; height=&quot;180&quot; /&amp;#x003E;
+
+La differenza di cammino (SQ-RQ) vale allora</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>0</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x0026;lambda; / 2</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x0026;lambda;</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;i&amp;#x003E;k&amp;#x003C;/i&amp;#x003E; &amp;#x0026;lambda; / 2, con &amp;#x003C;i&amp;#x003E;k&amp;#x003C;/i&amp;#x003E; dispari.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;i&amp;#x003E;k&amp;#x003C;/i&amp;#x003E; &amp;#x0026;lambda;, con &amp;#x003C;i&amp;#x003E;k&amp;#x003C;/i&amp;#x003E; intero.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Una particella investita da un&apos;onda progressiva si muove di moto armonico semplice, in fase con l&apos;onda; il grafico mostra come varia la posizione della particella in funzione del tempo. 
+L&apos;onda avanza alla velocit&amp;#x00e0; di 5.0 km s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E;.
+
+&amp;#x003C;img src=&quot;0126.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;220&quot; height=&quot;120&quot; /&amp;#x003E;
+
+La sua lunghezza d&apos;onda &amp;#x00e8;:</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>0.010 m</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>0.020 m</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>0.050 m</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>0.10 m</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>0.20 m</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>La figura mostra, ad uno stesso istante, i profili di due onde, P e Q, di uguale frequenza e di ampiezza rispettivamente &amp;#x003C;i&amp;#x003E;Y&amp;#x003C;/i&amp;#x003E; e 2&amp;#x003C;i&amp;#x003E;Y&amp;#x003C;/i&amp;#x003E;.
+Le onde sono sovrapposte e producono un&apos;onda risultante. 
+
+&amp;#x003C;img src=&quot;0140.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;240&quot; height=&quot;150&quot; /&amp;#x003E;
+
+Quali sono l&apos;ampiezza dell&apos;onda risultante e la differenza di fase (in radianti) tra l&apos;onda risultante e l&apos;onda P?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>ampiezza: &amp;#x003C;i&amp;#x003E;Y&amp;#x003C;/i&amp;#x003E;,   fase = 0</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>ampiezza: &amp;#x003C;i&amp;#x003E;Y&amp;#x003C;/i&amp;#x003E;,   fase = &amp;#x0026;pi;</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>ampiezza: 2&amp;#x003C;i&amp;#x003E;Y&amp;#x003C;/i&amp;#x003E;,   fase = 0</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>ampiezza: 3&amp;#x003C;i&amp;#x003E;Y&amp;#x003C;/i&amp;#x003E;,   fase = &amp;#x0026;pi;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>ampiezza: 3&amp;#x003C;i&amp;#x003E;Y&amp;#x003C;/i&amp;#x003E;,   fase = 0</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Il diagramma mostra una corda elastica tesa fra due punti fissi P e Q. Sulla corda &amp;#x00e8; presente un&apos;onda stazionaria. 
+
+&amp;#x003C;img src=&quot;0202.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;200&quot; height=&quot;130&quot; /&amp;#x003E;
+
+Quale o quali delle seguenti affermazioni, riguardo ai due punti indicati X e Y della corda, sono corrette?
+
+1 - I due punti oscillano con una differenza di fase uguale a &amp;#x0026;pi;.
+2 - I due punti hanno lo stesso periodo di oscillazione.
+3 - La distanza tra i due punti &amp;#x00e8; uguale a una lunghezza d&apos;onda.</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>Tutte e tre.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Solo la 1 e la 2.</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Solo la 2 e la 3.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Solo la 1.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Solo la 3.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>In figura la linea PQR rappresenta un sottile fascio di luce monocromatica che passa dal mezzo (1) al mezzo (2). 
+
+&amp;#x003C;img src=&quot;0213.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;150&quot; height=&quot;150&quot; /&amp;#x003E;
+
+In tale fenomeno si pu&amp;#x00f2; dire che . . .</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>. . . la frequenza della luce aumenta.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>. . . la frequenza della luce diminuisce.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>. . . la lunghezza d&apos;onda della luce rimane invariata.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>. . . la lunghezza d&apos;onda della luce aumenta.</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>. . . la lunghezza d&apos;onda della luce diminuisce.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>In un ondoscopio si formano sull&apos;acqua onde piane che si propagano a velocit&amp;#x00e0; costante. Nei disegni seguenti, in cui le linee rappresentano i ventri del sistema di onde a un certo istante, si mostrano delle onde (in vista dall&apos;alto) che si propagano dalla parte alta del disegno a quella bassa. A un certo punto incontrano una barriera al cui centro vi &amp;#x00e8; un&apos;ampia interruzione. 
+
+Quale, fra i seguenti schemi, rappresenta correttamente la situazione al di l&amp;#x00e0; della barriera?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>&amp;#x003C;img src=&quot;0223a.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;100&quot; height=&quot;120&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;0223b.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;100&quot; height=&quot;120&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;0223c.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;100&quot; height=&quot;120&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;0223d.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;100&quot; height=&quot;120&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;0223e.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;100&quot; height=&quot;120&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Una molla, la cui lunghezza a riposo &amp;#x00e8; &amp;#x003C;i&amp;#x003E;l&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;0&amp;#x003C;/sub&amp;#x003E;, viene appesa al soffitto; all&apos;altra estremit&amp;#x00e0; viene fissato un corpo che, dopo essere stato tirato e poi abbandonato, comincia ad oscillare secondo un moto armonico di periodo &amp;#x003C;i&amp;#x003E;T&amp;#x003C;/i&amp;#x003E;. Il grafico indica come varia nel tempo la sua distanza &amp;#x003C;i&amp;#x003E;d&amp;#x003C;/i&amp;#x003E; dal soffitto. 
+
+&amp;#x003C;img src=&quot;0231.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;160&quot; height=&quot;160&quot; /&amp;#x003E;
+
+Dal grafico si pu&amp;#x00f2; ricavare che . . .</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>. . . l&apos;ampiezza del moto armonico &amp;#x00e8; 70 cm.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>. . . l&apos;energia cinetica ha un massimo in &amp;#x003C;i&amp;#x003E;t&amp;#x003C;/i&amp;#x003E; = &amp;#x003C;i&amp;#x003E;T&amp;#x003C;/i&amp;#x003E; / 2.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>. . . il modulo della forza di richiamo sul corpo aumenta fra &amp;#x003C;i&amp;#x003E;t&amp;#x003C;/i&amp;#x003E; = 0 e &amp;#x003C;i&amp;#x003E;t&amp;#x003C;/i&amp;#x003E; = &amp;#x003C;i&amp;#x003E;T&amp;#x003C;/i&amp;#x003E; / 4.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>. . . il modulo della velocit&amp;#x00e0; ha un massimo in &amp;#x003C;i&amp;#x003E;t&amp;#x003C;/i&amp;#x003E; = &amp;#x003C;i&amp;#x003E;T&amp;#x003C;/i&amp;#x003E; / 4.</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>. . . il valore di &amp;#x003C;i&amp;#x003E;l&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;0&amp;#x003C;/sub&amp;#x003E; &amp;#x00e8; 65 cm.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Microonde di lunghezza d&apos;onda 2.8 cm passano attraverso due strette fessure G&amp;#x003C;sub&amp;#x003E;1&amp;#x003C;/sub&amp;#x003E; e G&amp;#x003C;sub&amp;#x003E;2&amp;#x003C;/sub&amp;#x003E; di una barriera d&apos;alluminio. Il punto P, molto lontano dalla barriera, dista 11.2 cm in pi&amp;#x00f9; da una fessura rispetto all&apos;altra. 
+
+&amp;#x003C;img src=&quot;0239.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;150&quot; height=&quot;180&quot; /&amp;#x003E;
+
+Quale o quali delle seguenti affermazioni sulla radiazione che arriva in P da G&amp;#x003C;sub&amp;#x003E;2&amp;#x003C;/sub&amp;#x003E; sono corrette?
+
+1 - Arriva in fase con la radiazione proveniente da G&amp;#x003C;sub&amp;#x003E;1&amp;#x003C;/sub&amp;#x003E;.
+2 - Si combina costruttivamente con la radiazione proveniente da  G&amp;#x003C;sub&amp;#x003E;1&amp;#x003C;/sub&amp;#x003E;.
+3 - Ha percorso un numero intero di lunghezze d&apos;onda in pi&amp;#x00f9; rispetto alla radiazione proveniente da  G&amp;#x003C;sub&amp;#x003E;1&amp;#x003C;/sub&amp;#x003E;.</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>Tutte e tre.</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Solo la 1 e la 2.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Solo la 2 e la 3.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Solo la 1.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Solo la 3.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Sia la radiazione ultravioletta che gli ultrasuoni possono ...</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>... trasportare energia anche nel vuoto.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>... essere polarizzati.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>... produrre fotoemissione di elettroni dai metalli.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>... dar luogo a diffrazione e interferenza.</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>... viaggiare alla velocit&amp;#x00e0; della luce.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Nel riprodurre l&apos;esperimento di Young con le due fenditure si &amp;#x00e8; usato un fascio di luce bianca. 
+
+Quale ci si aspetta fra le osservazioni descritte qui sotto?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>Lo schermo appare illuminato uniformemente.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Si osserva una frangia centrale nera e frange bianche e nere alternate ai suoi lati.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Si osserva una frangia centrale bianca e frange bianche e nere alternate ai suoi lati.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Si osserva una frangia centrale bianca e ai suoi lati frange colorate.</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Si osserva una frangia centrale nera e ai suoi lati frange colorate.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Un generatore di onde, collocato a 4 metri di distanza da un muro riflettente, produce onde stazionarie in un nastro, come mostrato nel disegno. 
+
+&amp;#x003C;img src=&quot;0404.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;300&quot; height=&quot;150&quot; /&amp;#x003E;
+
+Se la velocit&amp;#x00e0; dell&apos;onda vale 10 m s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E;, qual &amp;#x00e8; la sua frequenza?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>0.4 Hz</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>4 Hz</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>5 Hz</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>10 Hz</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>40 Hz</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Il grafico in figura riporta lo spostamento dalla loro posizione di equilibrio di particelle che, a un certo istante, risentono dell&apos;effetto di un&apos;onda che viaggia lungo l&apos;asse &amp;#x003C;i&amp;#x003E;x&amp;#x003C;/i&amp;#x003E;. P &amp;#x00e8; un punto lungo il percorso fatto dall&apos;onda.
+
+&amp;#x003C;img src=&quot;0416.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;120&quot; height=&quot;100&quot; /&amp;#x003E;
+
+Quale dei grafici seguenti rappresenta meglio lo spostamento in funzione &amp;#x003C;b&amp;#x003E;del tempo&amp;#x003C;/b&amp;#x003E; di una particella che si trova nel punto P?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>&amp;#x003C;img src=&quot;0416a.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;100&quot; height=&quot;120&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;0416b.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;100&quot; height=&quot;120&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;0416c.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;100&quot; height=&quot;120&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;0416d.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;100&quot; height=&quot;120&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;0416e.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;100&quot; height=&quot;120&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Il seguente diagramma mostra un&apos;onda periodica. 
+
+&amp;#x003C;img src=&quot;0433.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;260&quot; height=&quot;100&quot; /&amp;#x003E;
+
+Quale delle seguenti rappresenta una coppia di punti in fase?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>A e C</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>B e D</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>C ed F</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>E e G</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>A ed F</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>In un certo mezzo si propagano, nella stessa direzione, due impulsi che a un certo punto si sovrappongono. In quell&apos;istante si ottiene l&apos;impulso mostrato in figura, dovuto alla loro sovrapposizione. 
+
+&amp;#x003C;img src=&quot;0526.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;120&quot; height=&quot;100&quot; /&amp;#x003E;
+
+Fra i seguenti, quali possono essere gli impulsi iniziali?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>&amp;#x003C;img src=&quot;0526a.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;140&quot; height=&quot;100&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;0526b.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;140&quot; height=&quot;100&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;0526c.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;140&quot; height=&quot;100&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;0526d.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;140&quot; height=&quot;100&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;0526e.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;140&quot; height=&quot;100&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Supponendo che il sodio emetta luce monocromatica di lunghezza d&apos;onda &amp;#x0026;lambda; = 5.89 x 10&amp;#x003C;sup&amp;#x003E;-7&amp;#x003C;/sup&amp;#x003E; m, quanti fotoni al secondo verranno emessi da una lampada al sodio che ha una potenza luminosa &amp;#x003C;i&amp;#x003E;P&amp;#x003C;/i&amp;#x003E; = 10 W?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>3.5 x 10&amp;#x003C;sup&amp;#x003E;19&amp;#x003C;/sup&amp;#x003E; fotoni s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>3.0 x 10&amp;#x003C;sup&amp;#x003E;19&amp;#x003C;/sup&amp;#x003E; fotoni s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>2.5 x 10&amp;#x003C;sup&amp;#x003E;19&amp;#x003C;/sup&amp;#x003E; fotoni s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>2.0 x 10&amp;#x003C;sup&amp;#x003E;19&amp;#x003C;/sup&amp;#x003E; fotoni s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>1.5 x 10&amp;#x003C;sup&amp;#x003E;19&amp;#x003C;/sup&amp;#x003E; fotoni s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>La luce emessa da un laser cade su una coppia di fenditure distanti 0.1 mm l&apos;una dall&apos;altra, e su uno schermo distante si osserva un sistema di frange. La separazione fra due frange brillanti consecutive &amp;#x00e8; di 1.0 mm.
+
+Se, lasciando tutto il resto inalterato, si applica al laser un duplicatore di frequenza, in modo che la luce emessa abbia frequenza doppia, quale sar&amp;#x00e0; ora la separazione fra le frange?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>0.25 mm</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>0.5 mm</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>1.0 mm</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>2.0 mm</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>4.0 mm</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>La figura rappresenta due sorgenti, A e B, di un ondoscopio. 
+
+&amp;#x003C;img src=&quot;0608.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;240&quot; height=&quot;180&quot; /&amp;#x003E;
+
+Che fenomeno si osserva nel punto P?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>Interferenza distruttiva</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Interferenza costruttiva</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Riflessione</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Rifrazione</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Diffrazione</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>La figura mostra due piccoli altoparlanti, S&amp;#x003C;sub&amp;#x003E;1&amp;#x003C;/sub&amp;#x003E; ed S&amp;#x003C;sub&amp;#x003E;2&amp;#x003C;/sub&amp;#x003E;, distanti 0.5 m uno dall&apos;altro. Il suono emesso dai due altoparlanti ha la stessa frequenza. Una persona cammina lungo un sentiero davanti agli altoparlanti a 40 m di distanza e sente tre massimi di intensit&amp;#x00e0; sonora a distanza di circa 10 m uno dall&apos;altro, come in figura.
+
+&amp;#x003C;img src=&quot;0622.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;240&quot; height=&quot;140&quot; /&amp;#x003E;  
+
+Qual &amp;#x00e8; - approssimativamente - la lunghezza d&apos;onda del suono emesso?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>2 m</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>1 m</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>0.25 m</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>0.12 m</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>0.063 m</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text></text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Il disegno schematizza un&apos;onda d&apos;acqua che si propaga alla velocit&amp;#x00e0; di 1 m s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E; e mette in moto un tappo che compie 8 oscillazioni in 4 s. 
+
+&amp;#x003C;img src=&quot;0637.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;300&quot; height=&quot;120&quot; /&amp;#x003E;
+
+Qual &amp;#x00e8; la lunghezza d&apos;onda?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>0.25 m</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>0.5 m</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>1 m</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>2 m</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>4 m</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>L&apos;equazione di un&apos;onda armonica &amp;#x00e8; &amp;#x003C;i&amp;#x003E;y&amp;#x003C;/i&amp;#x003E; = &amp;#x003C;i&amp;#x003E;Y&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;0&amp;#x003C;/sub&amp;#x003E; sen[&amp;#x003C;i&amp;#x003E;k&amp;#x003C;/i&amp;#x003E;(&amp;#x003C;i&amp;#x003E;x-vt&amp;#x003C;/i&amp;#x003E;)]. 
+
+Se &amp;#x003C;i&amp;#x003E;Y&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;0&amp;#x003C;/sub&amp;#x003E; = 3 m, &amp;#x003C;i&amp;#x003E;k&amp;#x003C;/i&amp;#x003E; = 3 &amp;#x0026;pi; m&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E; e &amp;#x003C;i&amp;#x003E;v&amp;#x003C;/i&amp;#x003E; = 8 m s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E;, qual &amp;#x00e8; la frequenza dell&apos;onda?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>3.0 Hz</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>7.2 Hz</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>8.0 Hz</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>12 Hz</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>24 Hz</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Una sorgente di onde acustiche di frequenza costante e un osservatore si muovono uno rispetto l&apos;altra. La frequenza dell&apos;onda misurata dall&apos;osservatore cresce uniformemente col tempo. 
+
+Questo accade perch&amp;#x00e9; rispetto ad un certo sistema di riferimento . . .</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>. . . l&apos;osservatore si muove a velocit&amp;#x00e0; costante verso la sorgente che &amp;#x00e8; ferma.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>. . . la sorgente si allontana a velocit&amp;#x00e0; costante dall&apos;osservatore che &amp;#x00e8; fermo.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>. . . l&apos;osservatore si muove di moto uniformemente accelerato verso la sorgente ferma.</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>. . . la sorgente si allontana in moto uniformemente accelerato dall&apos;osservatore fermo.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>. . . l&apos;osservatore percorre, a velocit&amp;#x00e0; costante, una circonferenza nel cui centro sta la sorgente.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Il disegno in figura mostra due impulsi, ciascuno di lunghezza &amp;#x003C;i&amp;#x003E;l&amp;#x003C;/i&amp;#x003E;, che si muovono lungo una corda uno verso l&apos;altro alla stessa velocit&amp;#x00e0;.
+
+&amp;#x003C;img src=&quot;0729.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;300&quot; height=&quot;140&quot; /&amp;#x003E;
+
+Quale disegno rappresenta meglio la forma della corda quando entrambi gli impulsi raggiungono il tratto AB?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>&amp;#x003C;img src=&quot;0729a.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;100&quot; height=&quot;120&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;0729b.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;100&quot; height=&quot;120&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;0729c.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;100&quot; height=&quot;120&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;0729d.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;100&quot; height=&quot;120&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;0729e.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;100&quot; height=&quot;120&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Luce avente lunghezza d&apos;onda di 6 x 10&amp;#x003C;sup&amp;#x003E;-7&amp;#x003C;/sup&amp;#x003E; m attraversa due strette fenditure ed &amp;#x00e8; raccolta su uno schermo a 2 m di distanza dalle fenditure. 
+
+Se la distanza tra due frange luminose adiacenti &amp;#x00e8; di 3 x 10&amp;#x003C;sup&amp;#x003E;-2&amp;#x003C;/sup&amp;#x003E; m, qual &amp;#x00e8; la distanza tra le fenditure?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>9 x 10&amp;#x003C;sup&amp;#x003E;-9&amp;#x003C;/sup&amp;#x003E; m</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>1 x 10&amp;#x003C;sup&amp;#x003E;-5&amp;#x003C;/sup&amp;#x003E; m</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>4 x 10&amp;#x003C;sup&amp;#x003E;-5&amp;#x003C;/sup&amp;#x003E; m</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>6 x 10&amp;#x003C;sup&amp;#x003E;-5&amp;#x003C;/sup&amp;#x003E; m</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>2.5 x 10&amp;#x003C;sup&amp;#x003E;-4&amp;#x003C;/sup&amp;#x003E; m</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Un fotone della radiazione di un certo laser viene emesso quando un elettrone esegue una transizione da un livello energetico dove possiede maggiore energia verso un livello a minore energia; il livello superiore ha un&apos;energia di -2.2 x 10&amp;#x003C;sup&amp;#x003E;-19&amp;#x003C;/sup&amp;#x003E; J, l&apos;altro -3.3 x 10&amp;#x003C;sup&amp;#x003E;-19&amp;#x003C;/sup&amp;#x003E; J. L&apos;energia contenuta in un impulso di radiazione emessa dal laser &amp;#x00e8; di 10 J. 
+
+Quanti fotoni ci sono in un impulso di radiazione di quel laser?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>1.8 x 10&amp;#x003C;sup&amp;#x003E;19&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>3.0 x 10&amp;#x003C;sup&amp;#x003E;19&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>3.7 x 10&amp;#x003C;sup&amp;#x003E;19&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>4.5 x 10&amp;#x003C;sup&amp;#x003E;19&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>9.1 x 10&amp;#x003C;sup&amp;#x003E;19&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>In figura sono schematizzati due impulsi, A e B, che viaggiano lungo una fune omogenea da sinistra verso destra.
+
+&amp;#x003C;img src=&quot;0823.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;180&quot; height=&quot;120&quot; /&amp;#x003E;
+
+Rispetto all&apos;impulso A l&apos;impulso B ha. . .</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>. . . velocit&amp;#x00e0; minore ed energia pi&amp;#x00f9; alta.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>. . . velocit&amp;#x00e0; maggiore ed energia pi&amp;#x00f9; bassa.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>. . . velocit&amp;#x00e0; maggiore e la stessa energia.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>. . . la stessa velocit&amp;#x00e0; ed energia pi&amp;#x00f9; bassa.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>. . . la stessa velocit&amp;#x00e0; ed energia pi&amp;#x00f9; alta.</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Un oggetto atsronomico emette radiazione con lunghezza d&apos;onda 656.3 nm corrispondente alla riga &amp;#x0026;alpha; dell&apos;idrogeno della serie di Balmer. Un osservatore sulla Terra per&amp;#x00f2; riceve dall&apos;oggetto una radiazione con lunghezza d&apos;onda 688.1 nm. 
+
+L&apos;osservatore pu&amp;#x00f2; da ci&amp;#x00f2; concludere che quell&apos;oggetto si muove rispetto alla Terra con velocit&amp;#x00e0; radiale pari a</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>7.3 x 10&amp;#x003C;sup&amp;#x003E;6&amp;#x003C;/sup&amp;#x003E; m s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E; avvicinandosi alla Terra</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>1.4 x 10&amp;#x003C;sup&amp;#x003E;7&amp;#x003C;/sup&amp;#x003E; m s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E; avvicinandosi alla Terra</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>1.4 x 10&amp;#x003C;sup&amp;#x003E;8&amp;#x003C;/sup&amp;#x003E; m s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E; allontanandosi dalla Terra</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>1.4 x 10&amp;#x003C;sup&amp;#x003E;7&amp;#x003C;/sup&amp;#x003E; m s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E; allontanandosi dalla Terra</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>7.3 x 10&amp;#x003C;sup&amp;#x003E;6&amp;#x003C;/sup&amp;#x003E; m s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E; allontanandosi dalla Terra</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Una radiazione a microonde passa attraverso due fenditure P e Q di una piastra metallica. Un sensore di microonde che viene spostato dal punto R al punto S dello schermo rileva una serie di massimi e minimi di intensit&amp;#x00e0; della radiazione, come indicato in figura. La lunghezza d&apos;onda della radiazione &amp;#x00e8; 4 cm.
+
+&amp;#x003C;img src=&quot;0835.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;240&quot; height=&quot;240&quot; /&amp;#x003E;
+
+Quanto vale la differenza di percorso tra PT e QT?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>2 cm</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>3 cm</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>4 cm</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>5 cm</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>6 cm</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Nello schema sono indicati alcuni livelli energetici dell&apos;atomo di idrogeno. 
+
+&amp;#x003C;img src=&quot;0911.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;200&quot; height=&quot;230&quot; /&amp;#x003E;
+
+Qual &amp;#x00e8; la frequenza pi&amp;#x00f9; alta che pu&amp;#x00f2; essere emessa nella transizione fra due di questi livelli?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>1.59 x 10&amp;#x003C;sup&amp;#x003E;14&amp;#x003C;/sup&amp;#x003E; Hz</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>2.46 x 10&amp;#x003C;sup&amp;#x003E;15&amp;#x003C;/sup&amp;#x003E; Hz</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>3.08 x 10&amp;#x003C;sup&amp;#x003E;15&amp;#x003C;/sup&amp;#x003E; Hz</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>1.63 x 10&amp;#x003C;sup&amp;#x003E;20&amp;#x003C;/sup&amp;#x003E; Hz</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>2.04 x 10&amp;#x003C;sup&amp;#x003E;20&amp;#x003C;/sup&amp;#x003E; Hz</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Nella figura sono rappresentati tre fronti d&apos;onda consecutivi (possono essere interpretati come punti di massimo (creste) o punti di minimo (ventri), in ogni caso tutti in fase tra loro). L&apos;onda sta per subire una rifrazione nel passaggio attraverso la superficie di separazione di due semispazi, indicati in figura con 1 e 2, nei quali la velocit&amp;#x00e0; di propagazione dell&apos;onda &amp;#x00e8; diversa. 
+
+&amp;#x003C;img src=&quot;0916.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;140&quot; height=&quot;140&quot; /&amp;#x003E;
+
+Quale dei seguenti disegni rappresenta correttamente gli stessi tre fronti d&apos;onda dopo aver subito la rifrazione?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>&amp;#x003C;img src=&quot;0916a.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;100&quot; height=&quot;120&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;0916b.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;100&quot; height=&quot;120&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;0916c.jpg&quot; alt=&quot;&quot; title=&quot;&quot;  width=&quot;100&quot; height=&quot;120&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;0916d.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;100&quot; height=&quot;120&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;0916e.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;100&quot; height=&quot;120&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Luce monocromatica incide su una fenditura di larghezza regolabile e produce su uno schermo delle frange di diffrazione la cui intensit&amp;#x00e0; ha la distribuzione mostrata in figura. 
+
+&amp;#x003C;img src=&quot;0922.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;240&quot; height=&quot;180&quot;  /&amp;#x003E;
+
+Che cosa accade alla distribuzione di intensit&amp;#x00e0; se si riduce la larghezza della fenditura?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>L&apos;intensit&amp;#x00e0; di tutti i picchi diminuisce, la larghezza della distribuzione aumenta.</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>L&apos;intensit&amp;#x00e0; di tutti i picchi aumenta, la larghezza della distribuzione diminuisce.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>L&apos;intensit&amp;#x00e0; del picco centrale aumenta, quella dei massimi secondari diminuisce.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>L&apos;intensit&amp;#x00e0; di tutti i picchi diminuisce, la larghezza della distribuzione rimane la stessa.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>L&apos;intensit&amp;#x00e0; di tutti i picchi non cambia, la larghezza della distribuzione aumenta.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Il grafico mostra come varia nel tempo lo spostamento verticale di una briciola che galleggia in un acquario leggermente increspato dal passaggio di un&apos;onda, rispetto alla superficie dell&apos;acqua ferma. 
+
+&amp;#x003C;img src=&quot;0925.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;240&quot; height=&quot;200&quot; /&amp;#x003E;
+
+Quale delle seguenti combinazioni di dati riferiti all&apos;onda &amp;#x00e8; corretta?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>Ampiezza = 2 mm, Periodo = 0.2 s, Frequenza = 0.4 Hz.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Ampiezza = 2 mm, Periodo = 0.2 s, Frequenza = 5.0 Hz.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Ampiezza = 2 mm, Periodo = 0.4 s, Frequenza = 2.5 Hz.</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Ampiezza = 4 mm, Periodo = 0.4 s, Frequenza = 0.8 Hz.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Ampiezza = 4 mm, Periodo = 0.4 s, Frequenza = 2.5 Hz.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Una nota musicale viene prodotta da una corda di una chitarra posta in vibrazione. L&apos;altezza della nota pu&amp;#x00f2; essere aumentata se - a parit&amp;#x00e0; delle altre condizioni - si aumenta . . . 
+
+1 - . . . la lunghezza della corda. 
+2 - . . . l&apos;ampiezza della vibrazione. 
+3 - . . . la tensione della corda.
+
+Quale o quali delle precedenti affermazioni sono corrette?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>Tutte e tre.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Solo la 1 e la 2.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Solo la 2 e la 3.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Solo la 1.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Solo la 3.</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Una lampadina in una stanza buia viene accesa e posta davanti ad un fotodiodo, a 2 cm di distanza. La lampadina pu&amp;#x00f2; essere considerata come una sorgente puntiforme. La corrente che attraversa il fotodiodo, in questa situazione, &amp;#x00e8; 27 &amp;#x0026;mu;A. Si riporta in un grafico l&apos;andamento della corrente (&amp;#x003C;i&amp;#x003E;I&amp;#x003C;/i&amp;#x003E;) nel fotodiodo in funzione della sua distanza (&amp;#x003C;i&amp;#x003E;d&amp;#x003C;/i&amp;#x003E;) dalla lampadina. 
+
+Quale dei seguenti grafici &amp;#x00e8; quello ottenuto sperimentalmente?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>&amp;#x003C;img src=&quot;1015a.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;120&quot; height=&quot;140&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;1015b.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;120&quot; height=&quot;140&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;1015c.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;120&quot; height=&quot;140&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;1015d.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;120&quot; height=&quot;140&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;1015e.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;120&quot; height=&quot;140&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Un sottile strato di un materiale trasparente di spessore &amp;#x003C;i&amp;#x003E;s&amp;#x003C;/i&amp;#x003E; e indice di rifrazione &amp;#x003C;i&amp;#x003E;n&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;1&amp;#x003C;/sub&amp;#x003E; = 1.33 ricopre la lente di un occhiale di indice di rifrazione &amp;#x003C;i&amp;#x003E;n&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;2&amp;#x003C;/sub&amp;#x003E; = 1.50, come mostrato in figura.
+
+&amp;#x003C;img src=&quot;1023.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;180&quot; height=&quot;120&quot; /&amp;#x003E;
+
+Quale dei seguenti spessori &amp;#x003C;i&amp;#x003E;s&amp;#x003C;/i&amp;#x003E; &amp;#x003C;b&amp;#x003E;non&amp;#x003C;/b&amp;#x003E; rifletter&amp;#x00e0; la luce che incide quasi perpendicolarmente sulla lente (&amp;#x003C;i&amp;#x003E;l&apos;angolo di incidenza in figura &amp;#x00e8; esagerato per chiarezza&amp;#x003C;/i&amp;#x003E;), se la lunghezza d&apos;onda &amp;#x00e8; &amp;#x0026;lambda; = 640 nm in aria? 
+
+&amp;#x003C;i&amp;#x003E;Suggerimento: La luce subisce uno sfasamento di 180&amp;#x00b0; quando il mezzo nel quale si propaga ha indice di rifrazione minore di quello del mezzo posto oltre la superficie riflettente di separazione tra i due mezzi&amp;#x003C;/i&amp;#x003E;.</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>160 nm</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>240 nm</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>360 nm</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>480 nm</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>640 nm</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Una sorgente di microonde nel punto O emette onde aventi lunghezza d&apos;onda di 28 mm. L&apos;onda si riflette su una superficie metallica perfettamente conduttrice - cosicch&amp;#x00e9; l&apos;onda riflessa &amp;#x00e8; in opposizione di fase rispetto a quella incidente - e d&amp;#x00e0; luogo al fenomeno dell&apos;interferenza. 
+Nel punto X in figura, che dista da O 400 mm, si osserva un&apos;interferenza costruttiva. 
+
+&amp;#x003C;img src=&quot;1033.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;180&quot; height=&quot;100&quot; /&amp;#x003E;
+
+Quale di questi valori potrebbe corrispondere alla lunghezza del percorso OYX?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>421 mm</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>428 mm</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>442 mm</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>456 mm</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>463 mm</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Un raggio di luce monocromatico, di lunghezza d&apos;onda 5.8 x 10&amp;#x003C;sup&amp;#x003E;-7&amp;#x003C;/sup&amp;#x003E; m, incide perpendicolarmente su due fenditure distanti 2.0 x 10&amp;#x003C;sup&amp;#x003E;-4&amp;#x003C;/sup&amp;#x003E; m. Su uno schermo distante 2.0 m dalle fenditure, disposto parallelamente al piano delle fenditure, si forma una figura d&apos;interferenza. 
+
+Qual &amp;#x00e8; sullo schermo, la distanza tra il massimo centrale e quello del primo ordine?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>5.8 x 10&amp;#x003C;sup&amp;#x003E;-11&amp;#x003C;/sup&amp;#x003E; m</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>1.5 x 10&amp;#x003C;sup&amp;#x003E;-3&amp;#x003C;/sup&amp;#x003E; m</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>5.8 x 10&amp;#x003C;sup&amp;#x003E;-3&amp;#x003C;/sup&amp;#x003E; m</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>1.16 x 10&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E; m</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>6.9 x 10&amp;#x003C;sup&amp;#x003E;2&amp;#x003C;/sup&amp;#x003E; m</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>La figura mostra un&apos;onda progressiva su una corda. 
+
+&amp;#x003C;img src=&quot;1121.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;280&quot; height=&quot;100&quot; /&amp;#x003E;
+
+Quale coppia di punti si muove in fase?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>A, D</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>A, G</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>C, K</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>D, I</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>F, H</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>La figura mostra un impulso trasversale che si muove verso destra su una corda. P &amp;#x00e8; un punto della corda. 
+
+&amp;#x003C;img src=&quot;1134.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;200&quot; height=&quot;100&quot; /&amp;#x003E;
+
+Quale vettore indica la direzione e il verso in cui si sta muovendo il punto P in questo istante?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>&amp;#x003C;img src=&quot;1134a.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;50&quot; height=&quot;50&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;1134b.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;50&quot; height=&quot;50&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;1134c.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;50&quot; height=&quot;50&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;1134d.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;50&quot; height=&quot;50&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;1134e.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;50&quot; height=&quot;50&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Il diagramma mostra quattro righe di assorbimento ottenute mediante uno spettroscopio, facendo passare della luce bianca attraverso un recipiente contenente atomi di idrogeno, in un laboratorio. 
+
+&amp;#x003C;img src=&quot;1140.jpg&quot; alt=&quot;&quot; title=&quot;&quot;  width=&quot;270&quot; height=&quot;100&quot; /&amp;#x003E;
+
+Osservando una certa stella che si sta allontanando dalla Terra viene registrato un analogo spettro dovuto all&apos;assorbimento della luce emessa, da parte dell&apos;idrogeno presente nell&apos;atmosfera di quella stella.
+
+Tenendo conto che nel disegnare i successivi 5 diagrammi, identificati con le lettere A, B, C, D ed E, &amp;#x00e8; stato considerato il medesimo intervallo in lunghezza d&apos;onda ed &amp;#x00e8; stata utilizzata esattamente la stessa scala (crescente verso sinistra), quale di questi pu&amp;#x00f2; rappresentare lo spettro osservato della stella?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>&amp;#x003C;img src=&quot;1140a.jpg&quot; alt=&quot;&quot; title=&quot;&quot;  width=&quot;270&quot; height=&quot;100&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;1140b.jpg&quot; alt=&quot;&quot; title=&quot;&quot;  width=&quot;270&quot; height=&quot;100&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;1140c.jpg&quot; alt=&quot;&quot; title=&quot;&quot;  width=&quot;270&quot; height=&quot;100&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;1140d.jpg&quot; alt=&quot;&quot; title=&quot;&quot;  width=&quot;270&quot; height=&quot;100&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;1140e.jpg&quot; alt=&quot;&quot; title=&quot;&quot;  width=&quot;270&quot; height=&quot;100&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+</questions></data>
+<hotpot-config-file>
+<global>
+<separate-js-file>0</separate-js-file>
+<clue-caption>Clue</clue-caption>
+<next-q-caption>=&amp;#x003E;</next-q-caption>
+<last-q-caption>&amp;#x003C;=</last-q-caption>
+<incorrect-indicator>X</incorrect-indicator>
+<font-size>10pt</font-size>
+<include-next-ex>0</include-next-ex>
+<restart-caption>Restart</restart-caption>
+<contents-url>contents.htm</contents-url>
+<include-timer>0</include-timer>
+<font-face>Arial,Verdana,sans-serif</font-face>
+<include-scorm-12>0</include-scorm-12>
+<user-string-3>three</user-string-3>
+<show-correct-first-time>0</show-correct-first-time>
+<user-string-2>two</user-string-2>
+<user-string-1>one</user-string-1>
+<vlink-color>#0000CC</vlink-color>
+<title-color>#FF0000</title-color>
+<correct-indicator>:-)</correct-indicator>
+<contents-caption>Index</contents-caption>
+<show-all-questions-caption>Mostra tutte le domande</show-all-questions-caption>
+<undo-caption>Undo</undo-caption>
+<header-code></header-code>
+<hint-caption>Hint</hint-caption>
+<check-button-caption>Check</check-button-caption>
+<email>you@yourserver.com</email>
+<show-one-by-one-caption>Mostra le domande una alla volta</show-one-by-one-caption>
+<name-please>Please enter your name:</name-please>
+<formmail-url>http://yourserver.com/cgi-bin/FormMail.pl</formmail-url>
+<next-ex-caption>=&amp;#x003E;</next-ex-caption>
+<back-caption>&amp;#x003C;=</back-caption>
+<text-color>#333333</text-color>
+<page-bg-color>#ffeee8</page-bg-color>
+<times-up>Your time is over!</times-up>
+<nav-bar-color>#FF9900</nav-bar-color>
+<include-contents>0</include-contents>
+<your-score-is>Il tuo punteggio &amp;#x00e8;:</your-score-is>
+<graphic-url></graphic-url>
+<link-color>#0000FF</link-color>
+<keypad-characters></keypad-characters>
+<show-also-correct>1</show-also-correct>
+<correct-first-time>Risposte esatte al primo tentativo: </correct-first-time>
+<include-cgi>0</include-cgi>
+<ex-bg-color>#FFFFFF</ex-bg-color>
+<ok-caption>OK</ok-caption>
+<process-for-rtl>0</process-for-rtl>
+<check-caption>Controlla</check-caption>
+<include-back>0</include-back>
+<next-correct-letter>Next correct letter is: </next-correct-letter>
+</global>
+<jquiz>
+<next-caption>Next</next-caption>
+<instructions></instructions>
+<enter-a-guess>Prova a dare una risposta:</enter-a-guess>
+<correct-list>Risposte esatte:</correct-list>
+<completed-so-far>Domande completate finora:</completed-so-far>
+<header-code></header-code>
+<include-hint>0</include-hint>
+<include-keypad>0</include-keypad>
+<short-answer-tries-on-hybrid-q>2</short-answer-tries-on-hybrid-q>
+<partly-incorrect>La tua risposta &amp;#x00e8; parzialmente sbagliata: </partly-incorrect>
+<guess-incorrect>Sbagliato! Riprova:</guess-incorrect>
+<case-sensitive>0</case-sensitive>
+<continuous-scoring>1</continuous-scoring>
+<next-ex-url>nextpage.htm</next-ex-url>
+<send-email>0</send-email>
+<show-also-correct>1</show-also-correct>
+<exercise-subtitle>Quiz</exercise-subtitle>
+<exercise-completed>L&apos;esercizio &amp;#x00e8; stato completato. </exercise-completed>
+<questions-to-show>10</questions-to-show>
+<shuffle-answers>0</shuffle-answers>
+<guess-correct>Esatto!</guess-correct>
+<next-correct-letter>Lettera esatta successiva nella risposta:</next-correct-letter>
+<show-limited-questions>0</show-limited-questions>
+<shuffle-questions>0</shuffle-questions>
+<include-show-answer>1</include-show-answer>
+<show-correct-first-time>0</show-correct-first-time>
+<separate-javascript-file>0</separate-javascript-file>
+<delete-caption>Delete This Flashcard</delete-caption>
+<show-answer-caption>Mostra risposta</show-answer-caption>
+</jquiz>
+</hotpot-config-file>
+
+</hotpot-jquiz-file>

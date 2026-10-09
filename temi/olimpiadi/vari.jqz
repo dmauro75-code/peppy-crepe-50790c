@@ -1,0 +1,1296 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<hotpot-jquiz-file>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description rdf:about="">
+</rdf:Description>
+</rdf:RDF>
+<version>6</version>
+<data>
+<title>Esercizi vari</title>
+<timer>
+<include-timer>0</include-timer>
+<seconds>59</seconds>
+</timer>
+<reading>
+<reading-text></reading-text>
+<include-reading>0</include-reading>
+<reading-title></reading-title>
+</reading>
+<questions>
+<question-record>
+<question>Un satellite percorre un&apos;orbita circolare di raggio &amp;#x003C;i&amp;#x003E;R&amp;#x003C;/i&amp;#x003E; in un periodo di 4 ore. Un secondo satellite, con orbita di raggio 4&amp;#x003C;i&amp;#x003E;R&amp;#x003C;/i&amp;#x003E; introno allo stesso pianeta, ha un periodo di . . .</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>4 ore</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>8 ore</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>16 ore</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>32 ore</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>64 ore</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Un satellite di massa &amp;#x003C;i&amp;#x003E;m&amp;#x003C;/i&amp;#x003E; &amp;#x00e8; in orbita circolare di raggio &amp;#x003C;i&amp;#x003E;R&amp;#x003C;/i&amp;#x003E;, attorno ad un pianeta di massa &amp;#x003C;i&amp;#x003E;M&amp;#x003C;/i&amp;#x003E; (con &amp;#x003C;i&amp;#x003E;M&amp;#x003C;/i&amp;#x003E; &amp;#x003E;&amp;#x003E; &amp;#x003C;i&amp;#x003E;m&amp;#x003C;/i&amp;#x003E;).
+
+Il tempo necessario per compiere una rivoluzione &amp;#x00e8;. . .</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>. . . indipendente da &amp;#x003C;i&amp;#x003E;M&amp;#x003C;/i&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>. . . proporzionale a &amp;#x0026;radic;&amp;#x003C;i&amp;#x003E;m&amp;#x003C;/i&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>. . . lineare in &amp;#x003C;i&amp;#x003E;R&amp;#x003C;/i&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>. . . proporzionale a &amp;#x003C;i&amp;#x003E;R&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sup&amp;#x003E;3/2&amp;#x003C;/sub&amp;#x003E;</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>. . . proporzionale a &amp;#x003C;i&amp;#x003E;R&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sup&amp;#x003E;2&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Quale delle seguenti grandezze fisiche &amp;#x003C;b&amp;#x003E;non necessariamente&amp;#x003C;/b&amp;#x003E; ha lo stesso valore per tutti i satelliti che sono in orbita geostazionaria intorno alla Terra?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>La velocit&amp;#x00e0; angolare.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>L&apos;accelerazione centripeta.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>L&apos;energia cinetica.</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Il periodo orbitale.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>La distanza dal centro della Terra.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Un asteroide in orbita ellittica, si muove dal punto pi&amp;#x00f9; vicino al Sole (punto P: perielio) percorrendo, in un certo intervallo di tempo, un quarto della sua orbita fino al punto Q. 
+
+Quali cambiamenti avvengono alla sua energia potenziale gravitazionale &amp;#x003C;i&amp;#x003E;U&amp;#x003C;/i&amp;#x003E; e al modulo del suo momento angolare &amp;#x003C;i&amp;#x003E;L&amp;#x003C;/i&amp;#x003E; (calcolato rispetto al Sole) tra i punti P e Q?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>&amp;#x003C;i&amp;#x003E;U&amp;#x003C;/i&amp;#x003E; aumenta ed &amp;#x003C;i&amp;#x003E;L&amp;#x003C;/i&amp;#x003E; aumenta.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;i&amp;#x003E;U&amp;#x003C;/i&amp;#x003E; diminuisce ed &amp;#x003C;i&amp;#x003E;L&amp;#x003C;/i&amp;#x003E; rimane invariato.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;i&amp;#x003E;U&amp;#x003C;/i&amp;#x003E; rimane invariata ed &amp;#x003C;i&amp;#x003E;L&amp;#x003C;/i&amp;#x003E; diminuisce.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;i&amp;#x003E;U&amp;#x003C;/i&amp;#x003E; aumenta ed &amp;#x003C;i&amp;#x003E;L&amp;#x003C;/i&amp;#x003E; rimane invariato.</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;i&amp;#x003E;U&amp;#x003C;/i&amp;#x003E; diminuisce ed &amp;#x003C;i&amp;#x003E;L&amp;#x003C;/i&amp;#x003E; aumenta.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Un satellite con la massa di 1 000 kg &amp;#x00e8; in orbita circolare di raggio &amp;#x003C;i&amp;#x003E;R&amp;#x003C;/i&amp;#x003E;. All&apos;altezza dell&apos;orbita il potenziale gravitazionale della Terra &amp;#x00e8; pari a -60 MJ kg&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E;.
+Il satellite viene poi spostato su un&apos;altra orbita il cui raggio &amp;#x00e8; 2&amp;#x003C;i&amp;#x003E;R&amp;#x003C;/i&amp;#x003E;.
+
+Quale fra i valori indicati di seguito rappresenta il guadagno di energia potenziale del satellite, espresso in joule, quando avviene questo cambiamento di orbita?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>3.0 x 10&amp;#x003C;sup&amp;#x003E;7&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>6.0 x 10&amp;#x003C;sup&amp;#x003E;7&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>-1.2 x 10&amp;#x003C;sup&amp;#x003E;8&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>3.0 x 10&amp;#x003C;sup&amp;#x003E;10&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>6.0 x 10&amp;#x003C;sup&amp;#x003E;10&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Sulla Terra, un corpo sospeso ad una molla produce un allungamento &amp;#x003C;i&amp;#x003E;L&amp;#x003C;/i&amp;#x003E; ed oscilla con frequenza &amp;#x003C;i&amp;#x003E;f&amp;#x003C;/i&amp;#x003E;. Se il corpo viene trasportato sulla Luna e sospeso alla stessa molla, le due quantit&amp;#x00e0; diventano &amp;#x003C;i&amp;#x003E;L&amp;#x003C;/i&amp;#x003E;&apos; = &amp;#x003C;i&amp;#x003E;L&amp;#x003C;/i&amp;#x003E; / &amp;#x003C;i&amp;#x003E;n&amp;#x003C;/i&amp;#x003E; ed &amp;#x003C;i&amp;#x003E;f&amp;#x003C;/i&amp;#x003E;&apos;.
+
+Il rapporto &amp;#x003C;i&amp;#x003E;f / f&apos;&amp;#x003C;/i&amp;#x003E; &amp;#x00e8; . . .</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>&amp;#x003C;i&amp;#x003E;n&amp;#x003C;/i&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;i&amp;#x003E;n&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sup&amp;#x003E;1/2&amp;#x003C;/i&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>1</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>1/&amp;#x003C;i&amp;#x003E;n&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sup&amp;#x003E;1/2&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>1/&amp;#x003C;i&amp;#x003E;n&amp;#x003C;/i&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Due blocchi di identica massa &amp;#x003C;i&amp;#x003E;M&amp;#x003C;/i&amp;#x003E; sono attaccati ciascuno a due molle identiche con costante elastica &amp;#x003C;i&amp;#x003E;k&amp;#x003C;/i&amp;#x003E;, come mostrato nelle figure sottostanti. L&apos;attrito tra i blocchi e la superficie d&apos;appoggio &amp;#x00e8; trascurabile. 
+
+&amp;#x003C;img src=&quot;0517.jpg&quot; alt=&quot;&quot; title=&quot;&quot;  /&amp;#x003E;
+
+Il rapporto tra il periodo di oscillazione del blocco attaccato alle molle collegate in parallelo (a sinistra) e il periodo del blocco attaccato alle molle collegate in serie (a destra) sar&amp;#x00e0;:</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>1/2</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>1/&amp;#x0026;radic;2</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>1</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x0026;radic;2</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>2</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Dell&apos;acqua, che scorre adagio in un largo condotto, attraversa una stretta apertura ed entra in un altro condotto largo dove continua a scorrere.
+
+Quale dei grafici qui sotto rappresenta meglio la massa d&apos;acqua che attraversa in un secondo le diverse sezioni del condotto lungo il suo percorso?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>&amp;#x003C;img src=&quot;0304a.jpg&quot; alt=&quot;&quot; title=&quot;&quot;  /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;0304b.jpg&quot; alt=&quot;&quot; title=&quot;&quot;  /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;0304c.jpg&quot; alt=&quot;&quot; title=&quot;&quot;  /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;0304d.jpg&quot; alt=&quot;&quot; title=&quot;&quot;  /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;0304e.jpg&quot; alt=&quot;&quot; title=&quot;&quot;  /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Un fluido scorre in un tubo a sezione uniforme. Si pu&amp;#x00f2; aumentare la portata del condotto ...
+1 - ... aumentando la differenza di pressione tra le estremit&amp;#x00e0; del tubo. 
+2 - ... aumentando la sezione del tubo. 
+3 - ... aumentando la lunghezza del tubo. 
+
+Quali delle precedenti affermazioni sono corrette?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>Tutte e tre</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Solo la 1 e la 2</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Solo la 2 e la 3</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Solo la 1</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Solo la 3</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Un fluido omogeneo e non comprimibile scorre in regime stazionario entro una tubazione disposta orizzontalmente che, come in figura, presenta un restringimento. 
+
+&amp;#x003C;img src=&quot;1126.jpg&quot; alt=&quot;&quot; title=&quot;&quot;  /&amp;#x003E;
+
+Quali, tra le seguenti relazioni di velocit&amp;#x00e0; e pressione, nei due punti indicati in figura, sono entrambe corrette?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>&amp;#x003C;i&amp;#x003E;v&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;1&amp;#x003C;/sub&amp;#x003E; &amp;#x003C; &amp;#x003C;i&amp;#x003E;v&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;2&amp;#x003C;/sub&amp;#x003E;  e  &amp;#x003C;i&amp;#x003E;p&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;1&amp;#x003C;/sub&amp;#x003E; = &amp;#x003C;i&amp;#x003E;p&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;2&amp;#x003C;/sub&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;i&amp;#x003E;v&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;1&amp;#x003C;/sub&amp;#x003E; &amp;#x003C; &amp;#x003C;i&amp;#x003E;v&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;2&amp;#x003C;/sub&amp;#x003E;  e  &amp;#x003C;i&amp;#x003E;p&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;1&amp;#x003C;/sub&amp;#x003E; &amp;#x003E; &amp;#x003C;i&amp;#x003E;p&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;2&amp;#x003C;/sub&amp;#x003E;</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;i&amp;#x003E;v&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;1&amp;#x003C;/sub&amp;#x003E; = &amp;#x003C;i&amp;#x003E;v&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;2&amp;#x003C;/sub&amp;#x003E;  e  &amp;#x003C;i&amp;#x003E;p&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;1&amp;#x003C;/sub&amp;#x003E; &amp;#x003C; &amp;#x003C;i&amp;#x003E;p&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;2&amp;#x003C;/sub&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;i&amp;#x003E;v&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;1&amp;#x003C;/sub&amp;#x003E; &amp;#x003E; &amp;#x003C;i&amp;#x003E;v&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;2&amp;#x003C;/sub&amp;#x003E;  e  &amp;#x003C;i&amp;#x003E;p&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;1&amp;#x003C;/sub&amp;#x003E; = &amp;#x003C;i&amp;#x003E;p&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;2&amp;#x003C;/sub&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;i&amp;#x003E;v&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;1&amp;#x003C;/sub&amp;#x003E; &amp;#x003E; &amp;#x003C;i&amp;#x003E;v&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;2&amp;#x003C;/sub&amp;#x003E;  e  &amp;#x003C;i&amp;#x003E;p&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;1&amp;#x003C;/sub&amp;#x003E; &amp;#x003E; &amp;#x003C;i&amp;#x003E;p&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;2&amp;#x003C;/sub&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Un getto d&apos;acqua di densit&amp;#x00e0; &amp;#x0026;rho;, area della sezione trasversale &amp;#x003C;i&amp;#x003E;A&amp;#x003E;&amp;#x003C;/i&amp;#x003E; e velocit&amp;#x00e0; &amp;#x003C;i&amp;#x003E;v&amp;#x003C;/i&amp;#x003E; colpisce una parete verticale perpendicolare alla direzione del getto, come mostrato in figura. L&apos;acqua poi fluisce parallelamente alla parete, in modo simmetrico rispetto alla direzione del getto. 
+
+&amp;#x003C;img src=&quot;0611.jpg&quot; alt=&quot;&quot; title=&quot;&quot;  /&amp;#x003E;
+
+La forza esercitata dal getto sulla parete &amp;#x00e8;</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>&amp;#x0026;rho;&amp;#x003C;i&amp;#x003E;A&amp;#x003C;/i&amp;#x003E;&amp;#x003C;i&amp;#x003E;v&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sup&amp;#x003E;2&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x0026;rho;&amp;#x003C;i&amp;#x003E;A&amp;#x003C;/i&amp;#x003E;&amp;#x003C;i&amp;#x003E;v&amp;#x003C;/i&amp;#x003E; / 2</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x0026;rho;&amp;#x003C;i&amp;#x003E;g&amp;#x003C;/i&amp;#x003E;&amp;#x003C;i&amp;#x003E;hA&amp;#x003C;/i&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;i&amp;#x003E;A&amp;#x003C;/i&amp;#x003E;&amp;#x003C;i&amp;#x003E;v&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sup&amp;#x003E;2&amp;#x003C;/sup&amp;#x003E; / &amp;#x0026;rho;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;i&amp;#x003E;A&amp;#x003C;/i&amp;#x003E;&amp;#x003C;i&amp;#x003E;v&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sup&amp;#x003E;2&amp;#x003C;/sup&amp;#x003E; / (2&amp;#x0026;rho;)</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Una superficie piana indefinita, uniformemente carica con densit&amp;#x00e0; superficiale &amp;#x0026;sigma; &amp;#x00e8; intersecata da una superficie sferica di raggio &amp;#x003C;i&amp;#x003E;R&amp;#x003C;/i&amp;#x003E; centrata in un punto a distanza &amp;#x003C;i&amp;#x003E;x&amp;#x003C;/i&amp;#x003E; dal piano, come mostrato in figura. 
+
+&amp;#x003C;img src=&quot;0537.jpg&quot; alt=&quot;&quot; title=&quot;&quot;  /&amp;#x003E;
+
+Il flusso del campo elettrico attraverso la superficie sferica &amp;#x00e8;:</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>&amp;#x0026;pi;&amp;#x003C;i&amp;#x003E;R&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sup&amp;#x003E;2&amp;#x003C;/sup&amp;#x003E;&amp;#x0026;sigma; /&amp;#x0026;epsilon;&amp;#x003C;sub&amp;#x003E;0&amp;#x003C;/sub&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>2&amp;#x0026;pi;&amp;#x003C;i&amp;#x003E;R&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sup&amp;#x003E;2&amp;#x003C;/sup&amp;#x003E;&amp;#x0026;sigma; /&amp;#x0026;epsilon;&amp;#x003C;sub&amp;#x003E;0&amp;#x003C;/sub&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x0026;pi;(&amp;#x003C;i&amp;#x003E;R&amp;#x003C;/i&amp;#x003E;-&amp;#x003C;i&amp;#x003E;x&amp;#x003C;/i&amp;#x003E;)&amp;#x0026;sigma; /&amp;#x0026;epsilon;&amp;#x003C;sub&amp;#x003E;0&amp;#x003C;/sub&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x0026;pi;(&amp;#x003C;i&amp;#x003E;R&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sup&amp;#x003E;2&amp;#x003C;/sup&amp;#x003E;-&amp;#x003C;i&amp;#x003E;x&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sup&amp;#x003E;2&amp;#x003C;/sup&amp;#x003E;)&amp;#x0026;sigma; /&amp;#x0026;epsilon;&amp;#x003C;sub&amp;#x003E;0&amp;#x003C;/sub&amp;#x003E;</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>2&amp;#x0026;pi;(&amp;#x003C;i&amp;#x003E;R&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sup&amp;#x003E;2&amp;#x003C;/sup&amp;#x003E;-&amp;#x003C;i&amp;#x003E;x&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sup&amp;#x003E;2&amp;#x003C;/sup&amp;#x003E;)&amp;#x0026;sigma; /&amp;#x0026;epsilon;&amp;#x003C;sub&amp;#x003E;0&amp;#x003C;/sub&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Una carica puntiforme &amp;#x003C;i&amp;#x003E;q&amp;#x003C;/i&amp;#x003E; si trova all&apos;interno di un conduttore sferico di raggio interno &amp;#x003C;i&amp;#x003E;a&amp;#x003C;/i&amp;#x003E; e raggio esterno &amp;#x003C;i&amp;#x003E;b&amp;#x003C;/i&amp;#x003E;. La carica totale del conduttore &amp;#x00e8; &amp;#x003C;i&amp;#x003E;Q&amp;#x003C;/i&amp;#x003E; = -4 &amp;#x003C;i&amp;#x003E;q&amp;#x003C;/i&amp;#x003E;.
+Qual &amp;#x00e8; la carica &amp;#x003C;i&amp;#x003E;q&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;a&amp;#x003C;/sub&amp;#x003E; sulla superficie interna del conduttore e quella &amp;#x003C;i&amp;#x003E;q&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;b&amp;#x003C;/sub&amp;#x003E; sulla superficie esterna?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>&amp;#x003C;i&amp;#x003E;q&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;a&amp;#x003C;/sub&amp;#x003E; = - &amp;#x003C;i&amp;#x003E;q&amp;#x003C;/i&amp;#x003E;   &amp;#x003C;i&amp;#x003E;q&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;b&amp;#x003C;/sub&amp;#x003E; = - 3&amp;#x003C;i&amp;#x003E;q&amp;#x003C;/i&amp;#x003E;</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;i&amp;#x003E;q&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;a&amp;#x003C;/sub&amp;#x003E; = - 3&amp;#x003C;i&amp;#x003E;q&amp;#x003C;/i&amp;#x003E;   &amp;#x003C;i&amp;#x003E;q&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;b&amp;#x003C;/sub&amp;#x003E; = - &amp;#x003C;i&amp;#x003E;q&amp;#x003C;/i&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;i&amp;#x003E;q&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;a&amp;#x003C;/sub&amp;#x003E; = - 0   &amp;#x003C;i&amp;#x003E;q&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;b&amp;#x003C;/sub&amp;#x003E; = - 4&amp;#x003C;i&amp;#x003E;q&amp;#x003C;/i&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;i&amp;#x003E;q&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;a&amp;#x003C;/sub&amp;#x003E; = &amp;#x003C;i&amp;#x003E;q&amp;#x003C;/i&amp;#x003E;   &amp;#x003C;i&amp;#x003E;q&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;b&amp;#x003C;/sub&amp;#x003E; = - 4&amp;#x003C;i&amp;#x003E;q&amp;#x003C;/i&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;i&amp;#x003E;q&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;a&amp;#x003C;/sub&amp;#x003E; = - &amp;#x003C;i&amp;#x003E;q&amp;#x003C;/i&amp;#x003E;   &amp;#x003C;i&amp;#x003E;q&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;b&amp;#x003C;/sub&amp;#x003E; = - 4&amp;#x003C;i&amp;#x003E;q&amp;#x003C;/i&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Una superficie rettangolare che misura 8 x 4 cm&amp;#x003C;sup&amp;#x003E;2&amp;#x003C;/sup&amp;#x003E;, alla temperatura di 127&amp;#x00b0;C si comporta come un corpo nero ed emette una potenza &amp;#x003C;i&amp;#x003E;P&amp;#x003C;/i&amp;#x003E;.
+
+Se la lunghezza e la larghezza della superficie vengono dimezzate e la temperatura viene portata a 327&amp;#x00b0;C, allora la potenza emessa risulta . . .</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>0.38 &amp;#x003C;i&amp;#x003E;P&amp;#x003C;/i&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>0.56 &amp;#x003C;i&amp;#x003E;P&amp;#x003C;/i&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>1.27 &amp;#x003C;i&amp;#x003E;P&amp;#x003C;/i&amp;#x003E;</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>5.06 &amp;#x003C;i&amp;#x003E;P&amp;#x003C;/i&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>11.0 &amp;#x003C;i&amp;#x003E;P&amp;#x003C;/i&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Quale o quali delle seguenti affermazioni, riguardo all&apos;effetto fotoelettrico, sono corrette?
+
+1 - Quando avviene l&apos;emissione, il numero di elettroni emessi al secondo &amp;#x00e8; proporzionale all&apos;intensit&amp;#x00e0; della radiazione usata. 
+2 - Gli elettroni vengono emessi solo se la radiazione elettromagnetica incidente ha una lunghezza d&apos;onda maggiore di un certo valore, detto di soglia. 
+3 - Gli elettroni vengono emessi solo se la radiazione elettromagnetica incidente ha un&apos;intensit&amp;#x00e0; maggiore di un certo valore, detto di soglia.</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>Tutte e tre.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Solo la 1 e la 2.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Solo la 2 e la 3.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Solo la 1.</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Solo la 3.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>La velocit&amp;#x00e0; degli elettroni emessi da un materiale per effetto fotoelettrico pu&amp;#x00f2; essere aumentata. . .</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>. . . aumentando la frequenza della luce.</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>. . . diminuendo la frequenza della luce.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>. . . aumentando l&apos;intensit&amp;#x00e0; di illuminazione.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>. . . diminuendo l&apos;intensit&amp;#x00e0; di illuminazione.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>. . . soltanto cambiando il materiale.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Cinque gruppi di studenti effettuano un esperimento in cui un fascio di luce monocromatica incide su una superficie metallica dalla quale vengono emessi elettroni. 
+Partendo tutti dalla stessa situazione, ogni gruppo prova a cambiare l&apos;intensit&amp;#x00e0; del fascio (&amp;#x003C;i&amp;#x003E;I&amp;#x003C;/i&amp;#x003E;) e la lunghezza d&apos;onda della luce (&amp;#x0026;lambda;), osservando che in tutti i casi si continua ad osservare l&apos;emissione di elettroni. 
+Quale gruppo registra un aumento del numero di elettroni emesso per unit&amp;#x00e0; di tempo e contemporaneamente una diminuzione della loro energia cinetica media?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>Variazione di &amp;#x0026;lambda;: diminuzione del 20%,   Variazione di &amp;#x003C;i&amp;#x003E;I&amp;#x003C;/i&amp;#x003E;: aumento del 20%</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Variazione di &amp;#x0026;lambda;: diminuzione del 10%,   Variazione di &amp;#x003C;i&amp;#x003E;I&amp;#x003C;/i&amp;#x003E;: invariata</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Variazione di &amp;#x0026;lambda;: invariata,   Variazione di &amp;#x003C;i&amp;#x003E;I&amp;#x003C;/i&amp;#x003E;: diminuzione del 10%</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Variazione di &amp;#x0026;lambda;: aumento del 20%,   Variazione di &amp;#x003C;i&amp;#x003E;I&amp;#x003C;/i&amp;#x003E;: diminuzione del 10%</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Variazione di &amp;#x0026;lambda;: aumento del 10%,   Variazione di &amp;#x003C;i&amp;#x003E;I&amp;#x003C;/i&amp;#x003E;: diminuzione del 20%</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Facendo incidere una radiazione luminosa di frequenza &amp;#x003C;i&amp;#x003E;f&amp;#x003C;/i&amp;#x003E; su una piastrina metallica vengono emessi elettroni con velocit&amp;#x00e0; massima &amp;#x003C;i&amp;#x003E;v&amp;#x003C;/i&amp;#x003E; ed energia cinetica &amp;#x003C;i&amp;#x003E;E&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;c&amp;#x003C;/sub&amp;#x003E;.
+Raddoppiando l&apos;intensit&amp;#x00e0; della radiazione sulla stessa piastrina, allora accade che. . . 
+
+1 - . . . vengono emessi il doppio di elettroni per unit&amp;#x00e0; di tempo. 
+2 - . . . la velocit&amp;#x00e0; massima degli elettroni diventa 2&amp;#x003C;i&amp;#x003E;v&amp;#x003C;/i&amp;#x003E;
+3 - l&apos;energia cinetica dell&apos;elettrone pi&amp;#x00f9; veloce diventa 2&amp;#x003C;i&amp;#x003E;E&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;c&amp;#x003C;/sub&amp;#x003E;
+
+Quali di queste affermazioni sono corrette?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>Solo la 1.</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Solo la 2.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Solo la 3.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>La 1 e la 2.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>La 1 e la 3.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Fotoni con un&apos;energia di 7.9 eV incidono su una lastra di zinco, provocando l&apos;emissione di elettroni la cui energia cinetica ha un valore massimo di 4.0 eV. 
+
+Il lavoro di estrazione dello zinco . . .</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>. . . &amp;#x00e8; 11.9 eV</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>. . . &amp;#x00e8; 7.9 eV</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>. . . &amp;#x00e8; 4.0 eV</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>. . . &amp;#x00e8; 3.9 eV</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>. . . non pu&amp;#x00f2; essere determinato con i dati a disposizione.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>I disegni sottostanti intendono rappresentare le traiettorie di due particelle, aventi stessa massa, identica carica elettrica e stessa energia cinetica iniziale, che vengono inviate in tempi successivi contro un nucleo atomico di massa molto maggiore rispetto a quella delle particelle.
+
+Quale dei disegni descrive correttamente il fenomeno?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>&amp;#x003C;img src=&quot;0322a.jpg&quot; alt=&quot;&quot; title=&quot;&quot;  /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;0322b.jpg&quot; alt=&quot;&quot; title=&quot;&quot;  /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;0322c.jpg&quot; alt=&quot;&quot; title=&quot;&quot;  /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;0322d.jpg&quot; alt=&quot;&quot; title=&quot;&quot;  /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;0322e.jpg&quot; alt=&quot;&quot; title=&quot;&quot;  /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>La massa di un protone &amp;#x00e8; 1.0073 e, la massa di un neutrone &amp;#x00e8; 1.0087 u, la massa di un nucleo di &amp;#x003C;sup&amp;#x003E;6&amp;#x003C;/sup&amp;#x003E;&amp;#x003C;sub&amp;#x003E;3&amp;#x003C;/sub&amp;#x003E;Li &amp;#x00e8; 6.0135 u dove 1 u = 1.66 x 10&amp;#x003C;sup&amp;#x003E;-27&amp;#x003C;/sup&amp;#x003E; kg.
+
+Qual &amp;#x00e8; l&apos;energia di legame del nucleo di &amp;#x003C;sup&amp;#x003E;6&amp;#x003C;/sup&amp;#x003E;&amp;#x003C;sub&amp;#x003E;3&amp;#x003C;/sub&amp;#x003E;Li?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>4.52 pJ</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>5.15 pJ</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>9.18 pJ</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>457 pJ</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>597 pJ</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Una data massa di gas condensa a pressione atmosferica e a temperatura prossima a quella ambiente, e diventa liquida. 
+Quale coppia indica rispettivamente l&apos;aumento approssimato della densit&amp;#x00e0; e la diminuzione approssimata della distanza intermolecolare? </question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>10 volte, 2 volte</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>100 volte, 10 volte</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>1 000 volte, 10 volte</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>1 000 000 di volte, 100 volte</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>1 000 000 di volte, 1 000 volte</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Due campioni di nuclidi radioattivi, X e Y, hanno la stessa attivit&amp;#x00e0; &amp;#x003C;i&amp;#x003E;A&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;0&amp;#x003C;/sub&amp;#x003E; al tempo &amp;#x003C;i&amp;#x003E;t&amp;#x003C;/i&amp;#x003E; = 0. X ha un tempo di dimezzamento di 24 anni; Y un tempo di dimezzamento di 16 anni. I campioni vengono mischiati fra loro. 
+
+Quale sar&amp;#x00e0; l&apos;attivit&amp;#x00e0; di qeusta miscela quanto &amp;#x003C;i&amp;#x003E;t&amp;#x003C;/i&amp;#x003E; = 48 anni?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>(1/12) &amp;#x003C;i&amp;#x003E;A&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;0&amp;#x003C;/sub&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>(1/6) &amp;#x003C;i&amp;#x003E;A&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;0&amp;#x003C;/sub&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>(3/16) &amp;#x003C;i&amp;#x003E;A&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;0&amp;#x003C;/sub&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>(1/4) &amp;#x003C;i&amp;#x003E;A&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;0&amp;#x003C;/sub&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>(3/8) &amp;#x003C;i&amp;#x003E;A&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;0&amp;#x003C;/sub&amp;#x003E;</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Il tempo di dimezzamento dell&apos;isotopo radioattivo &amp;#x003C;sup&amp;#x003E;87&amp;#x003C;/sup&amp;#x003E;&amp;#x003C;sub&amp;#x003E;39&amp;#x003C;/sub&amp;#x003E;&amp;#x003C;i&amp;#x003E;Y&amp;#x003C;/i&amp;#x003E; &amp;#x00e8; di 80 ore. 
+
+Se l&apos;attivit&amp;#x00e0; iniziale di un campione di tale isotopo risulta di 12 Bq, dopo 240 ore sar&amp;#x00e0; ...</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>... 0.08 Bq</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>... 0.60 Bq</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>... 1.50 Bq</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>... 3.00 Bq</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>... 4.00 Bq</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Un recipiente contiene 96 grammi di una sostanza radioattiva. Dopo 12 minuti nel recipiente rimangono, ancora non decaduti, 6 grammi di sostanza. 
+
+Qual &amp;#x00e8; il tempo di dimezzamento della sostanza?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>2 minuti </text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>3 minuti</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>4 minuti</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>6 minuti</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>8 minuti </text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Il tempo di dimezzamento di un nuclide radioattivo &amp;#x00e8; 6 ore. La massa iniziale di un suo campione &amp;#x00e8; di 24 g. 
+
+Quanto ne rimane approssimativamente dopo un giorno (24 ore)?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>1.0 g</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>1.5 g</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>2.4 g</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>4.0 g</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>6.0g</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Un campione di materiale radioattivo ha un tempo di dimezzamento di 3 giorni. Dopo 9 giorni, 2 kg di questo campione non sono ancora decaduti. 
+
+Qual &amp;#x00e8; la massa iniziale del campione radioattivo?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>27 kg</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>18 kg</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>16 kg</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>8 kg</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>6 kg</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Un campione di 24 g di un certo radionuclide decade e dopo 36 minuti rimangono solo 3 g dello stesso radionuclide. 
+
+Dopo i primi 12 minuti quanto era rimasto del radionuclide originario? </question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>6 g</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>8 g</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>12 g</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>17 g</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>21 g</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Un atomo radioattivo subisce diversi decadimenti per trasformarsi alla fine in un suo isotopo. 
+
+Quale dei seguenti gruppi di particelle emesse nel processo di decadimento &amp;#x00e8; compatibile con le condizioni descritte? </question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>Una particella &amp;#x0026;alpha; ed una particella &amp;#x0026;beta;.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Una particella &amp;#x0026;alpha; e due particelle &amp;#x0026;beta;.</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Una particella &amp;#x0026;beta; ed un neutrone. </text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Una particella &amp;#x0026;beta; e due neutroni. </text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Due particelle &amp;#x0026;beta; ed un neutrone. </text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Nella reazione nucleare &amp;#x003C;img src=&quot;0431.jpg&quot; alt=&quot;&quot; title=&quot;&quot;  /&amp;#x003E; la particella &amp;#x003C;i&amp;#x003E;X&amp;#x003C;/i&amp;#x003E; &amp;#x00e8;</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>un protone</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>un neutrone</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>un elettrone</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>un positrone</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>un fotone</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Nella reazione nucleare &amp;#x003C;img src=&quot;0713.jpg&quot; alt=&quot;&quot; title=&quot;&quot;  /&amp;#x003E; il simbolo &amp;#x003C;i&amp;#x003E;X&amp;#x003C;/i&amp;#x003E; rappresenta. . . </question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>. . . un protone.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>. . . un positrone.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>. . . un neutrone. </text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>. . . un elettrone. </text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>. . . un raggio &amp;#x0026;gamma;.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Un nucleo radioattivo decade emettendo radiazione &amp;#x0026;beta;.
+Il suo numero di protoni. . . </question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>. . . diminuisce di 4.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>. . . diminusice di 2.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>. . . diminuisce di 1. </text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>. . . aumenta di 1.</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>. . . non cambia.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+</questions></data>
+<hotpot-config-file>
+<global>
+<separate-js-file>0</separate-js-file>
+<clue-caption>Clue</clue-caption>
+<next-q-caption>=&amp;#x003E;</next-q-caption>
+<last-q-caption>&amp;#x003C;=</last-q-caption>
+<incorrect-indicator>X</incorrect-indicator>
+<font-size>10pt</font-size>
+<include-next-ex>0</include-next-ex>
+<restart-caption>Restart</restart-caption>
+<contents-url>contents.htm</contents-url>
+<include-timer>0</include-timer>
+<font-face>Arial,Verdana,sans-serif</font-face>
+<include-scorm-12>0</include-scorm-12>
+<user-string-3>three</user-string-3>
+<show-correct-first-time>0</show-correct-first-time>
+<user-string-2>two</user-string-2>
+<user-string-1>one</user-string-1>
+<vlink-color>#0000CC</vlink-color>
+<title-color>#FF0000</title-color>
+<correct-indicator>:-)</correct-indicator>
+<contents-caption>Index</contents-caption>
+<show-all-questions-caption>Mostra tutte le domande</show-all-questions-caption>
+<undo-caption>Undo</undo-caption>
+<header-code></header-code>
+<hint-caption>Hint</hint-caption>
+<check-button-caption>Check</check-button-caption>
+<email>you@yourserver.com</email>
+<show-one-by-one-caption>Mostra le domande una alla volta</show-one-by-one-caption>
+<name-please>Please enter your name:</name-please>
+<formmail-url>http://yourserver.com/cgi-bin/FormMail.pl</formmail-url>
+<next-ex-caption>=&amp;#x003E;</next-ex-caption>
+<back-caption>&amp;#x003C;=</back-caption>
+<text-color>#333333</text-color>
+<page-bg-color>#ffeee8</page-bg-color>
+<times-up>Your time is over!</times-up>
+<nav-bar-color>#FF9900</nav-bar-color>
+<include-contents>0</include-contents>
+<your-score-is>Il tuo punteggio &amp;#x00e8;:</your-score-is>
+<graphic-url></graphic-url>
+<link-color>#0000FF</link-color>
+<keypad-characters></keypad-characters>
+<show-also-correct>1</show-also-correct>
+<correct-first-time>Risposte esatte al primo tentativo: </correct-first-time>
+<include-cgi>0</include-cgi>
+<ex-bg-color>#FFFFFF</ex-bg-color>
+<ok-caption>OK</ok-caption>
+<process-for-rtl>0</process-for-rtl>
+<check-caption>Controlla</check-caption>
+<include-back>0</include-back>
+<next-correct-letter>Next correct letter is: </next-correct-letter>
+</global>
+<jquiz>
+<next-caption>Next</next-caption>
+<instructions></instructions>
+<enter-a-guess>Prova a dare una risposta:</enter-a-guess>
+<correct-list>Risposte esatte:</correct-list>
+<completed-so-far>Domande completate finora:</completed-so-far>
+<header-code></header-code>
+<include-hint>0</include-hint>
+<include-keypad>0</include-keypad>
+<short-answer-tries-on-hybrid-q>2</short-answer-tries-on-hybrid-q>
+<partly-incorrect>La tua risposta &amp;#x00e8; parzialmente sbagliata: </partly-incorrect>
+<guess-incorrect>Sbagliato! Riprova:</guess-incorrect>
+<case-sensitive>0</case-sensitive>
+<continuous-scoring>1</continuous-scoring>
+<next-ex-url>nextpage.htm</next-ex-url>
+<send-email>0</send-email>
+<show-also-correct>1</show-also-correct>
+<exercise-subtitle>Quiz</exercise-subtitle>
+<exercise-completed>L&apos;esercizio &amp;#x00e8; stato completato. </exercise-completed>
+<questions-to-show>10</questions-to-show>
+<shuffle-answers>0</shuffle-answers>
+<guess-correct>Esatto!</guess-correct>
+<next-correct-letter>Lettera esatta successiva nella risposta:</next-correct-letter>
+<show-limited-questions>0</show-limited-questions>
+<shuffle-questions>0</shuffle-questions>
+<include-show-answer>1</include-show-answer>
+<show-correct-first-time>0</show-correct-first-time>
+<separate-javascript-file>0</separate-javascript-file>
+<delete-caption>Delete This Flashcard</delete-caption>
+<show-answer-caption>Mostra risposta</show-answer-caption>
+</jquiz>
+</hotpot-config-file>
+
+</hotpot-jquiz-file>

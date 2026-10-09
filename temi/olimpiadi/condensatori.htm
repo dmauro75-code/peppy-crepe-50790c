@@ -1,0 +1,2436 @@
+<?xml version="1.0"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+       <html xmlns="http://www.w3.org/1999/xhtml"
+             xml:lang="en"><head>
+
+
+             
+           <title>Esercizi sui condensatori</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="author" content="Danilo Mauro" />
+<meta name="description" content="Lezioni di fisica per le scuole medie superiori, Esercizi sui condensatori" />
+<script type="text/javascript" src="../drop_down.js"></script>
+<script type="text/javascript">
+  function ChangeImage(imageName, newImageFile) {
+    // Find the object that represents the img element.
+    var image = document.getElementById(imageName)
+
+    // Change the picture.
+    image.src = newImageFile
+  }
+</script>
+<link rel="stylesheet" href="../../style.css" type="text/css" />   
+             
+             
+             <meta name="author" content="Created with Hot Potatoes by Half-Baked Software, registered to Danilo Mauro."/>
+<meta name="keywords" content="Hot Potatoes, Hot Potatoes, Half-Baked Software, Java, University of Victoria"/>
+
+
+<link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+
+
+<!-- Made with executable version Java Hot Potatoes 6.1.0.5 -->
+
+<!-- The following insertion allows you to add your own code directly to this head tag from the configuration screen -->
+
+
+
+<style type="text/css">
+
+
+/* This is the CSS stylesheet used in the exercise. */
+/* Elements in square brackets are replaced by data based on configuration settings when the exercise is built. */
+
+/* BeginCorePageCSS */
+
+/* Made with executable version Java Hot Potatoes 6.1.0.5 */
+
+
+/* Hack to hide a nested Quicktime player from IE, which can't handle it. */
+* html object.MediaPlayerNotForIE {
+	display: none;
+}
+
+p{
+	text-align: left;
+	margin: 0px;
+	font-size: 100%;
+}
+
+table,div,span,td{
+	font-size: 100%;
+	color: #333333;
+}
+
+div.Titles{
+	padding: 0.5em;;
+	text-align: center;
+	color: #FF0000;
+}
+
+button{
+	font-family: Arial,Verdana,sans-serif;
+	font-size: 100%;
+	display: inline;
+}
+
+.ExerciseTitle{
+	font-size: 140%;
+	color: #FF0000;
+}
+
+.ExerciseSubtitle{
+	font-size: 120%;
+	color: #FF0000;
+}
+
+div.StdDiv{
+	background-color: #ffeee8;
+	text-align: center;
+	font-size: 100%;
+	color: #333333;
+	padding: 0.5em;
+	border-style: solid;
+	border-width: 1px 1px 1px 1px;
+	border-color: #FF9900;
+	margin-bottom: 1px;
+}
+
+/* EndCorePageCSS */
+
+.RTLText{
+	text-align: right;
+	font-size: 150%;
+	direction: rtl;
+	font-family: "Simplified Arabic", "Traditional Arabic", "Times New Roman", Arial,Verdana,sans-serif; 
+}
+
+.CentredRTLText{
+	text-align: center;
+	font-size: 150%;
+	direction: rtl;
+	font-family: "Simplified Arabic", "Traditional Arabic", "Times New Roman", Arial,Verdana,sans-serif; 
+}
+
+button p.RTLText{
+	text-align: center;
+}
+
+.RTLGapBox{
+	text-align: right;
+	font-size: 150%;
+	direction: rtl;
+	font-family: "Times New Roman", Arial,Verdana,sans-serif;
+}
+
+.Guess{
+	font-weight: bold;
+}
+
+.CorrectAnswer{
+	font-weight: bold;
+}
+
+div#Timer{
+	padding: 0.25em;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	color: #FF0000;
+}
+
+span#TimerText{
+	padding: 0.25em;
+	border-width: 1px;
+	border-style: solid;
+	font-weight: bold;
+	display: none;
+	color: #FF0000;
+}
+
+span.Instructions{
+
+}
+
+div.ExerciseText{
+
+}
+
+.FeedbackText, .FeedbackText span.CorrectAnswer, .FeedbackText span.Guess, .FeedbackText span.Answer{
+	color: #FF0000;
+}
+
+.LeftItem{
+	font-size: 100%;
+	color: #333333;
+	text-align: left;
+}
+
+.RightItem{
+	font-weight: bold;
+	font-size: 100%;
+	color: #333333;
+}
+
+span.CorrectMark{
+
+}
+
+input, textarea{
+	font-family: Arial,Verdana,sans-serif;
+	font-size: 120%;
+}
+
+select{
+	font-size: 100%;
+}
+
+div.Feedback {
+	background-color: #ffffff;
+	left: 58%;
+	width: 16%;
+	margin-top: 60pt;
+	z-index: 1;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #FF3300;
+	padding: 5px;
+	text-align: center;
+	color: #000033;
+	position: absolute;
+	display: none;
+	font-size: 100%;
+}
+
+
+
+
+div.ExerciseDiv{
+	color: #333333;
+}
+
+/* JMatch flashcard styles */
+table.FlashcardTable{
+	background-color: transparent;
+	color: #333333;
+	border-color: #333333;
+	margin-left: 5%;
+	margin-right: 5%;
+	margin-top: 2em;
+	margin-bottom: 2em;
+	width: 90%;
+	position: relative;
+	text-align: center;
+	padding: 0px;
+}
+
+table.FlashcardTable tr{
+	border-style: none;
+	margin: 0px;
+	padding: 0px;
+	background-color: #bbbbee;
+}
+
+table.FlashcardTable td.Showing{
+	font-size: 140%;
+	text-align: center;
+	width: 50%;
+	display: table-cell;
+	padding: 2em;
+	margin: 0px;
+	border-style: solid;
+	border-width: 1px;
+	color: #333333;
+	background-color: #bbbbee;
+}
+
+table.FlashcardTable td.Hidden{
+	display: none;
+}
+
+/* JMix styles */
+div#SegmentDiv{
+	margin-top: 2em;
+	margin-bottom: 2em;
+	text-align: center;
+}
+
+a.ExSegment{
+	font-size: 120%;
+	font-weight: bold;
+	text-decoration: none;
+	color: #333333;
+}
+
+span.RemainingWordList{
+	font-style: italic;
+}
+
+div.DropLine {
+	position: absolute;
+	text-align: center;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	border-bottom-color: #FF0000;
+	width: 80%;
+}
+
+/* JCloze styles */
+
+.ClozeWordList{
+	text-align: center;
+	font-weight: bold;
+}
+
+div.ClozeBody{
+	text-align: left;
+	margin-top: 2em;
+	margin-bottom: 2em;
+	line-height: 2.0
+}
+
+span.GapSpan{
+	font-weight: bold;
+}
+
+/* JCross styles */
+
+table.CrosswordGrid{
+	margin: auto auto 1em auto;
+	border-collapse: collapse;
+	padding: 0px;
+	background-color: #000000;
+}
+
+table.CrosswordGrid tbody tr td{
+	width: 1.5em;
+	height: 1.5em;
+	text-align: center;
+	vertical-align: middle;
+	font-size: 140%;
+	padding: 1px;
+	margin: 0px;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #000000;
+	color: #000000;
+}
+
+table.CrosswordGrid span{
+	color: #000000;
+}
+
+table.CrosswordGrid td.BlankCell{
+	background-color: #000000;
+	color: #000000;
+}
+
+table.CrosswordGrid td.LetterOnlyCell{
+	text-align: center;
+	vertical-align: middle;
+	background-color: #ffffff;
+	color: #000000;
+	font-weight: bold;
+}
+
+table.CrosswordGrid td.NumLetterCell{
+	text-align: left;
+	vertical-align: top;
+	background-color: #ffffff;
+	color: #000000;
+	padding: 1px;
+	font-weight: bold;
+}
+
+.NumLetterCellText{
+	cursor: pointer;
+	color: #000000;
+}
+
+.GridNum{
+	vertical-align: super;
+	font-size: 66%;
+	font-weight: bold;
+	text-decoration: none;
+	color: #000000;
+}
+
+.GridNum:hover, .GridNum:visited{
+	color: #000000;
+}
+
+table#Clues{
+	margin: auto;
+	vertical-align: top;
+}
+
+table#Clues td{
+	vertical-align: top;
+}
+
+table.ClueList{
+  margin: auto;
+}
+
+td.ClueNum{
+	text-align: right;
+	font-weight: bold;
+	vertical-align: top;
+}
+
+td.Clue{
+	text-align: left;
+}
+
+div#ClueEntry{
+	text-align: left;
+	margin-bottom: 1em;
+}
+
+/* Keypad styles */
+
+div.Keypad{
+	text-align: center;
+	display: none; /* initially hidden, shown if needed */
+	margin-bottom: 0.5em;
+}
+
+div.Keypad button{
+	font-family: Arial,Verdana,sans-serif;
+	font-size: 120%;
+	background-color: #ffffff;
+	color: #000000;
+	width: 2em;
+}
+
+/* JQuiz styles */
+
+div.QuestionNavigation{
+	text-align: center;
+}
+
+.QNum{
+	margin: 0em 1em 0.5em 1em;
+	font-weight: bold;
+	vertical-align: middle;
+}
+
+textarea{
+	font-family: Arial,Verdana,sans-serif;
+}
+
+.QuestionText{
+	text-align: left;
+	margin: 0px;
+	font-size: 100%;
+}
+
+.Answer{
+	font-size: 120%;
+	letter-spacing: 0.1em;
+}
+
+.PartialAnswer{
+	font-size: 120%;
+	letter-spacing: 0.1em;
+	color: #FF0000;
+}
+
+.Highlight{
+	color: #000000;
+	background-color: #ffff00;
+	font-weight: bold;
+	font-size: 120%;
+}
+
+ol.QuizQuestions{
+	text-align: left;
+	list-style-type: none;
+}
+
+li.QuizQuestion{
+	padding: 1em;
+	border-style: solid;
+	border-width: 0px 0px 1px 0px;
+}
+
+ol.MCAnswers{
+	text-align: left;
+	list-style-type: upper-alpha;
+	padding: 1em;
+}
+
+ol.MCAnswers li{
+	margin-bottom: 1em;
+}
+
+ol.MSelAnswers{
+	text-align: left;
+	list-style-type: lower-alpha;
+	padding: 1em;
+}
+
+div.ShortAnswer{
+	padding: 1em;
+}
+
+.FuncButton {
+	text-align: center;
+	border-style: solid;
+    font-weight:bold;
+	border-color: #FF3300;
+	color: #fff;
+	background-color: #FF9900;
+
+	border-width: 1px;
+	padding: 3px 6px 3px 6px;
+	cursor: pointer;
+}
+
+.FuncButtonUp {
+	color: #bbbbee;
+	text-align: center;
+	font-weight:bold;
+	border-style: solid;
+
+	border-color: #FF3300;
+	background-color: #FFCC99;
+		border-width: 1px;
+	color: #000000;
+	padding: 3px 6px 3px 6px;
+	cursor: pointer;
+}
+
+.FuncButtonDown {
+	color: #bbbbee;
+	text-align: center;
+	font-weight:bold;
+	border-style: solid;
+
+	border-color: #FF3300;
+	background-color: #FFCC99;
+		border-width: 1px;
+	color:#000000;
+	padding: 3px 6px 3px 6px;
+	cursor: pointer;
+}
+
+/*BeginNavBarStyle*/
+
+div.NavButtonBar{
+	background-color: #FF9900;
+	text-align: center;
+	margin: 2px 0px 2px 0px;
+	clear: both;
+	font-size: 100%;
+}
+
+.NavButton {
+	border-style: solid;
+	
+	border-left-color: #ffcc7f;
+	border-top-color: #ffcc7f;
+	border-right-color: #7f4c00;
+	border-bottom-color: #7f4c00;
+	background-color: #FF9900;
+	color: #000000;
+
+	border-width: 2px;
+	cursor: pointer;	
+}
+
+.NavButtonUp {
+	border-style: solid;
+
+	border-left-color: #ffcc7f;
+	border-top-color: #ffcc7f;
+	border-right-color: #7f4c00;
+	border-bottom-color: #7f4c00;
+	color: #FF9900;
+	background-color: #000000;
+
+	border-width: 2px;
+	cursor: pointer;	
+}
+
+.NavButtonDown {
+	border-style: solid;
+
+	border-left-color: #7f4c00;
+	border-top-color: #7f4c00;
+	border-right-color: #ffcc7f;
+	border-bottom-color: #ffcc7f;
+	color: #FF9900;
+	background-color: #000000;
+
+	border-width: 2px;
+	cursor: pointer;	
+}
+
+/*EndNavBarStyle*/
+
+a{
+	color: #0000FF;
+}
+
+a:visited{
+	color: #0000CC;
+}
+
+a:hover{
+	color: #0000FF;
+}
+
+div.CardStyle {
+	position: absolute;
+	font-family: Arial,Verdana,sans-serif;
+	font-size: 100%;
+	padding: 5px;
+	border-style: solid;
+	border-width: 1px;
+	color: #333333;
+	background-color: #FFFFFF;
+	left: -50px;
+	top: -50px;
+	overflow: visible;
+}
+
+.rtl{
+	text-align: right;
+	font-size: 140%;
+}
+
+
+</style>
+
+<script type="text/javascript">
+
+//<![CDATA[
+
+<!--
+
+
+
+
+function Client(){
+//if not a DOM browser, hopeless
+	this.min = false; if (document.getElementById){this.min = true;};
+
+	this.ua = navigator.userAgent;
+	this.name = navigator.appName;
+	this.ver = navigator.appVersion;  
+
+//Get data about the browser
+	this.mac = (this.ver.indexOf('Mac') != -1);
+	this.win = (this.ver.indexOf('Windows') != -1);
+
+//Look for Gecko
+	this.gecko = (this.ua.indexOf('Gecko') > 1);
+	if (this.gecko){
+		this.geckoVer = parseInt(this.ua.substring(this.ua.indexOf('Gecko')+6, this.ua.length));
+		if (this.geckoVer < 20020000){this.min = false;}
+	}
+	
+//Look for Firebird
+	this.firebird = (this.ua.indexOf('Firebird') > 1);
+	
+//Look for Safari
+	this.safari = (this.ua.indexOf('Safari') > 1);
+	if (this.safari){
+		this.gecko = false;
+	}
+	
+//Look for IE
+	this.ie = (this.ua.indexOf('MSIE') > 0);
+	if (this.ie){
+		this.ieVer = parseFloat(this.ua.substring(this.ua.indexOf('MSIE')+5, this.ua.length));
+		if (this.ieVer < 5.5){this.min = false;}
+	}
+	
+//Look for Opera
+	this.opera = (this.ua.indexOf('Opera') > 0);
+	if (this.opera){
+		this.operaVer = parseFloat(this.ua.substring(this.ua.indexOf('Opera')+6, this.ua.length));
+		if (this.operaVer < 7.04){this.min = false;}
+	}
+	if (this.min == false){
+		alert('Your browser may not be able to handle this page.');
+	}
+	
+//Special case for the horrible ie5mac
+	this.ie5mac = (this.ie&&this.mac&&(this.ieVer<6));
+}
+
+var C = new Client();
+
+//for (prop in C){
+//	alert(prop + ': ' + C[prop]);
+//}
+
+
+
+//CODE FOR HANDLING NAV BUTTONS AND FUNCTION BUTTONS
+
+//[strNavBarJS]
+function NavBtnOver(Btn){
+	if (Btn.className != 'NavButtonDown'){Btn.className = 'NavButtonUp';}
+}
+
+function NavBtnOut(Btn){
+	Btn.className = 'NavButton';
+}
+
+function NavBtnDown(Btn){
+	Btn.className = 'NavButtonDown';
+}
+//[/strNavBarJS]
+
+function FuncBtnOver(Btn){
+	if (Btn.className != 'FuncButtonDown'){Btn.className = 'FuncButtonUp';}
+}
+
+function FuncBtnOut(Btn){
+	Btn.className = 'FuncButton';
+}
+
+function FuncBtnDown(Btn){
+	Btn.className = 'FuncButtonDown';
+}
+
+function FocusAButton(){
+	if (document.getElementById('CheckButton1') != null){
+		document.getElementById('CheckButton1').focus();
+	}
+	else{
+		if (document.getElementById('CheckButton2') != null){
+			document.getElementById('CheckButton2').focus();
+		}
+		else{
+			document.getElementsByTagName('button')[0].focus();
+		}
+	}
+}
+
+
+
+
+//CODE FOR HANDLING DISPLAY OF POPUP FEEDBACK BOX
+
+var topZ = 1000;
+
+function ShowMessage(Feedback){
+	var Output = Feedback + '<br /><br />';
+	document.getElementById('FeedbackContent').innerHTML = Output;
+	var FDiv = document.getElementById('FeedbackDiv');
+	topZ++;
+	FDiv.style.zIndex = topZ;
+	FDiv.style.top = TopSettingWithScrollOffset(30) + 'px';
+
+	FDiv.style.display = 'block';
+
+	ShowElements(false, 'input');
+	ShowElements(false, 'select');
+	ShowElements(false, 'object');
+	ShowElements(true, 'object', 'FeedbackContent');
+
+//Focus the OK button
+	setTimeout("document.getElementById('FeedbackOKButton').focus()", 50);
+	
+//
+}
+
+function ShowElements(Show, TagName, ContainerToReverse){
+// added third argument to allow objects in the feedback box to appear
+//IE bug -- hide all the form elements that will show through the popup
+//FF on Mac bug : doesn't redisplay objects whose visibility is set to visible
+//unless the object's display property is changed
+
+	//get container object (by Id passed in, or use document otherwise)
+	TopNode = document.getElementById(ContainerToReverse);
+	var Els;
+	if (TopNode != null) {
+		Els = TopNode.getElementsByTagName(TagName);
+	} else {
+		Els = document.getElementsByTagName(TagName);
+	}
+
+	for (var i=0; i<Els.length; i++){
+		if (TagName == "object") {
+			//manipulate object elements in all browsers
+			if (Show == true){
+				Els[i].style.visibility = 'visible';
+				//get Mac FireFox to manipulate display, to force screen redraw
+				if (C.mac && C.gecko) {Els[i].style.display = '';}
+			}
+			else{
+				Els[i].style.visibility = 'hidden';
+				if (C.mac && C.gecko) {Els[i].style.display = 'none';}
+			}
+		} 
+		else {
+			// tagName is either input or select (that is, Form Elements)
+			// ie6 has a problem with Form elements, so manipulate those
+			if (C.ie) {
+				if (C.ieVer < 7) {
+					if (Show == true){
+						Els[i].style.visibility = 'visible';
+					}
+					else{
+						Els[i].style.visibility = 'hidden';
+					}
+				}
+			}
+		}
+	}
+}
+
+
+
+function HideFeedback(){
+	document.getElementById('FeedbackDiv').style.display = 'none';
+	ShowElements(true, 'input');
+	ShowElements(true, 'select');
+	ShowElements(true, 'object');
+	if (Finished == true){
+		Finish();
+	}
+}
+
+
+//GENERAL UTILITY FUNCTIONS AND VARIABLES
+
+//PAGE DIMENSION FUNCTIONS
+function PageDim(){
+//Get the page width and height
+	this.W = 600;
+	this.H = 400;
+	this.W = document.getElementsByTagName('body')[0].clientWidth;
+	this.H = document.getElementsByTagName('body')[0].clientHeight;
+}
+
+var pg = null;
+
+function GetPageXY(El) {
+	var XY = {x: 0, y: 0};
+	while(El){
+		XY.x += El.offsetLeft;
+		XY.y += El.offsetTop;
+		El = El.offsetParent;
+	}
+	return XY;
+}
+
+function GetScrollTop(){
+	if (typeof(window.pageYOffset) == 'number'){
+		return window.pageYOffset;
+	}
+	else{
+		if ((document.body)&&(document.body.scrollTop)){
+			return document.body.scrollTop;
+		}
+		else{
+			if ((document.documentElement)&&(document.documentElement.scrollTop)){
+				return document.documentElement.scrollTop;
+			}
+			else{
+				return 0;
+			}
+		}
+	}
+}
+
+function GetViewportHeight(){
+	if (typeof window.innerHeight != 'undefined'){
+		return window.innerHeight;
+	}
+	else{
+		if (((typeof document.documentElement != 'undefined')&&(typeof document.documentElement.clientHeight !=
+     'undefined'))&&(document.documentElement.clientHeight != 0)){
+			return document.documentElement.clientHeight;
+		}
+		else{
+			return document.getElementsByTagName('body')[0].clientHeight;
+		}
+	}
+}
+
+function TopSettingWithScrollOffset(TopPercent){
+	var T = Math.floor(GetViewportHeight() * (TopPercent/100));
+	return GetScrollTop() + T; 
+}
+
+//CODE FOR AVOIDING LOSS OF DATA WHEN BACKSPACE KEY INVOKES history.back()
+var InTextBox = false;
+
+function SuppressBackspace(e){ 
+	if (InTextBox == true){return;}
+	if (C.ie) {
+		thisKey = window.event.keyCode;
+	}
+	else {
+		thisKey = e.keyCode;
+	}
+
+	var Suppress = false;
+
+	if (thisKey == 8) {
+		Suppress = true;
+	}
+
+	if (Suppress == true){
+		if (C.ie){
+			window.event.returnValue = false;	
+			window.event.cancelBubble = true;
+		}
+		else{
+			e.preventDefault();
+		}
+	}
+}
+
+if (C.ie){
+	document.attachEvent('onkeydown',SuppressBackspace);
+	window.attachEvent('onkeydown',SuppressBackspace);
+}
+else{
+	if (window.addEventListener){
+		window.addEventListener('keypress',SuppressBackspace,false);
+	}
+}
+
+function ReduceItems(InArray, ReduceToSize){
+	var ItemToDump=0;
+	var j=0;
+	while (InArray.length > ReduceToSize){
+		ItemToDump = Math.floor(InArray.length*Math.random());
+		InArray.splice(ItemToDump, 1);
+	}
+}
+
+function Shuffle(InArray){
+	var Num;
+	var Temp = new Array();
+	var Len = InArray.length;
+
+	var j = Len;
+
+	for (var i=0; i<Len; i++){
+		Temp[i] = InArray[i];
+	}
+
+	for (i=0; i<Len; i++){
+		Num = Math.floor(j  *  Math.random());
+		InArray[i] = Temp[Num];
+
+		for (var k=Num; k < (j-1); k++) {
+			Temp[k] = Temp[k+1];
+		}
+		j--;
+	}
+	return InArray;
+}
+
+function WriteToInstructions(Feedback) {
+	document.getElementById('InstructionsDiv').innerHTML = Feedback;
+
+}
+
+
+
+
+function EscapeDoubleQuotes(InString){
+	return InString.replace(/"/g, '&quot;')
+}
+
+function TrimString(InString){
+        var x = 0;
+
+        if (InString.length != 0) {
+                while ((InString.charAt(InString.length - 1) == '\u0020') || (InString.charAt(InString.length - 1) == '\u000A') || (InString.charAt(InString.length - 1) == '\u000D')){
+                        InString = InString.substring(0, InString.length - 1)
+                }
+
+                while ((InString.charAt(0) == '\u0020') || (InString.charAt(0) == '\u000A') || (InString.charAt(0) == '\u000D')){
+                        InString = InString.substring(1, InString.length)
+                }
+
+                while (InString.indexOf('  ') != -1) {
+                        x = InString.indexOf('  ')
+                        InString = InString.substring(0, x) + InString.substring(x+1, InString.length)
+                 }
+
+                return InString;
+        }
+
+        else {
+                return '';
+        }
+}
+
+function FindLongest(InArray){
+	if (InArray.length < 1){return -1;}
+
+	var Longest = 0;
+	for (var i=1; i<InArray.length; i++){
+		if (InArray[i].length > InArray[Longest].length){
+			Longest = i;
+		}
+	}
+	return Longest;
+}
+
+//UNICODE CHARACTER FUNCTIONS
+function IsCombiningDiacritic(CharNum){
+	var Result = (((CharNum >= 0x0300)&&(CharNum <= 0x370))||((CharNum >= 0x20d0)&&(CharNum <= 0x20ff)));
+	Result = Result || (((CharNum >= 0x3099)&&(CharNum <= 0x309a))||((CharNum >= 0xfe20)&&(CharNum <= 0xfe23)));
+	return Result;
+}
+
+function IsCJK(CharNum){
+	return ((CharNum >= 0x3000)&&(CharNum < 0xd800));
+}
+
+//SETUP FUNCTIONS
+//BROWSER WILL REFILL TEXT BOXES FROM CACHE IF NOT PREVENTED
+function ClearTextBoxes(){
+	var NList = document.getElementsByTagName('input');
+	for (var i=0; i<NList.length; i++){
+		if ((NList[i].id.indexOf('Guess') > -1)||(NList[i].id.indexOf('Gap') > -1)){
+			NList[i].value = '';
+		}
+		if (NList[i].id.indexOf('Chk') > -1){
+			NList[i].checked = '';
+		}
+	}
+}
+
+//EXTENSION TO ARRAY OBJECT
+function Array_IndexOf(Input){
+	var Result = -1;
+	for (var i=0; i<this.length; i++){
+		if (this[i] == Input){
+			Result = i;
+		}
+	}
+	return Result;
+}
+Array.prototype.indexOf = Array_IndexOf;
+
+//IE HAS RENDERING BUG WITH BOTTOM NAVBAR
+function RemoveBottomNavBarForIE(){
+	if ((C.ie)&&(document.getElementById('Reading') != null)){
+		if (document.getElementById('BottomNavBar') != null){
+			document.getElementById('TheBody').removeChild(document.getElementById('BottomNavBar'));
+		}
+	}
+}
+
+
+
+
+//HOTPOTNET-RELATED CODE
+
+var HPNStartTime = (new Date()).getTime();
+var SubmissionTimeout = 30000;
+var Detail = ''; //Global that is used to submit tracking data
+
+function Finish(){
+//If there's a form, fill it out and submit it
+	if (document.store != null){
+		Frm = document.store;
+		Frm.starttime.value = HPNStartTime;
+		Frm.endtime.value = (new Date()).getTime();
+		Frm.mark.value = Score;
+		Frm.detail.value = Detail;
+		Frm.submit();
+	}
+}
+
+
+
+
+
+//JQUIZ CORE JAVASCRIPT CODE
+
+var CurrQNum = 0;
+var CorrectIndicator = ':-)';
+var IncorrectIndicator = 'X';
+var YourScoreIs = 'Il tuo punteggio &#x00E8;:';
+
+//New for 6.2.2.0
+var CompletedSoFar = 'Domande completate finora:';
+var ExerciseCompleted = 'L\'esercizio &#x00E8; stato completato.';
+var ShowCompletedSoFar = true;
+
+var ContinuousScoring = true;
+var CorrectFirstTime = 'Risposte esatte al primo tentativo:';
+var ShowCorrectFirstTime = true;
+var ShuffleQs = false;
+var ShuffleAs = false;
+var DefaultRight = 'Esatto!';
+var DefaultWrong = 'Sbagliato! Riprova:';
+var QsToShow = 20;
+var Score = 0;
+var Finished = false;
+var Qs = null;
+var QArray = new Array();
+var ShowingAllQuestions = false;
+var ShowAllQuestionsCaption = 'Mostra tutte le domande';
+var ShowOneByOneCaption = 'Mostra una domanda alla volta';
+var State = new Array();
+var Feedback = '';
+var TimeOver = false;
+var strInstructions = '';
+var Locked = false;
+
+//The following variable can be used to add a message explaining that
+//the question is finished, so no further marking will take place.
+var strQuestionFinished = '';
+
+function CompleteEmptyFeedback(){
+	var QNum, ANum;
+	for (QNum=0; QNum<I.length; QNum++){
+//Only do this if not multi-select
+		if (I[QNum][2] != '3'){
+  		for (ANum = 0; ANum<I[QNum][3].length; ANum++){
+  			if (I[QNum][3][ANum][1].length < 1){
+  				if (I[QNum][3][ANum][2] > 0){
+  					I[QNum][3][ANum][1] = DefaultRight;
+  				}
+  				else{
+  					I[QNum][3][ANum][1] = DefaultWrong;
+  				}
+  			}
+  		}
+		}
+	}
+}
+
+function SetUpQuestions(){
+	var AList = new Array(); 
+	var QList = new Array();
+	var i, j;
+	Qs = document.getElementById('Questions');
+	while (Qs.getElementsByTagName('li').length > 0){
+		QList.push(Qs.removeChild(Qs.getElementsByTagName('li')[0]));
+	}
+	var DumpItem = 0;
+	if (QsToShow > QList.length){
+		QsToShow = QList.length;
+	}
+	while (QsToShow < QList.length){
+		DumpItem = Math.floor(QList.length*Math.random());
+		for (j=DumpItem; j<(QList.length-1); j++){
+			QList[j] = QList[j+1];
+		}
+		QList.length = QList.length-1;
+	}
+	if (ShuffleQs == true){
+		QList = Shuffle(QList);
+	}
+	if (ShuffleAs == true){
+		var As;
+		for (var i=0; i<QList.length; i++){
+			As = QList[i].getElementsByTagName('ol')[0];
+			if (As != null){
+  			AList.length = 0;
+				while (As.getElementsByTagName('li').length > 0){
+					AList.push(As.removeChild(As.getElementsByTagName('li')[0]));
+				}
+				AList = Shuffle(AList);
+				for (j=0; j<AList.length; j++){
+					As.appendChild(AList[j]);
+				}
+			}
+		}
+	}
+	
+	for (i=0; i<QList.length; i++){
+		Qs.appendChild(QList[i]);
+		QArray[QArray.length] = QList[i];
+	}
+
+//Show the first item
+	QArray[0].style.display = '';
+	
+//Now hide all except the first item
+	for (i=1; i<QArray.length; i++){
+		QArray[i].style.display = 'none';
+	}		
+	SetQNumReadout();
+	
+	SetFocusToTextbox();
+}
+
+function SetFocusToTextbox(){
+//if there's a textbox, set the focus in it
+	if (QArray[CurrQNum].getElementsByTagName('input')[0] != null){
+		QArray[CurrQNum].getElementsByTagName('input')[0].focus();
+//and show a keypad if there is one
+		if (document.getElementById('CharacterKeypad') != null){
+			document.getElementById('CharacterKeypad').style.display = 'block';
+		}
+	}
+	else{
+  	if (QArray[CurrQNum].getElementsByTagName('textarea')[0] != null){
+  		QArray[CurrQNum].getElementsByTagName('textarea')[0].focus();	
+//and show a keypad if there is one
+			if (document.getElementById('CharacterKeypad') != null){
+				document.getElementById('CharacterKeypad').style.display = 'block';
+			}
+		}
+//This added for 6.0.4.11: hide accented character buttons if no textbox
+		else{
+			if (document.getElementById('CharacterKeypad') != null){
+				document.getElementById('CharacterKeypad').style.display = 'none';
+			}
+		}
+	}
+}
+
+function ChangeQ(ChangeBy){
+//The following line prevents moving to another question until the current
+//question is answered correctly. Uncomment it to enable this behaviour. 
+//	if (State[CurrQNum][0] == -1){return;}
+	if (((CurrQNum + ChangeBy) < 0)||((CurrQNum + ChangeBy) >= QArray.length)){return;}
+	QArray[CurrQNum].style.display = 'none';
+	CurrQNum += ChangeBy;
+	QArray[CurrQNum].style.display = '';
+//Undocumented function added 10/12/2004
+	ShowSpecialReadingForQuestion();
+	SetQNumReadout();
+	SetFocusToTextbox();
+}
+
+var HiddenReadingShown = false;
+function ShowSpecialReadingForQuestion(){
+//Undocumented function for showing specific reading text elements which change with each question
+//Added on 10/12/2004
+	if (document.getElementById('ReadingDiv') != null){
+		if (HiddenReadingShown == true){
+			document.getElementById('ReadingDiv').innerHTML = '';
+		}
+		if (QArray[CurrQNum] != null){
+//Fix for 6.0.4.25
+			var Children = QArray[CurrQNum].getElementsByTagName('div');
+			for (var i=0; i<Children.length; i++){
+			if (Children[i].className=="HiddenReading"){
+					document.getElementById('ReadingDiv').innerHTML = Children[i].innerHTML;
+					HiddenReadingShown = true;
+//Hide the ShowAllQuestions button to avoid confusion
+					if (document.getElementById('ShowMethodButton') != null){
+						document.getElementById('ShowMethodButton').style.display = 'none';
+					}
+				}
+			}	
+		}
+	}
+}
+
+function SetQNumReadout(){
+	document.getElementById('QNumReadout').innerHTML = (CurrQNum+1) + ' / ' + QArray.length;
+	if ((CurrQNum+1) >= QArray.length){
+		if (document.getElementById('NextQButton') != null){
+			document.getElementById('NextQButton').style.visibility = 'hidden';
+		}
+	}
+	else{
+		if (document.getElementById('NextQButton') != null){
+			document.getElementById('NextQButton').style.visibility = 'visible';
+		}
+	}
+	if (CurrQNum <= 0){
+		if (document.getElementById('PrevQButton') != null){
+			document.getElementById('PrevQButton').style.visibility = 'hidden';
+		}
+	}
+	else{
+		if (document.getElementById('PrevQButton') != null){
+			document.getElementById('PrevQButton').style.visibility = 'visible';
+		}
+	}
+}
+
+var I=new Array();
+I[0] = new Array();
+I[0][0] = 100;
+I[0][1] = '';
+I[0][2] = '0';
+I[0][3] = new Array();
+I[0][3][0] = new Array('I protoni hanno minore quantit\u00e0 di moto.','',0,0,1);
+I[0][3][1] = new Array('Gli elettroni hanno minore velocit\u00e0.','',0,0,1);
+I[0][3][2] = new Array('I protoni hanno maggiore energia cinetica.','',0,0,1);
+I[0][3][3] = new Array('I protoni e gli elettroni hanno la stessa energia cinetica.','',1,100,1);
+I[0][3][4] = new Array('I protoni e gli elettroni hanno la stessa quantit\u00e0 di moto.','',0,0,1);
+I[1] = new Array();
+I[1][0] = 100;
+I[1][1] = '';
+I[1][2] = '0';
+I[1][3] = new Array();
+I[1][3][0] = new Array('12 V, 18 V','',1,100,1);
+I[1][3][1] = new Array('18 V, 12 V','',0,0,1);
+I[1][3][2] = new Array('15 V, 15V','',0,0,1);
+I[1][3][3] = new Array('30 V, 30 V','',0,0,1);
+I[1][3][4] = new Array('Dipende dalla resistenza complessiva del circuito.','',0,0,1);
+I[2] = new Array();
+I[2][0] = 100;
+I[2][1] = '';
+I[2][2] = '0';
+I[2][3] = new Array();
+I[2][3][0] = new Array('. . . rimane ferma in equilibrio come la prima.','',0,0,1);
+I[2][3][1] = new Array('. . . acquista un\'accelerazione <corsivo>eV / (Mh)</corsivo> verticale verso l\'alto.','',0,0,1);
+I[2][3][2] = new Array('. . . acquista un\'accelerazione <corsivo>(Mgh-eV) / (Mh)</corsivo> verticale verso il basso.','',0,0,1);
+I[2][3][3] = new Array('. . . acquista un\'accelerazione <corsivo>(m+M) / M g</corsivo> verticale verso il basso.','',1,100,1);
+I[2][3][4] = new Array('. . . acquista un\'accelerazione <corsivo>M / (m+M) g</corsivo> verticale verso l\'alto.','',0,0,1);
+I[3] = new Array();
+I[3][0] = 100;
+I[3][1] = '';
+I[3][2] = '0';
+I[3][3] = new Array();
+I[3][3][0] = new Array('. . . energia cinetica doppia e velocit\u00e0 quadrupla.','',0,0,1);
+I[3][3][1] = new Array('. . . energia cinetica quadrupla e velocit\u00e0 doppia.','',1,100,1);
+I[3][3][2] = new Array('. . . energia cinetica doppia e velocit\u00e0 quadrupla.','',0,0,1);
+I[3][3][3] = new Array('. . . energia cinetica quadrupla e velocit\u00e0 sedici volte maggiore.','',0,0,1);
+I[3][3][4] = new Array('. . . energia cinetica sedici volte maggiore e velocit\u00e0 quadrupla.','',0,0,1);
+I[4] = new Array();
+I[4][0] = 100;
+I[4][1] = '';
+I[4][2] = '0';
+I[4][3] = new Array();
+I[4][3][0] = new Array('8 C per caricarlo ad 8 &mu;V.','',0,0,1);
+I[4][3][1] = new Array('1 &mu;C per caricarlo ad 8 V.','',0,0,1);
+I[4][3][2] = new Array('8 &mu;C per caricarlo ad 8 V.','',0,0,1);
+I[4][3][3] = new Array('8 &mu;C per caricarlo ad 1 V.','',1,100,1);
+I[4][3][4] = new Array('1 C per caricarlo ad 8 &mu;V.','',0,0,1);
+I[5] = new Array();
+I[5][0] = 100;
+I[5][1] = '';
+I[5][2] = '0';
+I[5][3] = new Array();
+I[5][3][0] = new Array('1 V','',0,0,1);
+I[5][3][1] = new Array('2 V','',1,100,1);
+I[5][3][2] = new Array('3 V','',0,0,1);
+I[5][3][3] = new Array('4 V','',0,0,1);
+I[5][3][4] = new Array('6 V','',0,0,1);
+I[6] = new Array();
+I[6][0] = 100;
+I[6][1] = '';
+I[6][2] = '0';
+I[6][3] = new Array();
+I[6][3][0] = new Array('La distanza tra le lastre.','',1,100,1);
+I[6][3][1] = new Array('La distanza e l\'area delle lastre.','',0,0,1);
+I[6][3][2] = new Array('La permeabilit\u00e0 dielettrica del mezzo e la distanza tra le lastre.','',0,0,1);
+I[6][3][3] = new Array('La permeabilit\u00e0 dielettrica del mezzo e l\'area delle lastre.','',0,0,1);
+I[6][3][4] = new Array('La permeabilit\u00e0 dielettrica del mezzo, la distanza e l\'area delle lastre.','',0,0,1);
+I[7] = new Array();
+I[7][0] = 100;
+I[7][1] = '';
+I[7][2] = '0';
+I[7][3] = new Array();
+I[7][3][0] = new Array('La forza agente sull\'elettrone.','',1,100,1);
+I[7][3][1] = new Array('La velocit\u00e0 dell\'elettrone.','',0,0,1);
+I[7][3][2] = new Array('La quantit\u00e0 di moto dell\'elettrone.','',0,0,1);
+I[7][3][3] = new Array('L\'energia cinetica dell\'elettrone.','',0,0,1);
+I[7][3][4] = new Array('L\'energia totale dell\'elettrone.','',0,0,1);
+I[8] = new Array();
+I[8][0] = 100;
+I[8][1] = '';
+I[8][2] = '0';
+I[8][3] = new Array();
+I[8][3][0] = new Array('0','',0,0,1);
+I[8][3][1] = new Array('8 x 10<sup>-16</sup> J','',0,0,1);
+I[8][3][2] = new Array('1 x 10<sup>-15</sup> J','',1,100,1);
+I[8][3][3] = new Array('1 x 10<sup>-12</sup> J','',0,0,1);
+I[8][3][4] = new Array('2 x 10<sup>-12</sup> J','',0,0,1);
+I[9] = new Array();
+I[9][0] = 100;
+I[9][1] = '';
+I[9][2] = '0';
+I[9][3] = new Array();
+I[9][3][0] = new Array('<corsivo>q / t</corsivo>','',0,0,1);
+I[9][3][1] = new Array('<corsivo>V q</corsivo>','',0,0,1);
+I[9][3][2] = new Array('<corsivo>V q / d</corsivo>','',1,100,1);
+I[9][3][3] = new Array('<corsivo>C V / t</corsivo>','',0,0,1);
+I[9][3][4] = new Array('<corsivo>C V / d</corsivo>','',0,0,1);
+I[10] = new Array();
+I[10][0] = 100;
+I[10][1] = '';
+I[10][2] = '0';
+I[10][3] = new Array();
+I[10][3][0] = new Array('<img src="0328a.jpg" alt="" title="" width="100" height="120" />','',0,0,1);
+I[10][3][1] = new Array('<img src="0328b.jpg" alt="" title="" width="100" height="120" />','',0,0,1);
+I[10][3][2] = new Array('<img src="0328c.jpg" alt="" title="" width="100" height="120" />','',0,0,1);
+I[10][3][3] = new Array('<img src="0328d.jpg" alt="" title="" width="100" height="120" />','',1,100,1);
+I[10][3][4] = new Array('<img src="0328e.jpg" alt="" title="" width="100" height="120" />','',0,0,1);
+I[11] = new Array();
+I[11][0] = 100;
+I[11][1] = '';
+I[11][2] = '0';
+I[11][3] = new Array();
+I[11][3][0] = new Array('4.0 x 10<sup>-19</sup> V','',0,0,1);
+I[11][3][1] = new Array('6.4 x 10<sup>-19</sup> V','',0,0,1);
+I[11][3][2] = new Array('0.25 V','',0,0,1);
+I[11][3][3] = new Array('4.0 V','',1,100,1);
+I[11][3][4] = new Array('6.4 V','',0,0,1);
+I[12] = new Array();
+I[12][0] = 100;
+I[12][1] = '';
+I[12][2] = '0';
+I[12][3] = new Array();
+I[12][3][0] = new Array('7200 V','',0,0,1);
+I[12][3][1] = new Array('4800 V','',1,100,1);
+I[12][3][2] = new Array('4100 V','',0,0,1);
+I[12][3][3] = new Array('2400 V','',0,0,1);
+I[12][3][4] = new Array('1700 V','',0,0,1);
+I[13] = new Array();
+I[13][0] = 100;
+I[13][1] = '';
+I[13][2] = '0';
+I[13][3] = new Array();
+I[13][3][0] = new Array('-81 &mu;C','',0,0,1);
+I[13][3][1] = new Array('-18 &mu;C','',0,0,1);
+I[13][3][2] = new Array('0','',0,0,1);
+I[13][3][3] = new Array('+18 &mu;C','',1,100,1);
+I[13][3][4] = new Array('+81 &mu;C','',0,0,1);
+I[14] = new Array();
+I[14][0] = 100;
+I[14][1] = '';
+I[14][2] = '0';
+I[14][3] = new Array();
+I[14][3][0] = new Array('1.75 x 10<sup>1</sup> V m<sup>-1</sup>','',0,0,1);
+I[14][3][1] = new Array('2.11 x 10<sup>2</sup> V m<sup>-1</sup>','',0,0,1);
+I[14][3][2] = new Array('1.26 x 10<sup>3</sup> V m<sup>-1</sup>','',0,0,1);
+I[14][3][3] = new Array('4.46 x 10<sup>4</sup> V m<sup>-1</sup>','',1,100,1);
+I[14][3][4] = new Array('8.93 x 10<sup>4</sup> V m<sup>-1</sup>','',0,0,1);
+I[15] = new Array();
+I[15][0] = 100;
+I[15][1] = '';
+I[15][2] = '0';
+I[15][3] = new Array();
+I[15][3][0] = new Array('-12.0 kV','',0,0,1);
+I[15][3][1] = new Array('0','',0,0,1);
+I[15][3][2] = new Array('1.8 kV','',0,0,1);
+I[15][3][3] = new Array('2.4 kV','',1,100,1);
+I[15][3][4] = new Array('3.0 kV','',0,0,1);
+I[16] = new Array();
+I[16][0] = 100;
+I[16][1] = '';
+I[16][2] = '0';
+I[16][3] = new Array();
+I[16][3][0] = new Array('<corsivo>v</corsivo><sub>e</sub> &lt; <corsivo>v</corsivo><sub>p</sub>;   <corsivo>E</corsivo><sub>e</sub> &lt; <corsivo>E</corsivo><sub>p</sub>','',0,0,1);
+I[16][3][1] = new Array('<corsivo>v</corsivo><sub>e</sub> = <corsivo>v</corsivo><sub>p</sub>;   <corsivo>E</corsivo><sub>e</sub> > <corsivo>E</corsivo><sub>p</sub>','',0,0,1);
+I[16][3][2] = new Array('<corsivo>v</corsivo><sub>e</sub> > <corsivo>v</corsivo><sub>p</sub>;   <corsivo>E</corsivo><sub>e</sub> > <corsivo>E</corsivo><sub>p</sub>','',0,0,1);
+I[16][3][3] = new Array('<corsivo>v</corsivo><sub>e</sub> > <corsivo>v</corsivo><sub>p</sub>;   <corsivo>E</corsivo><sub>e</sub> = <corsivo>E</corsivo><sub>p</sub>','',1,100,1);
+I[16][3][4] = new Array('<corsivo>v</corsivo><sub>e</sub> &lt; <corsivo>v</corsivo><sub>p</sub>;   <corsivo>E</corsivo><sub>e</sub> &lt; <corsivo>E</corsivo><sub>p</sub>','',0,0,1);
+I[17] = new Array();
+I[17][0] = 100;
+I[17][1] = '';
+I[17][2] = '0';
+I[17][3] = new Array();
+I[17][3][0] = new Array('0 pJ','',0,0,1);
+I[17][3][1] = new Array('-272 pJ','',1,100,1);
+I[17][3][2] = new Array('-346 pJ','',0,0,1);
+I[17][3][3] = new Array('-544 pJ','',0,0,1);
+I[17][3][4] = new Array('-1280 pJ','',0,0,1);
+I[18] = new Array();
+I[18][0] = 100;
+I[18][1] = '';
+I[18][2] = '0';
+I[18][3] = new Array();
+I[18][3][0] = new Array('0.09 J','',1,100,1);
+I[18][3][1] = new Array('0.18 J','',0,0,1);
+I[18][3][2] = new Array('0.27 J','',0,0,1);
+I[18][3][3] = new Array('0.41 J','',0,0,1);
+I[18][3][4] = new Array('0.81 J','',0,0,1);
+I[19] = new Array();
+I[19][0] = 100;
+I[19][1] = '';
+I[19][2] = '0';
+I[19][3] = new Array();
+I[19][3][0] = new Array('5.0 x 10<sup>-2</sup> V','',1,100,1);
+I[19][3][1] = new Array('2.0 x 10<sup>1</sup> V','',0,0,1);
+I[19][3][2] = new Array('2.0 x 10<sup>4</sup> V','',0,0,1);
+I[19][3][3] = new Array('2.0 x 10<sup>7</sup> V','',0,0,1);
+I[19][3][4] = new Array('1.3 x 10<sup>23</sup> V','',0,0,1);
+
+
+function StartUp(){
+	RemoveBottomNavBarForIE();
+
+//If there's only one question, no need for question navigation controls
+	if (QsToShow < 2){
+		document.getElementById('QNav').style.display = 'none';
+	}
+	
+//Stash the instructions so they can be redisplayed
+	strInstructions = document.getElementById('InstructionsDiv').innerHTML;
+	
+
+	
+
+	
+
+	
+	CompleteEmptyFeedback();
+
+	SetUpQuestions();
+	ClearTextBoxes();
+	CreateStatusArray();
+	
+
+	
+//Check search string for q parameter
+	if (document.location.search.length > 0){
+		if (ShuffleQs == false){
+			var JumpTo = parseInt(document.location.search.substring(1,document.location.search.length))-1;
+			if (JumpTo <= QsToShow){
+				ChangeQ(JumpTo);
+			}
+		}
+	}
+//Undocumented function added 10/12/2004
+	ShowSpecialReadingForQuestion();
+}
+
+function ShowHideQuestions(){
+	FuncBtnOut(document.getElementById('ShowMethodButton'));
+	document.getElementById('ShowMethodButton').style.display = 'none';
+	if (ShowingAllQuestions == false){
+		for (var i=0; i<QArray.length; i++){
+				QArray[i].style.display = '';
+			}
+		document.getElementById('Questions').style.listStyleType = 'decimal';
+		document.getElementById('OneByOneReadout').style.display = 'none';
+		document.getElementById('ShowMethodButton').innerHTML = ShowOneByOneCaption;
+		ShowingAllQuestions = true;
+	}
+	else{
+		for (var i=0; i<QArray.length; i++){
+				if (i != CurrQNum){
+					QArray[i].style.display = 'none';
+				}
+			}
+		document.getElementById('Questions').style.listStyleType = 'none';
+		document.getElementById('OneByOneReadout').style.display = '';
+		document.getElementById('ShowMethodButton').innerHTML = ShowAllQuestionsCaption;
+		ShowingAllQuestions = false;	
+	}
+	document.getElementById('ShowMethodButton').style.display = 'inline';
+}
+
+function CreateStatusArray(){
+	var QNum, ANum;
+//For each item in the item array
+	for (QNum=0; QNum<I.length; QNum++){
+//Check if the question still exists (hasn't been nuked by showing a random selection)
+		if (document.getElementById('Q_' + QNum) != null){
+			State[QNum] = new Array();
+			State[QNum][0] = -1; //Score for this q; -1 shows question not done yet
+			State[QNum][1] = new Array(); //answers
+			for (ANum = 0; ANum<I[QNum][3].length; ANum++){
+				State[QNum][1][ANum] = 0; //answer not chosen yet; when chosen, will store its position in the series of choices
+			}
+			State[QNum][2] = 0; //tries at this q so far
+			State[QNum][3] = 0; //incrementing percent-correct values of selected answers
+			State[QNum][4] = 0; //penalties incurred for hints
+			State[QNum][5] = ''; //Sequence of answers chosen by number
+		}
+		else{
+			State[QNum] = null;
+		}
+	}
+}
+
+
+
+function CheckMCAnswer(QNum, ANum, Btn){
+//if question doesn't exist, bail
+	if (State[QNum].length < 1){return;}
+	
+//Get the feedback
+	Feedback = I[QNum][3][ANum][1];
+	
+//Now show feedback and bail if question already complete
+	if (State[QNum][0] > -1){
+//Add an extra message explaining that the question
+// is finished if defined by the user
+		if (strQuestionFinished.length > 0){Feedback += '<br />' + strQuestionFinished;}
+//Show the feedback
+		ShowMessage(Feedback);
+//New for 6.2.2.1: If you want to mark an answer as correct even when it's the final choice, uncomment this line.
+//		if (I[QNum][3][ANum][2] >= 1){Btn.innerHTML = CorrectIndicator;}else{Btn.innerHTML = IncorrectIndicator;}	
+		return;
+	}
+	
+//Hide the button while processing
+	Btn.style.display = 'none';
+
+//Increment the number of tries
+	State[QNum][2]++;
+	
+//Add the percent-correct value of this answer
+	State[QNum][3] += I[QNum][3][ANum][3];
+	
+//Store the try number in the answer part of the State array, for tracking purposes
+	State[QNum][1][ANum] = State[QNum][2];
+	if (State[QNum][5].length > 0){State[QNum][5] += ' | ';}
+	State[QNum][5] += String.fromCharCode(65+ANum);
+	
+//Should this answer be accepted as correct?
+	if (I[QNum][3][ANum][2] < 1){
+//It's wrong
+
+//Mark the answer
+		Btn.innerHTML = IncorrectIndicator;
+		
+//Remove any previous score unless exercise is finished (6.0.3.8+)
+		if (Finished == false){
+			WriteToInstructions(strInstructions);
+		}	
+		
+//Check whether this leaves just one MC answer unselected, in which case the Q is terminated
+		var RemainingAnswer = FinalAnswer(QNum);
+		if (RemainingAnswer > -1){
+//Behave as if the last answer had been selected, but give no credit for it
+//Increment the number of tries
+			State[QNum][2]++;		
+		
+//Calculate the score for this question
+			CalculateMCQuestionScore(QNum);
+			
+//Get the overall score and add it to the feedback
+			CalculateOverallScore();
+//New for 6.2.2.1
+			var QsDone = CheckQuestionsCompleted();
+			if ((ContinuousScoring == true)||(Finished == true)){
+				Feedback += '<br />' + YourScoreIs + ' ' + Score + '%.' + '<br />' + QsDone;
+				WriteToInstructions(YourScoreIs + ' ' + Score + '%.' + '<br />' + QsDone);
+			}
+			else{
+				WriteToInstructions(QsDone);
+			}
+		}
+	}
+	else{
+//It's right
+//Mark the answer
+		Btn.innerHTML = CorrectIndicator;
+				
+//Calculate the score for this question
+		CalculateMCQuestionScore(QNum);
+		
+//New for 6.2.2.0
+		var QsDone = CheckQuestionsCompleted();
+
+//Get the overall score and add it to the feedback
+		if (ContinuousScoring == true){
+			CalculateOverallScore();
+			if ((ContinuousScoring == true)||(Finished == true)){
+				Feedback += '<br />' + YourScoreIs + ' ' + Score + '%.' + '<br />' + QsDone;
+				WriteToInstructions(YourScoreIs + ' ' + Score + '%.' + '<br />' + QsDone);
+			}
+		}
+		else{
+			WriteToInstructions(QsDone);
+		}
+	}
+	
+//Show the button again
+	Btn.style.display = 'inline';
+	
+//Finally, show the feedback	
+	ShowMessage(Feedback);
+	
+//Check whether all questions are now done
+	CheckFinished();
+}
+
+function CalculateMCQuestionScore(QNum){
+	var Tries = State[QNum][2] + State[QNum][4]; //include tries and hint penalties
+	var PercentCorrect = State[QNum][3];
+	var TotAns = GetTotalMCAnswers(QNum);
+	var HintPenalties = State[QNum][4];
+	
+//Make sure it's not already complete
+
+	if (State[QNum][0] < 0){
+//Allow for Hybrids
+		if (HintPenalties >= 1){
+			State[QNum][0] = 0;
+		}
+		else{
+//This line calculates the score for this question
+			if (TotAns == 1){
+				State[QNum][0] = 1;
+			}
+			else{
+				State[QNum][0] = ((TotAns-((Tries*100)/State[QNum][3]))/(TotAns-1));
+			}
+		}
+//Fix for Safari bug added for version 6.0.3.42 (negative infinity problem)
+		if ((State[QNum][0] < 0)||(State[QNum][0] == Number.NEGATIVE_INFINITY)){
+			State[QNum][0] = 0;
+		}
+	}
+}
+
+function GetTotalMCAnswers(QNum){
+	var Result = 0;
+	for (var ANum=0; ANum<I[QNum][3].length; ANum++){
+		if (I[QNum][3][ANum][4] == 1){ //This is an MC answer
+			Result++;
+		}
+	}
+	return Result;
+}
+
+function FinalAnswer(QNum){
+	var UnchosenAnswers = 0;
+	var FinalAnswer = -1;
+	for (var ANum=0; ANum<I[QNum][3].length; ANum++){
+		if (I[QNum][3][ANum][4] == 1){ //This is an MC answer
+			if (State[QNum][1][ANum] < 1){ //This answer hasn't been chosen yet
+				UnchosenAnswers++;
+				FinalAnswer = ANum;
+			}
+		}
+	}
+	if (UnchosenAnswers == 1){
+		return FinalAnswer;
+	}
+	else{
+		return -1;
+	}
+}
+
+
+
+
+
+function CalculateOverallScore(){
+	var TotalWeighting = 0;
+	var TotalScore = 0;
+	
+	for (var QNum=0; QNum<State.length; QNum++){
+		if (State[QNum] != null){
+			if (State[QNum][0] > -1){
+				TotalWeighting += I[QNum][0];
+				TotalScore += (I[QNum][0] * State[QNum][0]);
+			}
+		}
+	}
+	if (TotalWeighting > 0){
+		Score = Math.floor((TotalScore/TotalWeighting)*100);
+	}
+	else{
+//if TotalWeighting is 0, no questions so far have any value, so 
+//no penalty should be shown.
+		Score = 100; 
+	}
+}
+
+//New for 6.2.2.0
+function CheckQuestionsCompleted(){
+	if (ShowCompletedSoFar == false){return '';}
+	var QsCompleted = 0;
+	for (var QNum=0; QNum<State.length; QNum++){
+		if (State[QNum] != null){
+			if (State[QNum][0] >= 0){
+				QsCompleted++;
+			}
+		}
+	}
+//Fixes for 6.2.2.2
+	if (QsCompleted >= QArray.length){
+		return ExerciseCompleted;
+	}
+	else{
+		return CompletedSoFar + ' ' + QsCompleted + '/' + QArray.length + '.';
+	}
+}
+
+function CheckFinished(){
+	var FB = '';
+	var AllDone = true;
+	for (var QNum=0; QNum<State.length; QNum++){
+		if (State[QNum] != null){
+			if (State[QNum][0] < 0){
+				AllDone = false;
+			}
+		}
+	}
+	if (AllDone == true){
+	
+//Report final score and submit if necessary
+		CalculateOverallScore();
+		FB = YourScoreIs + ' ' + Score + '%.';
+		if (ShowCorrectFirstTime == true){
+			var CFT = 0;
+			for (QNum=0; QNum<State.length; QNum++){
+				if (State[QNum] != null){
+					if (State[QNum][0] >= 1){
+						CFT++;
+					}
+				}
+			}
+			FB += '<br />' + CorrectFirstTime + ' ' + CFT + '/' + QsToShow;
+		}
+		
+//New for 6.2.2.0
+		FB += '<br />' + ExerciseCompleted;
+		
+		WriteToInstructions(FB);
+		
+		Finished == true;
+
+
+
+
+		TimeOver = true;
+		Locked = true;
+		
+
+
+		Finished = true;
+		Detail = '<?xml version="1.0"?><hpnetresult><fields>';
+		for (QNum=0; QNum<State.length; QNum++){
+			if (State[QNum] != null){
+				if (State[QNum][5].length > 0){
+					Detail += '<field><fieldname>Question #' + (QNum+1) + '</fieldname><fieldtype>question-tracking</fieldtype><fieldlabel>Q ' + (QNum+1) + '</fieldlabel><fieldlabelid>QuestionTrackingField</fieldlabelid><fielddata>' + State[QNum][5] + '</fielddata></field>';
+				}
+			}
+		}
+		Detail += '</fields></hpnetresult>';
+		setTimeout('Finish()', SubmissionTimeout);
+	}
+
+}
+
+
+
+
+
+
+
+
+
+//-->
+
+//]]>
+
+</script>
+
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-34360049-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script><script>
+ function printPage(id)
+{
+   var html="<html>";
+   html+= document.getElementById(id).innerHTML;
+   html+="</html>";
+
+   var printWin = window.open('','','left=0,top=0,width=1,height=1,toolbar=0,scrollbars=0,status  =0');
+   printWin.document.write(html);
+   printWin.document.close();
+   printWin.focus();
+   printWin.print();
+   printWin.close();
+}
+</script>
+<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+<script type="text/javascript">stLight.options({publisher: "ur-53286b3d-c630-d5b4-80ec-616d1db82676", doNotHash: false, doNotCopy: false, hashAddressBar: false, });</script>
+</head>
+
+<body onload="StartUp()" id="TheBody" >
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/it_IT/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>                   <div id="header">
+	<img class="img" src="../../images/paolo1.jpg" alt="Your Logo" />
+</div>
+
+<div id="main">
+<div id="topMenu">
+			 	 			 	  	<ul id="primary-nav" class="menuList"> 
+<li style="border-top: 1px solid #FF3300;"><a
+ href="../../index.html">HOME</a></li>
+ <li class="menubar"><a
+ href="../../risorse.html" accesskey="re">RISORSE ESTERNE</a>
+  </li>
+  
+        <li class="menubar"><a href="../../blog/indice.html"  target="new">CLASSI
+ ASSEGNATE</a>
+    </li>
+  </li>
+  <li class="titolo">Appunti</li>
+  <li class="menubar" style="border-top: 1px solid rgb(255, 51, 0);"><a
+ href="../../temi/grandezze.html">GRANDEZZE FISICHE</a>
+    <ul>
+      <li style="border-top: 1px solid rgb(255, 51, 0);"><a
+ 		href="../../temi/misure.html">Misure in fisica</a></li>
+      <li><a href="../../temi/si.html">Spazio e tempo</a></li>
+      <li><a href="../../temi/massa1.html">Massa e densit&agrave;</a></li>
+      <li><a href="../../temi/massa.html">Forza-peso</a></li>
+      <li><a href="../../temi/propdiretta.html">Forza elastica e geometria analitica</a></li>
+    </ul>
+  </li>
+  <li class="menubar"><a href="../../temi/equilibrio.html">L'EQUILIBRIO</a>
+    <ul>
+      <li style="border-top: 1px solid rgb(255, 51, 0);"><a
+ 		href="../../temi/vettori.html">Forze e vettori</a></li>
+      <li><a href="../../temi/attrito.html">Forza d'attrito</a></li>
+      <li><a href="../../temi/traslazioni.html">Equilibrio per traslazioni</a></li>
+      <li><a href="../../temi/rotazioni.html">Equilibrio per rotazioni</a></li>
+      <li><a href="../../temi/pressione.html">Equilibrio nei fluidi</a></li>
+    </ul>
+  </li>
+  <li class="menubar"><a href="../../temi/movimento.html">IL MOVIMENTO</a>
+    <ul>
+      <li style="border-top: 1px solid rgb(255, 51, 0);"><a
+ 		href="../../temi/cinematica.html">Cinematica</a></li>
+      <li><a href="../../temi/circolare0.html">Moto circolare uniforme</a></li>
+      <li><a href="../../temi/dinamica.html">Leggi della dinamica</a></li>
+      <li><a href="../../temi/dinamica3b.html">Applicazioni della dinamica</a></li>
+    </ul>
+  </li>
+  <li class="menubar"><a href="../../temi/energia.html">L'ENERGIA</a>
+    <ul>
+      <li style="border-top: 1px solid rgb(255, 51, 0);"><a
+ 		href="../../temi/lavoro.html">Lavoro e potenza</a></li>
+      <li><a href="../../temi/forme.html">Forme di energia</a></li>
+      <li><a href="../../temi/conservazione.html">Conservazione dell'energia</a></li>
+      <li><a href="../../temi/impulso.html">Impulso e quantità di moto</a></li>
+    </ul>
+  </li>
+  <li class="menubar"><a href="../../temi/calore.html">IL CALORE</a>
+    <ul>
+      <li style="border-top: 1px solid rgb(255, 51, 0);"><a
+ href="../../temi/temperatura.html">Temperatura e
+dilatazione termica</a></li>
+<li><a href="../../temi/gasideali.html">Gas ideali</a></li>
+      <li><a href="../../temi/calorespecifico.html">Calore specifico e latente</a></li>
+      <li><a href="../../temi/macchine.html">Termodinamica</a></li>
+    </ul>
+  </li>
+  <li class="menubar"><a href="../../temi/luce.html">OTTICA GEOMETRICA</a>
+    <ul>
+      <li style="border-top: 1px solid rgb(255, 51, 0);"><a
+ 		href="../../temi/riflessione.html">Riflessione e specchi</a></li>
+      <li><a href="../../temi/riflessione2.html">Rifrazione e lenti</a></li>
+    </ul>
+  </li>
+  <li class="menubar"><a href="../../temi/em.html">L'ELETTRICIT&Agrave;</a>
+    <ul>
+      <li style="border-top: 1px solid rgb(255, 51, 0);"><a
+ 		href="../../temi/carica.html">Carica elettrica</a></li>
+      <li><a href="../../temi/condensatori.html">Condensatori</a></li>
+      <li><a href="../../temi/corrente.html">Corrente elettrica</a></li>
+       </ul>
+  </li>
+  <li class="menubar"><a href="../../temi/em1.html">MAGNETISMO ED ONDE</a>
+    <ul>
+      <li style="border-top: 1px solid rgb(255, 51, 0);"><a 
+        href="../../temi/campob.html">Il campo magnetico</a></li>
+      <li><a href="../../temi/induzione.html">Correnti indotte</a></li>
+      <li><a href="../../temi/onde.html">Onde e suoni</a></li>
+      <li><a href="../../temi/fonti0.html">Fonti di energia</a></li>
+    </ul>
+  </li>
+  <li class="titolo1">Prerequisiti</li>
+</ul>
+<div style="border: 1px solid rgb(255, 51, 0); position: relative; width: 303px; height: 228px;"><a href="condensatori.pdf" class="highlightit" target="new" style="text-decoration: none;" rel="external" ><img src="../../images/prerequisiti1.jpg" alt="Prerequisiti sulle applicazioni della dinamica" style="border-bottom: 1px solid rgb(255, 51, 0)" width="303" height="228"/></a></div>
+<br />
+<br />
+<br />
+<br />
+<div class="footer"></div></div>
+
+<div id="content">
+<div id="printable">
+
+<h1>Test da <a href="http://www.cadnet.marche.it/olifis/olimat.htm" target="new">Olimpiadi della Fisica</a></h1>
+<div id="social"><a href="mailto:danilo.mauro@isismattiussipertini.edu.it" class="highlightit" rel="nofollow"  target="new"><img src="../images/mail.jpg" style="vertical-align: middle; border-width:0" alt="Mandami un e-mail" title="Mandami un e-mail"  width="30"   /></a>&nbsp;<a onclick="printPage('printable');" class="highlightit" rel="nofollow" target="new"><img src="../images/print.jpg" style="vertical-align: middle; border-width:0" alt="Manda in stampa" title="Manda in stampa"  width="30" /></a></div>
+<h2>Esercizi sui condensatori</h2>
+
+<div id="InstructionsDiv" class="StdDiv">
+	<div id="Instructions">JQuiz realizzato con HotPotatoes</div>
+</div>
+
+
+
+
+<div id="MainDiv" class="StdDiv">
+ 
+<ol class="QuizQuestions" id="Questions">
+<li class="QuizQuestion" id="Q_0" style="display: none;">
+<div class="QuestionText">Si prendano in considerazione elettroni e protoni accelerati in un tubo a vuoto da differenze di potenziale uguali in valore assoluto ma di segno opposto. <br /><br />Se la velocit&#x00e0; iniziale delle particelle &#x00e8; trascurabile, quale delle seguenti affermazioni &#x00e8; vera?</div>
+<ol class="MCAnswers">
+<li id="Q_0_0">
+<button class="FuncButton"  onfocus="FuncBtnOver(this)"  onblur="FuncBtnOut(this)"  onmouseover="FuncBtnOver(this)"  onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)"  onmouseup="FuncBtnOut(this)"  id="Q_0_0_Btn"  onclick="CheckMCAnswer(0,0,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;I protoni hanno minore quantit&#x00e0; di moto.
+</li>
+<li id="Q_0_1">
+<button class="FuncButton"  onfocus="FuncBtnOver(this)"  onblur="FuncBtnOut(this)"  onmouseover="FuncBtnOver(this)"  onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)"  onmouseup="FuncBtnOut(this)"  id="Q_0_1_Btn"  onclick="CheckMCAnswer(0,1,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;Gli elettroni hanno minore velocit&#x00e0;.
+</li>
+<li id="Q_0_2">
+<button class="FuncButton"  onfocus="FuncBtnOver(this)"  onblur="FuncBtnOut(this)"  onmouseover="FuncBtnOver(this)"  onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)"  onmouseup="FuncBtnOut(this)"  id="Q_0_2_Btn"  onclick="CheckMCAnswer(0,2,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;I protoni hanno maggiore energia cinetica.
+</li>
+<li id="Q_0_3">
+<button class="FuncButton"  onfocus="FuncBtnOver(this)"  onblur="FuncBtnOut(this)"  onmouseover="FuncBtnOver(this)"  onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)"  onmouseup="FuncBtnOut(this)"  id="Q_0_3_Btn"  onclick="CheckMCAnswer(0,3,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;I protoni e gli elettroni hanno la stessa energia cinetica.
+</li>
+<li id="Q_0_4">
+<button class="FuncButton"  onfocus="FuncBtnOver(this)"  onblur="FuncBtnOut(this)"  onmouseover="FuncBtnOver(this)"  onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)"  onmouseup="FuncBtnOut(this)"  id="Q_0_4_Btn"  onclick="CheckMCAnswer(0,4,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;I protoni e gli elettroni hanno la stessa quantit&#x00e0; di moto.
+</li>
+</ol>
+</li>
+<li class="QuizQuestion" id="Q_1" style="display: none;">
+<div class="QuestionText">Nel circuito mostrato in figura i condensatori sono scarichi. Dopo che &#x00e8; stato chiuso l'interruttore T si raggiunge una condizione stazionaria. <br /><br /><img src="0020.jpg" alt="" title="" width="240" height="140" /><br /><br />Quanto valgono a questo punto le differenze di potenziale <corsivo>V<sub>1</sub></corsivo> e <corsivo>V<sub>2</sub></corsivo>?</div>
+<ol class="MCAnswers">
+<li id="Q_1_0">
+<button class="FuncButton"  onfocus="FuncBtnOver(this)"  onblur="FuncBtnOut(this)"  onmouseover="FuncBtnOver(this)"  onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)"  onmouseup="FuncBtnOut(this)"  id="Q_1_0_Btn"  onclick="CheckMCAnswer(1,0,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;12 V, 18 V
+</li>
+<li id="Q_1_1">
+<button class="FuncButton"  onfocus="FuncBtnOver(this)"  onblur="FuncBtnOut(this)"  onmouseover="FuncBtnOver(this)"  onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)"  onmouseup="FuncBtnOut(this)"  id="Q_1_1_Btn"  onclick="CheckMCAnswer(1,1,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;18 V, 12 V
+</li>
+<li id="Q_1_2">
+<button class="FuncButton"  onfocus="FuncBtnOver(this)"  onblur="FuncBtnOut(this)"  onmouseover="FuncBtnOver(this)"  onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)"  onmouseup="FuncBtnOut(this)"  id="Q_1_2_Btn"  onclick="CheckMCAnswer(1,2,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;15 V, 15V
+</li>
+<li id="Q_1_3">
+<button class="FuncButton"  onfocus="FuncBtnOver(this)"  onblur="FuncBtnOut(this)"  onmouseover="FuncBtnOver(this)"  onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)"  onmouseup="FuncBtnOut(this)"  id="Q_1_3_Btn"  onclick="CheckMCAnswer(1,3,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;30 V, 30 V
+</li>
+<li id="Q_1_4">
+<button class="FuncButton"  onfocus="FuncBtnOver(this)"  onblur="FuncBtnOut(this)"  onmouseover="FuncBtnOver(this)"  onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)"  onmouseup="FuncBtnOut(this)"  id="Q_1_4_Btn"  onclick="CheckMCAnswer(1,4,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;Dipende dalla resistenza complessiva del circuito.
+</li>
+</ol>
+</li>
+<li class="QuizQuestion" id="Q_2" style="display: none;">
+<div class="QuestionText">Nel circuito mostrato in figura <strong>A</strong> e <strong>B</strong> rappresentano due lamine metalliche orizzontali distanziate da un supporto isolante di spessore <corsivo>h</corsivo>; nella regione di spazio compresa tra <strong>A</strong> e <strong>B</strong> &#x00e8; stato fatto il vuoto. Una sferetta <strong>S</strong>, di massa <corsivo>m</corsivo> e carica <corsivo>-e</corsivo>, rimane ferma in equilibrio all'interno della stessa regione. <br /><br /><img src="0035.jpg" alt="" title="" width="240" height="140" /><br /><br />Se, a parit&#x00e0; di tutte le altre condizioni, al posto della sferetta <strong>S</strong> ne viene collocata una diversa, di massa <corsivo>M</corsivo> e carica <corsivo>+e</corsivo>, allora quest'ultima . . .</div>
+<ol class="MCAnswers">
+<li id="Q_2_0">
+<button class="FuncButton"  onfocus="FuncBtnOver(this)"  onblur="FuncBtnOut(this)"  onmouseover="FuncBtnOver(this)"  onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)"  onmouseup="FuncBtnOut(this)"  id="Q_2_0_Btn"  onclick="CheckMCAnswer(2,0,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;. . . rimane ferma in equilibrio come la prima.
+</li>
+<li id="Q_2_1">
+<button class="FuncButton"  onfocus="FuncBtnOver(this)"  onblur="FuncBtnOut(this)"  onmouseover="FuncBtnOver(this)"  onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)"  onmouseup="FuncBtnOut(this)"  id="Q_2_1_Btn"  onclick="CheckMCAnswer(2,1,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;. . . acquista un'accelerazione <corsivo>eV / (Mh)</corsivo> verticale verso l'alto.
+</li>
+<li id="Q_2_2">
+<button class="FuncButton"  onfocus="FuncBtnOver(this)"  onblur="FuncBtnOut(this)"  onmouseover="FuncBtnOver(this)"  onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)"  onmouseup="FuncBtnOut(this)"  id="Q_2_2_Btn"  onclick="CheckMCAnswer(2,2,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;. . . acquista un'accelerazione <corsivo>(Mgh-eV) / (Mh)</corsivo> verticale verso il basso.
+</li>
+<li id="Q_2_3">
+<button class="FuncButton"  onfocus="FuncBtnOver(this)"  onblur="FuncBtnOut(this)"  onmouseover="FuncBtnOver(this)"  onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)"  onmouseup="FuncBtnOut(this)"  id="Q_2_3_Btn"  onclick="CheckMCAnswer(2,3,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;. . . acquista un'accelerazione <corsivo>(m+M) / M g</corsivo> verticale verso il basso.
+</li>
+<li id="Q_2_4">
+<button class="FuncButton"  onfocus="FuncBtnOver(this)"  onblur="FuncBtnOut(this)"  onmouseover="FuncBtnOver(this)"  onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)"  onmouseup="FuncBtnOut(this)"  id="Q_2_4_Btn"  onclick="CheckMCAnswer(2,4,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;. . . acquista un'accelerazione <corsivo>M / (m+M) g</corsivo> verticale verso l'alto.
+</li>
+</ol>
+</li>
+<li class="QuizQuestion" id="Q_3" style="display: none;">
+<div class="QuestionText">Gli elettroni di un tubo a raggi catodici sono accelerati dal catodo all'anodo da una differenza di potenziale di 2000 V. <br /><br />Utilizzando invece una d.d.p. di 8000 V, gli elettroni giungono sull'anodo con. . .</div>
+<ol class="MCAnswers">
+<li id="Q_3_0">
+<button class="FuncButton"  onfocus="FuncBtnOver(this)"  onblur="FuncBtnOut(this)"  onmouseover="FuncBtnOver(this)"  onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)"  onmouseup="FuncBtnOut(this)"  id="Q_3_0_Btn"  onclick="CheckMCAnswer(3,0,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;. . . energia cinetica doppia e velocit&#x00e0; quadrupla.
+</li>
+<li id="Q_3_1">
+<button class="FuncButton"  onfocus="FuncBtnOver(this)"  onblur="FuncBtnOut(this)"  onmouseover="FuncBtnOver(this)"  onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)"  onmouseup="FuncBtnOut(this)"  id="Q_3_1_Btn"  onclick="CheckMCAnswer(3,1,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;. . . energia cinetica quadrupla e velocit&#x00e0; doppia.
+</li>
+<li id="Q_3_2">
+<button class="FuncButton"  onfocus="FuncBtnOver(this)"  onblur="FuncBtnOut(this)"  onmouseover="FuncBtnOver(this)"  onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)"  onmouseup="FuncBtnOut(this)"  id="Q_3_2_Btn"  onclick="CheckMCAnswer(3,2,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;. . . energia cinetica doppia e velocit&#x00e0; quadrupla.
+</li>
+<li id="Q_3_3">
+<button class="FuncButton"  onfocus="FuncBtnOver(this)"  onblur="FuncBtnOut(this)"  onmouseover="FuncBtnOver(this)"  onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)"  onmouseup="FuncBtnOut(this)"  id="Q_3_3_Btn"  onclick="CheckMCAnswer(3,3,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;. . . energia cinetica quadrupla e velocit&#x00e0; sedici volte maggiore.
+</li>
+<li id="Q_3_4">
+<button class="FuncButton"  onfocus="FuncBtnOver(this)"  onblur="FuncBtnOut(this)"  onmouseover="FuncBtnOver(this)"  onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)"  onmouseup="FuncBtnOut(this)"  id="Q_3_4_Btn"  onclick="CheckMCAnswer(3,4,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;. . . energia cinetica sedici volte maggiore e velocit&#x00e0; quadrupla.
+</li>
+</ol>
+</li>
+<li class="QuizQuestion" id="Q_4" style="display: none;">
+<div class="QuestionText">Un condensatore da 8 &mu;F richiede</div>
+<ol class="MCAnswers">
+<li id="Q_4_0">
+<button class="FuncButton"  onfocus="FuncBtnOver(this)"  onblur="FuncBtnOut(this)"  onmouseover="FuncBtnOver(this)"  onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)"  onmouseup="FuncBtnOut(this)"  id="Q_4_0_Btn"  onclick="CheckMCAnswer(4,0,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;8 C per caricarlo ad 8 &mu;V.
+</li>
+<li id="Q_4_1">
+<button class="FuncButton"  onfocus="FuncBtnOver(this)"  onblur="FuncBtnOut(this)"  onmouseover="FuncBtnOver(this)"  onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)"  onmouseup="FuncBtnOut(this)"  id="Q_4_1_Btn"  onclick="CheckMCAnswer(4,1,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;1 &mu;C per caricarlo ad 8 V.
+</li>
+<li id="Q_4_2">
+<button class="FuncButton"  onfocus="FuncBtnOver(this)"  onblur="FuncBtnOut(this)"  onmouseover="FuncBtnOver(this)"  onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)"  onmouseup="FuncBtnOut(this)"  id="Q_4_2_Btn"  onclick="CheckMCAnswer(4,2,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;8 &mu;C per caricarlo ad 8 V.
+</li>
+<li id="Q_4_3">
+<button class="FuncButton"  onfocus="FuncBtnOver(this)"  onblur="FuncBtnOut(this)"  onmouseover="FuncBtnOver(this)"  onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)"  onmouseup="FuncBtnOut(this)"  id="Q_4_3_Btn"  onclick="CheckMCAnswer(4,3,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;8 &mu;C per caricarlo ad 1 V.
+</li>
+<li id="Q_4_4">
+<button class="FuncButton"  onfocus="FuncBtnOver(this)"  onblur="FuncBtnOut(this)"  onmouseover="FuncBtnOver(this)"  onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)"  onmouseup="FuncBtnOut(this)"  id="Q_4_4_Btn"  onclick="CheckMCAnswer(4,4,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;1 C per caricarlo ad 8 &mu;V.
+</li>
+</ol>
+</li>
+<li class="QuizQuestion" id="Q_5" style="display: none;">
+<div class="QuestionText">Nel circuito mostrato, un condensatore di capacit&#x00e0; 3 &mu;F &#x00e8; caricato da una batteria di f.e.m. pari a 6 V quando il condensatore &#x00e8; collegato al punto <corsivo>A</corsivo>. <br /><br /><img src="0137.jpg" alt="" title="" width="180" height="180" /><br /><br />Il commutatore viene ora collegato al punto <corsivo>B</corsivo>. Questa azione fa s&#x00ec; che il condensatore da 3 &mu;F carichi quello da 6 &mu;F.<br /><br />Qual &#x00e8; la nuova differenza di potenziale tra le armature dei condensatori?</div>
+<ol class="MCAnswers">
+<li id="Q_5_0">
+<button class="FuncButton"  onfocus="FuncBtnOver(this)"  onblur="FuncBtnOut(this)"  onmouseover="FuncBtnOver(this)"  onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)"  onmouseup="FuncBtnOut(this)"  id="Q_5_0_Btn"  onclick="CheckMCAnswer(5,0,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;1 V
+</li>
+<li id="Q_5_1">
+<button class="FuncButton"  onfocus="FuncBtnOver(this)"  onblur="FuncBtnOut(this)"  onmouseover="FuncBtnOver(this)"  onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)"  onmouseup="FuncBtnOut(this)"  id="Q_5_1_Btn"  onclick="CheckMCAnswer(5,1,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;2 V
+</li>
+<li id="Q_5_2">
+<button class="FuncButton"  onfocus="FuncBtnOver(this)"  onblur="FuncBtnOut(this)"  onmouseover="FuncBtnOver(this)"  onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)"  onmouseup="FuncBtnOut(this)"  id="Q_5_2_Btn"  onclick="CheckMCAnswer(5,2,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;3 V
+</li>
+<li id="Q_5_3">
+<button class="FuncButton"  onfocus="FuncBtnOver(this)"  onblur="FuncBtnOut(this)"  onmouseover="FuncBtnOver(this)"  onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)"  onmouseup="FuncBtnOut(this)"  id="Q_5_3_Btn"  onclick="CheckMCAnswer(5,3,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;4 V
+</li>
+<li id="Q_5_4">
+<button class="FuncButton"  onfocus="FuncBtnOver(this)"  onblur="FuncBtnOut(this)"  onmouseover="FuncBtnOver(this)"  onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)"  onmouseup="FuncBtnOut(this)"  id="Q_5_4_Btn"  onclick="CheckMCAnswer(5,4,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;6 V
+</li>
+</ol>
+</li>
+<li class="QuizQuestion" id="Q_6" style="display: none;">
+<div class="QuestionText">Due lastre conduttrici, di uguale forma, sono disposte parallelamente tra loro a distanza piccola rispetto alle loro dimensioni, e sono separate da un mezzo dielettrico. La d.d.p. tra le lastre &#x00e8; nota. <br /><br />Quale o quali ulteriori informazioni sono necessarie per determinare l'intensit&#x00e0; del campo elettrico presente tra le lastre?</div>
+<ol class="MCAnswers">
+<li id="Q_6_0">
+<button class="FuncButton"  onfocus="FuncBtnOver(this)"  onblur="FuncBtnOut(this)"  onmouseover="FuncBtnOver(this)"  onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)"  onmouseup="FuncBtnOut(this)"  id="Q_6_0_Btn"  onclick="CheckMCAnswer(6,0,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;La distanza tra le lastre.
+</li>
+<li id="Q_6_1">
+<button class="FuncButton"  onfocus="FuncBtnOver(this)"  onblur="FuncBtnOut(this)"  onmouseover="FuncBtnOver(this)"  onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)"  onmouseup="FuncBtnOut(this)"  id="Q_6_1_Btn"  onclick="CheckMCAnswer(6,1,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;La distanza e l'area delle lastre.
+</li>
+<li id="Q_6_2">
+<button class="FuncButton"  onfocus="FuncBtnOver(this)"  onblur="FuncBtnOut(this)"  onmouseover="FuncBtnOver(this)"  onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)"  onmouseup="FuncBtnOut(this)"  id="Q_6_2_Btn"  onclick="CheckMCAnswer(6,2,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;La permeabilit&#x00e0; dielettrica del mezzo e la distanza tra le lastre.
+</li>
+<li id="Q_6_3">
+<button class="FuncButton"  onfocus="FuncBtnOver(this)"  onblur="FuncBtnOut(this)"  onmouseover="FuncBtnOver(this)"  onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)"  onmouseup="FuncBtnOut(this)"  id="Q_6_3_Btn"  onclick="CheckMCAnswer(6,3,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;La permeabilit&#x00e0; dielettrica del mezzo e l'area delle lastre.
+</li>
+<li id="Q_6_4">
+<button class="FuncButton"  onfocus="FuncBtnOver(this)"  onblur="FuncBtnOut(this)"  onmouseover="FuncBtnOver(this)"  onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)"  onmouseup="FuncBtnOut(this)"  id="Q_6_4_Btn"  onclick="CheckMCAnswer(6,4,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;La permeabilit&#x00e0; dielettrica del mezzo, la distanza e l'area delle lastre.
+</li>
+</ol>
+</li>
+<li class="QuizQuestion" id="Q_7" style="display: none;">
+<div class="QuestionText">Un elettrone si sposta in un campo elettrico da un punto P a un punto Q. Nella tabella seguente si danno i valori, nei punti P e Q, dell'intensit&#x00e0; del campo elettrico <corsivo>E</corsivo> e del potenziale <corsivo>V</corsivo> ad esso associato. <br /><br /><table border="1" cellpadding="2" cellspacing="2" width="100%" ><tbody><tr><td></td><td><corsivo>E</corsivo> [N/C]</td><td><corsivo>V</corsivo> [V]</td></tr><tr><td>P</td><td>2 x 10<sup>4</sup></td><td>8 x 10<sup>3</sup></td></tr><tr><td>Q</td><td>2 x 10<sup>4</sup></td><td>2 x 10<sup>3</sup></td></tr></tbody></table><br /><br />La carica dell'elettrone &#x00e8; -1.6 x 10<sup>-19</sup> C.<br /><br />Usando <strong>soltanto</strong> i dati precedenti, quale delle seguenti grandezze &#x00e8; possibile determinare quando l'elettrone si trova in P?</div>
+<ol class="MCAnswers">
+<li id="Q_7_0">
+<button class="FuncButton"  onfocus="FuncBtnOver(this)"  onblur="FuncBtnOut(this)"  onmouseover="FuncBtnOver(this)"  onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)"  onmouseup="FuncBtnOut(this)"  id="Q_7_0_Btn"  onclick="CheckMCAnswer(7,0,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;La forza agente sull'elettrone.
+</li>
+<li id="Q_7_1">
+<button class="FuncButton"  onfocus="FuncBtnOver(this)"  onblur="FuncBtnOut(this)"  onmouseover="FuncBtnOver(this)"  onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)"  onmouseup="FuncBtnOut(this)"  id="Q_7_1_Btn"  onclick="CheckMCAnswer(7,1,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;La velocit&#x00e0; dell'elettrone.
+</li>
+<li id="Q_7_2">
+<button class="FuncButton"  onfocus="FuncBtnOver(this)"  onblur="FuncBtnOut(this)"  onmouseover="FuncBtnOver(this)"  onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)"  onmouseup="FuncBtnOut(this)"  id="Q_7_2_Btn"  onclick="CheckMCAnswer(7,2,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;La quantit&#x00e0; di moto dell'elettrone.
+</li>
+<li id="Q_7_3">
+<button class="FuncButton"  onfocus="FuncBtnOver(this)"  onblur="FuncBtnOut(this)"  onmouseover="FuncBtnOver(this)"  onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)"  onmouseup="FuncBtnOut(this)"  id="Q_7_3_Btn"  onclick="CheckMCAnswer(7,3,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;L'energia cinetica dell'elettrone.
+</li>
+<li id="Q_7_4">
+<button class="FuncButton"  onfocus="FuncBtnOver(this)"  onblur="FuncBtnOut(this)"  onmouseover="FuncBtnOver(this)"  onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)"  onmouseup="FuncBtnOut(this)"  id="Q_7_4_Btn"  onclick="CheckMCAnswer(7,4,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;L'energia totale dell'elettrone.
+</li>
+</ol>
+</li>
+<li class="QuizQuestion" id="Q_8" style="display: none;">
+<div class="QuestionText">Con riferimento al testo del quesito precedente, quale dei valori seguenti si avvicina di pi&#x00f9; all'energia necessaria all'elettrone per spostarsi da P a Q?</div>
+<ol class="MCAnswers">
+<li id="Q_8_0">
+<button class="FuncButton"  onfocus="FuncBtnOver(this)"  onblur="FuncBtnOut(this)"  onmouseover="FuncBtnOver(this)"  onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)"  onmouseup="FuncBtnOut(this)"  id="Q_8_0_Btn"  onclick="CheckMCAnswer(8,0,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;0
+</li>
+<li id="Q_8_1">
+<button class="FuncButton"  onfocus="FuncBtnOver(this)"  onblur="FuncBtnOut(this)"  onmouseover="FuncBtnOver(this)"  onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)"  onmouseup="FuncBtnOut(this)"  id="Q_8_1_Btn"  onclick="CheckMCAnswer(8,1,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;8 x 10<sup>-16</sup> J
+</li>
+<li id="Q_8_2">
+<button class="FuncButton"  onfocus="FuncBtnOver(this)"  onblur="FuncBtnOut(this)"  onmouseover="FuncBtnOver(this)"  onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)"  onmouseup="FuncBtnOut(this)"  id="Q_8_2_Btn"  onclick="CheckMCAnswer(8,2,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;1 x 10<sup>-15</sup> J
+</li>
+<li id="Q_8_3">
+<button class="FuncButton"  onfocus="FuncBtnOver(this)"  onblur="FuncBtnOut(this)"  onmouseover="FuncBtnOver(this)"  onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)"  onmouseup="FuncBtnOut(this)"  id="Q_8_3_Btn"  onclick="CheckMCAnswer(8,3,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;1 x 10<sup>-12</sup> J
+</li>
+<li id="Q_8_4">
+<button class="FuncButton"  onfocus="FuncBtnOver(this)"  onblur="FuncBtnOut(this)"  onmouseover="FuncBtnOver(this)"  onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)"  onmouseup="FuncBtnOut(this)"  id="Q_8_4_Btn"  onclick="CheckMCAnswer(8,4,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;2 x 10<sup>-12</sup> J
+</li>
+</ol>
+</li>
+<li class="QuizQuestion" id="Q_9" style="display: none;">
+<div class="QuestionText">Una pallina molto piccola appesa ad un lunghissimo filo di materiale isolante si muove di moto oscillatorio nella regione compresa fra due lastre metalliche di grande estensione, molto vicine fra loro e collegate con una differenza di potenziale <corsivo>V</corsivo><br /><br /><img src="0320.jpg" alt="" title="" width="140" height="180" /><br /><br />Di seguito sono riportate alcune espressioni algebriche scritte in funzione della d.d.p. <corsivo>V</corsivo>, della carica <corsivo>q</corsivo> presente sulla pallina, della distanza <corsivo>d</corsivo> fra le superfici, del tempo <corsivo>t</corsivo> impiegato dalla pallina per andare e tornare fra una lastra e l'altra, della capacit&#x00e0; <corsivo>C</corsivo> del sistema di lastre. <br /><br />Quale di tali espressioni indica la forza sulla pallina quando il pendolo &#x00e8; verticale e la pallina si trova nel punto centrale tra le due lastre?</div>
+<ol class="MCAnswers">
+<li id="Q_9_0">
+<button class="FuncButton"  onfocus="FuncBtnOver(this)"  onblur="FuncBtnOut(this)"  onmouseover="FuncBtnOver(this)"  onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)"  onmouseup="FuncBtnOut(this)"  id="Q_9_0_Btn"  onclick="CheckMCAnswer(9,0,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;<corsivo>q / t</corsivo>
+</li>
+<li id="Q_9_1">
+<button class="FuncButton"  onfocus="FuncBtnOver(this)"  onblur="FuncBtnOut(this)"  onmouseover="FuncBtnOver(this)"  onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)"  onmouseup="FuncBtnOut(this)"  id="Q_9_1_Btn"  onclick="CheckMCAnswer(9,1,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;<corsivo>V q</corsivo>
+</li>
+<li id="Q_9_2">
+<button class="FuncButton"  onfocus="FuncBtnOver(this)"  onblur="FuncBtnOut(this)"  onmouseover="FuncBtnOver(this)"  onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)"  onmouseup="FuncBtnOut(this)"  id="Q_9_2_Btn"  onclick="CheckMCAnswer(9,2,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;<corsivo>V q / d</corsivo>
+</li>
+<li id="Q_9_3">
+<button class="FuncButton"  onfocus="FuncBtnOver(this)"  onblur="FuncBtnOut(this)"  onmouseover="FuncBtnOver(this)"  onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)"  onmouseup="FuncBtnOut(this)"  id="Q_9_3_Btn"  onclick="CheckMCAnswer(9,3,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;<corsivo>C V / t</corsivo>
+</li>
+<li id="Q_9_4">
+<button class="FuncButton"  onfocus="FuncBtnOver(this)"  onblur="FuncBtnOut(this)"  onmouseover="FuncBtnOver(this)"  onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)"  onmouseup="FuncBtnOut(this)"  id="Q_9_4_Btn"  onclick="CheckMCAnswer(9,4,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;<corsivo>C V / d</corsivo>
+</li>
+</ol>
+</li>
+<li class="QuizQuestion" id="Q_10" style="display: none;">
+<div class="QuestionText">Un condensatore scarico <corsivo>C</corsivo> &#x00e8; inserito nel circuito rappresentato in figura.<br /><br /><img src="0328.jpg" alt="" title="" width="180" height="180" /><br /><br />Quale dei seguenti grafici indica meglio come varia nel tempo la corrente <corsivo>I</corsivo> nel circuito dopo che &#x00e8; stato chiuso l'interruttore <corsivo>S</corsivo>?</div>
+<ol class="MCAnswers">
+<li id="Q_10_0">
+<button class="FuncButton"  onfocus="FuncBtnOver(this)"  onblur="FuncBtnOut(this)"  onmouseover="FuncBtnOver(this)"  onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)"  onmouseup="FuncBtnOut(this)"  id="Q_10_0_Btn"  onclick="CheckMCAnswer(10,0,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;<img src="0328a.jpg" alt="" title="" width="110" height="130" />
+</li>
+<li id="Q_10_1">
+<button class="FuncButton"  onfocus="FuncBtnOver(this)"  onblur="FuncBtnOut(this)"  onmouseover="FuncBtnOver(this)"  onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)"  onmouseup="FuncBtnOut(this)"  id="Q_10_1_Btn"  onclick="CheckMCAnswer(10,1,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;<img src="0328b.jpg" alt="" title="" width="110" height="130" />
+</li>
+<li id="Q_10_2">
+<button class="FuncButton"  onfocus="FuncBtnOver(this)"  onblur="FuncBtnOut(this)"  onmouseover="FuncBtnOver(this)"  onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)"  onmouseup="FuncBtnOut(this)"  id="Q_10_2_Btn"  onclick="CheckMCAnswer(10,2,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;<img src="0328c.jpg" alt="" title="" width="110" height="130" />
+</li>
+<li id="Q_10_3">
+<button class="FuncButton"  onfocus="FuncBtnOver(this)"  onblur="FuncBtnOut(this)"  onmouseover="FuncBtnOver(this)"  onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)"  onmouseup="FuncBtnOut(this)"  id="Q_10_3_Btn"  onclick="CheckMCAnswer(10,3,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;<img src="0328d.jpg" alt="" title="" width="110" height="130" />
+</li>
+<li id="Q_10_4">
+<button class="FuncButton"  onfocus="FuncBtnOver(this)"  onblur="FuncBtnOut(this)"  onmouseover="FuncBtnOver(this)"  onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)"  onmouseup="FuncBtnOut(this)"  id="Q_10_4_Btn"  onclick="CheckMCAnswer(10,4,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;<img src="0328e.jpg" alt="" title="" width="110" height="130" />
+</li>
+</ol>
+</li>
+<li class="QuizQuestion" id="Q_11" style="display: none;">
+<div class="QuestionText">La figura mostra un protone (<strong>p</strong>) posto nel punto A vicino a una sfera uniformemente carica con carica positiva. <br /><br /><img src="0424.jpg" alt="" title="" width="200" height="100" /><br /><br />Se per spostare il protone dal punto A al punto B &#x00e8; necessario fare un lavoro di 6.4 x 10<sup>-19</sup> J, allora la differenza di potenziale tra A e B &#x00e8;</div>
+<ol class="MCAnswers">
+<li id="Q_11_0">
+<button class="FuncButton"  onfocus="FuncBtnOver(this)"  onblur="FuncBtnOut(this)"  onmouseover="FuncBtnOver(this)"  onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)"  onmouseup="FuncBtnOut(this)"  id="Q_11_0_Btn"  onclick="CheckMCAnswer(11,0,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;4.0 x 10<sup>-19</sup> V
+</li>
+<li id="Q_11_1">
+<button class="FuncButton"  onfocus="FuncBtnOver(this)"  onblur="FuncBtnOut(this)"  onmouseover="FuncBtnOver(this)"  onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)"  onmouseup="FuncBtnOut(this)"  id="Q_11_1_Btn"  onclick="CheckMCAnswer(11,1,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;6.4 x 10<sup>-19</sup> V
+</li>
+<li id="Q_11_2">
+<button class="FuncButton"  onfocus="FuncBtnOver(this)"  onblur="FuncBtnOut(this)"  onmouseover="FuncBtnOver(this)"  onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)"  onmouseup="FuncBtnOut(this)"  id="Q_11_2_Btn"  onclick="CheckMCAnswer(11,2,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;0.25 V
+</li>
+<li id="Q_11_3">
+<button class="FuncButton"  onfocus="FuncBtnOver(this)"  onblur="FuncBtnOut(this)"  onmouseover="FuncBtnOver(this)"  onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)"  onmouseup="FuncBtnOut(this)"  id="Q_11_3_Btn"  onclick="CheckMCAnswer(11,3,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;4.0 V
+</li>
+<li id="Q_11_4">
+<button class="FuncButton"  onfocus="FuncBtnOver(this)"  onblur="FuncBtnOut(this)"  onmouseover="FuncBtnOver(this)"  onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)"  onmouseup="FuncBtnOut(this)"  id="Q_11_4_Btn"  onclick="CheckMCAnswer(11,4,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;6.4 V
+</li>
+</ol>
+</li>
+<li class="QuizQuestion" id="Q_12" style="display: none;">
+<div class="QuestionText">Una particella alfa, la cui velocit&#x00e0; iniziale &#x00e8; trascurabile, viene accelerata fino alla velocit&#x00e0; <corsivo>v</corsivo> da una differenza di potenziale di 1200 V. <br /><br />Che differenza di potenziale ci vorrebbe per accelerare la stessa particella ad una velocit&#x00e0; doppia?</div>
+<ol class="MCAnswers">
+<li id="Q_12_0">
+<button class="FuncButton"  onfocus="FuncBtnOver(this)"  onblur="FuncBtnOut(this)"  onmouseover="FuncBtnOver(this)"  onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)"  onmouseup="FuncBtnOut(this)"  id="Q_12_0_Btn"  onclick="CheckMCAnswer(12,0,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;7200 V
+</li>
+<li id="Q_12_1">
+<button class="FuncButton"  onfocus="FuncBtnOver(this)"  onblur="FuncBtnOut(this)"  onmouseover="FuncBtnOver(this)"  onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)"  onmouseup="FuncBtnOut(this)"  id="Q_12_1_Btn"  onclick="CheckMCAnswer(12,1,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;4800 V
+</li>
+<li id="Q_12_2">
+<button class="FuncButton"  onfocus="FuncBtnOver(this)"  onblur="FuncBtnOut(this)"  onmouseover="FuncBtnOver(this)"  onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)"  onmouseup="FuncBtnOut(this)"  id="Q_12_2_Btn"  onclick="CheckMCAnswer(12,2,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;4100 V
+</li>
+<li id="Q_12_3">
+<button class="FuncButton"  onfocus="FuncBtnOver(this)"  onblur="FuncBtnOut(this)"  onmouseover="FuncBtnOver(this)"  onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)"  onmouseup="FuncBtnOut(this)"  id="Q_12_3_Btn"  onclick="CheckMCAnswer(12,3,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;2400 V
+</li>
+<li id="Q_12_4">
+<button class="FuncButton"  onfocus="FuncBtnOver(this)"  onblur="FuncBtnOut(this)"  onmouseover="FuncBtnOver(this)"  onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)"  onmouseup="FuncBtnOut(this)"  id="Q_12_4_Btn"  onclick="CheckMCAnswer(12,4,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;1700 V
+</li>
+</ol>
+</li>
+<li class="QuizQuestion" id="Q_13" style="display: none;">
+<div class="QuestionText">Due condensatori, inizialmente scarichi, vengono connessi in serie ad una batteria di pile, come raffigurato in figura. <br /><br /><img src="0733.jpg" alt="" title=""  width="240" height="150" /><br /><br />I condensatori si caricano e, alla fine, la carica sull'armatura di <corsivo>C</corsivo><sub>2</sub> raffigurata pi&#x00f9; in alto &#x00e8;</div>
+<ol class="MCAnswers">
+<li id="Q_13_0">
+<button class="FuncButton"  onfocus="FuncBtnOver(this)"  onblur="FuncBtnOut(this)"  onmouseover="FuncBtnOver(this)"  onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)"  onmouseup="FuncBtnOut(this)"  id="Q_13_0_Btn"  onclick="CheckMCAnswer(13,0,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;-81 &mu;C
+</li>
+<li id="Q_13_1">
+<button class="FuncButton"  onfocus="FuncBtnOver(this)"  onblur="FuncBtnOut(this)"  onmouseover="FuncBtnOver(this)"  onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)"  onmouseup="FuncBtnOut(this)"  id="Q_13_1_Btn"  onclick="CheckMCAnswer(13,1,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;-18 &mu;C
+</li>
+<li id="Q_13_2">
+<button class="FuncButton"  onfocus="FuncBtnOver(this)"  onblur="FuncBtnOut(this)"  onmouseover="FuncBtnOver(this)"  onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)"  onmouseup="FuncBtnOut(this)"  id="Q_13_2_Btn"  onclick="CheckMCAnswer(13,2,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;0
+</li>
+<li id="Q_13_3">
+<button class="FuncButton"  onfocus="FuncBtnOver(this)"  onblur="FuncBtnOut(this)"  onmouseover="FuncBtnOver(this)"  onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)"  onmouseup="FuncBtnOut(this)"  id="Q_13_3_Btn"  onclick="CheckMCAnswer(13,3,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;+18 &mu;C
+</li>
+<li id="Q_13_4">
+<button class="FuncButton"  onfocus="FuncBtnOver(this)"  onblur="FuncBtnOut(this)"  onmouseover="FuncBtnOver(this)"  onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)"  onmouseup="FuncBtnOut(this)"  id="Q_13_4_Btn"  onclick="CheckMCAnswer(13,4,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;+81 &mu;C
+</li>
+</ol>
+</li>
+<li class="QuizQuestion" id="Q_14" style="display: none;">
+<div class="QuestionText">Un fascio di elettroni di energia cinetica 1.25 keV viene frenato con un campo elettrostatico opportunamente orientato. <br /><br />Quanto deve essere intenso il campo elettrostatico per poter arrestare questi elettroni in 2.8 cm?</div>
+<ol class="MCAnswers">
+<li id="Q_14_0">
+<button class="FuncButton"  onfocus="FuncBtnOver(this)"  onblur="FuncBtnOut(this)"  onmouseover="FuncBtnOver(this)"  onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)"  onmouseup="FuncBtnOut(this)"  id="Q_14_0_Btn"  onclick="CheckMCAnswer(14,0,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;1.75 x 10<sup>1</sup> V m<sup>-1</sup>
+</li>
+<li id="Q_14_1">
+<button class="FuncButton"  onfocus="FuncBtnOver(this)"  onblur="FuncBtnOut(this)"  onmouseover="FuncBtnOver(this)"  onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)"  onmouseup="FuncBtnOut(this)"  id="Q_14_1_Btn"  onclick="CheckMCAnswer(14,1,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;2.11 x 10<sup>2</sup> V m<sup>-1</sup>
+</li>
+<li id="Q_14_2">
+<button class="FuncButton"  onfocus="FuncBtnOver(this)"  onblur="FuncBtnOut(this)"  onmouseover="FuncBtnOver(this)"  onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)"  onmouseup="FuncBtnOut(this)"  id="Q_14_2_Btn"  onclick="CheckMCAnswer(14,2,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;1.26 x 10<sup>3</sup> V m<sup>-1</sup>
+</li>
+<li id="Q_14_3">
+<button class="FuncButton"  onfocus="FuncBtnOver(this)"  onblur="FuncBtnOut(this)"  onmouseover="FuncBtnOver(this)"  onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)"  onmouseup="FuncBtnOut(this)"  id="Q_14_3_Btn"  onclick="CheckMCAnswer(14,3,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;4.46 x 10<sup>4</sup> V m<sup>-1</sup>
+</li>
+<li id="Q_14_4">
+<button class="FuncButton"  onfocus="FuncBtnOver(this)"  onblur="FuncBtnOut(this)"  onmouseover="FuncBtnOver(this)"  onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)"  onmouseup="FuncBtnOut(this)"  id="Q_14_4_Btn"  onclick="CheckMCAnswer(14,4,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;8.93 x 10<sup>4</sup> V m<sup>-1</sup>
+</li>
+</ol>
+</li>
+<li class="QuizQuestion" id="Q_15" style="display: none;">
+<div class="QuestionText">In una regione dello spazio c'&#x00e8; un campo elettrico uniforme di intensit&#x00e0; <corsivo>E</corsivo> = 6.0 kV m<sup>-1</sup>, come indicato in figura.<br /><br /><img src="0936.jpg" alt="" title="" width="340" height="150" /> <br /><br />Quale &#x00e8; la differenza di potenziale elettrico fra i punti X e Y, ovvero <corsivo>V</corsivo><sub>X</sub> - <corsivo>V</corsivo><sub>Y</sub>?</div>
+<ol class="MCAnswers">
+<li id="Q_15_0">
+<button class="FuncButton"  onfocus="FuncBtnOver(this)"  onblur="FuncBtnOut(this)"  onmouseover="FuncBtnOver(this)"  onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)"  onmouseup="FuncBtnOut(this)"  id="Q_15_0_Btn"  onclick="CheckMCAnswer(15,0,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;-12.0 kV
+</li>
+<li id="Q_15_1">
+<button class="FuncButton"  onfocus="FuncBtnOver(this)"  onblur="FuncBtnOut(this)"  onmouseover="FuncBtnOver(this)"  onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)"  onmouseup="FuncBtnOut(this)"  id="Q_15_1_Btn"  onclick="CheckMCAnswer(15,1,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;0
+</li>
+<li id="Q_15_2">
+<button class="FuncButton"  onfocus="FuncBtnOver(this)"  onblur="FuncBtnOut(this)"  onmouseover="FuncBtnOver(this)"  onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)"  onmouseup="FuncBtnOut(this)"  id="Q_15_2_Btn"  onclick="CheckMCAnswer(15,2,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;1.8 kV
+</li>
+<li id="Q_15_3">
+<button class="FuncButton"  onfocus="FuncBtnOver(this)"  onblur="FuncBtnOut(this)"  onmouseover="FuncBtnOver(this)"  onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)"  onmouseup="FuncBtnOut(this)"  id="Q_15_3_Btn"  onclick="CheckMCAnswer(15,3,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;2.4 kV
+</li>
+<li id="Q_15_4">
+<button class="FuncButton"  onfocus="FuncBtnOver(this)"  onblur="FuncBtnOut(this)"  onmouseover="FuncBtnOver(this)"  onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)"  onmouseup="FuncBtnOut(this)"  id="Q_15_4_Btn"  onclick="CheckMCAnswer(15,4,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;3.0 kV
+</li>
+</ol>
+</li>
+<li class="QuizQuestion" id="Q_16" style="display: none;">
+<div class="QuestionText">Una zona di spazio vuoto &#x00e8; occupata dal campo elettrico generato da due piastre parallele uniformemente cariche. Un protone "p" e un elettrone "e" vengono lasciati andare nello stesso istante, in prossimit&#x00e0; delle due piastre, come si vede nella figura. Le due particelle accelerano da parti opposte, rimanendo abbastanza lontane da non risentire della presenza dell'altra. <br /><br /><img src="1020.jpg" alt="" title="" width="120" height="150" /><br /><br />Una volta che le particelle hanno completato il loro moto e stanno per raggiungere la piastra opposta, hanno velocit&#x00e0; <corsivo>v</corsivo><sub>p</sub> e <corsivo>v</corsivo><sub>e</sub> ed energia cinetica <corsivo>E</corsivo><sub>p</sub> ed <corsivo>E</corsivo><sub>e</sub>.<br /><br />Quali relazioni tra le grandezze sono corrette?</div>
+<ol class="MCAnswers">
+<li id="Q_16_0">
+<button class="FuncButton"  onfocus="FuncBtnOver(this)"  onblur="FuncBtnOut(this)"  onmouseover="FuncBtnOver(this)"  onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)"  onmouseup="FuncBtnOut(this)"  id="Q_16_0_Btn"  onclick="CheckMCAnswer(16,0,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;<corsivo>v</corsivo><sub>e</sub> &lt; <corsivo>v</corsivo><sub>p</sub>;   <corsivo>E</corsivo><sub>e</sub> &lt; <corsivo>E</corsivo><sub>p</sub>
+</li>
+<li id="Q_16_1">
+<button class="FuncButton"  onfocus="FuncBtnOver(this)"  onblur="FuncBtnOut(this)"  onmouseover="FuncBtnOver(this)"  onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)"  onmouseup="FuncBtnOut(this)"  id="Q_16_1_Btn"  onclick="CheckMCAnswer(16,1,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;<corsivo>v</corsivo><sub>e</sub> = <corsivo>v</corsivo><sub>p</sub>;   <corsivo>E</corsivo><sub>e</sub> > <corsivo>E</corsivo><sub>p</sub>
+</li>
+<li id="Q_16_2">
+<button class="FuncButton"  onfocus="FuncBtnOver(this)"  onblur="FuncBtnOut(this)"  onmouseover="FuncBtnOver(this)"  onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)"  onmouseup="FuncBtnOut(this)"  id="Q_16_2_Btn"  onclick="CheckMCAnswer(16,2,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;<corsivo>v</corsivo><sub>e</sub> > <corsivo>v</corsivo><sub>p</sub>;   <corsivo>E</corsivo><sub>e</sub> > <corsivo>E</corsivo><sub>p</sub>
+</li>
+<li id="Q_16_3">
+<button class="FuncButton"  onfocus="FuncBtnOver(this)"  onblur="FuncBtnOut(this)"  onmouseover="FuncBtnOver(this)"  onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)"  onmouseup="FuncBtnOut(this)"  id="Q_16_3_Btn"  onclick="CheckMCAnswer(16,3,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;<corsivo>v</corsivo><sub>e</sub> > <corsivo>v</corsivo><sub>p</sub>;   <corsivo>E</corsivo><sub>e</sub> = <corsivo>E</corsivo><sub>p</sub>
+</li>
+<li id="Q_16_4">
+<button class="FuncButton"  onfocus="FuncBtnOver(this)"  onblur="FuncBtnOut(this)"  onmouseover="FuncBtnOver(this)"  onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)"  onmouseup="FuncBtnOut(this)"  id="Q_16_4_Btn"  onclick="CheckMCAnswer(16,4,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;<corsivo>v</corsivo><sub>e</sub> &lt; <corsivo>v</corsivo><sub>p</sub>;   <corsivo>E</corsivo><sub>e</sub> &lt; <corsivo>E</corsivo><sub>p</sub>
+</li>
+</ol>
+</li>
+<li class="QuizQuestion" id="Q_17" style="display: none;">
+<div class="QuestionText">Un condensatore a facce piane parallele viene caricato adoperando una batteria da 12 V. In assenza di dielettrico tra le armature, il condensatore ha una capacit&#x00e0; di 4.8 pF. La batteria viene staccata e lo spazio tra le armature del condensatore viene riempito di vetro Pyrex avente costante dielettrica relativa 4.7.<br /><br />Di quanto varia l'energia immagazzinata nel condensatore?</div>
+<ol class="MCAnswers">
+<li id="Q_17_0">
+<button class="FuncButton"  onfocus="FuncBtnOver(this)"  onblur="FuncBtnOut(this)"  onmouseover="FuncBtnOver(this)"  onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)"  onmouseup="FuncBtnOut(this)"  id="Q_17_0_Btn"  onclick="CheckMCAnswer(17,0,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;0 pJ
+</li>
+<li id="Q_17_1">
+<button class="FuncButton"  onfocus="FuncBtnOver(this)"  onblur="FuncBtnOut(this)"  onmouseover="FuncBtnOver(this)"  onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)"  onmouseup="FuncBtnOut(this)"  id="Q_17_1_Btn"  onclick="CheckMCAnswer(17,1,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;-272 pJ
+</li>
+<li id="Q_17_2">
+<button class="FuncButton"  onfocus="FuncBtnOver(this)"  onblur="FuncBtnOut(this)"  onmouseover="FuncBtnOver(this)"  onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)"  onmouseup="FuncBtnOut(this)"  id="Q_17_2_Btn"  onclick="CheckMCAnswer(17,2,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;-346 pJ
+</li>
+<li id="Q_17_3">
+<button class="FuncButton"  onfocus="FuncBtnOver(this)"  onblur="FuncBtnOut(this)"  onmouseover="FuncBtnOver(this)"  onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)"  onmouseup="FuncBtnOut(this)"  id="Q_17_3_Btn"  onclick="CheckMCAnswer(17,3,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;-544 pJ
+</li>
+<li id="Q_17_4">
+<button class="FuncButton"  onfocus="FuncBtnOver(this)"  onblur="FuncBtnOut(this)"  onmouseover="FuncBtnOver(this)"  onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)"  onmouseup="FuncBtnOut(this)"  id="Q_17_4_Btn"  onclick="CheckMCAnswer(17,4,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;-1280 pJ
+</li>
+</ol>
+</li>
+
+<li class="QuizQuestion" id="Q_18" style="display: none;">
+<div class="QuestionText">Un condensatore da 3.0 &micro;F &egrave; collegato in serie con uno da 6.0 &micro;F. <br/><br/> Se si applica una differenza di potenziale di 300 V al blocco formato da due condensatori, qual &egrave; l'energia totale immagazzinata?</div>
+<ol class="MCAnswers">
+<li id="Q_18_0">
+<button class="FuncButton"  onfocus="FuncBtnOver(this)"  onblur="FuncBtnOut(this)"  onmouseover="FuncBtnOver(this)"  onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)"  onmouseup="FuncBtnOut(this)"  id="Q_18_0_Btn"  onclick="CheckMCAnswer(18,0,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;0.09 J
+</li>
+<li id="Q_18_1">
+<button class="FuncButton"  onfocus="FuncBtnOver(this)"  onblur="FuncBtnOut(this)"  onmouseover="FuncBtnOver(this)"  onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)"  onmouseup="FuncBtnOut(this)"  id="Q_18_1_Btn"  onclick="CheckMCAnswer(18,1,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;0.18 J
+</li>
+<li id="Q_18_2">
+<button class="FuncButton"  onfocus="FuncBtnOver(this)"  onblur="FuncBtnOut(this)"  onmouseover="FuncBtnOver(this)"  onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)"  onmouseup="FuncBtnOut(this)"  id="Q_18_2_Btn"  onclick="CheckMCAnswer(18,2,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;0.27 J
+</li>
+<li id="Q_18_3">
+<button class="FuncButton"  onfocus="FuncBtnOver(this)"  onblur="FuncBtnOut(this)"  onmouseover="FuncBtnOver(this)"  onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)"  onmouseup="FuncBtnOut(this)"  id="Q_18_3_Btn"  onclick="CheckMCAnswer(18,3,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;0.41 J
+</li>
+<li id="Q_18_4">
+<button class="FuncButton"  onfocus="FuncBtnOver(this)"  onblur="FuncBtnOut(this)"  onmouseover="FuncBtnOver(this)"  onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)"  onmouseup="FuncBtnOut(this)"  id="Q_18_4_Btn"  onclick="CheckMCAnswer(18,4,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;0.81 J
+</li>
+</ol>
+</li>
+<li class="QuizQuestion" id="Q_19" style="display: none;">
+<div class="QuestionText">Le cariche elettriche che si trovano alla base di una nuvola distano dal terreno 1.0 km. L'intensit&agrave; del campo elettrico (supposto uniforme e diretto verticalmente) tra la base della nuvola e il terreno &egrave; di 2.0 x 10<sup>4</sup> N C<sup>-1</sup>. <br/><br/> Qual &egrave; la differenza di potenziale tra la base della nuvola e il terreno?</div>
+<ol class="MCAnswers">
+<li id="Q_19_0">
+<button class="FuncButton"  onfocus="FuncBtnOver(this)"  onblur="FuncBtnOut(this)"  onmouseover="FuncBtnOver(this)"  onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)"  onmouseup="FuncBtnOut(this)"  id="Q_19_0_Btn"  onclick="CheckMCAnswer(19,0,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;5.0 x 10<sup>-2</sup> V
+</li>
+<li id="Q_19_1">
+<button class="FuncButton"  onfocus="FuncBtnOver(this)"  onblur="FuncBtnOut(this)"  onmouseover="FuncBtnOver(this)"  onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)"  onmouseup="FuncBtnOut(this)"  id="Q_19_1_Btn"  onclick="CheckMCAnswer(19,1,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;2.0 x 10<sup>1</sup> V
+</li>
+<li id="Q_19_2">
+<button class="FuncButton"  onfocus="FuncBtnOver(this)"  onblur="FuncBtnOut(this)"  onmouseover="FuncBtnOver(this)"  onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)"  onmouseup="FuncBtnOut(this)"  id="Q_19_2_Btn"  onclick="CheckMCAnswer(19,2,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;2.0 x 10<sup>4</sup> V
+</li>
+<li id="Q_19_3">
+<button class="FuncButton"  onfocus="FuncBtnOver(this)"  onblur="FuncBtnOut(this)"  onmouseover="FuncBtnOver(this)"  onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)"  onmouseup="FuncBtnOut(this)"  id="Q_19_3_Btn"  onclick="CheckMCAnswer(19,3,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;2.0 x 10<sup>7</sup> V
+</li>
+<li id="Q_19_4">
+<button class="FuncButton"  onfocus="FuncBtnOver(this)"  onblur="FuncBtnOut(this)"  onmouseover="FuncBtnOver(this)"  onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)"  onmouseup="FuncBtnOut(this)"  id="Q_19_4_Btn"  onclick="CheckMCAnswer(19,4,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;1.3 x 10<sup>23</sup> V
+</li>
+</ol>
+</li></ol>
+
+
+
+
+<div id="QNav" class="QuestionNavigation">
+
+<p style="text-align: center;">
+<button id="ShowMethodButton" class="FuncButton" onfocus="FuncBtnOver(this)" onblur="FuncBtnOut(this)" onmouseover="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOver(this)" onclick="ShowHideQuestions(); return false;">Mostra tutte le domande</button>
+</p>
+<br />
+<div id="OneByOneReadout">
+<button id="PrevQButton" class="FuncButton" onfocus="FuncBtnOver(this)" onblur="FuncBtnOut(this)" onmouseover="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOver(this)" onclick="ChangeQ(-1); return false;">&lt;=</button>
+
+<span id="QNumReadout" class="QNum">&nbsp;</span>
+
+<button id="NextQButton" class="FuncButton" onfocus="FuncBtnOver(this)" onblur="FuncBtnOut(this)" onmouseover="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOver(this)" onclick="ChangeQ(1); return false;">=&gt;</button>
+<br />
+</div>
+
+
+
+<div class="Feedback" id="FeedbackDiv">
+<div class="FeedbackText" id="FeedbackContent"></div>
+<button id="FeedbackOKButton" class="FuncButton" onfocus="FuncBtnOver(this)" onblur="FuncBtnOut(this)" onmouseover="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="HideFeedback(); return false;">&nbsp;OK&nbsp;</button>
+</div>
+
+
+<!-- BeginBottomNavButtons -->
+
+
+
+<!-- EndBottomNavButtons -->
+
+<!-- BeginSubmissionForm -->
+
+<!-- EndSubmissionForm -->
+
+
+</div></div><br /><br />
+ </div><div class="indietro"><a href="../condensatori3.html"><img class="img" width="20" src="../../images/indietro.gif" alt="indietro" /></a></div><div class="avanti"><a href="../corrente.html"><img class="img" width="20" src="../../images/avanti.gif" alt="avanti" /></a></div>
+<div id="paginavanti"><a href="../corrente.html">Definizione di corrente</a></div>
+<div id="paginindietro"><a href="../condensatori3.html">Esercizi</a></div>
+	<br/></div>
+
+
+<div class="footer"></div>
+
+</div>
+<div id="footer"> <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/" target="NEW"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/80x15.png" /></a><br />Quest'opera &#232; pubblicata sotto <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/" target="NEW">Licenza Creative Commons</a>.</div>
+</body>
+</html>
+
+

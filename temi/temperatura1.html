@@ -1,0 +1,248 @@
+<!doctype html>
+<html lang="it">
+<head>
+<title>Temperatura e dilatazione termica</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="author" content="Danilo Mauro" />
+<meta name="description" content="Lezioni di fisica per le scuole medie superiori, Temperatura e dilatazione termica, Dilatazione lineare" />
+<script type="text/javascript" src="../drop_down.js"></script>
+<script>
+  function ChangeImage(imageName, newImageFile) {
+    // Find the object that represents the img element.
+    var image = document.getElementById(imageName)
+
+    // Change the picture.
+    image.src = newImageFile
+  }
+</script>
+
+<link rel="stylesheet" href="../style.css" type="text/css" />
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-34360049-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script><script>
+ function printPage(id)
+{
+   var html="<html>";
+   html+= document.getElementById(id).innerHTML;
+   html+="</html>";
+
+   var printWin = window.open('','','left=0,top=0,width=1,height=1,toolbar=0,scrollbars=0,status  =0');
+   printWin.document.write(html);
+   printWin.document.close();
+   printWin.focus();
+   printWin.print();
+   printWin.close();
+}
+</script>
+<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+<script type="text/javascript">stLight.options({publisher: "ur-53286b3d-c630-d5b4-80ec-616d1db82676", doNotHash: false, doNotCopy: false, hashAddressBar: false, });</script>
+</head>
+
+<body>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/it_IT/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<div id="header">
+	<img class="img" src="../images/paolo1.jpg" alt="Logo del sito MondoFisica" />
+</div>
+
+<div id="main">
+<div id="topMenu">
+			 	 			 	  	<ul id="primary-nav" class="menuList"> 
+<li style="border-top: 1px solid #FF3300;"><a
+ href="../index.html">HOME</a></li>
+ <li class="menubar"><a
+ href="../risorse.html" >RISORSE ESTERNE</a>
+  </li>
+  
+        <li class="menubar"><a href="../blog/indice.html"  target="new">CLASSI
+ ASSEGNATE</a>
+  </li>
+
+   <li class="titolo">Appunti</li>
+  <li class="menubar" style="border-top: 1px solid rgb(255, 51, 0);"><a
+ href="../temi/grandezze.html">GRANDEZZE FISICHE</a>
+    <ul>
+      <li style="border-top: 1px solid rgb(255, 51, 0);"><a
+ 		href="../temi/misure.html">Misure in fisica</a></li>
+      <li><a href="../temi/si.html">Spazio e tempo</a></li>
+      <li><a href="../temi/massa1.html">Massa e densit&agrave;</a></li>
+      <li><a href="../temi/massa.html">Forza-peso</a></li>
+      <li><a href="../temi/propdiretta.html">Forza elastica e geometria analitica</a></li>
+    </ul>
+  </li>
+  <li class="menubar"><a href="../temi/equilibrio.html">L'EQUILIBRIO</a>
+    <ul>
+      <li style="border-top: 1px solid rgb(255, 51, 0);"><a
+ 		href="../temi/vettori.html">Forze e vettori</a></li>
+      <li><a href="../temi/attrito.html">Forza d'attrito</a></li>
+      <li><a href="../temi/traslazioni.html">Equilibrio per traslazioni</a></li>
+      <li><a href="../temi/rotazioni.html">Equilibrio per rotazioni</a></li>
+      <li><a href="../temi/pressione.html">Equilibrio nei fluidi</a></li>
+    </ul>
+  </li>
+  <li class="menubar"><a href="../temi/movimento.html">IL MOVIMENTO</a>
+    <ul>
+      <li style="border-top: 1px solid rgb(255, 51, 0);"><a
+ 		href="../temi/cinematica.html">Cinematica</a></li>
+      <li><a href="../temi/circolare0.html">Moto circolare uniforme</a></li>
+      <li><a href="../temi/dinamica.html">Leggi della dinamica</a></li>
+      <li><a href="../temi/dinamica3b.html">Applicazioni della dinamica</a></li>
+    </ul>
+  </li>
+  <li class="menubar"><a href="../temi/energia.html">L'ENERGIA</a>
+    <ul>
+      <li style="border-top: 1px solid rgb(255, 51, 0);"><a
+ 		href="../temi/lavoro.html">Lavoro e potenza</a></li>
+      <li><a href="../temi/forme.html">Forme di energia</a></li>
+      <li><a href="../temi/conservazione.html">Conservazione dell'energia</a></li>
+      <li><a href="../temi/impulso.html">Impulso e quantità di moto</a></li>
+    </ul>
+  </li>
+  <li class="menubar"><a href="../temi/calore.html">IL CALORE</a>
+    <ul>
+      <li style="border-top: 1px solid rgb(255, 51, 0);"><a
+ href="../temi/temperatura.html">Temperatura e
+dilatazione termica</a></li>
+<li><a href="../temi/gasideali.html">Gas ideali</a></li>
+      <li><a href="../temi/calorespecifico.html">Calore specifico e latente</a></li>
+      <li><a href="../temi/macchine.html">Termodinamica</a></li>
+    </ul>
+  </li>
+  <li class="menubar"><a href="../temi/luce.html">OTTICA GEOMETRICA</a>
+    <ul>
+      <li style="border-top: 1px solid rgb(255, 51, 0);"><a
+ 		href="../temi/riflessione.html">Riflessione e specchi</a></li>
+      <li><a href="../temi/riflessione2.html">Rifrazione e lenti</a></li>
+    </ul>
+  </li>
+  <li class="menubar"><a href="../temi/em.html">L'ELETTRICIT&Agrave;</a>
+    <ul>
+      <li style="border-top: 1px solid rgb(255, 51, 0);"><a
+ 		href="../temi/carica.html">Carica elettrica</a></li>
+      <li><a href="../temi/condensatori.html">Condensatori</a></li>
+      <li><a href="../temi/corrente.html">Corrente elettrica</a></li>
+       </ul>
+  </li>
+  <li class="menubar"><a href="../temi/em1.html">MAGNETISMO ED ONDE</a>
+    <ul>
+      <li style="border-top: 1px solid rgb(255, 51, 0);"><a 
+        href="../temi/campob.html">Il campo magnetico</a></li>
+      <li><a href="../temi/induzione.html">Correnti indotte</a></li>
+      <li><a href="../temi/onde.html">Onde e suoni</a></li>
+      <li><a href="../temi/fonti0.html">Fonti di energia</a></li>
+    </ul>
+  </li>
+  <li class="titolo1">Video</li>
+</ul>
+<div style="border: 1px solid rgb(255, 51, 0); position: relative; width: 303px; height: 228px;"><a href="http://catalogo.museogalileo.it/multimedia/Termoscopio.html" class="highlightit" target="new" style="text-decoration: none;" rel="external" ><img src="../images/museogalileo.jpg" alt="Termoscopio" style="border-bottom: 1px solid rgb(255, 51, 0)" width="303" height="228"/></a></div>
+<br />
+<br />
+<br />
+<br />
+<div class="footer"></div></div>
+
+<div id="content">
+<div id="printable">
+<h1>Temperatura e dilatazione termica</h1>
+<div id="social"><a href="mailto:danilo.mauro@isismattiussipertini.edu.it" class="highlightit" rel="nofollow"  target="new"><img src="../images/mail.jpg" style="vertical-align: middle; border-width:0" alt="Mandami un e-mail" title="Mandami un e-mail"  width="30"   /></a>&nbsp;<a onclick="printPage('printable');" class="highlightit" rel="nofollow" target="new"><img src="../images/print.jpg" style="vertical-align: middle; border-width:0" alt="Manda in stampa" title="Manda in stampa"  width="30" /></a></div>
+<h2>Dilatazione lineare</h2>
+	
+<p>
+Come abbiamo detto nella precedente sezione, uno dei principi fisici su cui si basa la misura della temperatura con un termometro clinico &egrave; la <strong>dilatazione termica</strong> che in questa sezione andremo ad analizzare un po' pi&ugrave; in dettaglio. Quando vengono riscaldati i corpi si dilatano. Consideriamo ad esempio un'asta di lunghezza l<sub>0</sub> a una temperatura iniziale T<sub>0</sub>. Portiamo l'asta a una temperatura finale T in modo tale che la variazione di temperatura sia uguale a &Delta;T = T - T<sub>0</sub>. L'asta si allungher&agrave; di una quantit&agrave; pari a &Delta;l, come indicato nella figura seguente: 
+</p>
+<p>
+<img class="img1" width="180" src="../images/temperatura1.jpg" alt="Dilatazione termica di un'asta" />
+</p>
+<p>
+Sperimentalmente si verifica che l'allungamento &Delta;l &egrave; direttamente proporzionale alla lunghezza iniziale dell'asta l<sub>0</sub> e alla variazione della temperatura &Delta;T, ossia &Delta;l = &lambda; l<sub>0</sub> &Delta;T. Il coefficiente di proporzionalit&agrave; &lambda; prende il nome di <strong>coefficiente di dilatazione lineare</strong>. Dal momento che &lambda; = &Delta;l / (l<sub>0</sub> &middot; &Delta;T) avremo che il coefficiente di dilatazione lineare si misura in &deg;C<sup>-1</sup> oppure in K<sup>-1</sup> ed &egrave; numericamente uguale all'allungamento di una barra avente lunghezza 1 m quando viene riscaldata di 1 °C.
+</p>
+Il coefficiente di dilatazione lineare dipende dalla sostanza che prendiamo in esame. Nella tabella seguente riportiamo i valori di &lambda; per alcune sostanze:
+<br/><br/>
+<table class="table3" border="1">
+	<tr>
+		<td>Sostanza</td>
+		<td>Piombo</td>
+		<td>Alluminio</td>
+		<td>Ferro</td>
+		<td>Acciaio</td>
+	</tr>
+	<tr>
+		<td>&lambda; (&deg;C<sup>-1</sup>)</td>
+		<td>2.9&middot;10<sup>-5</sup></td>
+		<td>2.3&middot;10<sup>-5</sup></td>
+		<td>1.2&middot;10<sup>-5</sup></td>
+		<td>1.2&middot;10<sup>-5</sup></td>
+	</tr>
+</table>
+<p>
+La legge della dilatazione lineare pu&ograve; essere anche riscritta in termini della lunghezza finale l dell'asta: come segue:
+l = l<sub>0</sub> + &Delta;l = l<sub>0</sub> + &lambda; l<sub>0</sub> &Delta;T = 
+l<sub>0</sub> (1+ &lambda; &Delta;t).
+</p>
+<p>
+Con la legge della dilatazione termica lineare possiamo ad esempio calcolare di quanto si allunga un binario ferroviario in acciaio lungo 36 m quando viene sottoposto a un'escursione termica pari a 30&deg;C. Avremo &Delta;l = &lambda; &middot; l<sub>0</sub> &middot; &Delta;T = 1.2 &middot; 10<sup>-5</sup> &deg;C<sup>-1</sup> &middot; 36 m &middot; 30&deg;C = 0.013 m. La dilatazione termica comporta un allungamento del binario di circa 1.3 cm. Questo &egrave; il motivo per cui solitamente, nel costruire una rete ferroviaria, vengono lasciati degli spazi vuoti tra un binario e il successivo. Accorgimenti simili devono essere presi anche nel costruire un ponte, dal momento che il cemento armato ha coefficiente di dilatazione lineare &lambda; = 1.4 &middot; 10<sup>-5</sup> &deg;C<sup>-1</sup>.
+</p>
+<p>
+Un'utile applicazione della dilatazione termica &egrave; costituita dalla <strong>lamina bimetallica</strong>, costituita da due strati sovrapposti di metalli aventi coefficienti di dilatazione lineare diversi. Quando una lamina bimetallica viene riscaldata si piega in maniera da garantire al metallo con &lambda; maggiore una dilatazione termica maggiore, ossia con la convessit&agrave; dalla parte del materiale pi&ugrave; dilatabile. Le lamine bimetalliche possono essere utilizzate ad esempio come elementi di un termostato: infatti piegandosi possono aprire il circuito elettrico del termostato e spegnere l'impianto di riscaldamento di una casa. 
+</p> </div>
+<script type="text/javascript">
+function Calcoladilatazione(coefficiente, lunghezza, temperatura, resultElementName) {
+coefficiente = Number(coefficiente)
+lunghezza = Number(lunghezza)
+temperatura = Number(temperatura)
+var resultElement = document.getElementById(resultElementName)
+resultElement.innerHTML =
+Math.round(0.01 * coefficiente * lunghezza * temperatura)
+}
+</script>
+<form >
+<p><strong>Form interattivo</strong>: Considera un'asta metallica, inserisci il coefficiente di dilatazione lineare del materiale, la lunghezza iniziale e la variazione di temperatura per trovare la dilatazione lineare dell'asta.</p>
+<table>
+<tr>
+<td><label for="coefficiente">Coefficiente &lambda;&nbsp;</label></td>
+<td><input type="text" name="coefficiente" id="coefficiente" value="&nbsp;"/> x 10<sup>-5</sup> °C<sup>-1</sup></td>
+</tr>
+<tr>
+<td><label for="lunghezza">Lunghezza iniziale&nbsp;</label></td>
+<td><input type="text" name="lunghezza" id="lunghezza" value="&nbsp;"/> m</td>
+</tr>
+<tr>
+<td><label for="temperatura">Variazione di temperatura&nbsp;</label></td>
+<td><input type="text" name="temperatura" id="temperatura" value="&nbsp;"/>°C</td>
+</tr>
+</table>
+<p>
+<input type="button" name="calc" 
+value="Calcola"onclick="Calcoladilatazione(this.form.coefficiente.value, this.form.lunghezza.value, this.form.temperatura.value,'result')" />
+</p>
+<p>
+La dilatazione dell'asta &egrave; pari a <span id="result"></span> mm.
+</p>
+
+</form>
+<div class="indietro"><a href="temperatura.html"><img class="img" width="20" src="../images/indietro.gif" alt="indietro" /></a></div><div class="avanti"><a href="temperatura2.html"><img class="img" width="20" src="../images/avanti.gif" alt="avanti" /></a></div>
+<div id="paginavanti"><a href="temperatura2.html">Dilatazione volumica</a></div>
+<div id="paginindietro"><a href="temperatura.html">Scale termometriche</a></div>
+<br/></div><div class="footer"></div>
+</div>
+
+
+<div id="footer"> <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/" target="NEW"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/80x15.png" /></a><br />Quest'opera &#232; pubblicata sotto <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/" target="NEW">Licenza Creative Commons</a>.</div>
+</body>
+</html>

@@ -1,0 +1,192 @@
+<!doctype html>
+<html lang="it">
+<head>
+<title>Temperatura e dilatazione termica</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="author" content="Danilo Mauro" />
+<meta name="description" content="Lezioni di fisica per le scuole medie superiori, Temperatura e dilatazione termica, Dilatazione volumica" />
+<script type="text/javascript" src="../drop_down.js"></script>
+<script>
+  function ChangeImage(imageName, newImageFile) {
+    // Find the object that represents the img element.
+    var image = document.getElementById(imageName)
+
+    // Change the picture.
+    image.src = newImageFile
+  }
+</script>
+
+<link rel="stylesheet" href="../style.css" type="text/css" />
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-34360049-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script><script>
+ function printPage(id)
+{
+   var html="<html>";
+   html+= document.getElementById(id).innerHTML;
+   html+="</html>";
+
+   var printWin = window.open('','','left=0,top=0,width=1,height=1,toolbar=0,scrollbars=0,status  =0');
+   printWin.document.write(html);
+   printWin.document.close();
+   printWin.focus();
+   printWin.print();
+   printWin.close();
+}
+</script>
+<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+<script type="text/javascript">stLight.options({publisher: "ur-53286b3d-c630-d5b4-80ec-616d1db82676", doNotHash: false, doNotCopy: false, hashAddressBar: false, });</script>
+</head>
+
+<body>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/it_IT/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<div id="header">
+	<img class="img" src="../images/paolo1.jpg" alt="Logo del sito MondoFisica" />
+</div>
+
+<div id="main">
+<div id="topMenu">
+			 	 			 	  	<ul id="primary-nav" class="menuList"> 
+<li style="border-top: 1px solid #FF3300;"><a
+ href="../index.html">HOME</a></li>
+ <li class="menubar"><a
+ href="../risorse.html" >RISORSE ESTERNE</a>
+  </li>
+  
+        <li class="menubar"><a href="../blog/indice.html"  target="new">CLASSI
+ ASSEGNATE</a>
+  </li>
+
+   <li class="titolo">Appunti</li>
+  <li class="menubar" style="border-top: 1px solid rgb(255, 51, 0);"><a
+ href="../temi/grandezze.html">GRANDEZZE FISICHE</a>
+    <ul>
+      <li style="border-top: 1px solid rgb(255, 51, 0);"><a
+ 		href="../temi/misure.html">Misure in fisica</a></li>
+      <li><a href="../temi/si.html">Spazio e tempo</a></li>
+      <li><a href="../temi/massa1.html">Massa e densit&agrave;</a></li>
+      <li><a href="../temi/massa.html">Forza-peso</a></li>
+      <li><a href="../temi/propdiretta.html">Forza elastica e geometria analitica</a></li>
+    </ul>
+  </li>
+  <li class="menubar"><a href="../temi/equilibrio.html">L'EQUILIBRIO</a>
+    <ul>
+      <li style="border-top: 1px solid rgb(255, 51, 0);"><a
+ 		href="../temi/vettori.html">Forze e vettori</a></li>
+      <li><a href="../temi/attrito.html">Forza d'attrito</a></li>
+      <li><a href="../temi/traslazioni.html">Equilibrio per traslazioni</a></li>
+      <li><a href="../temi/rotazioni.html">Equilibrio per rotazioni</a></li>
+      <li><a href="../temi/pressione.html">Equilibrio nei fluidi</a></li>
+    </ul>
+  </li>
+  <li class="menubar"><a href="../temi/movimento.html">IL MOVIMENTO</a>
+    <ul>
+      <li style="border-top: 1px solid rgb(255, 51, 0);"><a
+ 		href="../temi/cinematica.html">Cinematica</a></li>
+      <li><a href="../temi/circolare0.html">Moto circolare uniforme</a></li>
+      <li><a href="../temi/dinamica.html">Leggi della dinamica</a></li>
+      <li><a href="../temi/dinamica3b.html">Applicazioni della dinamica</a></li>
+    </ul>
+  </li>
+  <li class="menubar"><a href="../temi/energia.html">L'ENERGIA</a>
+    <ul>
+      <li style="border-top: 1px solid rgb(255, 51, 0);"><a
+ 		href="../temi/lavoro.html">Lavoro e potenza</a></li>
+      <li><a href="../temi/forme.html">Forme di energia</a></li>
+      <li><a href="../temi/conservazione.html">Conservazione dell'energia</a></li>
+      <li><a href="../temi/impulso.html">Impulso e quantità di moto</a></li>
+    </ul>
+  </li>
+  <li class="menubar"><a href="../temi/calore.html">IL CALORE</a>
+    <ul>
+      <li style="border-top: 1px solid rgb(255, 51, 0);"><a
+ href="../temi/temperatura.html">Temperatura e
+dilatazione termica</a></li>
+<li><a href="../temi/gasideali.html">Gas ideali</a></li>
+      <li><a href="../temi/calorespecifico.html">Calore specifico e latente</a></li>
+      <li><a href="../temi/macchine.html">Termodinamica</a></li>
+    </ul>
+  </li>
+  <li class="menubar"><a href="../temi/luce.html">OTTICA GEOMETRICA</a>
+    <ul>
+      <li style="border-top: 1px solid rgb(255, 51, 0);"><a
+ 		href="../temi/riflessione.html">Riflessione e specchi</a></li>
+      <li><a href="../temi/riflessione2.html">Rifrazione e lenti</a></li>
+    </ul>
+  </li>
+  <li class="menubar"><a href="../temi/em.html">L'ELETTRICIT&Agrave;</a>
+    <ul>
+      <li style="border-top: 1px solid rgb(255, 51, 0);"><a
+ 		href="../temi/carica.html">Carica elettrica</a></li>
+      <li><a href="../temi/condensatori.html">Condensatori</a></li>
+      <li><a href="../temi/corrente.html">Corrente elettrica</a></li>
+       </ul>
+  </li>
+  <li class="menubar"><a href="../temi/em1.html">MAGNETISMO ED ONDE</a>
+    <ul>
+      <li style="border-top: 1px solid rgb(255, 51, 0);"><a 
+        href="../temi/campob.html">Il campo magnetico</a></li>
+      <li><a href="../temi/induzione.html">Correnti indotte</a></li>
+      <li><a href="../temi/onde.html">Onde e suoni</a></li>
+      <li><a href="../temi/fonti0.html">Fonti di energia</a></li>
+    </ul>
+  </li>
+  <li class="titolo1">Convertitore (da www.oppo.it)</li>
+</ul>
+<div style="border: 1px solid rgb(255, 51, 0); position: relative; width: 303px; height: 228px;"><a href="http://www.oppo.it/calcoli/um/temperatura.htm" class="highlightit" target="new" style="text-decoration: none;" rel="external" ><img src="../images/oppo.jpg" alt="Convertitore di unità di misura di temperatura" style="border-bottom: 1px solid rgb(255, 51, 0)" width="303" height="228"/></a></div>
+<br />
+<br />
+<br />
+<br />
+<div class="footer"></div></div>
+
+<div id="content">
+<div id="printable"><h1>Temperatura e dilatazione termica</h1>
+<div id="social"><a href="mailto:danilo.mauro@isismattiussipertini.edu.it" class="highlightit" rel="nofollow"  target="new"><img src="../images/mail.jpg" style="vertical-align: middle; border-width:0" alt="Mandami un e-mail" title="Mandami un e-mail"  width="30"   /></a>&nbsp;<a onclick="printPage('printable');" class="highlightit" rel="nofollow" target="new"><img src="../images/print.jpg" style="vertical-align: middle; border-width:0" alt="Manda in stampa" title="Manda in stampa"  width="30" /></a></div>
+<h2>Esercizi</h2>
+	
+<ol>
+<li><p><strong>Quesito</strong>: Una singola rotaia del treno misura 36 m. Le intercapedini tra una rotaia e la successiva misurano 2 cm a 0&deg;C. Le intercapedini si toccano a una temperatura pari a 55&deg;C. Si calcoli quanto vale il coefficiente di dilatazione lineare della rotaia.</p>
+<p>
+<strong>Risposta</strong>: Dal testo del problema possiamo ricavare i seguenti dati: la lunghezza iniziale della rotaia l<sub>0</sub> = 36 m, la temperatura iniziale T<sub>0</sub> = 0&deg;C, e la temperatura finale T = 55&deg;C. Pertanto la variazione di temperatura &egrave; &Delta;T = 55&deg;C. L'allungamento &Delta;l subito dalla rotaia coincide invece con la lunghezza dell'intercapedine: &Delta;l = 2 cm. Dobbiamo ora applicare la formula della <a href="temperatura1.html">dilatazione lineare</a> &Delta;l = &lambda; &middot; l<sub>0</sub> &middot; &Delta;T. Se invertiamo tale relazione otteniamo facilmente &lambda; = &Delta;l / (l<sub>0</sub> &middot; &Delta;T). Come al solito, prima di sostituire i valori numerici, dobbiamo fare in modo che l'allungamento e la lunghezza iniziale siano espressi nella stessa unit&agrave; di misura. Ad esempio, &Delta;l = 2 cm = 0.02 m. Sostituendo nella formula di &lambda;, otteniamo finalmente  il coefficiente di dilatazione termica: &lambda; = 0.02 m / (36 m &middot; 55&deg;C) = 1.0 &middot; 10<sup>-5</sup> &deg;C<sup>-1</sup>.
+</p>
+</li>
+<li>
+<p><strong>Quesito</strong>: Un cubo di metallo di volume 3 dm<sup>3</sup> viene portato dalla temperatura di 0&deg;C alla temperatura di 60&deg;C e il suo volume aumenta di 2 cm<sup>3</sup>. Di quanto sarebbe aumentato il volume se la temperatura finale fosse stata di 30&deg;C? E se il volume iniziale fosse stato di 6 dm<sup>3</sup>?</p>
+<p><strong>Risposta</strong>: Usando i dati del problema l'aumento di temperatura &egrave; &Delta;T = 60&deg;C. Se la temperatura finale fosse invece pari a T = 30&deg;C, l'aumento di temperatura risulterebbe essere &Delta;T = 30&deg;C, ossia la met&agrave; rispetto al caso precedente. Dal momento che la <a href="temperatura2.html">dilatazione volumica</a> &egrave; direttamente proporzionale all'aumento di temperatura &Delta;T, anche l'aumento di volume diventer&agrave; la met&agrave;, ossia &Delta;V = 1 cm<sup>3</sup>. <br>
+Se invece teniamo fisso l'aumento di temperatura &Delta;T = 60&deg;C e raddoppiamo il volume iniziale V<sub>0</sub> = 6 dm<sup>3</sup> anche la dilatazione volumica raddoppia, &Delta;V = 4 cm<sup>3</sup>, poich&eacute; l'aumento di volume &egrave; direttamente proporzionale al volume iniziale V<sub>0</sub>.</p></li>
+<li>
+<p><strong>Quesito</strong>: Consideriamo un parallelepipedo di alluminio di 20 cm &middot; 15 cm &middot; 10 cm a una temperatura di 0&deg;C. Il parallelepipedo viene riscaldato fino a una temperatura di 350&deg;C. Calcolare il volume finale del parallelepipedo. 
+</p>
+<p><strong>Risposta</strong>: 
+Dai dati che abbiamo, possiamo calcolare subito il volume iniziale del parallelepipedo: V<sub>0</sub> = (20 &middot; 15 &middot; 10) cm<sup>3</sup> = 3 &middot; 10<sup>3</sup> cm<sup>3</sup> = 3 dm<sup>3</sup>. La variazione di temperatura &egrave; &Delta;T = 350&deg;C. Inoltre il fatto che il parallelepipedo sia di alluminio fissa univocamente il valore del coefficiente di dilatazione volumica &lambda; = 2.3 &middot; 10<sup>-5</sup> &deg;C<sup>-1</sup>. La dilatazione volumica del parallelepipedo &egrave; pari a &Delta;V = 3 &middot; &lambda; &middot; V<sub>0</sub> &middot; &Delta;T = 0.0725 dm<sup>3</sup>. Il volume finale del parallelepipedo diventa V = V<sub>0</sub> + &Delta;V = 3.0725 dm<sup>3</sup>.
+</p>
+</li>
+</ol>
+ </div><div class="indietro"><a href="temperatura2.html"><img class="img" width="20" src="../images/indietro.gif" alt="indietro" /></a></div><div class="avanti"><a href="gasideali.html"><img class="img" width="20" src="../images/avanti.gif" alt="avanti" /></a></div>
+<div id="paginavanti"><a href="gasideali.html">Legge di Boyle</a></div>
+<div id="paginindietro"><a href="temperatura2.html">Dilatazione volumica</a></div>
+<br/></div><div class="footer"></div>
+</div>
+
+
+<div id="footer"> <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/" target="NEW"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/80x15.png" /></a><br />Quest'opera &#232; pubblicata sotto <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/" target="NEW">Licenza Creative Commons</a>.</div>
+</body>
+</html>

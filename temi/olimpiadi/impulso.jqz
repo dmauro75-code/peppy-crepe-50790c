@@ -1,0 +1,1557 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<hotpot-jquiz-file>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description rdf:about="">
+</rdf:Description>
+</rdf:RDF>
+<version>6</version>
+<data>
+<title>Impulso e quantit&amp;#x00e0; di moto</title>
+<timer>
+<include-timer>0</include-timer>
+<seconds>59</seconds>
+</timer>
+<reading>
+<reading-text></reading-text>
+<include-reading>0</include-reading>
+<reading-title></reading-title>
+</reading>
+<questions>
+<question-record>
+<question>A un certo istante, un proiettile di massa 100 g, dopo aver superato il punto pi&amp;#x00f9; alto della sua traiettoria, ha una velocit&amp;#x00e0; di modulo 500 m s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E; inclinata rispetto all&apos;orizzontale di un angolo &amp;#x0026;alpha;, tale che tan &amp;#x0026;alpha; = 4/3. 
+Nello stesso istante il proiettile esplode in due parti, una delle quali di 60 g, si allontana con una velocit&amp;#x00e0; orizzontale di 500 m s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E;.
+
+Di conseguenza, la velocit&amp;#x00e0; dell&apos;altro frammento, nello stesso istante, &amp;#x00e8; . . .</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>. . . 500 m s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E; nella stessa direzione, ma verso opposto alla velocit&amp;#x00e0; della prima.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>. . . 1000 m s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E; in direzione verticale.</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>. . . 500 m s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E; nella stessa direzione e verso della prima.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>. . . 400 m s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E; in direzione verticale.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>. . . zero: si ferma.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Quale delle seguenti terne di grandezze fisiche contiene due grandezze vettoriali e una sola grandezza scalare?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>Tempo, lavoro e forza.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Accelerazione, massa e quantit&amp;#x00e0; di moto.</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Velocit&amp;#x00e0;, forza e quantit&amp;#x00e0; di moto.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Accelerazione, velocit&amp;#x00e0; e momento della quantit&amp;#x00e0; di moto.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Densit&amp;#x00e0;, energia cinetica e quantit&amp;#x00e0; di moto.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text></text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Sulla maggior parte delle automobili viene adesso montato il dispositivo noto come &quot;&amp;#x003C;i&amp;#x003E;airbag&amp;#x003C;/i&amp;#x003E;&quot; che si gonfia automaticamente e istantaneamente in caso di urto contro un ostacolo. 
+
+&amp;#x003C;img src=&quot;0134.jpg&quot; alt=&quot;&quot; title=&quot;&quot;  width=&quot;200&quot; height=&quot;120&quot; /&amp;#x003E;
+
+Lo scopo dell&apos;&amp;#x003C;i&amp;#x003E;airbag&amp;#x003C;/i&amp;#x003E; &amp;#x00e8; quello di proteggere il guidatore. . .</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>. . . aumentando la variazione della sua quantit&amp;#x00e0; di moto per unit&amp;#x00e0; di tempo.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>. . . riducendo la variazione della sua quantit&amp;#x00e0; di moto per unit&amp;#x00e0; di tempo.</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>. . . riducendo la sua velocit&amp;#x00e0; finale.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>. . . riducendo la variazione totale della sua quantit&amp;#x00e0; di moto.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>. . . aumentando la variazione totale della sua quantit&amp;#x00e0; di moto.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Due sfere uguali, ciascuna di massa &amp;#x003C;i&amp;#x003E;m&amp;#x003C;/i&amp;#x003E;, si muovono con velocit&amp;#x00e0; di modulo &amp;#x003C;i&amp;#x003E;v&amp;#x003C;/i&amp;#x003E; l&apos;una verso l&apos;altra; se l&apos;urto tra le sfere &amp;#x00e8; centrale ed elastico, allora . . . 
+1 - . . . la somma della quantit&amp;#x00e0; di moto prima dell&apos;urto &amp;#x00e8; &amp;#x003C;i&amp;#x003E;2mv&amp;#x003C;/i&amp;#x003E;.
+2 - . . . la somma delle energie cinetiche prima dell&apos;urto &amp;#x00e8; &amp;#x003C;i&amp;#x003E;mv&amp;#x003C;sup&amp;#x003E;2&amp;#x003C;/sup&amp;#x003E;&amp;#x003C;/i&amp;#x003E;.
+3 - . . . la somma delle energie cinetiche dopo l&apos;urto &amp;#x00e8; zero.
+
+Quale o quali delle precedenti affermazioni sono corrette?
+
+&amp;#x003C;img src=&quot;0135.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;300&quot; height=&quot;120&quot; /&amp;#x003E;</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>Solo la 1.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Solo la 2.</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Solo la 3.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Solo la 2 e la 3.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Solo la 1 e la 2.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Si scelga quale, tra le seguenti coppie, comprende una grandezza vettoriale e una grandezza scalare.</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>Spostamento e accelerazione.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Forza ed energia cinetica.</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Potenza e massa.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Lavoro ed energia potenziale.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Velocit&amp;#x00e0; e quantit&amp;#x00e0; di moto.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Due satelliti si urtano, nello spazio, anelasticamente. 
+
+Cosa accade all&apos;energia cinetica e alla quantit&amp;#x00e0; di moto totale dei due satelliti?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>L&apos;energia cinetica totale si conserva e la quantit&amp;#x00e0; di moto totale si conserva.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>L&apos;energia cinetica totale si conserva e la quantit&amp;#x00e0; di moto totale aumenta.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>L&apos;energia cinetica totale si riduce e la quantit&amp;#x00e0; di moto totale si conserva.</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>L&apos;energia cinetica totale si conserva e la quantit&amp;#x00e0; di moto totale aumenta.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>L&apos;energia cinetica totale si riduce e la quantit&amp;#x00e0; di moto totale si riduce.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Una pallina da golf viene fatta cadere da ferma sopra un pavimento rigido. Essa rimbalza fino ad un&apos;altezza pi&amp;#x00f9; bassa rispetto al punto di caduta perch&amp;#x00e9; perde energia durante l&apos;urto con il pavimento. La pallina viene afferrata nel punto pi&amp;#x00f9; alto del suo primo rimbalzo. 
+I grafici seguenti rappresentano come varia, durante la caduta ed il rimbalzo, una certa grandezza fisica, &amp;#x003C;i&amp;#x003E;y&amp;#x003C;/i&amp;#x003E; in funzione del tempo. 
+Si pu&amp;#x00f2; assumere che gli effetti della resistenza dell&apos;aria siano trascurabili. 
+
+Quale di questi grafici rappresenta meglio come varia la quantit&amp;#x00e0; di moto della pallina, in funzione del tempo, durante la caduta e il rimbalzo?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>&amp;#x003C;img src=&quot;0224a.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;120&quot; height=&quot;140&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;0224b.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;120&quot; height=&quot;140&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;0224c.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;120&quot; height=&quot;140&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;0224d.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;120&quot; height=&quot;140&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;0224e.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;120&quot; height=&quot;140&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Se &amp;#x003C;i&amp;#x003E;p&amp;#x003C;/i&amp;#x003E; &amp;#x00e8; la quantit&amp;#x00e0; di moto di un corpo di massa &amp;#x003C;i&amp;#x003E;m&amp;#x003C;/i&amp;#x003E;, l&apos;espressione &amp;#x003C;i&amp;#x003E;p&amp;#x003C;sup&amp;#x003E;2&amp;#x003C;/sup&amp;#x003E; / m&amp;#x003C;/i&amp;#x003E; ha le dimensioni fisiche di . . .</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>. . . un&apos;accelerazione.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>. . . un&apos;energia.</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>. . . una forza.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>. . . una potenza.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>. . . una velocit&amp;#x00e0;.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Un cannone di massa 1 000 kg, montato su ruote, spara orizzontalmente un proiettile di massa 10 kg con una velocit&amp;#x00e0; di 100 m s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E;, verso est. 
+
+La velocit&amp;#x00e0; di rinculo del cannone, subito dopo lo sparo, &amp;#x00e8;</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>0</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>1 m s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E;, verso est.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>1 m s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E;, verso ovest.</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>10 m s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E;, verso est.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>10 m s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E;, verso ovest.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Sei carrelli identici sono attaccati uno all&apos;altro e si trovano in quiete su una rotaia orizzontale. Un settimo carrello, identico ai precedenti, che viaggia ad 1 m s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E; urta i carrelli fermi rimanendovi attaccato. 
+
+Trascurando effetti di attrito, la velocit&amp;#x00e0; con cui i sette carrelli iniziano a muoversi &amp;#x00e8;, in m s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E;, ...</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>... 1</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>... 1/&amp;#x0026;radic; 7</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>... 1/6</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>... 1/7</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>... 6/7</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>La massa di un uomo di corporatura media &amp;#x00e8; di 70 kg.
+
+Tra le seguenti grandezze quali sono stimate correttamente?
+
+1 - Quando cammina speditamente, la sua energia cinetica &amp;#x00e8; di 70 J.
+2 - Quando corre velocemente, la sua quantit&amp;#x00e0; di moto &amp;#x00e8; di 70 N s.
+3 - Quando sta fermo in piedi, la pressione esercitata sul suolo &amp;#x00e8; di 70 Pa.</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>Tutte e tre</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Solo la 1 e la 2</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Solo la 2 e la 3</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Solo la 1</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Solo la 3</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Un oggetto &amp;#x00e8; lanciato verticalmente verso l&apos;alto a una data velocit&amp;#x00e0;.
+
+Trascurando la resistenza dell&apos;aria e la variazione dell&apos;accelerazione di gravit&amp;#x00e0; con l&apos;altezza, quale delle seguenti affermazioni &amp;#x00e8; corretta?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>L&apos;energia cinetica dell&apos;oggetto &amp;#x00e8; massima alla massima altezza raggiunta.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Se la velocit&amp;#x00e0; iniziale raddoppia, la massima altezza raggiunta &amp;#x00e8; quattro volte maggiore.</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>La quantit&amp;#x00e0; di moto dell&apos;oggetto &amp;#x00e8; costante durante il moto.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>L&apos;oggetto percorre distanze uguali in tempi uguali sia durante la salita che durante la discesa.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>L&apos;energia potenziale dell&apos;oggetto cresce della stessa quantit&amp;#x00e0; ogni secondo durante la salita.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Il momento d&apos;inerzia ha come dimensioni ...</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>... [M][L][T]</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>... [M][L]&amp;#x003C;sup&amp;#x003E;2&amp;#x003C;/sup&amp;#x003E;[T]&amp;#x003C;sup&amp;#x003E;-2&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>... [M][L]&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E;[T]&amp;#x003C;sup&amp;#x003E;-2&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>... [M][L]&amp;#x003C;sup&amp;#x003E;2&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>... [M][L]&amp;#x003C;sup&amp;#x003E;2&amp;#x003C;/sup&amp;#x003E;[T]&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Una palla di massa 0.6 kg, inizialmente ferma, viene colpita con una mazza di legno. La palla rimane in contatto con la mazza per 0.2 s e quando se ne discosta la sua velocit&amp;#x00e0; &amp;#x00e8; di 25 m s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E;.
+
+Quanto vale l&apos;intensit&amp;#x00e0; media della forza esercitata dalla palla sulla mazza?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>3 N</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>8.3 N</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>15 N</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>75 N</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>150 N</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>In figura sono mostrati due carrelli posti su una superficie orizzontale priva di attrito, mentre sono spinti via da una molla che viene fatta scattare.
+
+&amp;#x003C;img src=&quot;0432.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;300&quot; height=&quot;100&quot; /&amp;#x003E;
+
+Il carrello A ha una massa di 3 kg, quello B di 5 kg. Il primo si muove con una velocit&amp;#x00e0; di 0.33 m s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E;.
+
+Se inizialmente i carrelli erano fermi, qual &amp;#x00e8; la velocit&amp;#x00e0; del carrello B?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>0.12 m s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>0.20 m s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>0.27 m s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>0.33 m s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>0.55 m s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Un oggetto di massa pari a 2 kg che si sta muovendo ad una velocit&amp;#x00e0; di 10 m s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E; in direzione nord subisce un urto perfettamente elastico con un oggetto di massa pari a 5 kg che sta viaggiando ad una velocit&amp;#x00e0; di 4 m s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E; verso sud. 
+
+Quanto vale la quantit&amp;#x00e0; di moto totale del sistema dei due oggetti immediatamente dopo l&apos;urto?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>0</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>20 kg m s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E;, verso nord</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>20 kg m s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E;, verso sud</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>40 kg m s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E;, verso nord</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>40 kg m s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E;, verso sud</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>La figura rappresenta il grafico di una forza &amp;#x003C;i&amp;#x003E;F&amp;#x003C;sub&amp;#x003E;x&amp;#x003C;/sub&amp;#x003E;(t)&amp;#x003C;/i&amp;#x003E; che dipende dal tempo e che agisce su una particella che si sta muovendo lungo una direzione &amp;#x003C;i&amp;#x003E;x&amp;#x003C;/i&amp;#x003E;.
+
+&amp;#x003C;img src=&quot;0530.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;180&quot; height=&quot;180&quot; /&amp;#x003E;
+
+Quanto vale l&apos;impulso totale trasmesso alla particella?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>0</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>1 kg m s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>2 kg m s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>3 kg m s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>4 kg m s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Una particella di massa &amp;#x003C;i&amp;#x003E;m&amp;#x003C;/i&amp;#x003E;, che inizialmente si sta muovendo lungo l&apos;asse &amp;#x003C;i&amp;#x003E;x&amp;#x003C;/i&amp;#x003E; con una velocit&amp;#x00e0; &amp;#x003C;i&amp;#x003E;v&amp;#x003C;/i&amp;#x003E;, urta una particella di massa &amp;#x003C;i&amp;#x003E;2m&amp;#x003C;/i&amp;#x003E; inizialmente ferma. In seguito all&apos;urto la prima particella si ferma, mentre la seconda particella si divide in due parti di uguale massa che si muovono in direzioni che formano uno stesso angolo &amp;#x0026;theta; (diverso da zero) con l&apos;asse &amp;#x003C;i&amp;#x003E;x&amp;#x003C;/i&amp;#x003E;, come mostrato in figura. 
+
+&amp;#x003C;img src=&quot;0607.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;270&quot; height=&quot;120&quot; /&amp;#x003E;
+
+Quale delle seguenti affermazioni descrive correttamente la velocit&amp;#x00e0; delle due parti?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>Entrambe le parti si muovono con velocit&amp;#x00e0; &amp;#x003C;i&amp;#x003E;v&amp;#x003C;/i&amp;#x003E;.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Una delle due parti si muove con velocit&amp;#x00e0; &amp;#x003C;i&amp;#x003E;v&amp;#x003C;/i&amp;#x003E;, l&apos;altra con velocit&amp;#x00e0; minore di &amp;#x003C;i&amp;#x003E;v&amp;#x003C;/i&amp;#x003E;.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Entrambe le parti si muovono con velocit&amp;#x00e0; &amp;#x003C;i&amp;#x003E;v/2&amp;#x003C;/i&amp;#x003E;.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Una delle due parti si muove con velocit&amp;#x00e0; &amp;#x003C;i&amp;#x003E;v/2&amp;#x003C;/i&amp;#x003E;, l&apos;altra con velocit&amp;#x00e0; maggiore di &amp;#x003C;i&amp;#x003E;v/2&amp;#x003C;/i&amp;#x003E;.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Entrambe le parti si muovono con velocit&amp;#x00e0; maggiore di &amp;#x003C;i&amp;#x003E;v/2&amp;#x003C;/i&amp;#x003E;.</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>In un urto unidimensionale non relativistico, una particella di massa &amp;#x003C;i&amp;#x003E;2m&amp;#x003C;/i&amp;#x003E; colpisce una particella di massa &amp;#x003C;i&amp;#x003E;m&amp;#x003C;/i&amp;#x003E; inizalmente ferma. 
+
+Se le particelle rimangono unite dopo l&apos;urto, quale frazione dell&apos;energia cinetica iniziale viene persa nell&apos;urto?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>0</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>1/4</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>1/3</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>1/2</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>2/3</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Il grafico mostra l&apos;andamento della velocit&amp;#x00e0; in funzione del tempo per due corpi A e B che si urtano frontalmente in maniera elastica. Si supponga che la risultante delle forze esterne agenti sul sistema dei due corpi sia nulla. 
+
+&amp;#x003C;img src=&quot;0705.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;180&quot; height=&quot;180&quot; /&amp;#x003E;
+
+Quali, tra le seguenti affermazioni, sono corrette?
+
+1 - Dopo l&apos;urto A e B si muovono nello stesso verso. 
+2 - Le velocit&amp;#x00e0; A e B sono uguali nell&apos;istante centrale della collisione. 
+3 - La massa di B &amp;#x00e8; maggiore di quella di A.</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>Solo la 1.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Solo la 2.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Solo la 1 e la 2.</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Solo la 2 e la 3.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Tutte e tre.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Su una rotaia a cuscino d&apos;aria, orizzontale, un carrello A di massa 1.5 kg urta contro un carrello B di massa 2.0 kg inizialmente fermo (si veda la figura). Al carrello B &amp;#x00e8; attaccato un respingente a molla. 
+
+&amp;#x003C;img src=&quot;0508.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;240&quot; height=&quot;120&quot; /&amp;#x003E;
+
+La distanza tra i due carrelli raggiunge il suo valore minimo. . .</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>. . . quando il carrello B &amp;#x00e8; ancora fermo.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>. . . quando il carrello A si arresta.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>. . . quando i due carrelli hanno la stessa energia cinetica.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>. . . quando i due carrelli hanno la stessa quantit&amp;#x00e0; di moto.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>. . . quando l&apos;energia cinetica del sistema raggiunge il suo valore minimo.</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>La risultante di tutte le forze esterne che agiscono su un sistema di particelle &amp;#x00e8; nulla. 
+
+Quale delle seguenti affermazioni &amp;#x00e8; sicuramente vera per il sistema di particelle?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>L&apos;energia meccanica totale &amp;#x00e8; costante.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>L&apos;energia potenziale totale &amp;#x00e8; costante.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>L&apos;energia cinetica totale &amp;#x00e8; costante.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>La quantit&amp;#x00e0; di moto totale &amp;#x00e8; costante.</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Il sistema di particelle si trova in una situazione di equilibrio statico.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>L&apos;anello e il disco mostrati in figura sono omogenei, hanno la stessa massa e lo stesso raggio esterno; inizialmente rotolano, senza strisciare, con la stessa velocit&amp;#x00e0; sul piano orizzontale e non sono collegati tra loro. 
+
+&amp;#x003C;img src=&quot;0725.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;240&quot; height=&quot;120&quot; /&amp;#x003E;
+
+Se entrambi gli oggetti continuano a rotolare senza scivolare salendo lungo il piano inclinato, quale dei due percorrer&amp;#x00e0; un tratto maggiore prima di fermarsi?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>L&apos;anello.</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Il disco.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>L&apos;anello e il disco percorreranno lo stesso tratto.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Dipende dall&apos;angolo di inclinazione del piano inclinato.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Dipende dalla lunghezza del piano inclinato.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Il grafico della velocit&amp;#x00e0; in funzione del tempo in figura rappresenta il moto di un carrello di massa 3 kg che descrive una traiettoria rettilinea. 
+
+&amp;#x003C;img src=&quot;0739.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;200&quot; height=&quot;200&quot; /&amp;#x003E;
+
+Quanto vale la variazione della quantit&amp;#x00e0; di moto del carrello tra gli istanti &amp;#x003C;i&amp;#x003E;t&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;1&amp;#x003C;/sub&amp;#x003E; = 1.5 s e &amp;#x003C;i&amp;#x003E;t&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;2&amp;#x003C;/sub&amp;#x003E; = 3 s?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>20 kg m s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>30 kg m s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>60 kg m s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>80 kg m s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>90 kg m s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Due carrelli si trovano su una rotaia a cuscino d&apos;aria, disposta orizzontalmente, su cui possono muoversi con attrito trascurabile. Il carrello A, di massa &amp;#x003C;i&amp;#x003E;m&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;A&amp;#x003C;/sub&amp;#x003E;, si muove con una velocit&amp;#x00e0; &amp;#x003C;i&amp;#x003E;v&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;0&amp;#x003C;/sub&amp;#x003E; e urta contro un carrello B, di massa &amp;#x003C;i&amp;#x003E;m&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;B = &amp;#x003C;i&amp;#x003E;m&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;A&amp;#x003C;/sub&amp;#x003E;, inizialmente fermo. Nell&apos;urto, i due carrelli restano agganciati. 
+
+Quale frazione dell&apos;energia cinetica iniziale del sistema viene trasformata in altre forme (energia sonora, termica. . .) nella collisione?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>1%</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>10%</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>50%</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>90%</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>99%</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Un ragazzo e una ragazza stanno pattinando sul ghiaccio. Ad un certo istante, quando sono vicini e fermi, si danno una spinta, allontanandosi e poco tempo dopo sono distanti 8.0 m. La massa del ragazzo &amp;#x00e8; 75 kg, quella della ragazza 45 kg. L&apos;attrito &amp;#x00e8; trascurabile. 
+
+Qual &amp;#x00e8; lo spazio percorso dalla ragazza in questo intervallo di tempo?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>8.0 m</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>6.5 m</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>5.0 m</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>4.0 m</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>3.0 m</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>In una partita di tennis uno dei giocatori respinge la palla che gli viene incontro alla velcoit&amp;#x00e0; di 20 m s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E;; la palla, la cui massa &amp;#x00e8; di 58 g, viene respinta nella stessa direzione. Il giocatore applica alla palla, con la racchetta, una forza media di 1.24 kN per un tempo di 3 ms. 
+Che velocit&amp;#x00e0; ha la palla appena &amp;#x00e8; stata respinta?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>19 m s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>25 m s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>35 m s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>44 m s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>48 m s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Un satellite si sta muovendo a velocit&amp;#x00e0; &amp;#x003C;i&amp;#x003E;v&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;0&amp;#x003C;/sub&amp;#x003E; quando improvvisamente un componente interno esplode spaccandolo in due pezzi di uguale massa che si allontanano uno dall&apos;altro con velocit&amp;#x00e0; di modulo &amp;#x003C;i&amp;#x003E;v&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;1&amp;#x003C;/sub&amp;#x003E; e &amp;#x003C;i&amp;#x003E;v&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;2&amp;#x003C;/sub&amp;#x003E; rispettivamente, come mostrato in figura. 
+
+&amp;#x003C;img src=&quot;0839.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;240&quot; height=&quot;140&quot; /&amp;#x003E;
+
+Quali delle seguenti relazioni tra i moduli delle velocit&amp;#x00e0; dei due pezzi &amp;#x00e8; quella corretta?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>&amp;#x003C;i&amp;#x003E;v&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;1&amp;#x003C;/sub&amp;#x003E; = &amp;#x003C;i&amp;#x003E;v&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;2&amp;#x003C;/sub&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;i&amp;#x003E;v&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;1&amp;#x003C;/sub&amp;#x003E; = 1.2 &amp;#x003C;i&amp;#x003E;v&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;2&amp;#x003C;/sub&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;i&amp;#x003E;v&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;1&amp;#x003C;/sub&amp;#x003E; = 1.3 &amp;#x003C;i&amp;#x003E;v&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;2&amp;#x003C;/sub&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;i&amp;#x003E;v&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;1&amp;#x003C;/sub&amp;#x003E; = 1.7 &amp;#x003C;i&amp;#x003E;v&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;2&amp;#x003C;/sub&amp;#x003E;</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;i&amp;#x003E;v&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;1&amp;#x003C;/sub&amp;#x003E; = 1.9 &amp;#x003C;i&amp;#x003E;v&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;2&amp;#x003C;/sub&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Un disco pesante omogeneo, lasciato da fermo in cima ad un piano inclinato di altezza &amp;#x003C;i&amp;#x003E;h&amp;#x003C;/i&amp;#x003E; (v. figura), rotola gi&amp;#x00f9; senza strisciare. Si pu&amp;#x00f2; supporre che la resistenza dell&apos;aria e altre forze dissipative siano trascurabili. 
+
+&amp;#x003C;img src=&quot;0907.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;240&quot; height=&quot;140&quot; /&amp;#x003E;
+
+Quale sar&amp;#x00e0; la velocit&amp;#x00e0; finale del disco in fondo al piano inclinato?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>&amp;#x003C;img src=&quot;0907a.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;50&quot; height=&quot;30&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;0907b.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;70&quot; height=&quot;35&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>(2&amp;#x003C;i&amp;#x003E;gh&amp;#x003C;/i&amp;#x003E;)&amp;#x003C;sup&amp;#x003E;2&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>(3&amp;#x003C;i&amp;#x003E;gh&amp;#x003C;/i&amp;#x003E;)&amp;#x003C;sup&amp;#x003E;2&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>4&amp;#x003C;i&amp;#x003E;gh&amp;#x003C;/i&amp;#x003E;/3</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Un cannoncino giocattolo &amp;#x00e8; fissato a un carrellino che si muove verso destra con velocit&amp;#x00e0; &amp;#x003C;i&amp;#x003E;v&amp;#x003C;/i&amp;#x003E; lungo un binario rettilineo, come mostrato in figura. Il cannone &amp;#x00e8; puntato nella direzione del moto. Quando il cannone spara un proiettile il carrello e il cannone, per il contraccolpo, si fermano. Indichiamo con &amp;#x003C;i&amp;#x003E;M&amp;#x003C;/i&amp;#x003E; la massa del carrello col cannone (compreso il cannone ma escluso il proiettile), e con &amp;#x003C;i&amp;#x003E;m&amp;#x003C;/i&amp;#x003E; la massa del proiettile. 
+
+&amp;#x003C;img src=&quot;0919.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;260&quot; height=&quot;100&quot; /&amp;#x003E;
+
+Qual &amp;#x00e8; la velocit&amp;#x00e0; del proiettile rispetto al suolo subito dopo che esso &amp;#x00e8; stato sparato?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>&amp;#x003C;i&amp;#x003E;Mv/m&amp;#x003C;/i&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;i&amp;#x003E;(M+m)v/m&amp;#x003C;/i&amp;#x003E;</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;i&amp;#x003E;(M-m)v/m&amp;#x003C;/i&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;i&amp;#x003E;mv/M&amp;#x003C;/i&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;i&amp;#x003E;mv/(M-m)&amp;#x003C;/i&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Una pallina, inizialmente ferma, viene colpita con una mazza da golf. Il grafico mostra l&apos;andamento temporale dell&apos;intensit&amp;#x00e0; della forza applicata dalla mazza alla pallina, durante il colpo. 
+
+&amp;#x003C;img src=&quot;1006.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;140&quot; height=&quot;160&quot; /&amp;#x003E;
+
+Una seconda pallina, di tipo diverso, ma della stessa dimensione e massa della prima, viene colpita con la stessa mazza. La pallina schizza via con la stessa velocit&amp;#x00e0; della prima. 
+
+Quale, tra i seguenti grafici, pu&amp;#x00f2; rappresentare l&apos;intensit&amp;#x00e0; della forza applicata dalla mazza alla seconda pallina?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>&amp;#x003C;img src=&quot;1006a.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;140&quot; height=&quot;160&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;1006b.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;140&quot; height=&quot;160&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;1006c.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;140&quot; height=&quot;160&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;1006d.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;140&quot; height=&quot;160&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;1006e.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;140&quot; height=&quot;160&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Un blocco di 2 kg di massa scivola senza attrito su un piano orizzontale alla velocit&amp;#x00e0; di 10 m s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E; fino ad urtare centralmente un secondo blocco, fermo, avente una massa di 10 kg.
+Dopo l&apos;urto il primo blocco torna indietro alla velocit&amp;#x00e0; di 5 m s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E;, mentre il secondo procede in avanti - sulla stessa retta - alla velocit&amp;#x00e0; iniziale di 3 m s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E;.
+
+Quale affermazione &amp;#x00e8; corretta?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>La Q.d.M. del sistema si conserva, l&apos;energia cin. del sistema si conserva, l&apos;urto &amp;#x00e8; elastico.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>La Q.d.M. del sistema si conserva, l&apos;energia cin. del sistema non si conserva, l&apos;urto &amp;#x00e8; anelastico.</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>La Q.d.M. del sistema si conserva, l&apos;energia cin. del sistema non si conserva, l&apos;urto &amp;#x00e8; elastico.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>La Q.d.M. del sistema non si conserva, l&apos;energia cin. del sistema non si conserva, l&apos;urto &amp;#x00e8; anelastico.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>La Q.d.M. del sistema non si conserva, l&apos;energia cin. del sistema non si conserva, l&apos;urto &amp;#x00e8; elastico.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>In quale delle alternative seguenti c&apos;&amp;#x00e8; una grandezza vettoriale con la rispettiva unit&amp;#x00e0; di misura del Sistema Internazionale (SI)?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>peso - chilogrammo</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>massa - chilogrammo</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>peso - newton</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>quantit&amp;#x00e0; di moto - newton</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>pressione -pascal</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>La macchina X &amp;#x00e8; stata progettata in modo che la parte frontale possa schiacciarsi pi&amp;#x00f9; facilmente della parte occupata dai passeggeri, nel momento dell&apos;urto contro un ostacolo rigido, per esempio un muro; questa struttura &amp;#x00e8; detta &amp;#x003C;i&amp;#x003E;attenuatore d&apos;urto&amp;#x003C;/i&amp;#x003E;.
+Una seconda macchina, Y, ha uguale massa ma non &amp;#x00e8; dotata dell&apos;attenuatore. 
+Per studiare la sicurezza delle due macchine si effettua un &amp;#x003C;i&amp;#x003E;crash-test&amp;#x003C;/i&amp;#x003E;, lanciando le due macchine, con la stessa velocit&amp;#x00e0;, contro due muri identici. 
+Quali delle seguenti affermazioni sono vere?
+
+1 - La forza media sulla macchina X &amp;#x00e8; minore di quella sulla macchina Y.
+2 - Il tempo impiegato a fermarsi dalla macchina X &amp;#x00e8; maggiore che per la Y.
+3 - La variazione di quantit&amp;#x00e0; di moto per la macchina X &amp;#x00e8; minore che per la macchina Y.</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>Solo la 1.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>La 1 e la 2.</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>La 1 e la 3.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>La 2 e la 3.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Tutte e tre.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Due carrelli si muovono lungo una retta e si urtano. I dati relativi sono rappresentati nella figura (in alto). Dopo la collisione i due carrelli si muovono come si vede nella parte in basso della figura. 
+
+&amp;#x003C;img src=&quot;1102.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;240&quot; height=&quot;160&quot; /&amp;#x003E;
+
+Qual &amp;#x00e8; il modulo della velocit&amp;#x00e0; &amp;#x003C;i&amp;#x003E;v&amp;#x003C;/i&amp;#x003E; del carrello da 2 kg sopo l&apos;urto?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>1.25 m s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>1.75 m s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>2.0 m s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>4.0 m s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>5.0 m s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Due automobili hanno peso diverso e viaggiano a velocit&amp;#x00e0; diverse su un rettilineo pianeggiante. Per arrestare le due automobili nello stesso intervallo di tempo sono necessarie due forze diverse. In ogni caso, la forza maggiore &amp;#x00e8; quella richiesta per fermare l&apos;automobile che ha maggiore . . .</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>. . . energia cinetica.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>. . . massa.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>. . . peso.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>. . . quantit&amp;#x00e0; di moto.</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>. . . velocit&amp;#x00e0;.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Un&apos;automobile di massa &amp;#x003C;i&amp;#x003E;m&amp;#x003C;/i&amp;#x003E; = 1.2 x 10&amp;#x003C;sup&amp;#x003E;3&amp;#x003C;/sup&amp;#x003E; kg accelera uniformemente, su un tratto rettilineo di strada, da &amp;#x003C;i&amp;#x003E;v&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;1&amp;#x003C;/sub&amp;#x003E; = 10 m s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E; a &amp;#x003C;i&amp;#x003E;v&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;2&amp;#x003C;/sub&amp;#x003E; = 20 m s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E; in 5 s. 
+Quanto vale l&apos;intensit&amp;#x00e0; della forza risultante che ha agito sull&apos;automobile durante questo intervallo di tempo?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>1.2 x 10&amp;#x003C;sup&amp;#x003E;3&amp;#x003C;/sup&amp;#x003E; N</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>2.4 x 10&amp;#x003C;sup&amp;#x003E;3&amp;#x003C;/sup&amp;#x003E; N</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>4.8 x 10&amp;#x003C;sup&amp;#x003E;3&amp;#x003C;/sup&amp;#x003E; N</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>1.2 x 10&amp;#x003C;sup&amp;#x003E;4&amp;#x003C;/sup&amp;#x003E; N</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>2.4 x 10&amp;#x003C;sup&amp;#x003E;4&amp;#x003C;/sup&amp;#x003E; N</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Un blocco di massa &amp;#x003C;i&amp;#x003E;M&amp;#x003C;/i&amp;#x003E; scivola lungo una rampa da un&apos;altezza &amp;#x003C;i&amp;#x003E;h&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;0&amp;#x003C;/sub&amp;#x003E; e urta un altro blocco di massa 2&amp;#x003C;i&amp;#x003E;M&amp;#x003C;/i&amp;#x003E; inizialmente fermo sul piano orizzontale. I due blocchi restano uniti e proseguono risalendo su una seconda rampa fino ad un&apos;altezza &amp;#x003C;i&amp;#x003E;h&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;1&amp;#x003C;/sub&amp;#x003E;. I tre piani sono opportunamente raccordati in modo che non ci siano irregolarit&amp;#x00e0; nel moto dei blocchi. 
+
+&amp;#x003C;img src=&quot;0731.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;360&quot; height=&quot;120&quot; /&amp;#x003E;
+
+Supponendo di poter trattare le masse come puntiformi e di poter trascurare gli effetti di attrito tra tutte le superfici, quanto vale &amp;#x003C;i&amp;#x003E;h&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;1&amp;#x003C;/sub&amp;#x003E;?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>&amp;#x003C;i&amp;#x003E;h&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;0&amp;#x003C;/sub&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;i&amp;#x003E;h&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;0&amp;#x003C;/sub&amp;#x003E; / 2</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;i&amp;#x003E;h&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;0&amp;#x003C;/sub&amp;#x003E; / 3</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;i&amp;#x003E;h&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;0&amp;#x003C;/sub&amp;#x003E; / 4</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;i&amp;#x003E;h&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;0&amp;#x003C;/sub&amp;#x003E; / 9</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+</questions></data>
+<hotpot-config-file>
+<global>
+<separate-js-file>0</separate-js-file>
+<clue-caption>Clue</clue-caption>
+<next-q-caption>=&amp;#x003E;</next-q-caption>
+<last-q-caption>&amp;#x003C;=</last-q-caption>
+<incorrect-indicator>X</incorrect-indicator>
+<font-size>10pt</font-size>
+<include-next-ex>0</include-next-ex>
+<restart-caption>Restart</restart-caption>
+<contents-url>contents.htm</contents-url>
+<include-timer>0</include-timer>
+<font-face>Arial,Verdana,sans-serif</font-face>
+<include-scorm-12>0</include-scorm-12>
+<user-string-3>three</user-string-3>
+<show-correct-first-time>0</show-correct-first-time>
+<user-string-2>two</user-string-2>
+<user-string-1>one</user-string-1>
+<vlink-color>#0000CC</vlink-color>
+<title-color>#FF0000</title-color>
+<correct-indicator>:-)</correct-indicator>
+<contents-caption>Index</contents-caption>
+<show-all-questions-caption>Mostra tutte le domande</show-all-questions-caption>
+<undo-caption>Undo</undo-caption>
+<header-code></header-code>
+<hint-caption>Hint</hint-caption>
+<check-button-caption>Check</check-button-caption>
+<email>you@yourserver.com</email>
+<show-one-by-one-caption>Mostra le domande una alla volta</show-one-by-one-caption>
+<name-please>Please enter your name:</name-please>
+<formmail-url>http://yourserver.com/cgi-bin/FormMail.pl</formmail-url>
+<next-ex-caption>=&amp;#x003E;</next-ex-caption>
+<back-caption>&amp;#x003C;=</back-caption>
+<text-color>#333333</text-color>
+<page-bg-color>#ffeee8</page-bg-color>
+<times-up>Your time is over!</times-up>
+<nav-bar-color>#FF9900</nav-bar-color>
+<include-contents>0</include-contents>
+<your-score-is>Il tuo punteggio &amp;#x00e8;:</your-score-is>
+<graphic-url></graphic-url>
+<link-color>#0000FF</link-color>
+<keypad-characters></keypad-characters>
+<show-also-correct>1</show-also-correct>
+<correct-first-time>Risposte esatte al primo tentativo: </correct-first-time>
+<include-cgi>0</include-cgi>
+<ex-bg-color>#FFFFFF</ex-bg-color>
+<ok-caption>OK</ok-caption>
+<process-for-rtl>0</process-for-rtl>
+<check-caption>Controlla</check-caption>
+<include-back>0</include-back>
+<next-correct-letter>Next correct letter is: </next-correct-letter>
+</global>
+<jquiz>
+<next-caption>Next</next-caption>
+<instructions></instructions>
+<enter-a-guess>Prova a dare una risposta:</enter-a-guess>
+<correct-list>Risposte esatte:</correct-list>
+<completed-so-far>Domande completate finora:</completed-so-far>
+<header-code></header-code>
+<include-hint>0</include-hint>
+<include-keypad>0</include-keypad>
+<short-answer-tries-on-hybrid-q>2</short-answer-tries-on-hybrid-q>
+<partly-incorrect>La tua risposta &amp;#x00e8; parzialmente sbagliata: </partly-incorrect>
+<guess-incorrect>Sbagliato! Riprova:</guess-incorrect>
+<case-sensitive>0</case-sensitive>
+<continuous-scoring>1</continuous-scoring>
+<next-ex-url>nextpage.htm</next-ex-url>
+<send-email>0</send-email>
+<show-also-correct>1</show-also-correct>
+<exercise-subtitle>Quiz</exercise-subtitle>
+<exercise-completed>L&apos;esercizio &amp;#x00e8; stato completato. </exercise-completed>
+<questions-to-show>10</questions-to-show>
+<shuffle-answers>0</shuffle-answers>
+<guess-correct>Esatto!</guess-correct>
+<next-correct-letter>Lettera esatta successiva nella risposta:</next-correct-letter>
+<show-limited-questions>0</show-limited-questions>
+<shuffle-questions>0</shuffle-questions>
+<include-show-answer>1</include-show-answer>
+<show-correct-first-time>0</show-correct-first-time>
+<separate-javascript-file>0</separate-javascript-file>
+<delete-caption>Delete This Flashcard</delete-caption>
+<show-answer-caption>Mostra risposta</show-answer-caption>
+</jquiz>
+</hotpot-config-file>
+
+</hotpot-jquiz-file>

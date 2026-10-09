@@ -1,0 +1,835 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<hotpot-jquiz-file>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description rdf:about="">
+</rdf:Description>
+</rdf:RDF>
+<version>6</version>
+<data>
+<title>Conservazione dell&apos;energia</title>
+<timer>
+<include-timer>0</include-timer>
+<seconds>59</seconds>
+</timer>
+<reading>
+<reading-text></reading-text>
+<include-reading>0</include-reading>
+<reading-title></reading-title>
+</reading>
+<questions>
+<question-record>
+<question>Un corpo viene abbandonato e cade liberamente sotto l&apos;azione della forza di gravit&amp;#x00e0;.
+
+Trascurando ogni effetto dovuto alla resistenza dell&apos;aria, quale dei seguenti grafici rappresenta meglio la variazione dell&apos;energia potenziale con il tempo?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>&amp;#x003C;img src=&quot;0001a.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;120&quot; height=&quot;150&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;0001b.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;120&quot; height=&quot;150&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;0001c.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;120&quot; height=&quot;150&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;0001d.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;120&quot; height=&quot;150&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;0001e.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;120&quot; height=&quot;150&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Una palla, lasciata cadere da ferma ad una certa altezza dal pavimento, rimbalza diverse volte. 
+Il grafico mostra come varia nel tempo una grandezza (indicata con il simbolo &amp;#x003C;i&amp;#x003E;y&amp;#x003C;/i&amp;#x003E;) relativa al moto della palla. 
+
+&amp;#x003C;img src=&quot;0219.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;240&quot; height=&quot;150&quot; /&amp;#x003E;
+
+Cosa rappresenta la grandezza &amp;#x003C;i&amp;#x003E;y&amp;#x003C;/i&amp;#x003E;?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>L&apos;accelerazione.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Lo spostamento.</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>L&apos;energia cinetica.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>La velocit&amp;#x00e0;.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>L&apos;energia meccanica totale.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Una pallina da golf viene fatta cadere da ferma sopra un pavimento rigido. Essa rimbalza fino ad un&apos;altezza pi&amp;#x00f9; bassa rispetto al punto di caduta poich&amp;#x00e9; perde energia durante l&apos;urto con il pavimento. La pallina viene afferrata nel punto pi&amp;#x00f9; alto del suo primo rimbalzo. 
+I grafici seguenti rappresentano come varia, durante la caduta ed il rimbalzo, una certa grandezza fisica, &amp;#x003C;i&amp;#x003E;y&amp;#x003C;/i&amp;#x003E;, in funzione del tempo. 
+Si pu&amp;#x00f2; assumere che gli effetti della resistenza dell&apos;aria siano trascurabili. 
+
+Quale di questi grafici rappresenta meglio come varia nel tempo l&apos;energia cinetica della pallina durante la caduta e il rimbalzo?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>&amp;#x003C;img src=&quot;0224a.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;120&quot; height=&quot;150&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;0224b.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;120&quot; height=&quot;150&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;0224c.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;120&quot; height=&quot;150&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;0224d.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;120&quot; height=&quot;150&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;0224e.jpg&quot; alt=&quot;&quot; title=&quot;&quot;  width=&quot;120&quot; height=&quot;150&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Un satellite si muove intorno alla Terra descrivendo un&apos;orbita ellittica al di fuori dell&apos;atmosfera.
+
+Nel punto in cui si trova pi&amp;#x00f9; vicino alla Terra, ...</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>... l&apos;energia cinetica &amp;#x00e8; massima e l&apos;energia potenziale &amp;#x00e8; minima.</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>... l&apos;energia potenziale &amp;#x00e8; massima e l&apos;energia cinetica &amp;#x00e8; minima.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>... sia l&apos;energia cinetica che l&apos;energia potenziale sono massime.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>... sia l&apos;energia cinetica che l&apos;energia potenziale sono minime.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>... l&apos;energia totale o &amp;#x00e8; massima o &amp;#x00e8; minima.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Quando una sferetta di massa &amp;#x003C;i&amp;#x003E;m&amp;#x003C;/i&amp;#x003E; cade sotto l&apos;azione della gravit&amp;#x00e0; in un liquido viscoso, raggiunge una velocit&amp;#x00e0; limite &amp;#x003C;i&amp;#x003E;v&amp;#x003C;/i&amp;#x003E;. Il moto viene riferito ad un asse positivo verso l&apos;alto. 
+
+Successivamente la variazione di energia potenziale della sferetta per unit&amp;#x00e0; di tempo &amp;#x00e8; ...</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>... zero</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>... &amp;#x003C;i&amp;#x003E;mgv&amp;#x003C;/i&amp;#x003E;</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>... &amp;#x003C;i&amp;#x003E;mgv - 1/2 mv&amp;#x003C;sup&amp;#x003E;2&amp;#x003C;/sup&amp;#x003E;&amp;#x003C;/i&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>... &amp;#x003C;i&amp;#x003E;1/2 mv&amp;#x003C;sup&amp;#x003E;2&amp;#x003C;/sup&amp;#x003E;&amp;#x003C;/i&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>... &amp;#x003C;i&amp;#x003E;1/2 mv&amp;#x003C;sup&amp;#x003E;2&amp;#x003C;/sup&amp;#x003E;-mgv&amp;#x003C;/i&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Un indiano , per scoccare una freccia, tende il suo arco con una forza media di 20 N, spostando indietro la corda di un tratto di 60 cm. 
+
+&amp;#x003C;img src=&quot;0402.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;120&quot; height=&quot;150&quot; /&amp;#x003E;
+
+Quando la freccia lascia l&apos;arco la sua energia cinetica &amp;#x00e8;, al massimo,</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>3.6 J</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>6.0 J</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>12 J</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>24 J</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>36 J</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Il disegno mostra un carrello di massa &amp;#x003C;i&amp;#x003E;M&amp;#x003C;/i&amp;#x003E;, posto su una rotaia senza attrito, che viene lasciato da fermo dalla cima di una sommit&amp;#x00e0; di altezza &amp;#x003C;i&amp;#x003E;h&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;1&amp;#x003C;/sub&amp;#x003E;.
+
+&amp;#x003C;img src=&quot;0408.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;380&quot; height=&quot;150&quot; /&amp;#x003E;
+
+Quanto vale l&apos;energia cinetica del carrello quando raggiunge la cima della successiva sommit&amp;#x00e0; che ha un&apos;altezza &amp;#x003C;i&amp;#x003E;h&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;2&amp;#x003C;/sub&amp;#x003E;?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>&amp;#x003C;i&amp;#x003E;Mgh&amp;#x003C;sub&amp;#x003E;1&amp;#x003C;/sub&amp;#x003E;&amp;#x003C;/i&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;i&amp;#x003E;Mg(h&amp;#x003C;sub&amp;#x003E;1&amp;#x003C;/sub&amp;#x003E;-h&amp;#x003C;sub&amp;#x003E;2&amp;#x003C;/sub&amp;#x003E;)&amp;#x003C;/i&amp;#x003E;</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;i&amp;#x003E;Mg(h&amp;#x003C;sub&amp;#x003E;2&amp;#x003C;/sub&amp;#x003E;-h&amp;#x003C;sub&amp;#x003E;3&amp;#x003C;/sub&amp;#x003E;)&amp;#x003C;/i&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;i&amp;#x003E;Mg(h&amp;#x003C;sub&amp;#x003E;1&amp;#x003C;/sub&amp;#x003E;+h&amp;#x003C;sub&amp;#x003E;2&amp;#x003C;/sub&amp;#x003E;)/2&amp;#x003C;/i&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>0</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Una palla elastica, fatta cadere da ferma verticalmente, rimbalza sul pavimento verso l&apos;alto, ancora verticalmente. 
+
+Quale dei grafici seguenti rappresenta meglio la variazione nel tempo della velocit&amp;#x00e0; della palla, assumendo che un valore positivo esprima una velocit&amp;#x00e0; diretta verso l&apos;alto?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>&amp;#x003C;img src=&quot;0434a.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;120&quot; height=&quot;150&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;0434b.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;120&quot; height=&quot;150&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;0434c.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;120&quot; height=&quot;150&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;0434d.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;120&quot; height=&quot;150&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;0434e.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;120&quot; height=&quot;150&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Una massa di 40 kg pu&amp;#x00f2; essere fatta oscillare avanti e indietro lungo un binario orizzontale e liscio attaccandola ad una molla di costante elastica &amp;#x003C;i&amp;#x003E;k&amp;#x003C;/i&amp;#x003E; = 500 N m&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E;.
+
+Qual &amp;#x00e8; l&apos;energia totale di questo sistema oscillante se la massa viene messa in oscillazione allontanandola di 20 cm dalla posizione di equilibrio lungo il binario?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>10 J</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>20 J</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>50 J</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>4 000 J</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>100 000 J</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>In un laboratorio didattico un carrello di massa &amp;#x003C;i&amp;#x003E;m&amp;#x003C;/i&amp;#x003E; si muove su una rotaia orizzontale con velocit&amp;#x00e0; &amp;#x003C;i&amp;#x003E;v&amp;#x003C;/i&amp;#x003E; e urta contro una molla, di costante elastica &amp;#x003C;i&amp;#x003E;k&amp;#x003C;/i&amp;#x003E;, fissata all&apos;estremit&amp;#x00e0; della rotaia. Si trascuri l&apos;attrito. 
+
+Qual &amp;#x00e8; la massima compressione della molla?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>&amp;#x003C;img src=&quot;0534a.jpg&quot; alt=&quot;&quot; title=&quot;&quot;  /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;0534b.jpg&quot; alt=&quot;&quot; title=&quot;&quot;  /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;0534c.jpg&quot; alt=&quot;&quot; title=&quot;&quot;  /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;0534d.jpg&quot; alt=&quot;&quot; title=&quot;&quot;  /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;0534e.jpg&quot; alt=&quot;&quot; title=&quot;&quot;  /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Un pianeta si muove intorno al Sole S lungo un&apos;orbita ellittica, come mostrato in figura. 
+
+&amp;#x003C;img src=&quot;0602.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;140&quot; height=&quot;180&quot; /&amp;#x003E;
+
+Quando il pianeta si sposta dal punto P al punto P&apos;, come cambiano la sua energia cinetica e la sua energia potenziale?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>L&apos;energia cinetica diminuisce, l&apos;energia potenziale diminuisce.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>L&apos;energia cinetica diminuisce, l&apos;energia potenziale aumenta.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>L&apos;energia cinetica aumenta, l&apos;energia potenziale diminuisce.</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>L&apos;energia cinetica aumenta, l&apos;energia potenziale aumenta.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>L&apos;energia cinetica e l&apos;energia potenziale non variano.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Un carrello si sta muovendo lungo il percorso di una montagna russa mostrato in figura. Nel punto A la sua velocit&amp;#x00e0; vale 10 m s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E;. 
+
+&amp;#x003C;img src=&quot;0633.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;540&quot; height=&quot;180&quot; /&amp;#x003E;
+
+Se l&apos;attrito pu&amp;#x00f2; essere trascurato, quale sar&amp;#x00e0; la velocit&amp;#x00e0; del carrello nel punto B?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>14 m s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>20 m s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>22 m s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>26 m s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>31 m s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Nel grafico sono rappresentate l&apos;energia cinetica, l&apos;energia potenziale e l&apos;energia meccanica totale di un oggetto in moto. 
+
+&amp;#x003C;img src=&quot;0815.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;240&quot; height=&quot;160&quot; /&amp;#x003E;
+
+Quale delle seguenti affermazioni meglio descrive il moto dell&apos;oggetto?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>L&apos;oggetto sta accelerando sopra una superficie orizzontale piana.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>L&apos;oggetto si muove verso l&apos;alto, sopra un piano inclinato senza attrito.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>L&apos;oggetto &amp;#x00e8; in caduta libera.</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>L&apos;oggetto viene sollevato a velocit&amp;#x00e0; costante.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>L&apos;oggetto si muove in basso, sopra un piano inclinato con attrito.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Una palla da tennis, lanciata in alto verticalmente con velocit&amp;#x00e0; &amp;#x003C;i&amp;#x003E;v&amp;#x003C;/i&amp;#x003E;, raggiunge l&apos;altezza &amp;#x003C;i&amp;#x003E;h&amp;#x003C;/i&amp;#x003E;.
+A che altezza si trova la palla nell&apos;istante in cui la velocit&amp;#x00e0; vale &amp;#x003C;i&amp;#x003E;v&amp;#x003C;/i&amp;#x003E;/2?
+
+&amp;#x003C;i&amp;#x003E;Si assuma che la resistenza dell&apos;aria sia trascurabile.&amp;#x003C;/i&amp;#x003E;</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>&amp;#x003C;i&amp;#x003E;h&amp;#x003C;/i&amp;#x003E;/4</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;i&amp;#x003E;h&amp;#x003C;/i&amp;#x003E;/3</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;i&amp;#x003E;h&amp;#x003C;/i&amp;#x003E;/2</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>2/3 &amp;#x003C;i&amp;#x003E;h&amp;#x003C;/i&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>3/4 &amp;#x003C;i&amp;#x003E;h&amp;#x003C;/i&amp;#x003E;</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Per mantenere una massa premuta contro una molla occorre applicare una forza di 250 N. La molla &amp;#x00e8; stata compressa di 0.60 m e poi viene lasciata andare.
+
+Supponendo che tutta l&apos;energia impiegata per comprimere la molla venga trasferita alla massa al momento del lancio, quanta sar&amp;#x00e0; l&apos;energia cinetica acquistata dalla massa?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>75 J</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>90 J</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>150 J</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>420 J</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>22000 J</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text></text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>In una prova di abilit&amp;#x00e0; un ragazzo deve lanciare un sacchetto di sabbia facendolo arrivare in cima ad una palo verticale alto 4 m. 
+Il ragazzo ci riesce, imprimendo al sacchetto una velocit&amp;#x00e0; iniziale di 7.5 m s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E;, quando questo sta a 1.5 m di altezza sul suolo. 
+
+Nell&apos;ipotesi che la resistenza dell&apos;aria sia trascurabile, con che velocit&amp;#x00e0; il sacchetto va a cadere sulla sommit&amp;#x00e0; del palo? 
+
+&amp;#x003C;img src=&quot;0927.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;240&quot; height=&quot;240&quot; /&amp;#x003E;</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>0 m s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>0.3 m s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>1.4 m s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>1.9 m s&amp;#x003C;/sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>2.7 m s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Un razzo sale verticalmente verso l&apos;alto con accelerazione 50 m s&amp;#x003C;sup&amp;#x003E;-2&amp;#x003C;/sup&amp;#x003E; per 2 s prima che il suo motore si spenga. Il razzo continua poi a muoversi sotto la sola azione del suo peso. 
+
+Quale &amp;#x00e8; la massima altezza raggiunta dal razzo? Si pu&amp;#x00f2; trascurare la resistenza dell&apos;aria.</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>100 m</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>510 m</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>610 m</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>1020 m</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>1220 m</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Una sciatrice di 50 kg si lascia andare, dal fianco di una collinetta (punto A in figura), ad un&apos;altezza &amp;#x003C;i&amp;#x003E;h&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;1&amp;#x003C;/sub&amp;#x003E; = 20.4 m, superando un secondo rilievo alto &amp;#x003C;i&amp;#x003E;h&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;2&amp;#x003C;/sub&amp;#x003E; = 8 m ed arrivando in piano nel punto C. In tutto questo percorso l&apos;attrito si pu&amp;#x00f2; considerare trascurabile. 
+
+&amp;#x003C;img src=&quot;1107.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;340&quot; height=&quot;120&quot; /&amp;#x003E;
+
+Qual &amp;#x00e8; la velocit&amp;#x00e0; della sciatrice nel punto pi&amp;#x00f9; alto (B) del secondo rilievo?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>9.64 m s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>11.2 m s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>12.5 m s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>15.6 m s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>23.6 m s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Con riferimento al quesito precedente, arrivata al punto C, la sciatrice frena e si ferma dopo 48 m, nel punto D. 
+
+Quanto vale il valor medio della forza frenante nel tratto CD?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>86.1 N</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>208 N</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>282 N</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>328 N</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>490 N</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+</questions></data>
+<hotpot-config-file>
+<global>
+<separate-js-file>0</separate-js-file>
+<clue-caption>Clue</clue-caption>
+<next-q-caption>=&amp;#x003E;</next-q-caption>
+<last-q-caption>&amp;#x003C;=</last-q-caption>
+<incorrect-indicator>X</incorrect-indicator>
+<font-size>10pt</font-size>
+<include-next-ex>0</include-next-ex>
+<restart-caption>Restart</restart-caption>
+<contents-url>contents.htm</contents-url>
+<include-timer>0</include-timer>
+<font-face>Arial,Verdana,sans-serif</font-face>
+<include-scorm-12>0</include-scorm-12>
+<user-string-3>three</user-string-3>
+<show-correct-first-time>0</show-correct-first-time>
+<user-string-2>two</user-string-2>
+<user-string-1>one</user-string-1>
+<vlink-color>#0000CC</vlink-color>
+<title-color>#FF0000</title-color>
+<correct-indicator>:-)</correct-indicator>
+<contents-caption>Index</contents-caption>
+<show-all-questions-caption>Mostra tutte le domande</show-all-questions-caption>
+<undo-caption>Undo</undo-caption>
+<header-code></header-code>
+<hint-caption>Hint</hint-caption>
+<check-button-caption>Check</check-button-caption>
+<email>you@yourserver.com</email>
+<show-one-by-one-caption>Mostra le domande una alla volta</show-one-by-one-caption>
+<name-please>Please enter your name:</name-please>
+<formmail-url>http://yourserver.com/cgi-bin/FormMail.pl</formmail-url>
+<next-ex-caption>=&amp;#x003E;</next-ex-caption>
+<back-caption>&amp;#x003C;=</back-caption>
+<text-color>#333333</text-color>
+<page-bg-color>#ffeee8</page-bg-color>
+<times-up>Your time is over!</times-up>
+<nav-bar-color>#FF9900</nav-bar-color>
+<include-contents>0</include-contents>
+<your-score-is>Il tuo punteggio &amp;#x00e8;:</your-score-is>
+<graphic-url></graphic-url>
+<link-color>#0000FF</link-color>
+<keypad-characters></keypad-characters>
+<show-also-correct>1</show-also-correct>
+<correct-first-time>Risposte esatte al primo tentativo: </correct-first-time>
+<include-cgi>0</include-cgi>
+<ex-bg-color>#FFFFFF</ex-bg-color>
+<ok-caption>OK</ok-caption>
+<process-for-rtl>0</process-for-rtl>
+<check-caption>Controlla</check-caption>
+<include-back>0</include-back>
+<next-correct-letter>Next correct letter is: </next-correct-letter>
+</global>
+<jquiz>
+<next-caption>Next</next-caption>
+<instructions></instructions>
+<enter-a-guess>Prova a dare una risposta:</enter-a-guess>
+<correct-list>Risposte esatte:</correct-list>
+<completed-so-far>Domande completate finora:</completed-so-far>
+<header-code></header-code>
+<include-hint>0</include-hint>
+<include-keypad>0</include-keypad>
+<short-answer-tries-on-hybrid-q>2</short-answer-tries-on-hybrid-q>
+<partly-incorrect>La tua risposta &amp;#x00e8; parzialmente sbagliata: </partly-incorrect>
+<guess-incorrect>Sbagliato! Riprova:</guess-incorrect>
+<case-sensitive>0</case-sensitive>
+<continuous-scoring>1</continuous-scoring>
+<next-ex-url>nextpage.htm</next-ex-url>
+<send-email>0</send-email>
+<show-also-correct>1</show-also-correct>
+<exercise-subtitle>Quiz</exercise-subtitle>
+<exercise-completed>L&apos;esercizio &amp;#x00e8; stato completato. </exercise-completed>
+<questions-to-show>10</questions-to-show>
+<shuffle-answers>0</shuffle-answers>
+<guess-correct>Esatto!</guess-correct>
+<next-correct-letter>Lettera esatta successiva nella risposta:</next-correct-letter>
+<show-limited-questions>0</show-limited-questions>
+<shuffle-questions>0</shuffle-questions>
+<include-show-answer>1</include-show-answer>
+<show-correct-first-time>0</show-correct-first-time>
+<separate-javascript-file>0</separate-javascript-file>
+<delete-caption>Delete This Flashcard</delete-caption>
+<show-answer-caption>Mostra risposta</show-answer-caption>
+</jquiz>
+</hotpot-config-file>
+
+</hotpot-jquiz-file>

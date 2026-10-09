@@ -1,0 +1,764 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<hotpot-jquiz-file>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description rdf:about="">
+</rdf:Description>
+</rdf:RDF>
+<version>6</version>
+<data>
+<title>Carica elettrica</title>
+<timer>
+<include-timer>0</include-timer>
+<seconds>59</seconds>
+</timer>
+<reading>
+<reading-text></reading-text>
+<include-reading>0</include-reading>
+<reading-title></reading-title>
+</reading>
+<questions>
+<question-record>
+<question>Due cariche puntiformi di valore -2&amp;#x003C;i&amp;#x003E;Q&amp;#x003C;/i&amp;#x003E; e +&amp;#x003C;i&amp;#x003E;Q&amp;#x003C;/i&amp;#x003E; sono mostrate in figura. 
+
+&amp;#x003C;img src=&quot;0129.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;750&quot; height=&quot;100&quot; /&amp;#x003E;
+
+In quale dei punti indicati il campo elettrostatico prodotto dalle due cariche pu&amp;#x00f2; essere nullo?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>A</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>B</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>C</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>D</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>E</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Quale fra le seguenti &amp;#x00e8; una propriet&amp;#x00e0; generale di un campo gravitazionale uniforme?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>La sua intensit&amp;#x00e0; &amp;#x00e8; la stessa in tutte le direzioni.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Il potenziale gravitazionale associato ad esso &amp;#x00e8; costante in tutti i punti.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Il suo verso &amp;#x00e8; opposto al verso del moto di una massa di prova inizialmente in quiete.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>La sua intensit&amp;#x00e0; &amp;#x00e8; la stessa in tutti i punti.</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>La sua direzione &amp;#x00e8; sempre rivolta verso uno stesso punto fisso.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Una sfera conduttrice isolata, P, possiede la distribuzione di carica elettrica mostrata in figura. 
+
+&amp;#x003C;img src=&quot;0233.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;80&quot; height=&quot;80&quot; /&amp;#x003E;
+
+Una sfera Q, simile alla prima e collegata a terra con un lungo filo, viene portata in prossimit&amp;#x00e0; della sfera P. 
+
+Quale dei seguenti disegni rappresenta meglio la distribuzione finale della carica elettrica sulle due sfere?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>&amp;#x003C;img src=&quot;0233a.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;140&quot; height=&quot;170&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;0233b.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;140&quot; height=&quot;170&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;0233c.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;140&quot; height=&quot;170&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;0233d.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;140&quot; height=&quot;170&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;0233e.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;140&quot; height=&quot;170&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Ioni di isotopi diversi, carichi in modo diverso, vengono tutti accelerati dallo stesso campo elettrico uniforme.
+
+Quale, tra gli ioni indicati qui sotto, subisce l&apos;accelerazione maggiore?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>&amp;#x003C;sup&amp;#x003E;14&amp;#x003C;/sup&amp;#x003E;&amp;#x003C;sub&amp;#x003E;7&amp;#x003C;/sub&amp;#x003E;N&amp;#x003C;sup&amp;#x003E;++&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;sup&amp;#x003E;14&amp;#x003C;/sup&amp;#x003E;&amp;#x003C;sub&amp;#x003E;7&amp;#x003C;/sub&amp;#x003E;N&amp;#x003C;sup&amp;#x003E;+&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;sup&amp;#x003E;6&amp;#x003C;/sup&amp;#x003E;&amp;#x003C;sub&amp;#x003E;3&amp;#x003C;/sub&amp;#x003E;Li&amp;#x003C;sup&amp;#x003E;++&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;sup&amp;#x003E;12&amp;#x003C;/sup&amp;#x003E;&amp;#x003C;sub&amp;#x003E;6&amp;#x003C;/sub&amp;#x003E;C&amp;#x003C;sup&amp;#x003E;++&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;sup&amp;#x003E;12&amp;#x003C;/sup&amp;#x003E;&amp;#x003C;sub&amp;#x003E;6&amp;#x003C;/sub&amp;#x003E;C&amp;#x003C;sup&amp;#x003E;+&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Sulla superficie di un conduttore elettrico carico, di forma irregolare e in condizioni di equilibrio, ... 
+
+1- ... la densit&amp;#x00e0; di carica &amp;#x00e8; uniforme. 
+2- ... l&apos;intensit&amp;#x00e0; del campo elettrico &amp;#x00e8; uniforme. 
+3- ... il potenziale elettrico &amp;#x00e8; uniforme. 
+
+Quali delle precedenti affermazioni sono vere?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>Tutte e tre</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Solo la 1 e la 2</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Solo la 2 e la 3</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Solo la 1</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Solo la 3</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Quali delle seguenti affermazioni sono vere?
+L&apos;intensit&amp;#x00e0; del campo elettrico generato in un punto &amp;#x003C;i&amp;#x003E;P&amp;#x003C;/i&amp;#x003E; da una carica puntiforme ...
+
+1- ... &amp;#x00e8; inversamente proporzionale al quadrato della distanza fra la carica e il punto &amp;#x003C;i&amp;#x003E;P&amp;#x003C;/i&amp;#x003E;. 
+2- ... si pu&amp;#x00f2; misurare in NC&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E;.
+3- ... dipende dalle propriet&amp;#x00e0; del mezzo interposto fra il punto &amp;#x003C;i&amp;#x003E;P&amp;#x003C;/i&amp;#x003E; e la carica sorgente del campo.</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>Tutte e tre</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Solo la 1 e la 2</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Solo la 2 e la 3</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Solo la 1</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Solo la 3</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>In un esperimento di Millikan della caduta di una goccia d&apos;olio, la goccia ha una massa di 3.2 x 10&amp;#x003C;sup&amp;#x003E;-14&amp;#x003C;/sup&amp;#x003E; kg e una carica elettrica di -1.6 x 10&amp;#x003C;sup&amp;#x003E;-18&amp;#x003C;/sup&amp;#x003E; C. 
+La goccia rimane in equilibrio quando la forza elettrica diretta verso l&apos;alto agente su di essa eguaglia la forza gravitazionale. 
+
+Quanto vale l&apos;intensit&amp;#x00e0; del campo elettrico quando la goccia d&apos;olio rimane in equilibrio?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>2.0 x 10&amp;#x003C;sup&amp;#x003E;-31&amp;#x003C;/sup&amp;#x003E; N/C</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>2.0 x 10&amp;#x003C;sup&amp;#x003E;-5&amp;#x003C;/sup&amp;#x003E; N/C</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>2.0 x 10&amp;#x003C;sup&amp;#x003E;5&amp;#x003C;/sup&amp;#x003E; N/C</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>5.0 x 10&amp;#x003C;sup&amp;#x003E;-5&amp;#x003C;/sup&amp;#x003E; N/C</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>5.0 x 10&amp;#x003C;sup&amp;#x003E;5&amp;#x003C;/sup&amp;#x003E; N/C</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Una barretta caricata negativamente viene avvicinata al pomello di un elettroscopio scarico. 
+
+Quale dei seguenti diagrammi rappresenta meglio la distribuzione di carica dell&apos;elettroscopio?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>&amp;#x003C;img src=&quot;0513a.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;140&quot; height=&quot;170&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;0513b.jpg&quot; alt=&quot;&quot; title=&quot;&quot;  width=&quot;140&quot; height=&quot;170&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;0513c.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;140&quot; height=&quot;170&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;0513d.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;140&quot; height=&quot;170&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;0513e.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;140&quot; height=&quot;170&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Tre sfere metalliche uguali 1, 2 e 3 sono montate su supporti isolanti e messe in contatto una con l&apos;altra come mostrato in figura. Due bacchette uguali, caricate con cariche opposte di ugual modulo, sono disposte simmetricamente ai due lati delle sfere (vedi figura). Allontanata la sfera 2, si rimuovono le bacchette e subito dopo anche le sfere 1 e 3 vengono allontanate tra loro. 
+
+&amp;#x003C;img src=&quot;0515.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;280&quot; height=&quot;160&quot; /&amp;#x003E;
+
+Successivamente la sfera 2 viene portata in contatto con la 1 e dopo con la 3. 
+
+Alla fine la carica sulla sfera 2 &amp;#x00e8; pari a . . .</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>. . . met&amp;#x00e0; della carica che inizialmente stava sulla sfera 1, con lo stesso segno.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>. . . met&amp;#x00e0; della carica che inizialmente stava sulla sfera 1, ma di segno opposto.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>. . . un quarto della carica che inizialmente stava sulla sfera 1, ma di segno opposto.</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>. . . un quarto della carica che inizialmente stava sulla sfera 1, con lo stesso segno.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>. . . zero.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Cinque cariche positive di valore &amp;#x003C;i&amp;#x003E;q&amp;#x003C;/i&amp;#x003E; sono disposte in modo simmetrico lungo una circonferenza di raggio &amp;#x003C;i&amp;#x003E;r&amp;#x003C;/i&amp;#x003E;. 
+
+Qual &amp;#x00e8; l&apos;intensit&amp;#x00e0; del campo elettrico al centro della circonferenza? (&amp;#x003C;i&amp;#x003E;k&amp;#x003C;/i&amp;#x003E; = 1/(4&amp;#x0026;pi;&amp;#x0026;epsilon;&amp;#x003C;sub&amp;#x003E;0&amp;#x003C;/sub&amp;#x003E;)).</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>0</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;i&amp;#x003E;k q / r&amp;#x003C;sup&amp;#x003E;2&amp;#x003C;/sup&amp;#x003E;&amp;#x003C;/i&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;i&amp;#x003E;5 k q / r&amp;#x003C;sup&amp;#x003E;2&amp;#x003C;/sup&amp;#x003E;&amp;#x003C;/i&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;i&amp;#x003E;k q / r &amp;#x003C;sup&amp;#x003E;2&amp;#x003C;/sup&amp;#x003E;&amp;#x003C;/i&amp;#x003E; cos(2&amp;#x0026;pi;/5)</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;i&amp;#x003E;5 k q / r&amp;#x003C;sup&amp;#x003E;2&amp;#x003C;/sup&amp;#x003E;&amp;#x003C;/i&amp;#x003E; cos(2&amp;#x0026;pi;/5)</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text></text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text></text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Su due sfere identiche, conduttrici e isolate, venogno depositate due cariche elettriche uguali. Le sfere si trovano a distanza &amp;#x003C;i&amp;#x003E;d&amp;#x003C;/i&amp;#x003E; grande rispetto al loro diametro e si respingono con forza &amp;#x003C;i&amp;#x003E;F&amp;#x003C;/i&amp;#x003E;. Una terza sfera conduttrice identica alle due precedenti, ma scarica, viene posta in contatto elettrico con la prima sfera e poi con la seconda, quindi viene allontanata definitivamente. 
+
+Qual &amp;#x00e8;, ora, l&apos;intensit&amp;#x00e0; della forza tra le due sfere?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>3/4 &amp;#x003C;i&amp;#x003E;F&amp;#x003C;/i&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>5/8 &amp;#x003C;i&amp;#x003E;F&amp;#x003C;/i&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>1/2 &amp;#x003C;i&amp;#x003E;F&amp;#x003C;/i&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>3/8 &amp;#x003C;i&amp;#x003E;F&amp;#x003C;/i&amp;#x003E;</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>1/4 &amp;#x003C;i&amp;#x003E;F&amp;#x003C;/i&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Due cariche elettriche puntiformi si trovano in posizioni definite da un asse di ascisse indicato in figura. La carica &amp;#x003C;i&amp;#x003E;+2q&amp;#x003C;/i&amp;#x003E; si trova nel punto di ascissa &amp;#x003C;i&amp;#x003E;x = +3a&amp;#x003C;/i&amp;#x003E; e la carica &amp;#x003C;i&amp;#x003E;+q&amp;#x003C;/i&amp;#x003E; nel punto di ascissa &amp;#x003C;i&amp;#x003E;x = -3a&amp;#x003C;/i&amp;#x003E;.
+
+&amp;#x003C;img src=&quot;0703.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;300&quot; height=&quot;100&quot; /&amp;#x003E;
+
+In che punto dell&apos;asse dovremmo disporre una carica &amp;#x003C;i&amp;#x003E;+4q&amp;#x003C;/i&amp;#x003E; perch&amp;#x00e9; il campo nell&apos;origine O sia nullo?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>&amp;#x003C;i&amp;#x003E;x = -6a&amp;#x003C;/i&amp;#x003E;</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;i&amp;#x003E;x = -2a&amp;#x003C;/i&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;i&amp;#x003E;x = +a&amp;#x003C;/i&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;i&amp;#x003E;x = +2a&amp;#x003C;/i&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;i&amp;#x003E;x = +6a&amp;#x003C;/i&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Una sbarretta isolante viene caricata positivamente e viene quindi avvicinata ad un elettroscopio scarico. 
+
+Quale disegno interpreta correttamente la situazione sperimentale che si osserva?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>&amp;#x003C;img src=&quot;0720a.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;140&quot; height=&quot;170&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;0720b.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;140&quot; height=&quot;170&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;0720c.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;140&quot; height=&quot;170&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;0720d.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;140&quot; height=&quot;170&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;0720e.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;140&quot; height=&quot;170&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Due oggetti puntiformi, posti a una certa distanza, sono stati caricati con una carica uguale; sia &amp;#x003C;i&amp;#x003E;F&amp;#x003C;/i&amp;#x003E; il modulo della forza di repulsione tra i due oggetti. 
+Successivamente met&amp;#x00e0; della carica presente su uno dei due oggetti viene spostata sull&apos;altro e la distanza viene raddoppiata. 
+Quanto vale adesso la forza di repulsione?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>0.19 &amp;#x003C;i&amp;#x003E;F&amp;#x003C;/i&amp;#x003E;</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>0.25 &amp;#x003C;i&amp;#x003E;F&amp;#x003C;/i&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>0.75 &amp;#x003C;i&amp;#x003E;F&amp;#x003C;/i&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;i&amp;#x003E;F&amp;#x003C;/i&amp;#x003E; come prima</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>4 &amp;#x003C;i&amp;#x003E;F&amp;#x003C;/i&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>La carica elettrica su un oggetto potrebbe assumere uno tra i seguenti valori. Quale?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>+3.2 x 10&amp;#x003C;sup&amp;#x003E;-18&amp;#x003C;/sup&amp;#x003E; C</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>+2.4 x 10&amp;#x003C;sup&amp;#x003E;-19&amp;#x003C;/sup&amp;#x003E; C</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>-1.8 x 10&amp;#x003C;sup&amp;#x003E;-18&amp;#x003C;/sup&amp;#x003E; C</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>-0.80 x 10&amp;#x003C;sup&amp;#x003E;-19&amp;#x003C;/sup&amp;#x003E; C</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>-1.6 x 10&amp;#x003C;sup&amp;#x003E;-20&amp;#x003C;/sup&amp;#x003E; C</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Due punte di plastica sono uguali ed entrambe ugualmente cariche con carica negativa; esse sono disposte ad uguale distanza da una sferetta carica positivamente, come mostrato in figura. 
+
+&amp;#x003C;img src=&quot;1118.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;150&quot; height=&quot;150&quot; /&amp;#x003E;
+
+Quale dei seguenti vettori rappresenta meglio la forza elettrostatica agente sulla sferetta?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>&amp;#x003C;img src=&quot;1118a.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;50&quot; height=&quot;50&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;1118b.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;20&quot; height=&quot;50&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;1118c.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;20&quot; height=&quot;50&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;1118d.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;50&quot; height=&quot;50&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;1118e.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;50&quot; height=&quot;50&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Tre sfere metalliche identiche sono montate su sostegni isolati. Inizialmente la sfera A possiede una carica &amp;#x003C;i&amp;#x003E;q&amp;#x003C;/i&amp;#x003E; e le sfere B e C sono scariche. 
+La sfera A viene portata a contatto con la sfera B e allontanata; subito dopo, la stessa sfera A viene portata a contatto con la sfera C e allontanata. 
+
+La carica sulla sfera A &amp;#x00e8;, alla fine, </question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>&amp;#x003C;i&amp;#x003E;q&amp;#x003C;/i&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;i&amp;#x003E;q&amp;#x003C;/i&amp;#x003E; / 2</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;i&amp;#x003E;q&amp;#x003C;/i&amp;#x003E; / 3</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;i&amp;#x003E;q&amp;#x003C;/i&amp;#x003E; / 4</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>zero </text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+</questions></data>
+<hotpot-config-file>
+<global>
+<separate-js-file>0</separate-js-file>
+<clue-caption>Clue</clue-caption>
+<next-q-caption>=&amp;#x003E;</next-q-caption>
+<last-q-caption>&amp;#x003C;=</last-q-caption>
+<incorrect-indicator>X</incorrect-indicator>
+<font-size>10pt</font-size>
+<include-next-ex>0</include-next-ex>
+<restart-caption>Restart</restart-caption>
+<contents-url>contents.htm</contents-url>
+<include-timer>0</include-timer>
+<font-face>Arial,Verdana,sans-serif</font-face>
+<include-scorm-12>0</include-scorm-12>
+<user-string-3>three</user-string-3>
+<show-correct-first-time>0</show-correct-first-time>
+<user-string-2>two</user-string-2>
+<user-string-1>one</user-string-1>
+<vlink-color>#0000CC</vlink-color>
+<title-color>#FF0000</title-color>
+<correct-indicator>:-)</correct-indicator>
+<contents-caption>Index</contents-caption>
+<show-all-questions-caption>Mostra tutte le domande</show-all-questions-caption>
+<undo-caption>Undo</undo-caption>
+<header-code></header-code>
+<hint-caption>Hint</hint-caption>
+<check-button-caption>Check</check-button-caption>
+<email>you@yourserver.com</email>
+<show-one-by-one-caption>Mostra le domande una alla volta</show-one-by-one-caption>
+<name-please>Please enter your name:</name-please>
+<formmail-url>http://yourserver.com/cgi-bin/FormMail.pl</formmail-url>
+<next-ex-caption>=&amp;#x003E;</next-ex-caption>
+<back-caption>&amp;#x003C;=</back-caption>
+<text-color>#333333</text-color>
+<page-bg-color>#ffeee8</page-bg-color>
+<times-up>Your time is over!</times-up>
+<nav-bar-color>#FF9900</nav-bar-color>
+<include-contents>0</include-contents>
+<your-score-is>Il tuo punteggio &amp;#x00e8;:</your-score-is>
+<graphic-url></graphic-url>
+<link-color>#0000FF</link-color>
+<keypad-characters></keypad-characters>
+<show-also-correct>1</show-also-correct>
+<correct-first-time>Risposte esatte al primo tentativo: </correct-first-time>
+<include-cgi>0</include-cgi>
+<ex-bg-color>#FFFFFF</ex-bg-color>
+<ok-caption>OK</ok-caption>
+<process-for-rtl>0</process-for-rtl>
+<check-caption>Controlla</check-caption>
+<include-back>0</include-back>
+<next-correct-letter>Next correct letter is: </next-correct-letter>
+</global>
+<jquiz>
+<next-caption>Next</next-caption>
+<instructions></instructions>
+<enter-a-guess>Prova a dare una risposta:</enter-a-guess>
+<correct-list>Risposte esatte:</correct-list>
+<completed-so-far>Domande completate finora:</completed-so-far>
+<header-code></header-code>
+<include-hint>0</include-hint>
+<include-keypad>0</include-keypad>
+<short-answer-tries-on-hybrid-q>2</short-answer-tries-on-hybrid-q>
+<partly-incorrect>La tua risposta &amp;#x00e8; parzialmente sbagliata: </partly-incorrect>
+<guess-incorrect>Sbagliato! Riprova:</guess-incorrect>
+<case-sensitive>0</case-sensitive>
+<continuous-scoring>1</continuous-scoring>
+<next-ex-url>nextpage.htm</next-ex-url>
+<send-email>0</send-email>
+<show-also-correct>1</show-also-correct>
+<exercise-subtitle>Quiz</exercise-subtitle>
+<exercise-completed>L&apos;esercizio &amp;#x00e8; stato completato. </exercise-completed>
+<questions-to-show>10</questions-to-show>
+<shuffle-answers>0</shuffle-answers>
+<guess-correct>Esatto!</guess-correct>
+<next-correct-letter>Lettera esatta successiva nella risposta:</next-correct-letter>
+<show-limited-questions>0</show-limited-questions>
+<shuffle-questions>0</shuffle-questions>
+<include-show-answer>1</include-show-answer>
+<show-correct-first-time>0</show-correct-first-time>
+<separate-javascript-file>0</separate-javascript-file>
+<delete-caption>Delete This Flashcard</delete-caption>
+<show-answer-caption>Mostra risposta</show-answer-caption>
+</jquiz>
+</hotpot-config-file>
+
+</hotpot-jquiz-file>

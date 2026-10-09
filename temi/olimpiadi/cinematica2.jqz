@@ -1,0 +1,953 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<hotpot-jquiz-file>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description rdf:about="">
+</rdf:Description>
+</rdf:RDF>
+<version>6</version>
+<data>
+<title>Moto nello spazio</title>
+<timer>
+<include-timer>0</include-timer>
+<seconds>59</seconds>
+</timer>
+<reading>
+<reading-text></reading-text>
+<include-reading>0</include-reading>
+<reading-title></reading-title>
+</reading>
+<questions>
+<question-record>
+<question>Una palla A di massa 0.1 kg &amp;#x00e8; lanciata in alto verticalmente con una velocit&amp;#x00e0; di 5 m s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E;, da un punto al livello del suolo. Simultaneamente un&apos;altra palla B di massa 0.2 kg viene lanciata dallo stesso punto con una velocit&amp;#x00e0; di 10 m s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E; ad un angolo di 30&amp;#x00b0; con l&apos;orizzontale. 
+
+Se la resistenza dell&apos;aria &amp;#x00e8; trascurabile, si pu&amp;#x00f2; affermare che . . .</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>. . . A raggiunge un&apos;altezza maggiore di B.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>. . . B raggiunge un&apos;altezza maggiore di A.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>. . . A e B cadono a terra simultaneamente.</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>. . . A resta in moto pi&amp;#x00f9; a lungo di B.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>. . . quando toccano il suolo l&apos;energia cinetica di B &amp;#x00e8; 4 volte quella di A.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Una barca pu&amp;#x00f2; muoversi a una velocit&amp;#x00e0; di 10 km/h rispetto all&apos;acqua di un fiume, che scorre a 5 km/h. Il barcaiolo vuole attraversare il fiume perpendicolarmente alle rive, come in figura. 
+
+&amp;#x003C;img src=&quot;0031.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;240&quot; height=&quot;120&quot; /&amp;#x003E;
+
+L&apos;angolo secondo cui deve orientare la barca e la sua velocit&amp;#x00e0; rispetto al terreno saranno . . .</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>0&amp;#x00b0;, 10 km/h</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>60&amp;#x00b0;, 8.7 km/h</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>30&amp;#x00b0;, 11.2 km/h</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>30&amp;#x00b0;, 8.7 km/h</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>60&amp;#x00b0;, 11.2 km/h</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Una cassa appesa a un paracadute viene lasciata cadere da un elicottero. A un certo istante la cassa si trova sulla verticale del punto X a un&apos;altezza &amp;#x003C;i&amp;#x003E;h&amp;#x003C;/i&amp;#x003E; = 120 m, come in figura. 
+
+&amp;#x003C;img src=&quot;0108.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;130&quot; height=&quot;210&quot; /&amp;#x003E;
+
+La cassa cade alla velocit&amp;#x00e0; verticale costante di 12 m s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E;, mentre un vento costante la sposta lateralmente alla velocit&amp;#x00e0; orizzontale di 5 m s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E;. 
+
+A che distanza dal punto X cadr&amp;#x00e0; la cassa?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>24 m</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>50 m</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>60 m</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>120 m</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>150 m</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Un aereo vola orizzontalmente  alla velocit&amp;#x00e0; di 160 m s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E;, a 80 m di altezza dal suolo: quando si trova sulla verticale di un punto a distanza &amp;#x003C;i&amp;#x003E;d&amp;#x003C;/i&amp;#x003E; dal punto prefissato T, sgancia un contenitore. 
+
+&amp;#x003C;img src=&quot;0216.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;280&quot; height=&quot;130&quot; /&amp;#x003E;
+
+Assumendo che l&apos;accelerazione di gravit&amp;#x00e0; valga 10 m s&amp;#x003C;sup&amp;#x003E;-2&amp;#x003C;/sup&amp;#x003E; e che la resistenza dell&apos;aria sia trascurabile, il contenitore cadr&amp;#x00e0; esattamente nel punto T se &amp;#x003C;i&amp;#x003E;d&amp;#x003C;/i&amp;#x003E; &amp;#x00e8;</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>40 m</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>160 m</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>320 m</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>640 m</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>2560 m</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Un proiettile &amp;#x00e8; sparato in una direzione che forma un angolo &amp;#x0026;alpha; con l&apos;orizzontale. Il diagramma seguente mostra il vettore velocit&amp;#x00e0; iniziale. 
+
+&amp;#x003C;img src=&quot;0313.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;220&quot; height=&quot;220&quot; /&amp;#x003E;
+
+Se la resistenza dell&apos;aria &amp;#x00e8; trascurabile e &amp;#x003C;i&amp;#x003E;g&amp;#x003C;/i&amp;#x003E; = 10 m s&amp;#x003C;sup&amp;#x003E;-2&amp;#x003C;/sup&amp;#x003E;, le componenti orizzontale e verticale &amp;#x003C;i&amp;#x003E;v&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;x&amp;#x003C;/sub&amp;#x003E; e &amp;#x003C;i&amp;#x003E;v&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;y&amp;#x003C;/sub&amp;#x003E; della velocit&amp;#x00e0; saranno, dopo 5 secondi, ...</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>... &amp;#x003C;i&amp;#x003E;v&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;x&amp;#x003C;/sub&amp;#x003E; = 30 m s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E;,    &amp;#x003C;i&amp;#x003E;v&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;y&amp;#x003C;/sub&amp;#x003E; = 30 m s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>... &amp;#x003C;i&amp;#x003E;v&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;x&amp;#x003C;/sub&amp;#x003E; = 30 m s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E;,   &amp;#x003C;i&amp;#x003E;v&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;y&amp;#x003C;/sub&amp;#x003E; = 40 m s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>... &amp;#x003C;i&amp;#x003E;v&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;x&amp;#x003C;/sub&amp;#x003E; = 80 m s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E;,    &amp;#x003C;i&amp;#x003E;v&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;y&amp;#x003C;/sub&amp;#x003E; = 30 m s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>... &amp;#x003C;i&amp;#x003E;v&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;x&amp;#x003C;/sub&amp;#x003E; = 80 m s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E;,    &amp;#x003C;i&amp;#x003E;v&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;y&amp;#x003C;/sub&amp;#x003E; = 40 m s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>... &amp;#x003C;i&amp;#x003E;v&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;x&amp;#x003C;/sub&amp;#x003E; = 80 m s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E;,    &amp;#x003C;i&amp;#x003E;v&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;y&amp;#x003C;/sub&amp;#x003E; = 90 m s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Una sferetta X &amp;#x00e8; lanciata orizzontalmente da un certo punto nello stesso momento in cui una seconda sferetta Y, delle stesse dimensioni ma di massa doppia, &amp;#x00e8; abbandonata e inizia a cadere liberamente dalla stessa quota. 
+
+&amp;#x003C;img src=&quot;0317.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;200&quot; height=&quot;160&quot; /&amp;#x003E;
+
+Allora, se la resistenza dell&apos;aria pu&amp;#x00f2; essere trascurata, ...</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>... Y colpisce il pavimento poco prima di X.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>... X colpisce il pavimento poco prima di Y.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>... X e Y colpiscono il pavimento contemporaneamente.</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>... X colpisce il pavimento mentre Y &amp;#x00e8; ancora a met&amp;#x00e0; strada.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>... Y colpisce il pavimento mentre X &amp;#x00e8; ancora a met&amp;#x00e0; strada.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Uno studente, posto a 4.5 m di altezza sul terreno circostante, lancia orizzontalmente una palla di neve verso una ciminiera distante 15 m. La palla di neve colpisce la ciminiera 0.65 s dopo essere stata lanciata. 
+
+&amp;#x003C;img src=&quot;0405.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;410&quot; height=&quot;210&quot; /&amp;#x003E;
+
+Trascurando la resistenza dell&apos;aria, a quale distanza dal terreno approssimativamente la palla colpisce la ciminiera?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>0 m</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>0.4 m</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>1.2 m</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>2.4 m</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>4.5 m</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Da cinque punti, posti a diverse altezze su una scogliera, vengono lanciate orizzontalmente verso la superficie del mare cinque diverse palle, tutte con velocit&amp;#x00e0; diversa; i dati sono indicati nelle figure qui sotto. 
+Quale palla raggiunge la superficie del mare nel minor tempo?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>&amp;#x003C;img src=&quot;0430a.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;150&quot; height=&quot;240&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;0430b.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;130&quot; height=&quot;240&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;0430c.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;130&quot; height=&quot;240&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;0430d.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;130&quot; height=&quot;240&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;0430e.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;130&quot; height=&quot;240&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>La figura mostra quattro cannoni che stanno sparando proiettili di massa diversa e con differenti angoli di &amp;#x003C;i&amp;#x003E;alzo&amp;#x003C;/i&amp;#x003E; (angolo tra l&apos;orizzontale e la direzione di sparo) raggiungendo diverse &amp;#x003C;i&amp;#x003E;gittate&amp;#x003C;/i&amp;#x003E; (distanza sul piano orizzontale tra il punto di sparo e quelli di caduta del proiettile). 
+Nei quattro casi la componente orizzontale della velocit&amp;#x00e0; dei proiettili &amp;#x00e8; uguale. Si supponga trascurabile la resistenza dell&apos;aria. 
+
+&amp;#x003C;img src=&quot;0604.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;540&quot; height=&quot;180&quot; /&amp;#x003E;
+
+In quale caso la gittata del cannone &amp;#x00e8; massima?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>Caso 1</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Caso 2</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Caso 3</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Caso 4</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Casi 2 e 3, dato che i due cannoni hanno la stessa gittata.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Uno studente che si trova su una piccola collinetta lancia una palla orizzontalmente, da un&apos;altezza di 4.5 m sul livello del suolo, verso una ciminiera che si trova ad una distanza orizzontale di 6.0 m. La palla colpisce la ciminiera dopo 0.65 m dal lancio (si trascuri l&apos;attrito dell&apos;aria).
+
+&amp;#x003C;img src=&quot;0610.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;380&quot; height=&quot;200&quot; /&amp;#x003E;
+
+Nell&apos;istante in cui la palla lascia la mano del ragazzo, la componente orizzontale della sua velocit&amp;#x00e0; &amp;#x00e8;, approssimativamente,</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>0.96 m s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>1.1 m s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>4.5 m s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>6.0 m s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>9.2 m s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Un oggetto viene lanciato verso l&apos;alto in una direzione che forma un angolo di 45&amp;#x00b0; con il verso positivo dell&apos;asse &amp;#x003C;i&amp;#x003E;x&amp;#x003C;/i&amp;#x003E; posto orizzontalmente. 
+
+&amp;#x003C;img src=&quot;0613.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;680&quot; height=&quot;160&quot; /&amp;#x003E;
+
+Trascurando la resistenza dell&apos;aria, quali dei precedenti grafici della velocit&amp;#x00e0; in funzione del tempo meglio rappresentano, rispettivamente, &amp;#x003C;i&amp;#x003E;v&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;x&amp;#x003C;/sub&amp;#x003E; in funzione di &amp;#x003C;i&amp;#x003E;t&amp;#x003C;/i&amp;#x003E; e &amp;#x003C;i&amp;#x003E;v&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;y&amp;#x003C;/sub&amp;#x003E; in funzione di &amp;#x003C;i&amp;#x003E;t&amp;#x003C;/i&amp;#x003E;?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>&amp;#x003C;i&amp;#x003E;v&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;x&amp;#x003C;/sub&amp;#x003E; in funzione di &amp;#x003C;i&amp;#x003E;t&amp;#x003C;/i&amp;#x003E;: I; &amp;#x003C;i&amp;#x003E;v&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;y&amp;#x003C;/sub&amp;#x003E; in funzione di &amp;#x003C;i&amp;#x003E;t&amp;#x003C;/i&amp;#x003E;: IV</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;i&amp;#x003E;v&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;x&amp;#x003C;/sub&amp;#x003E; in funzione di &amp;#x003C;i&amp;#x003E;t&amp;#x003C;/i&amp;#x003E;: II; &amp;#x003C;i&amp;#x003E;v&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;y&amp;#x003C;/sub&amp;#x003E; in funzione di &amp;#x003C;i&amp;#x003E;t&amp;#x003C;/i&amp;#x003E;: I</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;i&amp;#x003E;v&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;x&amp;#x003C;/sub&amp;#x003E; in funzione di &amp;#x003C;i&amp;#x003E;t&amp;#x003C;/i&amp;#x003E;: II; &amp;#x003C;i&amp;#x003E;v&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;y&amp;#x003C;/sub&amp;#x003E; in funzione di &amp;#x003C;i&amp;#x003E;t&amp;#x003C;/i&amp;#x003E;: III</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;i&amp;#x003E;v&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;x&amp;#x003C;/sub&amp;#x003E; in funzione di &amp;#x003C;i&amp;#x003E;t&amp;#x003C;/i&amp;#x003E;: II; &amp;#x003C;i&amp;#x003E;v&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;y&amp;#x003C;/sub&amp;#x003E; in funzione di &amp;#x003C;i&amp;#x003E;t&amp;#x003C;/i&amp;#x003E;: V</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;i&amp;#x003E;v&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;x&amp;#x003C;/sub&amp;#x003E; in funzione di &amp;#x003C;i&amp;#x003E;t&amp;#x003C;/i&amp;#x003E;: IV; &amp;#x003C;i&amp;#x003E;v&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;y&amp;#x003C;/sub&amp;#x003E; in funzione di &amp;#x003C;i&amp;#x003E;t&amp;#x003C;/i&amp;#x003E;: V</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Un proiettile si sta muovendo a velocit&amp;#x00e0; &amp;#x003C;i&amp;#x003E;v&amp;#x003C;/i&amp;#x003E; nel punto pi&amp;#x00f9; alto della sua traiettoria. Si faccia l&apos;ipotesi che l&apos;aria non influenzi apprezzabilmente il moto.
+
+&amp;#x003C;img src=&quot;0640.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;280&quot; height=&quot;130&quot; /&amp;#x003E;
+
+Come &amp;#x00e8; rivolto il vettore accelerazione del proiettile in tale punto, indicato in figura?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>&amp;#x003C;img src=&quot;0640a.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;130&quot; height=&quot;90&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;0640b.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;130&quot; height=&quot;90&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;0640c.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;130&quot; height=&quot;90&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;0640d.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;130&quot; height=&quot;90&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;0640e.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;130&quot; height=&quot;90&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text></text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Tarzan deve attraversare un fiume per raggiungere Jane che lo attende sulla sponda opposta, proprio davanti a lui. Tarzan, nuotando - rispetto all&apos;acqua - alla velocit&amp;#x00e0; di 2 m s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E; nella direzione indicata in figura dall&apos;angolo &amp;#x0026;theta; = 22&amp;#x00b0;, attraversa il fiume perpendicolarmente alle sponde. 
+
+&amp;#x003C;img src=&quot;0707.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;240&quot; height=&quot;140&quot; /&amp;#x003E;
+
+Qual &amp;#x00e8; la velocit&amp;#x00e0; della corrente?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>0.75 m s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>1.3 m s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>1.8 m s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>2.1 m s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>2.4 m s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Da un&apos;altezza di 3 m dal suolo vengono lanciate orizzontalmente una palla rossa di 0.2 kg alla velocit&amp;#x00e0; di 4 m s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E; e una palla verde di 0.4 kg alla velocit&amp;#x00e0; di 8 m s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E;. Si supponga trascurabile la resistenza dell&apos;aria. 
+
+Rispetto al tempo impiegato dalla palla rossa per raggiungere il suolo, quella verde impiega. . .</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>la met&amp;#x00e0; del tempo.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>un tempo doppio.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>lo stesso tempo.</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>quattro volte il tempo.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>un quarto del tempo.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Tarzan vuole raggiungere Jane che si trova sull&apos;altra sponda di un fiume esattamente di fronte a lui. Si getta nell&apos;acqua e nuota a 2 m s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E;. Egli stima di dover nuotare controcorrente a 22&amp;#x00b0; come si vede nella figura. Nuotando in questo modo, raggiunge l&apos;altra sponda in 2 minuti. 
+
+&amp;#x003C;img src=&quot;1018.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;300&quot; height=&quot;140&quot; /&amp;#x003E;
+
+Quanto &amp;#x00e8; largo il fiume?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>100 m</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>220 m</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>350 m</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>450 m</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>510 m</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Carlo lancia un sacchetto di sabbia in cima a un muro alto 4 m posto 1.3 m davanti a lui. Il sacchetto si stacca dalla mano di Carlo ad un&apos;altezza di 1.5 m da terra, come &amp;#x00e8; schematizzato in figura. La velocit&amp;#x00e0; di lancio &amp;#x00e8; 7.5 m s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E;, l&apos;angolo con l&apos;orizzontale &amp;#x00e8; 80&amp;#x00b0;, l&apos;attrito con l&apos;aria &amp;#x00e8; trascurabile. 
+
+&amp;#x003C;img src=&quot;1028.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;238&quot; height=&quot;250&quot; /&amp;#x003E;
+
+Quanto dura il volo del sacchetto di sabbia?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>0.18 s</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>0.7 s</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>1.0 s</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>2.5 s</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>5.1 s</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Un disco sta ruotando attorno a un asse passante per il suo centro e perpendicolare al suo piano. Un punto P sul disco si trova a distanza doppia dall&apos;asse rispetto a un punto Q.
+
+A un dato istante, qual &amp;#x00e8; il valore del rapporto tra la velocit&amp;#x00e0; di P e quella di Q?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>4</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>2</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>1</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>1/2</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>1/4</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>In un sistema di riferimento inerziale un oggetto si muove con velocit&amp;#x00e0; di modulo costante &amp;#x003C;i&amp;#x003E;v&amp;#x003C;/i&amp;#x003E; descrivendo una traiettoria circolare di raggio &amp;#x003C;i&amp;#x003E;r&amp;#x003C;/i&amp;#x003E;.
+
+La sua accelerazione &amp;#x00e8; ...</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>... &amp;#x003C;i&amp;#x003E;v&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sup&amp;#x003E;2&amp;#x003C;/sup&amp;#x003E;/&amp;#x003C;i&amp;#x003E;r&amp;#x003C;/i&amp;#x003E;, verso il centro.</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>... &amp;#x003C;i&amp;#x003E;v&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sup&amp;#x003E;2&amp;#x003C;/sup&amp;#x003E;/&amp;#x003C;i&amp;#x003E;r&amp;#x003C;/i&amp;#x003E;, verso l&apos;esterno.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>... zero.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>... &amp;#x003C;i&amp;#x003E;r v&amp;#x003C;sup&amp;#x003E;2&amp;#x003C;/sup&amp;#x003E;&amp;#x003C;/i&amp;#x003E;, verso il centro.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>... &amp;#x003C;i&amp;#x003E;r v&amp;#x003C;sup&amp;#x003E;2&amp;#x003C;/sup&amp;#x003E;&amp;#x003C;/i&amp;#x003E;, verso l&apos;esterno.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>In quale delle seguenti figure &amp;#x00e8; rappresentata meglio l&apos;accelerazione della massa di un pendolo semplice che si muove dal punto 1 al punto 5?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>&amp;#x003C;img src=&quot;0505a.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;140&quot; height=&quot;180&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;0505b.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;140&quot; height=&quot;180&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;0505c.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;140&quot; height=&quot;180&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;0505d.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;140&quot; height=&quot;180&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;0505e.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;140&quot; height=&quot;180&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Un punto materiale si muove su una traiettoria circolare di raggio &amp;#x003C;i&amp;#x003E;R&amp;#x003C;/i&amp;#x003E; = 10 m. In un certo istante, il modulo della velocit&amp;#x00e0; della particella &amp;#x00e8; 10 m s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E;, e sta aumentando al ritmo di 10 m s&amp;#x003C;sup&amp;#x003E;-2&amp;#x003C;/sup&amp;#x003E;.
+
+In quello stesso istante, l&apos;angolo tra la velocit&amp;#x00e0; e l&apos;accelerazione &amp;#x00e8;:</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>0&amp;#x00b0;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>45&amp;#x00b0;</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>90&amp;#x00b0;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>135&amp;#x00b0;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>180&amp;#x00b0;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Un grosso rocchetto, su cui &amp;#x00e8; avvolto del filo, &amp;#x00e8; appoggiato sul pavimento. L&apos;estremit&amp;#x00e0; X del filo viene tirata (v. figura) per un tratto &amp;#x003C;i&amp;#x003E;S&amp;#x003C;/i&amp;#x003E;. Il rocchetto rotola senza strisciare. 
+
+&amp;#x003C;img src=&quot;0829.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;170&quot; height=&quot;120&quot; /&amp;#x003E;
+
+Di quanto si sposta il centro del rocchetto?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>2&amp;#x003C;i&amp;#x003E;S&amp;#x003C;/i&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;i&amp;#x003E;S&amp;#x003C;/i&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;i&amp;#x003E;S&amp;#x003C;/i&amp;#x003E;/2</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;i&amp;#x003E;S&amp;#x003C;/i&amp;#x003E;/3</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;i&amp;#x003E;S&amp;#x003C;/i&amp;#x003E;/4</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Una locomotiva a vapore monta ruote aventi raggio di 0.5 m. La locomotiva parte da ferma e, senza slittare, si muove con accelerazione costante per 30 s. Al termine di questo intervallo di tempo la velocit&amp;#x00e0; della locomotiva &amp;#x00e8; 10 m s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E;.
+
+Quanto vale l&apos;accelerazione angolare delle ruote nella fase di accelerazione?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>1/3 rad s&amp;#x003C;sup&amp;#x003E;-2&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>2/3 rad s&amp;#x003C;sup&amp;#x003E;-2&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>1 rad s&amp;#x003C;sup&amp;#x003E;-2&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>4/3 rad s&amp;#x003C;sup&amp;#x003E;-2&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>30 rad s&amp;#x003C;sup&amp;#x003E;-2&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+</questions></data>
+<hotpot-config-file>
+<global>
+<separate-js-file>0</separate-js-file>
+<clue-caption>Clue</clue-caption>
+<next-q-caption>=&amp;#x003E;</next-q-caption>
+<last-q-caption>&amp;#x003C;=</last-q-caption>
+<incorrect-indicator>X</incorrect-indicator>
+<font-size>10pt</font-size>
+<include-next-ex>0</include-next-ex>
+<restart-caption>Restart</restart-caption>
+<contents-url>contents.htm</contents-url>
+<include-timer>0</include-timer>
+<font-face>Arial,Verdana,sans-serif</font-face>
+<include-scorm-12>0</include-scorm-12>
+<user-string-3>three</user-string-3>
+<show-correct-first-time>0</show-correct-first-time>
+<user-string-2>two</user-string-2>
+<user-string-1>one</user-string-1>
+<vlink-color>#0000CC</vlink-color>
+<title-color>#FF0000</title-color>
+<correct-indicator>:-)</correct-indicator>
+<contents-caption>Index</contents-caption>
+<show-all-questions-caption>Mostra tutte le domande</show-all-questions-caption>
+<undo-caption>Undo</undo-caption>
+<header-code></header-code>
+<hint-caption>Hint</hint-caption>
+<check-button-caption>Check</check-button-caption>
+<email>you@yourserver.com</email>
+<show-one-by-one-caption>Mostra le domande una alla volta</show-one-by-one-caption>
+<name-please>Please enter your name:</name-please>
+<formmail-url>http://yourserver.com/cgi-bin/FormMail.pl</formmail-url>
+<next-ex-caption>=&amp;#x003E;</next-ex-caption>
+<back-caption>&amp;#x003C;=</back-caption>
+<text-color>#333333</text-color>
+<page-bg-color>#ffeee8</page-bg-color>
+<times-up>Your time is over!</times-up>
+<nav-bar-color>#FF9900</nav-bar-color>
+<include-contents>0</include-contents>
+<your-score-is>Il tuo punteggio &amp;#x00e8;:</your-score-is>
+<graphic-url></graphic-url>
+<link-color>#0000FF</link-color>
+<keypad-characters></keypad-characters>
+<show-also-correct>1</show-also-correct>
+<correct-first-time>Risposte esatte al primo tentativo: </correct-first-time>
+<include-cgi>0</include-cgi>
+<ex-bg-color>#FFFFFF</ex-bg-color>
+<ok-caption>OK</ok-caption>
+<process-for-rtl>0</process-for-rtl>
+<check-caption>Controlla</check-caption>
+<include-back>0</include-back>
+<next-correct-letter>Next correct letter is: </next-correct-letter>
+</global>
+<jquiz>
+<next-caption>Next</next-caption>
+<instructions></instructions>
+<enter-a-guess>Prova a dare una risposta:</enter-a-guess>
+<correct-list>Risposte esatte:</correct-list>
+<completed-so-far>Domande completate finora:</completed-so-far>
+<header-code></header-code>
+<include-hint>0</include-hint>
+<include-keypad>0</include-keypad>
+<short-answer-tries-on-hybrid-q>2</short-answer-tries-on-hybrid-q>
+<partly-incorrect>La tua risposta &amp;#x00e8; parzialmente sbagliata: </partly-incorrect>
+<guess-incorrect>Sbagliato! Riprova:</guess-incorrect>
+<case-sensitive>0</case-sensitive>
+<continuous-scoring>1</continuous-scoring>
+<next-ex-url>nextpage.htm</next-ex-url>
+<send-email>0</send-email>
+<show-also-correct>1</show-also-correct>
+<exercise-subtitle>Quiz</exercise-subtitle>
+<exercise-completed>L&apos;esercizio &amp;#x00e8; stato completato. </exercise-completed>
+<questions-to-show>10</questions-to-show>
+<shuffle-answers>0</shuffle-answers>
+<guess-correct>Esatto!</guess-correct>
+<next-correct-letter>Lettera esatta successiva nella risposta:</next-correct-letter>
+<show-limited-questions>0</show-limited-questions>
+<shuffle-questions>0</shuffle-questions>
+<include-show-answer>1</include-show-answer>
+<show-correct-first-time>0</show-correct-first-time>
+<separate-javascript-file>0</separate-javascript-file>
+<delete-caption>Delete This Flashcard</delete-caption>
+<show-answer-caption>Mostra risposta</show-answer-caption>
+</jquiz>
+</hotpot-config-file>
+
+</hotpot-jquiz-file>

@@ -1,0 +1,587 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<hotpot-jquiz-file>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description rdf:about="">
+</rdf:Description>
+</rdf:RDF>
+<version>6</version>
+<data>
+<title>Magnetismo</title>
+<timer>
+<include-timer>0</include-timer>
+<seconds>59</seconds>
+</timer>
+<reading>
+<reading-text></reading-text>
+<include-reading>0</include-reading>
+<reading-title></reading-title>
+</reading>
+<questions>
+<question-record>
+<question>Due lunghi fili paralleli A e B conducono una corrente elettrica &amp;#x003C;i&amp;#x003E;I&amp;#x003C;/i&amp;#x003E;, come mostrato in figura. 
+
+&amp;#x003C;img src=&quot;0018.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;120&quot; height=&quot;180&quot; /&amp;#x003E;
+
+Il campo magnetico in un punto P posto nel mezzo tra A e B vale . . .</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>zero</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x0026;mu;&amp;#x003C;sub&amp;#x003E;0 &amp;#x003C;/sub&amp;#x003E;&amp;#x003C;i&amp;#x003E;I&amp;#x003C;/i&amp;#x003E; / (2 &amp;#x0026;pi; &amp;#x003C;i&amp;#x003E;d&amp;#x003C;/i&amp;#x003E;) perpendicolare al piano della figura, in verso uscente.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x0026;mu;&amp;#x003C;sub&amp;#x003E;0 &amp;#x003C;/sub&amp;#x003E;&amp;#x003C;i&amp;#x003E;I&amp;#x003C;/i&amp;#x003E; / (&amp;#x0026;pi; &amp;#x003C;i&amp;#x003E;d&amp;#x003C;/i&amp;#x003E;) perpendicolare al piano della figura, in verso entrante.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x0026;mu;&amp;#x003C;sub&amp;#x003E;0 &amp;#x003C;/sub&amp;#x003E;&amp;#x003C;i&amp;#x003E;I&amp;#x003C;/i&amp;#x003E; / (2 &amp;#x0026;pi; &amp;#x003C;i&amp;#x003E;d&amp;#x003C;/i&amp;#x003E;) nel piano della figura diretto da A a B.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x0026;mu;&amp;#x003C;sub&amp;#x003E;0 &amp;#x003C;/sub&amp;#x003E;&amp;#x003C;i&amp;#x003E;I&amp;#x003C;/i&amp;#x003E; / (&amp;#x0026;pi; &amp;#x003C;i&amp;#x003E;d&amp;#x003C;/i&amp;#x003E;) perpendicolare al piano della figura, in verso uscente.</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text></text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Il disegno mostra un lungo filo rettilineo percorso da una corrente elettrica stazionaria. 
+
+&amp;#x003C;img src=&quot;0211.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;180&quot; height=&quot;120&quot; /&amp;#x003E;
+
+Il punto P &amp;#x00e8; posto alla distanza &amp;#x003C;i&amp;#x003E;r&amp;#x003C;/i&amp;#x003E; dal filo.
+
+Quale o quali delle seguenti affermazioni sono corrette?
+
+1 - Il campo magnetico in P &amp;#x00e8; inversamente proporzionale a &amp;#x003C;i&amp;#x003E;r&amp;#x003C;/i&amp;#x003E;.
+2 - Il campo magnetico in P &amp;#x00e8; proporzionale alla corrente elettrica. 
+3 - Il campo magnetico in P &amp;#x00e8; parallelo al filo.</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>Tutte e tre.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Solo la 1 e la 2.</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Solo la 2 e la 3.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Solo la 1.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Solo la 3.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Un protone si muove lungo la direzione &amp;#x003C;i&amp;#x003E;z&amp;#x003C;/i&amp;#x003E; in verso positivo dopo essere stato accelerato, a partire dalla quiete, attraverso una differenza di potenziale &amp;#x003C;i&amp;#x003E;V&amp;#x003C;/i&amp;#x003E;. Successivamente il protone passa attraverso una regione con un campo elettrico uniforme di intensit&amp;#x00e0; &amp;#x003C;i&amp;#x003E;E&amp;#x003C;/i&amp;#x003E; rivolto lungo l&apos;asse &amp;#x003C;i&amp;#x003E;x&amp;#x003C;/i&amp;#x003E; in verso positivo, e un campo magnetico di intensit&amp;#x00e0; &amp;#x003C;i&amp;#x003E;B&amp;#x003C;/i&amp;#x003E; rivolto lungo l&apos;asse &amp;#x003C;i&amp;#x003E;y&amp;#x003C;/i&amp;#x003E; in verso positivo. In questa regione il protone continua a viaggiare in moto rettilineo. 
+
+Se l&apos;esperimento fosse ripetuto usando una differenza di potenziale 2&amp;#x003C;i&amp;#x003E;V&amp;#x003C;/i&amp;#x003E; per accelerare il protone, questo sarebbe inizialmente. . .</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>. . . deviato nel senso del verso positivo dell&apos;asse &amp;#x003C;i&amp;#x003E;x&amp;#x003C;/i&amp;#x003E;.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>. . . deviato nel senso del verso negativo dell&apos;asse &amp;#x003C;i&amp;#x003E;x&amp;#x003C;/i&amp;#x003E;.</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>. . . deviato nel senso del verso positivo dell&apos;asse &amp;#x003C;i&amp;#x003E;y&amp;#x003C;/i&amp;#x003E;.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>. . . deviato nel senso del verso negativo dell&apos;asse &amp;#x003C;i&amp;#x003E;y&amp;#x003C;/i&amp;#x003E;.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>. . . non deviato.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>In figura &amp;#x00e8; schematizzata una particella con carica +&amp;#x003C;i&amp;#x003E;Q&amp;#x003C;/i&amp;#x003E; e massa &amp;#x003C;i&amp;#x003E;m&amp;#x003C;/i&amp;#x003E; che procede con velcoit&amp;#x00e0; costante &amp;#x003C;i&amp;#x003E;v&amp;#x003C;/i&amp;#x003E;, e quindi in linea retta. La particella penetra in un campo magnetico uniforme di induzione &amp;#x003C;i&amp;#x003E;B&amp;#x003C;/i&amp;#x003E; diretto in verso uscente dal foglio e quindi comincia a percorrere una traiettoria circolare con raggio &amp;#x003C;i&amp;#x003E;R&amp;#x003C;/i&amp;#x003E;. Si ripete l&apos;esperimento dopo aver aumentato l&apos;intensit&amp;#x00e0; del campo magnetico. 
+
+&amp;#x003C;img src=&quot;0722.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;220&quot; height=&quot;120&quot; /&amp;#x003E;
+
+Quali delle seguenti affermazioni sul raggio &amp;#x003C;i&amp;#x003E;R&amp;#x003C;/i&amp;#x003E; sono vere? 
+
+1 - Se la stessa particella avesse la stessa velocit&amp;#x00e0; iniziale allora il raggio &amp;#x003C;i&amp;#x003E;R&amp;#x003C;/i&amp;#x003E; sarebbe maggiore. 
+2 - Perch&amp;#x00e9; il raggio &amp;#x003C;i&amp;#x003E;R&amp;#x003C;/i&amp;#x003E; resti uguale bisogna che la velocit&amp;#x00e0; iniziale della stessa particella sia maggiore. 
+3 - Se la stessa particella avesse una carica maggiore, il raggio &amp;#x003C;i&amp;#x003E;R&amp;#x003C;/i&amp;#x003E; potrebbe rimanere uguale anche con la stessa velocit&amp;#x00e0; iniziale.</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>Solamente la 1.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Solamente la 2.</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Solamente la 3.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Solamente la 1 e la 2.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Solamente la 1 e la 3.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Due lunghi fili rettilinei, paralleli, posti a distanza &amp;#x003C;i&amp;#x003E;d&amp;#x003C;/i&amp;#x003E;, sono disposti sul piano di questo foglio, e sono percorsi da corrente elettrica di intensit&amp;#x00e0; &amp;#x003C;i&amp;#x003E;I&amp;#x003C;/i&amp;#x003E; uguale nei due fili e rivolta nello stesso verso. 
+
+Il campo magnetico generato dalla corrente che scorre nei due fili, in un punto del foglio, equidistante da essi, &amp;#x00e8;:</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>Nullo.</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Perpendicolare al piano del foglio, con verso entrante.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Perpendicolare al piano del foglio, con verso uscente.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Nel piano del foglio, parallelo ai fili e diretto nel verso della corrente.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Nel piano del foglio, parallelo ai fili e diretto in verso opposto alla corrente.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Due magneti a barra identici sono posizionati come nel disegno. 
+
+&amp;#x003C;img src=&quot;1007.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;250&quot; height=&quot;80&quot; /&amp;#x003E;
+
+In quali dei punti indicati il campo magnetico ha la massima intensit&amp;#x00e0;?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>A</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>B</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>C</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>D</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>E</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Un filo conduttore si sta muovendo in direzione perpendicolare ad un campo magnetico di intensit&amp;#x00e0; &amp;#x003C;i&amp;#x003E;B&amp;#x003C;/i&amp;#x003E;, come rappresentato in figura, cosicch&amp;#x00e9; tra i suoi estremi si stabilisce una d.d.p. indotta. 
+
+ &amp;#x003C;img src=&quot;1014.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;240&quot; height=&quot;200&quot; /&amp;#x003E;
+
+Se l&apos;intensit&amp;#x00e0; del campo magnetico viene raddoppiata, allora la differenza di potenziale elettrico tra gli estremi del conduttore. . .</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>. . . diventa un quarto.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>. . . si dimezza.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>. . . rimane la stessa.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>. . . raddoppia.</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>. . . quadruplica.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Un fascio bene collimato di particelle, di massa &amp;#x003C;i&amp;#x003E;m&amp;#x003C;/i&amp;#x003E; e carica elettrica &amp;#x003C;i&amp;#x003E;q&amp;#x003C;/i&amp;#x003E;, passa attraverso un forellino, in una camera di lunghezza &amp;#x003C;i&amp;#x003E;L&amp;#x003C;/i&amp;#x003E;. All&apos;interno della camera si trovano un campo elettrico &amp;#x003C;i&amp;#x003E;E&amp;#x003C;/i&amp;#x003E; e un campo magnetico &amp;#x003C;i&amp;#x003E;B&amp;#x003C;/i&amp;#x003E;, entrambi uniformi, costanti e orientati come in figura. 
+
+&amp;#x003C;img src=&quot;1137.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;200&quot; height=&quot;140&quot; /&amp;#x003E;
+
+Qual &amp;#x00e8; il modulo della velocit&amp;#x00e0; &amp;#x003C;i&amp;#x003E;v&amp;#x003C;/i&amp;#x003E; delle particelle che attraversano lungo una retta tutta la camera ed escono dal secondo forellino posto sulla parete opposta?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>&amp;#x003C;img src=&quot;1137a.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;80&quot; height=&quot;40&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;1137b.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;80&quot; height=&quot;40&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;1137c.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;150&quot; height=&quot;40&quot;  /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;1137d.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;70&quot; height=&quot;30&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;1137e.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;45&quot; height=&quot;35&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Due solenoidi A e B, vuoti al loro interno, sono collegati con un filo, come mostrato in figura. Due barre magnetizzate, 1 e 2, sono appena sopra i due solenoidi. 
+
+&amp;#x003C;img src=&quot;0409.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;200&quot; height=&quot;200&quot; /&amp;#x003E;
+
+Se il polo nord del magnete 1 &amp;#x00e8; lasciato cadere verso il solenoide A, simultaneamente il polo sud del magnete 2 sar&amp;#x00e0; . . .</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>. . . attratto verso il solenoide B da una forza magnetica.</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>. . . respinto via dal solenoide B da una forza magnetica.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>. . . attratto verso il solenoide B da una forza elettrica.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>. . . respinto via dal solenoide B da una forza elettrica.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>. . . non influenzato dalla presenza del solenoide B.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Tre spire conduttrici sono disposte come in figura con l&apos;asse in comune. Una corrente &amp;#x003C;i&amp;#x003E;I&amp;#x003C;/i&amp;#x003E; viene vista dall&apos;osservatore scorrere in verso antiorario nella spira centrale mentre questa si muove a velocit&amp;#x00e0; &amp;#x003C;i&amp;#x003E;v&amp;#x003C;/i&amp;#x003E; verso l&apos;osservatore; le spire 1 e 2 sono ferme. 
+
+&amp;#x003C;img src=&quot;0522.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;150&quot; height=&quot;180&quot; /&amp;#x003E;
+
+Allora l&apos;osservatore vedr&amp;#x00e0;. . .</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>. . . correnti indotte che scorrono nelle spire 1 e 2 in verso orario.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>. . . correnti indotte che scorrono nelle spire 1 e 2 in verso antiorario.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>. . . una corrente indotta che scorre nella spira 1 in verso orario e una nella 2 in verso antiorario.</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>. . . una corrente indotta che scorre nella spira 1 in verso antiorario e una nella 2 in verso orario.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>. . . una corrente indotta che scorre nella spira 1 in verso antiorario mentre nella spira 2 non scorre corrente.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Una calamita viene fatta passare a velocit&amp;#x00e0; costante attraverso una spira formata da un filo metallico, come mostrato in figura. Sia &amp;#x003C;i&amp;#x003E;t&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;1&amp;#x003C;/sub&amp;#x003E; l&apos;istante di tempo in cui il punto centrale della calamita attraversa il piano della spira. 
+
+&amp;#x003C;img src=&quot;0710.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;120&quot; height=&quot;150&quot; /&amp;#x003E;
+
+Quale dei seguenti grafici rappresenta meglio la relazione che esiste tra la corrente elettrica indotta nella spira ed il tempo? 
+
+&amp;#x003C;i&amp;#x003E;NOTA: In una vista dall&apos;alto della spira la corrente indotta si considera positiva se circola in senso antiorario, come mostrato in figura.&amp;#x003C;/i&amp;#x003E;</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>&amp;#x003C;img src=&quot;0710a.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;120&quot; height=&quot;150&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;0710b.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;120&quot; height=&quot;150&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;0710c.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;120&quot; height=&quot;150&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;0710d.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;120&quot; height=&quot;150&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;0710e.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;120&quot; height=&quot;150&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Una spira conduttrice di forma rettangolare, muovendosi di moto rettilineo uniforme su di un piano, come mostrato in figura, attraversa una regione di campo magnetico uniforme, perpendicolare al piano, in verso entrante nel foglio. La spira presenta una resistenza elettrica, mentre il coefficiente di autoinduzione pu&amp;#x00f2; essere trascurato.
+
+&amp;#x003C;img src=&quot;0914.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;240&quot; height=&quot;180&quot; /&amp;#x003E;
+
+Quale tra i seguenti grafici rappresenta meglio l&apos;andamento temporale della corrente elettrica che circola nella spira?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>&amp;#x003C;img src=&quot;0914a.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;120&quot; height=&quot;150&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;0914b.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;120&quot; height=&quot;150&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;0914c.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;120&quot; height=&quot;150&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;0914d.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;120&quot; height=&quot;150&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;0914e.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;120&quot; height=&quot;150&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+</questions></data>
+<hotpot-config-file>
+<global>
+<separate-js-file>0</separate-js-file>
+<clue-caption>Clue</clue-caption>
+<next-q-caption>=&amp;#x003E;</next-q-caption>
+<last-q-caption>&amp;#x003C;=</last-q-caption>
+<incorrect-indicator>X</incorrect-indicator>
+<font-size>10pt</font-size>
+<include-next-ex>0</include-next-ex>
+<restart-caption>Restart</restart-caption>
+<contents-url>contents.htm</contents-url>
+<include-timer>0</include-timer>
+<font-face>Arial,Verdana,sans-serif</font-face>
+<include-scorm-12>0</include-scorm-12>
+<user-string-3>three</user-string-3>
+<show-correct-first-time>0</show-correct-first-time>
+<user-string-2>two</user-string-2>
+<user-string-1>one</user-string-1>
+<vlink-color>#0000CC</vlink-color>
+<title-color>#FF0000</title-color>
+<correct-indicator>:-)</correct-indicator>
+<contents-caption>Index</contents-caption>
+<show-all-questions-caption>Mostra tutte le domande</show-all-questions-caption>
+<undo-caption>Undo</undo-caption>
+<header-code></header-code>
+<hint-caption>Hint</hint-caption>
+<check-button-caption>Check</check-button-caption>
+<email>you@yourserver.com</email>
+<show-one-by-one-caption>Mostra le domande una alla volta</show-one-by-one-caption>
+<name-please>Please enter your name:</name-please>
+<formmail-url>http://yourserver.com/cgi-bin/FormMail.pl</formmail-url>
+<next-ex-caption>=&amp;#x003E;</next-ex-caption>
+<back-caption>&amp;#x003C;=</back-caption>
+<text-color>#333333</text-color>
+<page-bg-color>#ffeee8</page-bg-color>
+<times-up>Your time is over!</times-up>
+<nav-bar-color>#FF9900</nav-bar-color>
+<include-contents>0</include-contents>
+<your-score-is>Il tuo punteggio &amp;#x00e8;:</your-score-is>
+<graphic-url></graphic-url>
+<link-color>#0000FF</link-color>
+<keypad-characters></keypad-characters>
+<show-also-correct>1</show-also-correct>
+<correct-first-time>Risposte esatte al primo tentativo: </correct-first-time>
+<include-cgi>0</include-cgi>
+<ex-bg-color>#FFFFFF</ex-bg-color>
+<ok-caption>OK</ok-caption>
+<process-for-rtl>0</process-for-rtl>
+<check-caption>Controlla</check-caption>
+<include-back>0</include-back>
+<next-correct-letter>Next correct letter is: </next-correct-letter>
+</global>
+<jquiz>
+<next-caption>Next</next-caption>
+<instructions></instructions>
+<enter-a-guess>Prova a dare una risposta:</enter-a-guess>
+<correct-list>Risposte esatte:</correct-list>
+<completed-so-far>Domande completate finora:</completed-so-far>
+<header-code></header-code>
+<include-hint>0</include-hint>
+<include-keypad>0</include-keypad>
+<short-answer-tries-on-hybrid-q>2</short-answer-tries-on-hybrid-q>
+<partly-incorrect>La tua risposta &amp;#x00e8; parzialmente sbagliata: </partly-incorrect>
+<guess-incorrect>Sbagliato! Riprova:</guess-incorrect>
+<case-sensitive>0</case-sensitive>
+<continuous-scoring>1</continuous-scoring>
+<next-ex-url>nextpage.htm</next-ex-url>
+<send-email>0</send-email>
+<show-also-correct>1</show-also-correct>
+<exercise-subtitle>Quiz</exercise-subtitle>
+<exercise-completed>L&apos;esercizio &amp;#x00e8; stato completato. </exercise-completed>
+<questions-to-show>10</questions-to-show>
+<shuffle-answers>0</shuffle-answers>
+<guess-correct>Esatto!</guess-correct>
+<next-correct-letter>Lettera esatta successiva nella risposta:</next-correct-letter>
+<show-limited-questions>0</show-limited-questions>
+<shuffle-questions>0</shuffle-questions>
+<include-show-answer>1</include-show-answer>
+<show-correct-first-time>0</show-correct-first-time>
+<separate-javascript-file>0</separate-javascript-file>
+<delete-caption>Delete This Flashcard</delete-caption>
+<show-answer-caption>Mostra risposta</show-answer-caption>
+</jquiz>
+</hotpot-config-file>
+
+</hotpot-jquiz-file>

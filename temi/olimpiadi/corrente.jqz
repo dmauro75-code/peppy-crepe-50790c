@@ -1,0 +1,1136 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<hotpot-jquiz-file>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description rdf:about="">
+</rdf:Description>
+</rdf:RDF>
+<version>6</version>
+<data>
+<title>Corrente elettrica</title>
+<timer>
+<include-timer>0</include-timer>
+<seconds>59</seconds>
+</timer>
+<reading>
+<reading-text></reading-text>
+<include-reading>0</include-reading>
+<reading-title></reading-title>
+</reading>
+<questions>
+<question-record>
+<question>Nel circuito mostrato in figura, la corrente erogata dalla batteria vale . . . 
+
+&amp;#x003C;img src=&quot;0026.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;170&quot; height=&quot;150&quot; /&amp;#x003E;</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>1 A</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>2 A</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>4 A</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>4.5 A</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>10 A</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Quattro lampadine identiche &amp;#x003C;b&amp;#x003E;P&amp;#x003C;/b&amp;#x003E;, &amp;#x003C;b&amp;#x003E;Q&amp;#x003C;/b&amp;#x003E;, &amp;#x003C;b&amp;#x003E;R&amp;#x003C;/b&amp;#x003E;, &amp;#x003C;b&amp;#x003E;S&amp;#x003C;/b&amp;#x003E; sono inserite nel circuito mostrato in figura e sono tutte accese.
+
+&amp;#x003C;img src=&quot;0029.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;180&quot; height=&quot;140&quot; /&amp;#x003E;
+
+Se la lampadina &amp;#x003C;b&amp;#x003E;Q&amp;#x003C;/b&amp;#x003E; viene svitata, quale delle seguenti affermazioni &amp;#x00e8; vera?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>Le lampadine &amp;#x003C;b&amp;#x003E;P&amp;#x003C;/b&amp;#x003E;, &amp;#x003C;b&amp;#x003E;R&amp;#x003C;/b&amp;#x003E; e &amp;#x003C;b&amp;#x003E;S&amp;#x003C;/b&amp;#x003E; restano ugualmente luminose.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>La lampadina &amp;#x003C;b&amp;#x003E;P&amp;#x003C;/b&amp;#x003E; &amp;#x00e8; pi&amp;#x00f9; luminosa di prima, ma non quanto sono ora &amp;#x003C;b&amp;#x003E;R&amp;#x003C;/b&amp;#x003E; ed &amp;#x003C;b&amp;#x003E;S&amp;#x003C;/b&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>La lampadina &amp;#x003C;b&amp;#x003E;P&amp;#x003C;/b&amp;#x003E; &amp;#x00e8; meno luminosa di prima, ma non quanto sono ora &amp;#x003C;b&amp;#x003E;R&amp;#x003C;/b&amp;#x003E; ed &amp;#x003C;b&amp;#x003E;S&amp;#x003C;/b&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>La lampadina &amp;#x003C;b&amp;#x003E;P&amp;#x003C;/b&amp;#x003E; &amp;#x00e8; pi&amp;#x00f9; luminosa di prima ed &amp;#x00e8; anche pi&amp;#x00f9; luminosa di quanto sono ora &amp;#x003C;b&amp;#x003E;R&amp;#x003C;/b&amp;#x003E; ed &amp;#x003C;b&amp;#x003E;S&amp;#x003C;/b&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>La lampadina &amp;#x003C;b&amp;#x003E;P&amp;#x003C;/b&amp;#x003E; &amp;#x00e8; meno luminosa di prima ma pi&amp;#x00f9; luminosa di quanto sono ora &amp;#x003C;b&amp;#x003E;R&amp;#x003C;/b&amp;#x003E; ed &amp;#x003C;b&amp;#x003E;S&amp;#x003C;/b&amp;#x003E;.</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>L&apos;unit&amp;#x00e0; di misura &quot;volt&quot; &amp;#x00e8; equivalente a</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>farad/coulomb</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>ampere/ohm</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>joule/ampere</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>joule/ohm</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>joule/coulomb</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Nel circuito in figura, la d.d.p. fra i punti P e Q vale 12 V. 
+
+&amp;#x003C;img src=&quot;0112.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;180&quot; height=&quot;140&quot; /&amp;#x003E;
+
+La lettura su un voltmetro inserito fra i punti R e S &amp;#x00e8;</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>0 V</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>2 V</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>4 V</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>6 V</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>8 V</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>La figura mostra un circuito con due resistori connessi in parallelo a una batteria ideale da 12 V. 
+
+&amp;#x003C;img src=&quot;0127.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;180&quot; height=&quot;140&quot; /&amp;#x003E;
+
+La potenza totale sviluppata dal circuito &amp;#x00e8;</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>12 W</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>24 W</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>48 W</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>300 W</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>1200 W</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Quattro resistori sono connessi come in figura.
+
+&amp;#x003C;img src=&quot;0209.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;180&quot; height=&quot;180&quot;  /&amp;#x003E;
+
+Fra quale coppia di punti la resistenza &amp;#x00e8; massima?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>P e Q</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Q ed S</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>R ed S</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>S e P</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>P ed R</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Quale dei cinque circuiti raffigurati qui sotto &amp;#x00e8; disegnato in modo da rappresentare un partitore di tensione?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>&amp;#x003C;img src=&quot;0333a.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;140&quot; height=&quot;170&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;0333b.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;140&quot; height=&quot;170&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;0333c.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;140&quot; height=&quot;170&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;0333d.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;140&quot; height=&quot;170&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;0333e.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;140&quot; height=&quot;170&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>In un circuito elettrico l&apos;intensit&amp;#x00e0; di corrente misurata in un conduttore &amp;#x00e8; (2.5 &amp;#x0026;plusmn; 0.05) mA. La resistenza del conduttore &amp;#x00e8; 4.7 &amp;#x0026;Omega; &amp;#x0026;plusmn; 2%.
+
+Se questi valori vengono usati per calcolare la potenza dissipata nel conduttore, il risultato del calcolo ha incertezza ...</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>... 2%</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>... 4%</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>... 6%</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>... 8%</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>... 10%</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Per aumentare la luce emessa da una lampada da tavolo, un ragazzo sostituisce la lampadina da 60 W con una da 100 W.
+
+In confronto alla lampadina da 60 W, quella da 100 W ha . . .</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>. . . resistenza minore e conduce una corrente maggiore.</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>. . . resistenza minore e conduce una corrente minore.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>. . . resistenza uguale e conduce una corrente maggiore.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>. . . resistenza maggiore e conduce una corrente maggiore.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>. . . resistenza maggiore e conduce una corrente minore.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Per misurare il calore latente di vaporizzazione di un liquido si usa un dispositivo che mantiene il liquido alla temperatura di ebollizione mediante un riscaldatore elettrico alimentato da una batteria di f.e.m. &amp;#x003C;i&amp;#x003E;V&amp;#x003C;/i&amp;#x003E;; la massa &amp;#x003C;i&amp;#x003E;m&amp;#x003C;/i&amp;#x003E; di liquido vaporizzato in un dato intervallo di tempo &amp;#x0026;Delta;&amp;#x003C;i&amp;#x003E;t&amp;#x003C;/i&amp;#x003E; viene pesata dopo che il liquido &amp;#x00e8; stato fatto condensare. 
+Nel grafico in figura sono riportati i valori di &amp;#x003C;i&amp;#x003E;V&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sup&amp;#x003E;2&amp;#x003C;/sup&amp;#x003E; in funzione di &amp;#x003C;i&amp;#x003E;m&amp;#x003C;/i&amp;#x003E;. 
+
+&amp;#x003C;img src=&quot;0418.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;200&quot; height=&quot;250&quot; /&amp;#x003E;
+
+Se la resistenza del riscaldatore era di 4 &amp;#x0026;Omega; e il tempo di vaporizzazione &amp;#x00e8; stato fissato in 10 minuti, determinare il calore latente di vaporizzazione del liquido usato, espresso in J kg&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E;.</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>10</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>600</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>10000</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>600000</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>720000</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>&amp;#x003C;img src=&quot;0440.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;400&quot; height=&quot;250&quot; /&amp;#x003E;
+
+In quale coppia dei circuiti mostrati in figura le letture dei due voltmetri V&amp;#x003C;sub&amp;#x003E;1&amp;#x003C;/sub&amp;#x003E; e V&amp;#x003C;sub&amp;#x003E;2&amp;#x003C;/sub&amp;#x003E; e dell&apos;amperometro A possono essere corrette?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>A e B</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>B e C</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>C e D</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>A e D</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>B e D</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Si consideri un semplice circuito costituito da una batteria e tre lampadine. La lampadina 1 &amp;#x00e8; collegata in parallelo con la 2; questo parallelo &amp;#x00e8; posto in serie alla lampadina 3.
+
+Cosa accade alla luminosit&amp;#x00e0; delle altre due lampadine se la 1 si brucia?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>Entrambe diventano pi&amp;#x00f9; luminose.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>La lampadina 2 diventa pi&amp;#x00f9; luminosa mentre la 3 non cambia luminosit&amp;#x00e0;.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>La lampadina 2 diventa pi&amp;#x00f9; luminosa mentre la 3 si indebolisce.</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>La lampadina 2 si indebolisce mentre la 3 diventa pi&amp;#x00f9; luminosa.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Le due lampadine non cambiano luminosit&amp;#x00e0;.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Una batteria, un amperometro, tre resistori e un interruttore sono collegati per formare il circuito mostrato in figura. 
+
+&amp;#x003C;img src=&quot;0520.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;250&quot; height=&quot;150&quot; /&amp;#x003E;
+
+Quando l&apos;interruttore viene chiuso che succede alla differenza di potenziale ai capi del resistore da 15 &amp;#x0026;Omega;?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>E&apos; uguale alla d.d.p. ai capi del resistore da 20 &amp;#x0026;Omega;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>E&apos; il doppio della d.d.p. ai capi del resistore da 30 &amp;#x0026;Omega;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>E&apos; uguale alla d.d.p. ai capi del resistore da 30 &amp;#x0026;Omega;</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>E&apos; la met&amp;#x00e0; della d.d.p. ai capi del resistore da 30 &amp;#x0026;Omega;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Nessuna delle precedenti.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Qui sotto sono indicate la lunghezza e l&apos;area della sezione di cinque pezzi di filo di rame, tutti alla stessa temperatura. 
+
+Quale filo ha resistenza maggiore?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>Lunghezza = 10 m; Area della sez = 1 x 10&amp;#x003C;sup&amp;#x003E;-6&amp;#x003C;/sup&amp;#x003E; m&amp;#x003C;sup&amp;#x003E;2&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Lunghezza = 10 m; Area della sez = 2 x 10&amp;#x003C;sup&amp;#x003E;-6&amp;#x003C;/sup&amp;#x003E; m&amp;#x003C;sup&amp;#x003E;2&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Lunghezza = 5 m; Area della sez = 1 x 10&amp;#x003C;sup&amp;#x003E;-6&amp;#x003C;/sup&amp;#x003E; m&amp;#x003C;sup&amp;#x003E;2&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Lunghezza = 1 m; Area della sez = 2 x 10&amp;#x003C;sup&amp;#x003E;-6&amp;#x003C;/sup&amp;#x003E; m&amp;#x003C;sup&amp;#x003E;2&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Lunghezza = 1 m; Area della sez = 1 x 10&amp;#x003C;sup&amp;#x003E;-6&amp;#x003C;/sup&amp;#x003E; m&amp;#x003C;sup&amp;#x003E;2&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Una pila da 4.5 V &amp;#x00e8; collegata a quattro resistori che formano il semplice circuito indicato nella seguente figura. 
+
+&amp;#x003C;img src=&quot;0605.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;250&quot; height=&quot;150&quot; /&amp;#x003E;
+
+Quant&apos;&amp;#x00e8; la differenza di potenziale fra il punto B e il punto D?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>+1 V</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>+2 V</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>+2.5 V</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>+3.5 V</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>+4.5 V</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Un filo metallico di resistivit&amp;#x00e0; &amp;#x0026;rho; e sezione &amp;#x003C;i&amp;#x003E;A&amp;#x003C;/i&amp;#x003E; viene sagomato in maniera da formare un triangolo equilatero di lato &amp;#x003C;i&amp;#x003E;b&amp;#x003C;/i&amp;#x003E;, come in figura. 
+
+&amp;#x003C;img src=&quot;0728.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;145&quot; height=&quot;120&quot; /&amp;#x003E;
+
+La resistenza presentata dal filo fra i punti &amp;#x003C;b&amp;#x003E;X&amp;#x003C;/b&amp;#x003E; e &amp;#x003C;b&amp;#x003E;Y&amp;#x003C;/b&amp;#x003E; &amp;#x00e8;</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>3/2 &amp;#x003C;i&amp;#x003E;A&amp;#x003C;/i&amp;#x003E; /(&amp;#x0026;rho;&amp;#x003C;i&amp;#x003E;b&amp;#x003C;/i&amp;#x003E;)</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>3 &amp;#x003C;i&amp;#x003E;A&amp;#x003C;/i&amp;#x003E; /(&amp;#x0026;rho;&amp;#x003C;i&amp;#x003E;b&amp;#x003C;/i&amp;#x003E;)</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>2/3 &amp;#x0026;rho;&amp;#x003C;i&amp;#x003E;b&amp;#x003C;/i&amp;#x003E;/&amp;#x003C;i&amp;#x003E;A&amp;#x003C;/i&amp;#x003E;</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>3/2 &amp;#x0026;rho;&amp;#x003C;i&amp;#x003E;b&amp;#x003C;/i&amp;#x003E;/&amp;#x003C;i&amp;#x003E;A&amp;#x003C;/i&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>3 &amp;#x0026;rho;&amp;#x003C;i&amp;#x003E;b&amp;#x003C;/i&amp;#x003E;/&amp;#x003C;i&amp;#x003E;A&amp;#x003C;/i&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Uno studente esegue un esperimento di carica di un condensatore, collegandolo a un generatore di tensione costante &amp;#x003C;i&amp;#x003E;V&amp;#x003C;/i&amp;#x003E; attraverso una resistenza &amp;#x003C;i&amp;#x003E;R&amp;#x003C;/i&amp;#x003E;; traccia poi i tre grafici mostrati in figura dimenticando di indicare sugli assi le grandezze cui si riferiscono. 
+
+&amp;#x003C;img src=&quot;0809.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;340&quot; height=&quot;140&quot; /&amp;#x003E;
+
+Quale riga della seguente tabella riporta le indicazioni corrette, rispettivamente per le ordinate e le ascisse?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>Grafico 1: carica e tensione;   Grafico 2: corrente e tempo;   Grafico 3: tensione e tempo.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Grafico 1: corrente e tempo;   Grafico 2: tensione e tempo;   Grafico 3: carica e tensione.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Grafico 1: corrente e tempo;   Grafico 2: carica e tensione;   Grafico 3: tensione e tempo.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Grafico 1: tensione e tempo;   Grafico 2: corrente e tempo;   Grafico 3: carica e tensione.</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Grafico 1: tensione e tempo;   Grafico 2: carica e tensione;   Grafico 3: corrente e tempo.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Due fili di uguale lunghezza, uno di alluminio (&amp;#x0026;rho;&amp;#x003C;sub&amp;#x003E;Al&amp;#x003C;/sub&amp;#x003E; = 2.75 x 10&amp;#x003C;sup&amp;#x003E;-8&amp;#x003C;/sup&amp;#x003E; &amp;#x0026;Omega; m) e l&apos;altro di rame (&amp;#x0026;rho;&amp;#x003C;sub&amp;#x003E;Cu&amp;#x003C;/sub&amp;#x003E; = 1.69 x 10&amp;#x003C;sup&amp;#x003E;-8&amp;#x003C;/sup&amp;#x003E; &amp;#x0026;Omega; m), hanno la stessa resistenza elettrica. 
+
+Quale &amp;#x00e8; il rapporto dei loro raggi &amp;#x003C;i&amp;#x003E;r&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;Al&amp;#x003C;/sub&amp;#x003E; / &amp;#x003C;i&amp;#x003E;r&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;Cu&amp;#x003C;/sub&amp;#x003E;?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>0.61</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>0.78</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>1.00</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>1.28</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>1.63</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Una batteria avente una forza elettromotrice di 12 V e una resistenza interna di 3.0 &amp;#x0026;Omega; viene collegata al circuito mostrato in figura. 
+
+&amp;#x003C;img src=&quot;0826.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;180&quot; height=&quot;180&quot; /&amp;#x003E;
+
+Quando l&apos;interruttore S viene chiuso il valore indicato dall&apos;amperometro passa . . .</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>. . . da 2.0 A a 1.0 A</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>. . . da 2.0 A a 2.4 A</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>. . . da 2.0 A a 10 A</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>. . . da 4.0 A a 1.3 A</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>. . . da 4.0 A a 6.0 A</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Un condensatore di capacit&amp;#x00e0; &amp;#x003C;i&amp;#x003E;C&amp;#x003C;/i&amp;#x003E; = 1 &amp;#x0026;mu;F sulle cui armature &amp;#x00e8; inizialmente presente una carica &amp;#x003C;i&amp;#x003E;Q&amp;#x003C;/i&amp;#x003E; = 10&amp;#x003C;sup&amp;#x003E;-5&amp;#x003C;/sup&amp;#x003E; C viene collegato ad una resistenza di &amp;#x003C;i&amp;#x003E;R&amp;#x003C;/i&amp;#x003E; = 10 &amp;#x0026;Omega; per mezzo di un interruttore. 
+
+&amp;#x003C;img src=&quot;0923.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;150&quot; height=&quot;120&quot; /&amp;#x003E;
+
+Quanto vale l&apos;intensit&amp;#x00e0; della corrente che fluisce nel circuito nell&apos;istante in cui si &amp;#x00e8; appena chiuso l&apos;interruttore?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>0</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>10&amp;#x003C;sup&amp;#x003E;-5&amp;#x003C;/sup&amp;#x003E; A</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>10&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E; A</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>1 A</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>10 A</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>La figura mostra lo schema di un circuito in cui i cinque componenti resistivi hanno tutti la stessa resistenza e gli amperometri &amp;#x003C;i&amp;#x003E;A&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;1&amp;#x003C;/sub&amp;#x003E; e &amp;#x003C;i&amp;#x003E;A&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;2&amp;#x003C;/sub&amp;#x003E; hanno resistenza interna trascurabile. 
+
+&amp;#x003C;img src=&quot;0926.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;300&quot; height=&quot;120&quot; /&amp;#x003E;
+
+Se l&apos;amperometro &amp;#x003C;i&amp;#x003E;A&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;1&amp;#x003C;/sub&amp;#x003E; segna il passaggio di una corrente di 3.0 A, che cosa segna l&apos;amperometro &amp;#x003C;i&amp;#x003E;A&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;2&amp;#x003C;/sub&amp;#x003E;?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>1.0 A</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>1.5 A</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>2.0 A</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>3.0 A</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>4.0 A</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Un generatore di f.e.m. da 1.5 V viene utilizzato nel circuito schematizzato in figura con lo scopo di determinare la differenza di potenziale tra gli estremi X e Y di una resistenza a filo. 
+
+&amp;#x003C;img src=&quot;0935.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;180&quot; height=&quot;180&quot; /&amp;#x003E;
+
+Spostando il contatto mobile nel punto S, quando le distanze tra S e gli estremi sono rispettivamente &amp;#x003C;i&amp;#x003E;l&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;1&amp;#x003C;/sub&amp;#x003E; e &amp;#x003C;i&amp;#x003E;l&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;2&amp;#x003C;/sub&amp;#x003E;, come indicato in figura, si osserva che la corrente nel galvanometro &amp;#x00e8; nulla. 
+
+Quanto vale la d.d.p. tra X e Y?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>1.5 V</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>1.5 &amp;#x003C;i&amp;#x003E;l&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;2&amp;#x003C;/sub&amp;#x003E; / &amp;#x003C;i&amp;#x003E;l&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;1&amp;#x003C;/sub&amp;#x003E; V</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>1.5 &amp;#x003C;i&amp;#x003E;l&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;1&amp;#x003C;/sub&amp;#x003E; / &amp;#x003C;i&amp;#x003E;l&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;2&amp;#x003C;/sub&amp;#x003E; V</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>1.5 (&amp;#x003C;i&amp;#x003E;l&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;1&amp;#x003C;/sub&amp;#x003E; + &amp;#x003C;i&amp;#x003E;l&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;2&amp;#x003C;/sub&amp;#x003E;) / &amp;#x003C;i&amp;#x003E;l&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;1&amp;#x003C;/sub&amp;#x003E; V</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>1.5 (&amp;#x003C;i&amp;#x003E;l&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;1&amp;#x003C;/sub&amp;#x003E; + &amp;#x003C;i&amp;#x003E;l&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;2&amp;#x003C;/sub&amp;#x003E;) / &amp;#x003C;i&amp;#x003E;l&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;2&amp;#x003C;/sub&amp;#x003E; V</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>L&apos;insieme dei due resistori &amp;#x003C;i&amp;#x003E;R&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;1&amp;#x003C;/sub&amp;#x003E; e &amp;#x003C;i&amp;#x003E;R&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;2&amp;#x003C;/sub&amp;#x003E; nel circuito mostrato in figura ha una resistenza equivalente di 6 &amp;#x0026;Omega;.
+
+&amp;#x003C;img src=&quot;1013.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;240&quot; height=&quot;150&quot; /&amp;#x003E;
+
+Fra i seguenti, quale pu&amp;#x00f2; essere un valore possibile della resistenza di &amp;#x003C;i&amp;#x003E;R&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;1&amp;#x003C;/sub&amp;#x003E;?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>1 &amp;#x0026;Omega;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>3 &amp;#x0026;Omega;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>4 &amp;#x0026;Omega;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>6 &amp;#x0026;Omega;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>8 &amp;#x0026;Omega;</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Nel circuito in figura, la batteria ha resistenza interna nulla. L&apos;interruttore viene chiuso e si aspetta che il processo di carica del condensatore abbia termine. 
+
+&amp;#x003C;img src=&quot;1025.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;240&quot; height=&quot;180&quot; /&amp;#x003E;
+
+In questa situazione, qual &amp;#x00e8; la tensione ai capi del condensatore?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>0 V</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>4 V</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>6 V</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>10 V</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>12 V</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Nel circuito elettrico mostrato in figura, alimentato da una batteria che pu&amp;#x00f2; essere trattata come un generatore ideale, la corrente attraverso il resistore da 2 &amp;#x0026;Omega; &amp;#x00e8; di 3 A. 
+
+&amp;#x003C;img src=&quot;1109.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;160&quot; height=&quot;160&quot; /&amp;#x003E;
+
+Quanto vale la f.e.m. della batteria?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>51 V</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>42 V</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>36 V</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>24 V</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>21 V</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Per costruire un voltmetro si pu&amp;#x00f2; pensare di utilizzare la bobina di un galvanometro (che serve a misurare piccole correnti) insieme ad un&apos;opportuna resistenza.</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>Occorre una grande resistenza in serie al galvanometro.</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Occorre una piccola resistenza in serie al galvanometro.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Occorre una grande resistenza in parallelo al galvanometro.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Occorre una piccola resistenza in parallelo al galvanometro.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Non si pu&amp;#x00f2; ottenere un voltmetro usando un galvanometro.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Il grafico mostra la relazione che si &amp;#x00e8; trovata tra la carica di un corpo e il lavoro compiuto da una forza esterna, quando il corpo viene spostato tra due punti fissati A e B, in un campo elettrostatico (in assenza di altri tipi di interazione).
+
+&amp;#x003C;img src=&quot;1139.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;140&quot; height=&quot;120&quot; /&amp;#x003E;
+
+Che cosa rappresenta la pendenza di questo grafico?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>La potenza</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>La corrente elettrica</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Il modulo della forza elettrica</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>L&apos;intensit&amp;#x00e0; del campo elettrico</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>La differenza di potenziale</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+</questions></data>
+<hotpot-config-file>
+<global>
+<separate-js-file>0</separate-js-file>
+<clue-caption>Clue</clue-caption>
+<next-q-caption>=&amp;#x003E;</next-q-caption>
+<last-q-caption>&amp;#x003C;=</last-q-caption>
+<incorrect-indicator>X</incorrect-indicator>
+<font-size>10pt</font-size>
+<include-next-ex>0</include-next-ex>
+<restart-caption>Restart</restart-caption>
+<contents-url>contents.htm</contents-url>
+<include-timer>0</include-timer>
+<font-face>Arial,Verdana,sans-serif</font-face>
+<include-scorm-12>0</include-scorm-12>
+<user-string-3>three</user-string-3>
+<show-correct-first-time>0</show-correct-first-time>
+<user-string-2>two</user-string-2>
+<user-string-1>one</user-string-1>
+<vlink-color>#0000CC</vlink-color>
+<title-color>#FF0000</title-color>
+<correct-indicator>:-)</correct-indicator>
+<contents-caption>Index</contents-caption>
+<show-all-questions-caption>Mostra tutte le domande</show-all-questions-caption>
+<undo-caption>Undo</undo-caption>
+<header-code></header-code>
+<hint-caption>Hint</hint-caption>
+<check-button-caption>Check</check-button-caption>
+<email>you@yourserver.com</email>
+<show-one-by-one-caption>Mostra le domande una alla volta</show-one-by-one-caption>
+<name-please>Please enter your name:</name-please>
+<formmail-url>http://yourserver.com/cgi-bin/FormMail.pl</formmail-url>
+<next-ex-caption>=&amp;#x003E;</next-ex-caption>
+<back-caption>&amp;#x003C;=</back-caption>
+<text-color>#333333</text-color>
+<page-bg-color>#ffeee8</page-bg-color>
+<times-up>Your time is over!</times-up>
+<nav-bar-color>#FF9900</nav-bar-color>
+<include-contents>0</include-contents>
+<your-score-is>Il tuo punteggio &amp;#x00e8;:</your-score-is>
+<graphic-url></graphic-url>
+<link-color>#0000FF</link-color>
+<keypad-characters></keypad-characters>
+<show-also-correct>1</show-also-correct>
+<correct-first-time>Risposte esatte al primo tentativo: </correct-first-time>
+<include-cgi>0</include-cgi>
+<ex-bg-color>#FFFFFF</ex-bg-color>
+<ok-caption>OK</ok-caption>
+<process-for-rtl>0</process-for-rtl>
+<check-caption>Controlla</check-caption>
+<include-back>0</include-back>
+<next-correct-letter>Next correct letter is: </next-correct-letter>
+</global>
+<jquiz>
+<next-caption>Next</next-caption>
+<instructions></instructions>
+<enter-a-guess>Prova a dare una risposta:</enter-a-guess>
+<correct-list>Risposte esatte:</correct-list>
+<completed-so-far>Domande completate finora:</completed-so-far>
+<header-code></header-code>
+<include-hint>0</include-hint>
+<include-keypad>0</include-keypad>
+<short-answer-tries-on-hybrid-q>2</short-answer-tries-on-hybrid-q>
+<partly-incorrect>La tua risposta &amp;#x00e8; parzialmente sbagliata: </partly-incorrect>
+<guess-incorrect>Sbagliato! Riprova:</guess-incorrect>
+<case-sensitive>0</case-sensitive>
+<continuous-scoring>1</continuous-scoring>
+<next-ex-url>nextpage.htm</next-ex-url>
+<send-email>0</send-email>
+<show-also-correct>1</show-also-correct>
+<exercise-subtitle>Quiz</exercise-subtitle>
+<exercise-completed>L&apos;esercizio &amp;#x00e8; stato completato. </exercise-completed>
+<questions-to-show>10</questions-to-show>
+<shuffle-answers>0</shuffle-answers>
+<guess-correct>Esatto!</guess-correct>
+<next-correct-letter>Lettera esatta successiva nella risposta:</next-correct-letter>
+<show-limited-questions>0</show-limited-questions>
+<shuffle-questions>0</shuffle-questions>
+<include-show-answer>1</include-show-answer>
+<show-correct-first-time>0</show-correct-first-time>
+<separate-javascript-file>0</separate-javascript-file>
+<delete-caption>Delete This Flashcard</delete-caption>
+<show-answer-caption>Mostra risposta</show-answer-caption>
+</jquiz>
+</hotpot-config-file>
+
+</hotpot-jquiz-file>

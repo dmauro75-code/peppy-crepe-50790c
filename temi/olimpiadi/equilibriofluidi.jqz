@@ -1,0 +1,548 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<hotpot-jquiz-file>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description rdf:about="">
+</rdf:Description>
+</rdf:RDF>
+<version>6</version>
+<data>
+<title>Equilibrio nei fluidi</title>
+<timer>
+<include-timer>0</include-timer>
+<seconds>59</seconds>
+</timer>
+<reading>
+<reading-text></reading-text>
+<include-reading>0</include-reading>
+<reading-title></reading-title>
+</reading>
+<questions>
+<question-record>
+<question>Un bicchiere contiene un liquido di densit&amp;#x00e0; 1.4 g/cm&amp;#x003C;sup&amp;#x003E;3&amp;#x003C;/sup&amp;#x003E; ed &amp;#x00e8; posto su uno dei due piatti di una bilancia, in equilibrio. Successivamente, un solido di massa 10.0 g e densit&amp;#x00e0; 8.0 g/cm&amp;#x003C;sup&amp;#x003E;3&amp;#x003C;/sup&amp;#x003E; viene sospeso con un filo di massa trascurabile al sostegno del piatto ed immerso nel liquido, senza che tocchi il fondo del bicchiere. 
+
+Che peso si deve aggiungere (o togliere) sull&apos;altro piatto della bilancia per ristabilire l&apos;equilibrio?
+
+&amp;#x003C;b&amp;#x003E;NOTA&amp;#x003C;/b&amp;#x003E;: &amp;#x003C;i&amp;#x003E;Un valore negativo indica un  peso da &quot;togliere&quot; dall&apos;altro piatto.&amp;#x003C;/i&amp;#x003E;
+
+&amp;#x003C;img src=&quot;0003.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;261&quot; height=&quot;154&quot; /&amp;#x003E;</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>-1.75 g</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>+1.75 g</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>+8.25 g</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>+10.0 g</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>+11.75 g</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Un cubo di plastica, il cui spigolo misura 5.0 cm, presenta al suo interno una cavit&amp;#x00e0; sferica. Immerso completamente in acqua, rimane in equilibrio senza affondare n&amp;#x00e9; emergere. 
+
+Se la densit&amp;#x00e0; relativa del materiale &amp;#x00e8; 1.35, determinare il raggio della cavit&amp;#x00e0; sferica.</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>1.7 cm</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>2.0 cm</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>2.3 cm</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>2.6 cm</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>4.2 cm</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Un blocchetto di metallo &amp;#x00e8; appeso a un dinamometro ed &amp;#x00e8; completamente immerso, alla profondit&amp;#x00e0; &amp;#x003C;i&amp;#x003E;h&amp;#x003C;/i&amp;#x003E;, in un liquido contenuto in un grosso becher. Allora la lettura del dinamometro. . . 
+
+1 - . . . dipende dalla densit&amp;#x00e0; del liquido nel becher. 
+2 - . . . &amp;#x00e8; sempre uguale alla spinta verso l&apos;alto del liquido sul blocchetto.
+3 - . . . aumenta con l&apos;aumentare della profondit&amp;#x00e0; &amp;#x003C;i&amp;#x003E;h&amp;#x003C;/i&amp;#x003E;.
+
+Quale o quali delle precedenti affermazioni sono vere? 
+
+&amp;#x003C;img src=&quot;0109.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;96&quot; height=&quot;194&quot; /&amp;#x003E;</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>Solo la 1.</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Solo la 2.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Solo la 3.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Solo la 1 e la 2.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Solo la 1 e la 3.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Un lungo tubo, sagomato a U come mostrato in figura, &amp;#x00e8; chiuso a un&apos;estremit&amp;#x00e0; ove &amp;#x00e8; contenuto dell&apos;ossigeno, compresso dalla colonna di mercurio; l&apos;altra estremit&amp;#x00e0; del tubo &amp;#x00e8; invece aperta in aria. 
+
+&amp;#x003C;img src=&quot;0111.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;156&quot; height=&quot;210&quot; /&amp;#x003E;
+
+La densit&amp;#x00e0; del mercurio vale 13.6 x 10&amp;#x003C;sup&amp;#x003E;3&amp;#x003C;/sup&amp;#x003E; kg m&amp;#x003C;sup&amp;#x003E;-3&amp;#x003C;/sup&amp;#x003E;; la pressione atmosferica &amp;#x00e8; di 1.01 x 10&amp;#x003C;sup&amp;#x003E;5&amp;#x003C;/sup&amp;#x003E; Pa.
+
+Qual &amp;#x00e8; il valore approssimato del rapporto tra la pressione dell&apos;ossigeno e quella dell&apos;atmosfera?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>1.5 : 1</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>2.0 : 1</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>2.5 : 1</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>3.0 : 1</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>3.5 : 1</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Un aereo sta volando a una quota alla quale la pressione dell&apos;atmosfera vale 0.4 x 10&amp;#x003C;sup&amp;#x003E;5&amp;#x003C;/sup&amp;#x003E; Pa. La cabina &amp;#x00e8; &quot;pressurizzata&quot;, cio&amp;#x00e8; mantenuta a una pressione maggiore, pari a 1.0 x 10&amp;#x003C;sup&amp;#x003E;5&amp;#x003C;/sup&amp;#x003E; Pa. 
+Quale forza agisce sul portello della cabina se questo ha una superficie di 2.0 m&amp;#x003C;sup&amp;#x003E;2&amp;#x003C;/sup&amp;#x003E;?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>0.3 x 10&amp;#x003C;sup&amp;#x003E;5&amp;#x003C;/sup&amp;#x003E; N</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>0.7 x 10&amp;#x003C;sup&amp;#x003E;5&amp;#x003C;/sup&amp;#x003E; N</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>1.2 x 10&amp;#x003C;sup&amp;#x003E;5&amp;#x003C;/sup&amp;#x003E; N</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>2.0 x 10&amp;#x003C;sup&amp;#x003E;5&amp;#x003C;/sup&amp;#x003E; N</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>2.8 x 10&amp;#x003C;sup&amp;#x003E;5&amp;#x003C;/sup&amp;#x003E; N</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Un tubo a U, chiuso ad entrambe le estremit&amp;#x00e0;, contiene azoto da una parte ed elio dall&apos;altra parte; i due gas sono separati da mercurio, la cui densit&amp;#x00e0; &amp;#x00e8; &amp;#x0026;rho;.
+
+Detta &amp;#x003C;i&amp;#x003E;g&amp;#x003C;/i&amp;#x003E; l&apos;accelerazione di gravit&amp;#x00e0;, e &amp;#x003C;i&amp;#x003E;p&amp;#x003C;/i&amp;#x003E; la pressione dell&apos;elio, qual &amp;#x00e8; la pressione dell&apos;azoto? 
+
+&amp;#x003C;img src=&quot;0217.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;196&quot; height=&quot;240&quot; /&amp;#x003E;</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>&amp;#x003C;i&amp;#x003E;p&amp;#x003C;/i&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;i&amp;#x003E;x &amp;#x0026;rho; g&amp;#x003C;/i&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;i&amp;#x003E;p - x &amp;#x0026;rho; g&amp;#x003C;/i&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;i&amp;#x003E;p + x &amp;#x0026;rho; g&amp;#x003C;/i&amp;#x003E;</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;i&amp;#x003E;p + (x + y) &amp;#x0026;rho; g&amp;#x003C;/i&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>La densit&amp;#x00e0; di un oggetto solido, che sta galleggiando, &amp;#x00e8; minore di quella dell&apos;acqua. L&apos;oggetto ...
+
+1 - ... non risente di alcuna forza risultante verso l&apos;alto.
+2 - ... sposta un volume d&apos;acqua pi&amp;#x00f9; piccolo del suo volume.
+3 - ... sposta un volume d&apos;acqua pi&amp;#x00f9; grande del suo volume. 
+
+Quali delle precedenti affermazioni sono corrette?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>Solo la 1 e la 2</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Solo la 1 e la 3</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Solo la 1</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Solo la 2</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Solo la 3</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Un pallone viene riempito con gas elio ed utilizzato per sollevare in aria un corpo di volume trascurabile e massa di 300 kg, molto maggiore di quella del pallone. 
+
+Quale dei seguenti valori approssima meglio il minimo volume di elio richiesto? 
+
+&amp;#x003C;i&amp;#x003E;(NOTA: in condizioni standard la densit&amp;#x00e0; dell&apos;aria vale&amp;#x003C;/i&amp;#x003E; 1.29 kg / m&amp;#x003C;sup&amp;#x003E;3&amp;#x003C;/sup&amp;#x003E; &amp;#x003C;i&amp;#x003E;e quella dell&apos;elio&amp;#x003C;/i&amp;#x003E; 0.18 kg / m&amp;#x003C;sup&amp;#x003E;3&amp;#x003C;/sup&amp;#x003E; &amp;#x003C;i&amp;#x003E;; si pu&amp;#x00f2; assumere che l&apos;elio nel pallone sia a pressione atmosferica)&amp;#x003C;/i&amp;#x003E;&amp;#x003C;/i&amp;#x003E;</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>50 m&amp;#x003C;sup&amp;#x003E;3&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>95 m&amp;#x003C;sup&amp;#x003E;3&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>135 m&amp;#x003C;sup&amp;#x003E;3&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>270 m&amp;#x003C;sup&amp;#x003E;3&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>540 m&amp;#x003C;sup&amp;#x003E;3&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Una sfera di alluminio ha un volume di 1.0 dm&amp;#x003C;sup&amp;#x003E;3&amp;#x003C;/sup&amp;#x003E; ed &amp;#x00e8; appoggiata sul fondo di una piscina piena d&apos;acqua.
+
+Qual &amp;#x00e8; l&apos;intensit&amp;#x00e0; della spinta idrostatica che agisce sulla sfera? 
+
+&amp;#x003C;i&amp;#x003E;La densit&amp;#x00e0; dell&apos;acqua &amp;#x00e8;&amp;#x003C;/i&amp;#x003E; 1.00 x 10&amp;#x003C;sup&amp;#x003E;3&amp;#x003C;/sup&amp;#x003E; kg m&amp;#x003C;sup&amp;#x003E;-3&amp;#x003C;/sup&amp;#x003E;, &amp;#x003C;i&amp;#x003E;quella dell&apos;alluminio &amp;#x00e8;&amp;#x003C;/i&amp;#x003E; 2.70 x 10&amp;#x003C;sup&amp;#x003E;3&amp;#x003C;/sup&amp;#x003E; kg m&amp;#x003C;sup&amp;#x003E;-3&amp;#x003C;/sup&amp;#x003E;.</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>26.6 N</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>9.8 N</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>2.7 N</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>1.0 N</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>0 N</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Una provetta dal fondo piatto contenente alcuni pallini di piombo sta galleggiando in un liquido A, come mostrato a sinistra nella figura. Il fondo della provetta si trova ad una profondit&amp;#x00e0; di 5 cm dalla superficie del liquido. 
+
+&amp;#x003C;img src=&quot;0812.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;226&quot; height=&quot;140&quot; /&amp;#x003E;
+
+La stessa provetta, riempita con gli stessi pallini di piombo, viene successivamente fatta galleggiare in un liquido B. In questo caso il fondo della provetta si trova ad una profondit&amp;#x00e0; di 8 cm dalla superficie del liquido (a destra). 
+
+Quali delle seguenti affermazioni sono corrette?
+
+1 - In ciascun liquido la pressione esercitata sul fondo della provetta &amp;#x00e8; la stessa.
+2 - La densit&amp;#x00e0; del liquido A &amp;#x00e8; pi&amp;#x00f9; grande della densit&amp;#x00e0; del liquido B.
+3 - In ciascun liquido la spinta verso l&apos;alto esercitata sul fondo della provetta &amp;#x00e8; la stessa.</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>Solo la 1.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Solo la 2.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Solo la 1 e la 2.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Solo la 2 e la 3.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Tutte e tre.</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Si &amp;#x00e8; misurata l&apos;altezza di una colonna di mercurio di un barometro. Per ricavare da questo dato il valore della pressione atmosferica in N/m&amp;#x003C;sup&amp;#x003E;2&amp;#x003C;/sup&amp;#x003E; (Pa), serve conoscere anche. . . 
+
+1 - . . . la sezione del tubo.
+2 - . . . la densit&amp;#x00e0; del mercurio. 
+3 - . . . l&apos;accelerazione di gravit&amp;#x00e0;.
+
+Quale o quali delle precedenti affermazioni sono corrette?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>Tutte e tre.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Solo la 1 e la 2.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Solo la 2 e la 3.</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Solo la 1.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Solo la 3.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+</questions></data>
+<hotpot-config-file>
+<global>
+<separate-js-file>0</separate-js-file>
+<clue-caption>Clue</clue-caption>
+<next-q-caption>=&amp;#x003E;</next-q-caption>
+<last-q-caption>&amp;#x003C;=</last-q-caption>
+<incorrect-indicator>X</incorrect-indicator>
+<font-size>10pt</font-size>
+<include-next-ex>0</include-next-ex>
+<restart-caption>Restart</restart-caption>
+<contents-url>contents.htm</contents-url>
+<include-timer>0</include-timer>
+<font-face>Arial,Verdana,sans-serif</font-face>
+<include-scorm-12>0</include-scorm-12>
+<user-string-3>three</user-string-3>
+<show-correct-first-time>0</show-correct-first-time>
+<user-string-2>two</user-string-2>
+<user-string-1>one</user-string-1>
+<vlink-color>#0000CC</vlink-color>
+<title-color>#FF0000</title-color>
+<correct-indicator>:-)</correct-indicator>
+<contents-caption>Index</contents-caption>
+<show-all-questions-caption>Mostra tutte le domande</show-all-questions-caption>
+<undo-caption>Undo</undo-caption>
+<header-code></header-code>
+<hint-caption>Hint</hint-caption>
+<check-button-caption>Check</check-button-caption>
+<email>you@yourserver.com</email>
+<show-one-by-one-caption>Mostra le domande una alla volta</show-one-by-one-caption>
+<name-please>Please enter your name:</name-please>
+<formmail-url>http://yourserver.com/cgi-bin/FormMail.pl</formmail-url>
+<next-ex-caption>=&amp;#x003E;</next-ex-caption>
+<back-caption>&amp;#x003C;=</back-caption>
+<text-color>#333333</text-color>
+<page-bg-color>#ffeee8</page-bg-color>
+<times-up>Your time is over!</times-up>
+<nav-bar-color>#FF9900</nav-bar-color>
+<include-contents>0</include-contents>
+<your-score-is>Il tuo punteggio &amp;#x00e8;:</your-score-is>
+<graphic-url></graphic-url>
+<link-color>#0000FF</link-color>
+<keypad-characters></keypad-characters>
+<show-also-correct>1</show-also-correct>
+<correct-first-time>Risposte esatte al primo tentativo: </correct-first-time>
+<include-cgi>0</include-cgi>
+<ex-bg-color>#FFFFFF</ex-bg-color>
+<ok-caption>OK</ok-caption>
+<process-for-rtl>0</process-for-rtl>
+<check-caption>Controlla</check-caption>
+<include-back>0</include-back>
+<next-correct-letter>Next correct letter is: </next-correct-letter>
+</global>
+<jquiz>
+<next-caption>Next</next-caption>
+<instructions></instructions>
+<enter-a-guess>Prova a dare una risposta:</enter-a-guess>
+<correct-list>Risposte esatte:</correct-list>
+<completed-so-far>Domande completate finora:</completed-so-far>
+<header-code></header-code>
+<include-hint>0</include-hint>
+<include-keypad>0</include-keypad>
+<short-answer-tries-on-hybrid-q>2</short-answer-tries-on-hybrid-q>
+<partly-incorrect>La tua risposta &amp;#x00e8; parzialmente sbagliata: </partly-incorrect>
+<guess-incorrect>Sbagliato! Riprova:</guess-incorrect>
+<case-sensitive>0</case-sensitive>
+<continuous-scoring>1</continuous-scoring>
+<next-ex-url>nextpage.htm</next-ex-url>
+<send-email>0</send-email>
+<show-also-correct>1</show-also-correct>
+<exercise-subtitle>Quiz</exercise-subtitle>
+<exercise-completed>L&apos;esercizio &amp;#x00e8; stato completato. </exercise-completed>
+<questions-to-show>10</questions-to-show>
+<shuffle-answers>0</shuffle-answers>
+<guess-correct>Esatto!</guess-correct>
+<next-correct-letter>Lettera esatta successiva nella risposta:</next-correct-letter>
+<show-limited-questions>0</show-limited-questions>
+<shuffle-questions>0</shuffle-questions>
+<include-show-answer>1</include-show-answer>
+<show-correct-first-time>0</show-correct-first-time>
+<separate-javascript-file>0</separate-javascript-file>
+<delete-caption>Delete This Flashcard</delete-caption>
+<show-answer-caption>Mostra risposta</show-answer-caption>
+</jquiz>
+</hotpot-config-file>
+
+</hotpot-jquiz-file>

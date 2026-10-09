@@ -1,0 +1,1363 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<hotpot-jquiz-file>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description rdf:about="">
+</rdf:Description>
+</rdf:RDF>
+<version>6</version>
+<data>
+<title>Dinamica</title>
+<timer>
+<include-timer>0</include-timer>
+<seconds>59</seconds>
+</timer>
+<reading>
+<reading-text></reading-text>
+<include-reading>0</include-reading>
+<reading-title></reading-title>
+</reading>
+<questions>
+<question-record>
+<question>Nella macchina di Atwood rappresentata in figura, la puleggia P, i fili inestensibili e i dinamometri S&amp;#x003C;sub&amp;#x003E;1&amp;#x003C;/sub&amp;#x003E; ed S&amp;#x003C;sub&amp;#x003E;2&amp;#x003C;/sub&amp;#x003E; hanno una massa trascurabile.
+
+&amp;#x003C;b&amp;#x003E;NOTA&amp;#x003C;/b&amp;#x003E;: &amp;#x003C;i&amp;#x003E;si assuma in questo caso g&amp;#x003C;/i&amp;#x003E; = 10 m s &amp;#x003C;sup&amp;#x003E;-2&amp;#x003C;/sup&amp;#x003E;.
+
+&amp;#x003C;img src=&quot;0022.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;130&quot; height=&quot;200&quot; /&amp;#x003E;
+
+Se il sistema viene lasciato libero di muoversi con attrito trascurabile, le indicazioni di S&amp;#x003C;sub&amp;#x003E;1&amp;#x003C;/sub&amp;#x003E; ed S&amp;#x003C;sub&amp;#x003E;2&amp;#x003C;/sub&amp;#x003E; saranno rispettivamente . . .</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>10/3 N, 20/3 N</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>40/3 N, 40/3 N</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>20/3 N, 40/3 N</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>20/3 N, 20/3 N</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>10 N, 20 N</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Un carrello di massa 20 kg trasporta 5 kg di granaglia, muovendosi a 20 m s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E; su un binario orizzontale, privo d&apos;attrito e rettilineo. Dall&apos;istante &amp;#x003C;i&amp;#x003E;t&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;0&amp;#x003C;/sub&amp;#x003E; = 0 s e fino a &amp;#x003C;i&amp;#x003E;t&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;1&amp;#x003C;/sub&amp;#x003E; = 10 s, a causa di un foro nel fondo del carrello, viene persa della granaglia al ritmo di 0.2 kg/s.
+
+Perci&amp;#x00f2; alla fine la velocit&amp;#x00e0; del carrello sar&amp;#x00e0; approssimativamente di . . .</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>13.3 m s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>15 m s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>20 m s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>21.7 m s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>25 m s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Un satellite si muove di moto uniforme intorno alla Terra, in orbita circolare. 
+
+Un osservatore che analizza il moto del satellite in un riferimento inerziale con origine nel centro della Terra deve concludere che la forza agente sul satellite &amp;#x00e8;</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>. . . solo centripeta, dovuta all&apos;attrazione gravitazionale.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>. . . solo centrifuga, dovuta al moto orbitale.</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>. . . zero, perch&amp;#x00e9; la forza centripeta e quella centrifuga si bilanciano.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>. . . tangente all&apos;orbita, dovuta all&apos;azione dei motori del satellite.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>. . . la risultante della forza centripeta dovuta all&apos;attrazione della Terra e di una forza tangenziale dovuta ai motori.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Un ascensore, la cui massa &amp;#x00e8; di 1100 kg, sta scendendo con un&apos;accelerazione costante verso il basso di 2 m s&amp;#x003C;sup&amp;#x003E;-2&amp;#x003C;/sup&amp;#x003E;. L&apos;accelerazione di gravit&amp;#x00e0; pu&amp;#x00f2; essere considerata pari a 10 m s&amp;#x003C;sup&amp;#x003E;-2&amp;#x003C;/sup&amp;#x003E;.
+
+Qual &amp;#x00e8; la forza applicata all&apos;ascensore dal suo cavo?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>1 100 N</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>2 200 N</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>8 800 N</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>11 000 N</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>13 200 N</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Una slitta viene trascinata a velocit&amp;#x00e0; costante sulla neve, vincendo una forza di attrito orizzontale di intensit&amp;#x00e0; &amp;#x003C;i&amp;#x003E;F&amp;#x003C;/i&amp;#x003E;. La fune che tira la slitta forma un angolo &amp;#x0026;theta; con il piano orizzontale, come mostrato in figura.
+
+&amp;#x003C;img src=&quot;0128.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;220&quot; height=&quot;110&quot; /&amp;#x003E; 
+
+Quando la slitta si muove orizzontalmente a velocit&amp;#x00e0; costante, l&apos;intensit&amp;#x00e0; della forza &amp;#x003C;i&amp;#x003E;P&amp;#x003C;/i&amp;#x003E; impressa dalla fune &amp;#x00e8;</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>&amp;#x003C;i&amp;#x003E;F&amp;#x003C;/i&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;i&amp;#x003E;F&amp;#x003C;/i&amp;#x003E; cos &amp;#x0026;theta;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;i&amp;#x003E;F&amp;#x003C;/i&amp;#x003E; sen &amp;#x0026;theta;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;i&amp;#x003E;F&amp;#x003C;/i&amp;#x003E; / cos &amp;#x0026;theta;</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;i&amp;#x003E;F&amp;#x003C;/i&amp;#x003E; / sen &amp;#x0026;theta;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Due blocchi di legno, collegati da una fune, sono sollecitati da una forza di 20 N, come in figura. I blocchi sono appoggiati su una superficie liscia. &amp;#x003C;img src=&quot;0212.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;220&quot; height=&quot;90&quot; /&amp;#x003E;
+
+Qual &amp;#x00e8; l&apos;intensit&amp;#x00e0; della forza applicata dalla fune al blocco di 7 kg?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>20 N</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>14 N</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>10 N</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>8 N</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>6 N</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Una gru sostiene un carico di massa m = 2 200 kg. La tensione del cavo ha il valore di 20 000 N e il carico sta accelerando verso il basso. 
+
+Ammettendo che sia &amp;#x003C;i&amp;#x003E;g&amp;#x003C;/i&amp;#x003E; = 9.8 N kg&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E;, quale dei seguenti valori esprime meglio, in m s&amp;#x003C;sup&amp;#x003E;-2&amp;#x003C;/sup&amp;#x003E;, l&apos;accelerazione del carico?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>0</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>0.71</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>4.0</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>9.1</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>9.8</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Un&apos;automobile di massa &amp;#x003C;i&amp;#x003E;m&amp;#x003C;/i&amp;#x003E; risale a velocit&amp;#x00e0; costante un pendio che forma un angolo &amp;#x0026;theta; con l&apos;orizzontale, come mostrato in figura. 
+
+&amp;#x003C;img src=&quot;0311.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;240&quot; height=&quot;120&quot; /&amp;#x003E;
+
+Se &amp;#x003C;i&amp;#x003E;F&amp;#x003C;/i&amp;#x003E; &amp;#x00e8; l&apos;intensit&amp;#x00e0; risultante delle forze di resistenza agenti sull&apos;automobile, la forza effettiva dovuta la motore e capace di mantenere costante la velocit&amp;#x00e0; &amp;#x00e8; ...</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>... &amp;#x003C;i&amp;#x003E;mg&amp;#x003C;/i&amp;#x003E; cos &amp;#x0026;theta; + &amp;#x003C;i&amp;#x003E;F&amp;#x003C;/i&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>... &amp;#x003C;i&amp;#x003E;mg&amp;#x003C;/i&amp;#x003E; cos &amp;#x0026;theta; - &amp;#x003C;i&amp;#x003E;F&amp;#x003C;/i&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>... &amp;#x003C;i&amp;#x003E;mg&amp;#x003C;/i&amp;#x003E; sen &amp;#x0026;theta; + &amp;#x003C;i&amp;#x003E;F&amp;#x003C;/i&amp;#x003E;</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>... &amp;#x003C;i&amp;#x003E;mg&amp;#x003C;/i&amp;#x003E; sen &amp;#x0026;theta; - &amp;#x003C;i&amp;#x003E;F&amp;#x003C;/i&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>... &amp;#x003C;i&amp;#x003E;mg&amp;#x003C;/i&amp;#x003E; + &amp;#x003C;i&amp;#x003E;F&amp;#x003C;/i&amp;#x003E; sen &amp;#x0026;theta;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>La figura 1 mostra un carrello di massa uguale a 2 kg, che si muove verso destra con una velocit&amp;#x00e0; costante di 10 m s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E;.
+
+In un certo istante al carrello viene applicata una forza costante diretta verso sinistra come mostrato in figura 2. 
+
+&amp;#x003C;img src=&quot;0312.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;140&quot; height=&quot;200&quot; /&amp;#x003E;
+
+L&apos;accelerazione del carrello quando agisce questa forza &amp;#x00e8; ...</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>... 3 m s&amp;#x003C;sup&amp;#x003E;-2&amp;#x003C;/sup&amp;#x003E;, verso destra.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>... 3 m s&amp;#x003C;sup&amp;#x003E;-2&amp;#x003C;/sup&amp;#x003E;, verso sinistra.</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>... 7 m s&amp;#x003C;sup&amp;#x003E;-2&amp;#x003C;/sup&amp;#x003E;, verso destra.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>... 12 m s&amp;#x003C;sup&amp;#x003E;-2&amp;#x003C;/sup&amp;#x003E;, verso destra.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>... 12 m s&amp;#x003C;sup&amp;#x003E;-2&amp;#x003C;/sup&amp;#x003E;, verso sinistra.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Una massa &amp;#x00e8; sospesa a una molla. 
+
+La reazione alla forza di gravit&amp;#x00e0; terrestre agente sulla massa &amp;#x00e8; la forza esercitata dalla ...</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>... massa sulla Terra.</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>... massa sulla molla.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>... molla sulla massa.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>... molla sulla Terra.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>... Terra sulla massa.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Un uomo in ascensore sta sopra ad una bilancia pesapersone. L&apos;uomo si era pesato sulla stessa bilancia prima di entrare in ascensore e aveva annotato un peso di 800 N. Ora, dentro l&apos;ascensore, misura un peso di 820 N.
+
+Ci&amp;#x00f2; sta a indicare che l&apos;ascensore ...</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>... &amp;#x00e8; fermo.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>... sale a velocit&amp;#x00e0; costante.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>... scende a velocit&amp;#x00e0; costante.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>... sale con velocit&amp;#x00e0; crescente in modulo.</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>... scende con velocit&amp;#x00e0; crescente in modulo.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Una pallina rotola dentro un tubo di forma semicircolare, appoggiato per tutta la sua lunghezza sopra un &amp;#x003C;b&amp;#x003E;tavolo orizzontale&amp;#x003C;/b&amp;#x003E;.
+
+Fra le figure seguenti, che mostrano la situazione &amp;#x003C;b&amp;#x003E;vista dall&apos;alto&amp;#x003C;/b&amp;#x003E;, quale rappresenta meglio il moto della pallina quando esce dal tubo?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>&amp;#x003C;img src=&quot;0415a.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;100&quot; height=&quot;140&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;0415b.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;100&quot; height=&quot;140&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;0415c.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;100&quot; height=&quot;140&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;0415d.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;100&quot; height=&quot;140&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;0415e.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;100&quot; height=&quot;140&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Una forza &amp;#x003C;i&amp;#x003E;F&amp;#x003C;/i&amp;#x003E; che agisce su un oggetto di massa &amp;#x003C;/i&amp;#x003E;m&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;1&amp;#x003C;/sub&amp;#x003E; lo accelera con accelerazione &amp;#x003C;i&amp;#x003E;a&amp;#x003C;/i&amp;#x003E;, mentre una forza 3&amp;#x003C;i&amp;#x003E;F&amp;#x003C;/i&amp;#x003E; applicata ad un altro oggetto di massa &amp;#x003C;i&amp;#x003E;m&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;2&amp;#x003C;/sub&amp;#x003E; lo accelera con accelerazione 2&amp;#x003C;i&amp;#x003E;a&amp;#x003C;/i&amp;#x003E;.
+
+Qual &amp;#x00e8; il rapporto tra la massa &amp;#x003C;i&amp;#x003E;m&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;1&amp;#x003C;/sub&amp;#x003E; e la massa &amp;#x003C;i&amp;#x003E;m&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;2&amp;#x003C;/sub&amp;#x003E;?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>3:2</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>2:3</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>1:2</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>1:3</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>1:6</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Quale delle seguenti combinazioni di unit&amp;#x00e0; di misura fondamentali pu&amp;#x00f2; essere utilizzata nel Sistema Internazionale (SI) per esprimere il peso di un oggetto?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>chilogrammo</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>chilogrammo x metro</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>chilogrammo / secondo</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>chilogrammo x metro / secondo</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>chilogrammo x metro / secondo&amp;#x003C;sup&amp;#x003E;2&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Un ragazzo di 50 chili che si trova sulla superficie della Terra esercita sulla Terra una forza di attrazione gravitazionale che, espressa in newton, &amp;#x00e8; meglio approssimata da</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>3 x 10&amp;#x003C;sup&amp;#x003E;-5&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>50</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>500</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>2 x 10&amp;#x003C;sup&amp;#x003E;14&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Non ci sono dati sufficienti per valutarla.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Due blocchi identici sono connessi con una molla di massa trascurabile e il sistema cos&amp;#x00ec; ottenuto &amp;#x00e8; sospeso al soffitto con una fune, come in figura. Ad un certo istante, con il sistema in equilibrio, la fune si rompe. 
+
+&amp;#x003C;img src=&quot;0509.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;100&quot; height=&quot;140&quot; /&amp;#x003E;
+
+Immediatamente dopo la rottura della fune, qual &amp;#x00e8; l&apos;accelerazione del blocco superiore?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>0</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;i&amp;#x003E;g&amp;#x003C;/i&amp;#x003E;/2</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;i&amp;#x003E;g&amp;#x003C;/i&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x0026;radic;2 &amp;#x003C;i&amp;#x003E;g&amp;#x003C;/i&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>2&amp;#x003C;i&amp;#x003E;g&amp;#x003C;/i&amp;#x003E;</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Ciascuna delle figure qui sotto rappresenta due blocchi connessi da un filo inestensibile e di massa trascurabile che passa in una carrucola, anch&apos;essa di massa trascurabile, che pu&amp;#x00f2; ruotare senza attrito. 
+
+In quale caso il modulo dell&apos;accelerazione dei due blocchi sar&amp;#x00e0; maggiore?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>&amp;#x003C;img src=&quot;0524a.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;120&quot; height=&quot;140&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;0524b.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;114&quot; height=&quot;140&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;0524c.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;114&quot; height=&quot;140&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;0524d.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;114&quot; height=&quot;140&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;0524e.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;114&quot; height=&quot;140&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text></text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Tre masse sono collegate come mostrato in figura con fili inestensibili. Le masse e l&apos;attrito delle corde e delle pulegge sono abbastanza piccoli da produrre un effetto trascurabile sul sistema.
+
+&amp;#x003C;img src=&quot;0533.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;360&quot; height=&quot;180&quot; /&amp;#x003E;
+
+Se il coefficiente di attrito dinamico tra la massa m&amp;#x003C;sub&amp;#x003E;2&amp;#x003C;/sub&amp;#x003E; ed il tavolo vale &amp;#x0026;mu;, quanto vale l&apos;accelerazione verso l&apos;alto della piccola massa m&amp;#x003C;sub&amp;#x003E;3&amp;#x003C;/sub&amp;#x003E;?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>&amp;#x003C;i&amp;#x003E;m&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;1&amp;#x003C;/sub&amp;#x003E; / (&amp;#x003C;i&amp;#x003E;m&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;1&amp;#x003C;/sub&amp;#x003E;+&amp;#x003C;i&amp;#x003E;m&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;2&amp;#x003C;/sub&amp;#x003E;+&amp;#x003C;i&amp;#x003E;m&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;3&amp;#x003C;/sub&amp;#x003E;) &amp;#x003C;i&amp;#x003E;g&amp;#x003C;/i&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>(&amp;#x003C;i&amp;#x003E;m&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;1&amp;#x003C;/sub&amp;#x003E; + &amp;#x0026;mu; &amp;#x003C;i&amp;#x003E;m&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;2&amp;#x003C;/sub&amp;#x003E;) / (&amp;#x003C;i&amp;#x003E;m&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;1&amp;#x003C;/sub&amp;#x003E;+&amp;#x003C;i&amp;#x003E;m&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;2&amp;#x003C;/sub&amp;#x003E;+&amp;#x003C;i&amp;#x003E;m&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;3&amp;#x003C;/sub&amp;#x003E;) &amp;#x003C;i&amp;#x003E;g&amp;#x003C;/i&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x0026;mu; (&amp;#x003C;i&amp;#x003E;m&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;1&amp;#x003C;/sub&amp;#x003E; + m&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;2&amp;#x003C;/sub&amp;#x003E; + m&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;3&amp;#x003C;/sub&amp;#x003E;) / (&amp;#x003C;i&amp;#x003E;m&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;1&amp;#x003C;/sub&amp;#x003E;-&amp;#x003C;i&amp;#x003E;m&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;2&amp;#x003C;/sub&amp;#x003E;-&amp;#x003C;i&amp;#x003E;m&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;3&amp;#x003C;/sub&amp;#x003E;) &amp;#x003C;i&amp;#x003E;g&amp;#x003C;/i&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x0026;mu; (&amp;#x003C;i&amp;#x003E;m&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;1&amp;#x003C;/sub&amp;#x003E; - m&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;2&amp;#x003C;/sub&amp;#x003E; - m&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;3&amp;#x003C;/sub&amp;#x003E;) / (&amp;#x003C;i&amp;#x003E;m&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;1&amp;#x003C;/sub&amp;#x003E;+&amp;#x003C;i&amp;#x003E;m&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;2&amp;#x003C;/sub&amp;#x003E;+&amp;#x003C;i&amp;#x003E;m&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;3&amp;#x003C;/sub&amp;#x003E;) &amp;#x003C;i&amp;#x003E;g&amp;#x003C;/i&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>(&amp;#x003C;i&amp;#x003E;m&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;1&amp;#x003C;/sub&amp;#x003E; - &amp;#x0026;mu; m&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;2&amp;#x003C;/sub&amp;#x003E; - m&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;3&amp;#x003C;/sub&amp;#x003E;) / (&amp;#x003C;i&amp;#x003E;m&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;1&amp;#x003C;/sub&amp;#x003E;+&amp;#x003C;i&amp;#x003E;m&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;2&amp;#x003C;/sub&amp;#x003E;+&amp;#x003C;i&amp;#x003E;m&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;3&amp;#x003C;/sub&amp;#x003E;) &amp;#x003C;i&amp;#x003E;g&amp;#x003C;/i&amp;#x003E;</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Due forze, la prima di 6 N e la seconda di 8 N, sono esercitate contemporaneamente su una scatola posta su un piano orizzontale senza attrito. 
+
+Quale delle seguenti immagini - viste dall&apos;alto - mostra la situazione nella quale le forze producono la pi&amp;#x00f9; piccola accelerazione della scatola?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>&amp;#x003C;img src=&quot;0624a.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;110&quot; height=&quot;140&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;0624b.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;110&quot; height=&quot;140&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;0624c.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;110&quot; height=&quot;140&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;0624d.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;110&quot; height=&quot;140&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;0624e.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;110&quot; height=&quot;140&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Un corpo &amp;#x00e8; soggetto a diverse forze la cui risultante, per un certo intervallo di tempo, &amp;#x00e8; costante e diversa da zero.
+
+Quale dei seguenti grafici rappresenta meglio l&apos;accelerazione del corpo in funzione del tempo, nello stesso intervallo?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>&amp;#x003C;img src=&quot;0701a.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;110&quot; height=&quot;140&quot;  /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;0701b.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;110&quot; height=&quot;140&quot;  /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;0701c.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;110&quot; height=&quot;140&quot;  /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;0701d.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;110&quot; height=&quot;140&quot;  /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;0701e.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;110&quot; height=&quot;140&quot;  /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>I due blocchi mostrati in figura sono uniti con un cavo sottile e inestensibile che passa su una puleggia capace di ruotare senza attrito. Le masse del cavo e della puleggia sono trascurabili rispetto a quelle di ciascun blocco. 
+
+&amp;#x003C;img src=&quot;0727.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;150&quot; height=&quot;170&quot; /&amp;#x003E;
+
+Determinare l&apos;accelerazione del blocco di massa minore?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>2.9 m s&amp;#x003C;sup&amp;#x003E;-2&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>3.9 m s&amp;#x003C;sup&amp;#x003E;-2&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>6.9 m s&amp;#x003C;sup&amp;#x003E;-2&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>9.8 m s&amp;#x003C;sup&amp;#x003E;-2&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>14 m s&amp;#x003C;sup&amp;#x003E;-2&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Un pendolo &amp;#x00e8; appeso al soffitto di un ascensore. Quando l&apos;ascensore &amp;#x00e8; fermo il periodo del pendolo &amp;#x00e8; 1.00 s. 
+
+Qual &amp;#x00e8; il periodo del pendolo quando l&apos;ascensore si muove con un&apos;accelerazione di 2.3 m s&amp;#x003C;sup&amp;#x003E;-2&amp;#x003C;/sup&amp;#x003E; diretta verso l&apos;alto?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>0.80 s</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>0.90 s</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>1.00 s</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>1.10 s</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>1.20 s</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Due oggetti, rispettivamente di massa 4 kg e 6 kg, sono collegati mediante un dinamometro di massa trascurabile e sono trascinati senza attrito sopra un piano orizzontale da una forza di 18.0 N applicata all&apos;oggetto con maggiore massa, come mostrato in figura. 
+
+&amp;#x003C;img src=&quot;0810.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;260&quot; height=&quot;120&quot; /&amp;#x003E;
+
+Qual &amp;#x00e8; il valore della forza letto sul dinamometro?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>7.2 N</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>9.0 N</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>10.8 N</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>12.0 N</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>18.0 N</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Tra le seguenti unit&amp;#x00e0; di misura, quale pu&amp;#x00f2; essere usata per l&apos;accelerazione?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>N m</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>N m&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>N m&amp;#x003C;sup&amp;#x003E;-2&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>N kg&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Nessuna delle precedenti</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>La figura rappresenta le forze orizzontali che agiscono su un&apos;automobile di massa 900 kg in moto su una strada orizzontale. 
+
+&amp;#x003C;img src=&quot;0915.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;260&quot; height=&quot;100&quot; /&amp;#x003E;
+
+Qual &amp;#x00e8; l&apos;accelerazione dell&apos;automobile?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>0.5 m s&amp;#x003C;sup&amp;#x003E;-2&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>2 m s&amp;#x003C;sup&amp;#x003E;-2&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>3 m s&amp;#x003C;sup&amp;#x003E;-2&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>5 m s&amp;#x003C;sup&amp;#x003E;-2&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>8 m s&amp;#x003C;sup&amp;#x003E;-2&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Un disco la cui superficie &amp;#x00e8; uniforme, posto orizzontalmente, ruota intorno a un asse verticale passante per il suo centro.
+Un piccolo corpo di massa &amp;#x003C;i&amp;#x003E;m&amp;#x003C;/i&amp;#x003E; &amp;#x00e8; appoggiato sul disco a distanza &amp;#x003C;i&amp;#x003E;r&amp;#x003C;/i&amp;#x003E; dal centro e viene trascinato nella rotazione. La velocit&amp;#x00e0; angolare del disco viene gradualmente aumentata fino a quando il corpo viene lanciato via; ci&amp;#x00f2; accade quando la velocit&amp;#x00e0; angolare &amp;#x00e8; &amp;#x0026;omega;&amp;#x003C;sub&amp;#x003E;0&amp;#x003C;/sub&amp;#x003E;.
+
+Se il corpo deve essere lanciato via a una velocit&amp;#x00e0; angolare minore di &amp;#x0026;omega;&amp;#x003C;sub&amp;#x003E;0&amp;#x003C;/sub&amp;#x003E;, quale delle seguenti operazioni possono essere adeguate?
+
+1 - Aumentare il valore di &amp;#x003C;i&amp;#x003E;r&amp;#x003C;/i&amp;#x003E;.
+2 - Diminuire il coefficiente di attrito fra corpo e disco. 
+3 - Diminuire la massa &amp;#x003C;i&amp;#x003E;m&amp;#x003C;/i&amp;#x003E; del corpo.</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>Tutte e tre.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Solo la 1 e la 2.</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Solo la 2 e la 3.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Solo la 1 e la 3.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Nessuna delle tre.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Una cassa, la cui massa &amp;#x00e8; &amp;#x003C;i&amp;#x003E;M&amp;#x003C;/i&amp;#x003E; = 7 kg, viene trascinata sul pavimento orizzontale a velocit&amp;#x00e0; costante da una forza &amp;#x003C;i&amp;#x003E;F&amp;#x003C;/i&amp;#x003E;, inclinata di un angolo &amp;#x0026;theta; = 36&amp;#x00b0;, come mostrato in figura; il coefficiente di attrito dinamico tra la cassa e il pavimento &amp;#x00e8; &amp;#x0026;mu; = 0.1.
+
+&amp;#x003C;img src=&quot;0931.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;220&quot; height=&quot;110&quot; /&amp;#x003E;
+
+Quanto vale approssimativamente il modulo della forza &amp;#x003C;i&amp;#x003E;F&amp;#x003C;/i&amp;#x003E; applicata alla cassa?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>5 N</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>8 N</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>27 N</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>31 N</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>44 N</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Il grafico mostra la massa di tre oggetti diversi, in funzione del modulo del loro peso, su un pianeta X.
+
+&amp;#x003C;img src=&quot;1004.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;180&quot; height=&quot;200&quot; /&amp;#x003E;
+
+Quanto vale, approssimativamente, l&apos;accelerazione di gravit&amp;#x00e0; su quel pianeta?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>0.17 m s&amp;#x003C;sup&amp;#x003E;-2&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>2.5 m s&amp;#x003C;sup&amp;#x003E;-2&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>6.0 m s&amp;#x003C;sup&amp;#x003E;-2&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>9.8 m s&amp;#x003C;sup&amp;#x003E;-2&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>31 m s&amp;#x003C;sup&amp;#x003E;-2&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>L&apos;accelerazione di gravit&amp;#x00e0; sulla Luna &amp;#x00e8; circa un sesto di quella della Terra. 
+
+Se trasportassimo sulla Luna un pendolo semplice che sulla Terra ha un periodo &amp;#x003C;i&amp;#x003E;T&amp;#x003C;/i&amp;#x003E;, quale sarebbe il suo periodo?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>&amp;#x003C;i&amp;#x003E;T&amp;#x003C;/i&amp;#x003E; / 6</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;i&amp;#x003E;T&amp;#x003C;/i&amp;#x003E; / &amp;#x0026;radic;6</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x0026;radic;6 &amp;#x003C;i&amp;#x003E;T&amp;#x003C;/i&amp;#x003E;</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>6 &amp;#x003C;i&amp;#x003E;T&amp;#x003C;/i&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>36 &amp;#x003C;i&amp;#x003E;T&amp;#x003C;/i&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Un uomo sta spingendo un passeggino.
+
+Rispetto all&apos;intensit&amp;#x00e0; della forza esercitata dall&apos;uomo sul passeggino, l&apos;intensit&amp;#x00e0; della forza esercitata dal passeggino sull&apos;uomo &amp;#x00e8;. . .</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>. . . sempre zero.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>. . . sempre piccola, ma maggiore di zero.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>. . . sempre la stessa.</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>. . . sempre maggiore.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>. . . la stessa solo se la velocit&amp;#x00e0; del passeggino &amp;#x00e8; costante.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Due oggetti sono collegati tra loro mediante una corda di massa trascurabile avvolta intorno ad una puleggia anch&apos;essa di massa trascurabile, come mostrato in figura. Il primo oggetto ha una massa di 3 kg, il secondo di 5 kg.
+
+&amp;#x003C;img src=&quot;1026.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;130&quot; height=&quot;110&quot; /&amp;#x003E;
+
+Quanto vale l&apos;accelerazione dell&apos;oggetto pi&amp;#x00f9; pesante? Trascurare la resistenza dell&apos;aria.</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>9.8 m s&amp;#x003C;sup&amp;#x003E;-2&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>8.4 m s&amp;#x003C;sup&amp;#x003E;-2&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>6.3 m s&amp;#x003C;sup&amp;#x003E;-2&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>3.8 m s&amp;#x003C;sup&amp;#x003E;-2&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>2.5 m s&amp;#x003C;sup&amp;#x003E;-2&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Un blocco di 3 kg &amp;#x00e8; legato ad un altro di 5 kg che a sua volta &amp;#x00e8; tirato da una forza &amp;#x003C;i&amp;#x003E;F&amp;#x003C;/i&amp;#x003E; orizzontale che fa muovere i due blocchi su un piano privo di attrito. L&apos;accelerazione dei due blocchi &amp;#x00e8; di 1.8 m s&amp;#x003C;sup&amp;#x003E;-2&amp;#x003C;/sup&amp;#x003E;.
+
+&amp;#x003C;img src=&quot;1116.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;200&quot; height=&quot;100&quot; /&amp;#x003E;
+
+Quanto vale il modulo della forza &amp;#x003C;i&amp;#x003E;F&amp;#x003C;/i&amp;#x003E; della forza?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>3.6 N</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>5.4 N</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>7.2 N</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>9.0 N</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>14.4 N</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Un carrellino montato su una rotaia a cuscino d&apos;aria (tale che l&apos;attrito sia trascurabile) &amp;#x00e8; munito di un LED che emette un lampo ogni secondo, cosicch&amp;#x00e9; in una fotografia &amp;#x00e8; possibile registrarne la posizione ad intervalli di un secondo. 
+
+&amp;#x003C;img src=&quot;0910.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;550&quot; height=&quot;150&quot; /&amp;#x003E;
+
+In figura sono mostrate le tracce ottenute in tre prove separate, ognuna per una durata di 8 s, in ciascuna delle quali il carrello era sottoposto ad una diversa forza costante, eventualmente anche nulla. In che relazione stanno tra loro i moduli delle tre forze &amp;#x003C;i&amp;#x003E;F&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;1&amp;#x003C;/sub&amp;#x003E;, &amp;#x003C;i&amp;#x003E;F&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;2&amp;#x003C;/sub&amp;#x003E; ed &amp;#x003C;i&amp;#x003E;F&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;3&amp;#x003C;/sub&amp;#x003E;?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>&amp;#x003C;i&amp;#x003E;F&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;1&amp;#x003C;/sub&amp;#x003E; &amp;#x003E; &amp;#x003C;i&amp;#x003E;F&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;2&amp;#x003C;/sub&amp;#x003E; &amp;#x003E; &amp;#x003C;i&amp;#x003E;F&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;3&amp;#x003C;/sub&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;i&amp;#x003E;F&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;1&amp;#x003C;/sub&amp;#x003E; = &amp;#x003C;i&amp;#x003E;F&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;3&amp;#x003C;/sub&amp;#x003E; &amp;#x003E; &amp;#x003C;i&amp;#x003E;F&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;2&amp;#x003C;/sub&amp;#x003E;</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;i&amp;#x003E;F&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;1&amp;#x003C;/sub&amp;#x003E; = &amp;#x003C;i&amp;#x003E;F&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;2&amp;#x003C;/sub&amp;#x003E; &amp;#x003E; &amp;#x003C;i&amp;#x003E;F&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;3&amp;#x003C;/sub&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;i&amp;#x003E;F&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;3&amp;#x003C;/sub&amp;#x003E; &amp;#x003E; &amp;#x003C;i&amp;#x003E;F&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;2&amp;#x003C;/sub&amp;#x003E; &amp;#x003E; &amp;#x003C;i&amp;#x003E;F&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;1&amp;#x003C;/sub&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Le informazioni date non sono sufficienti.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+</questions></data>
+<hotpot-config-file>
+<global>
+<separate-js-file>0</separate-js-file>
+<clue-caption>Clue</clue-caption>
+<next-q-caption>=&amp;#x003E;</next-q-caption>
+<last-q-caption>&amp;#x003C;=</last-q-caption>
+<incorrect-indicator>X</incorrect-indicator>
+<font-size>10pt</font-size>
+<include-next-ex>0</include-next-ex>
+<restart-caption>Restart</restart-caption>
+<contents-url>contents.htm</contents-url>
+<include-timer>0</include-timer>
+<font-face>Arial,Verdana,sans-serif</font-face>
+<include-scorm-12>0</include-scorm-12>
+<user-string-3>three</user-string-3>
+<show-correct-first-time>0</show-correct-first-time>
+<user-string-2>two</user-string-2>
+<user-string-1>one</user-string-1>
+<vlink-color>#0000CC</vlink-color>
+<title-color>#FF0000</title-color>
+<correct-indicator>:-)</correct-indicator>
+<contents-caption>Index</contents-caption>
+<show-all-questions-caption>Mostra tutte le domande</show-all-questions-caption>
+<undo-caption>Undo</undo-caption>
+<header-code></header-code>
+<hint-caption>Hint</hint-caption>
+<check-button-caption>Check</check-button-caption>
+<email>you@yourserver.com</email>
+<show-one-by-one-caption>Mostra le domande una alla volta</show-one-by-one-caption>
+<name-please>Please enter your name:</name-please>
+<formmail-url>http://yourserver.com/cgi-bin/FormMail.pl</formmail-url>
+<next-ex-caption>=&amp;#x003E;</next-ex-caption>
+<back-caption>&amp;#x003C;=</back-caption>
+<text-color>#333333</text-color>
+<page-bg-color>#ffeee8</page-bg-color>
+<times-up>Your time is over!</times-up>
+<nav-bar-color>#FF9900</nav-bar-color>
+<include-contents>0</include-contents>
+<your-score-is>Il tuo punteggio &amp;#x00e8;:</your-score-is>
+<graphic-url></graphic-url>
+<link-color>#0000FF</link-color>
+<keypad-characters></keypad-characters>
+<show-also-correct>1</show-also-correct>
+<correct-first-time>Risposte esatte al primo tentativo: </correct-first-time>
+<include-cgi>0</include-cgi>
+<ex-bg-color>#FFFFFF</ex-bg-color>
+<ok-caption>OK</ok-caption>
+<process-for-rtl>0</process-for-rtl>
+<check-caption>Controlla</check-caption>
+<include-back>0</include-back>
+<next-correct-letter>Next correct letter is: </next-correct-letter>
+</global>
+<jquiz>
+<next-caption>Next</next-caption>
+<instructions></instructions>
+<enter-a-guess>Prova a dare una risposta:</enter-a-guess>
+<correct-list>Risposte esatte:</correct-list>
+<completed-so-far>Domande completate finora:</completed-so-far>
+<header-code></header-code>
+<include-hint>0</include-hint>
+<include-keypad>0</include-keypad>
+<short-answer-tries-on-hybrid-q>2</short-answer-tries-on-hybrid-q>
+<partly-incorrect>La tua risposta &amp;#x00e8; parzialmente sbagliata: </partly-incorrect>
+<guess-incorrect>Sbagliato! Riprova:</guess-incorrect>
+<case-sensitive>0</case-sensitive>
+<continuous-scoring>1</continuous-scoring>
+<next-ex-url>nextpage.htm</next-ex-url>
+<send-email>0</send-email>
+<show-also-correct>1</show-also-correct>
+<exercise-subtitle>Quiz</exercise-subtitle>
+<exercise-completed>L&apos;esercizio &amp;#x00e8; stato completato. </exercise-completed>
+<questions-to-show>10</questions-to-show>
+<shuffle-answers>0</shuffle-answers>
+<guess-correct>Esatto!</guess-correct>
+<next-correct-letter>Lettera esatta successiva nella risposta:</next-correct-letter>
+<show-limited-questions>0</show-limited-questions>
+<shuffle-questions>0</shuffle-questions>
+<include-show-answer>1</include-show-answer>
+<show-correct-first-time>0</show-correct-first-time>
+<separate-javascript-file>0</separate-javascript-file>
+<delete-caption>Delete This Flashcard</delete-caption>
+<show-answer-caption>Mostra risposta</show-answer-caption>
+</jquiz>
+</hotpot-config-file>
+
+</hotpot-jquiz-file>

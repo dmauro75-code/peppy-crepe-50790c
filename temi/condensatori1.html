@@ -1,0 +1,222 @@
+<!doctype html>
+<html lang="it">
+<head>
+<title>Condensatori</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="author" content="Danilo Mauro" />
+<meta name="description" content="Lezioni di fisica per le scuole medie superiori, Condensatori, L'accumulo di cariche elettriche" />
+<script type="text/javascript" src="../drop_down.js"></script>
+<script>
+  function ChangeImage(imageName, newImageFile) {
+    // Find the object that represents the img element.
+    var image = document.getElementById(imageName)
+
+    // Change the picture.
+    image.src = newImageFile
+  }
+</script>
+
+<link rel="stylesheet" href="../style.css" type="text/css" />
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-34360049-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script><script>
+ function printPage(id)
+{
+   var html="<html>";
+   html+= document.getElementById(id).innerHTML;
+   html+="</html>";
+
+   var printWin = window.open('','','left=0,top=0,width=1,height=1,toolbar=0,scrollbars=0,status  =0');
+   printWin.document.write(html);
+   printWin.document.close();
+   printWin.focus();
+   printWin.print();
+   printWin.close();
+}
+</script>
+<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+<script type="text/javascript">stLight.options({publisher: "ur-53286b3d-c630-d5b4-80ec-616d1db82676", doNotHash: false, doNotCopy: false, hashAddressBar: false, });</script>
+</head>
+
+<body>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/it_IT/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<div id="header">
+	<img class="img" src="../images/paolo1.jpg" alt="Logo del sito MondoFisica" />
+</div>
+
+<div id="main">
+<div id="topMenu">
+			 	 			 	  	<ul id="primary-nav" class="menuList"> 
+<li style="border-top: 1px solid #FF3300;"><a
+ href="../index.html">HOME</a></li>
+ <li class="menubar"><a
+ href="../risorse.html" >RISORSE ESTERNE</a>
+  </li>
+  
+        <li class="menubar"><a href="../blog/indice.html"  target="new">CLASSI
+ ASSEGNATE</a>
+  </li>
+
+   <li class="titolo">Appunti</li>
+  <li class="menubar" style="border-top: 1px solid rgb(255, 51, 0);"><a
+ href="../temi/grandezze.html">GRANDEZZE FISICHE</a>
+    <ul>
+      <li style="border-top: 1px solid rgb(255, 51, 0);"><a
+ 		href="../temi/misure.html">Misure in fisica</a></li>
+      <li><a href="../temi/si.html">Spazio e tempo</a></li>
+      <li><a href="../temi/massa1.html">Massa e densit&agrave;</a></li>
+      <li><a href="../temi/massa.html">Forza-peso</a></li>
+      <li><a href="../temi/propdiretta.html">Forza elastica e geometria analitica</a></li>
+    </ul>
+  </li>
+  <li class="menubar"><a href="../temi/equilibrio.html">L'EQUILIBRIO</a>
+    <ul>
+      <li style="border-top: 1px solid rgb(255, 51, 0);"><a
+ 		href="../temi/vettori.html">Forze e vettori</a></li>
+      <li><a href="../temi/attrito.html">Forza d'attrito</a></li>
+      <li><a href="../temi/traslazioni.html">Equilibrio per traslazioni</a></li>
+      <li><a href="../temi/rotazioni.html">Equilibrio per rotazioni</a></li>
+      <li><a href="../temi/pressione.html">Equilibrio nei fluidi</a></li>
+    </ul>
+  </li>
+  <li class="menubar"><a href="../temi/movimento.html">IL MOVIMENTO</a>
+    <ul>
+      <li style="border-top: 1px solid rgb(255, 51, 0);"><a
+ 		href="../temi/cinematica.html">Cinematica</a></li>
+      <li><a href="../temi/circolare0.html">Moto circolare uniforme</a></li>
+      <li><a href="../temi/dinamica.html">Leggi della dinamica</a></li>
+      <li><a href="../temi/dinamica3b.html">Applicazioni della dinamica</a></li>
+    </ul>
+  </li>
+  <li class="menubar"><a href="../temi/energia.html">L'ENERGIA</a>
+    <ul>
+      <li style="border-top: 1px solid rgb(255, 51, 0);"><a
+ 		href="../temi/lavoro.html">Lavoro e potenza</a></li>
+      <li><a href="../temi/forme.html">Forme di energia</a></li>
+      <li><a href="../temi/conservazione.html">Conservazione dell'energia</a></li>
+      <li><a href="../temi/impulso.html">Impulso e quantità di moto</a></li>
+    </ul>
+  </li>
+  <li class="menubar"><a href="../temi/calore.html">IL CALORE</a>
+    <ul>
+      <li style="border-top: 1px solid rgb(255, 51, 0);"><a
+ href="../temi/temperatura.html">Temperatura e
+dilatazione termica</a></li>
+<li><a href="../temi/gasideali.html">Gas ideali</a></li>
+      <li><a href="../temi/calorespecifico.html">Calore specifico e latente</a></li>
+      <li><a href="../temi/macchine.html">Termodinamica</a></li>
+    </ul>
+  </li>
+  <li class="menubar"><a href="../temi/luce.html">OTTICA GEOMETRICA</a>
+    <ul>
+      <li style="border-top: 1px solid rgb(255, 51, 0);"><a
+ 		href="../temi/riflessione.html">Riflessione e specchi</a></li>
+      <li><a href="../temi/riflessione2.html">Rifrazione e lenti</a></li>
+    </ul>
+  </li>
+  <li class="menubar"><a href="../temi/em.html">L'ELETTRICIT&Agrave;</a>
+    <ul>
+      <li style="border-top: 1px solid rgb(255, 51, 0);"><a
+ 		href="../temi/carica.html">Carica elettrica</a></li>
+      <li><a href="../temi/condensatori.html">Condensatori</a></li>
+      <li><a href="../temi/corrente.html">Corrente elettrica</a></li>
+       </ul>
+  </li>
+  <li class="menubar"><a href="../temi/em1.html">MAGNETISMO ED ONDE</a>
+    <ul>
+      <li style="border-top: 1px solid rgb(255, 51, 0);"><a 
+        href="../temi/campob.html">Il campo magnetico</a></li>
+      <li><a href="../temi/induzione.html">Correnti indotte</a></li>
+      <li><a href="../temi/onde.html">Onde e suoni</a></li>
+      <li><a href="../temi/fonti0.html">Fonti di energia</a></li>
+    </ul>
+  </li>
+  <li class="titolo1">Simulazione (tratta da PhET)</li>
+</ul>
+<div style="border: 1px solid rgb(255, 51, 0); position: relative; width: 303px; height: 228px;"><a href="http://phet.colorado.edu/sims/capacitor-lab/capacitor-lab_it.jar" class="highlightit" target="new" style="text-decoration: none;" rel="external" ><img src="http://phet.colorado.edu/sims/capacitor-lab/capacitor-lab-screenshot.png" alt="Condensatori" style="border-bottom: 1px solid rgb(255, 51, 0)" width="303" height="228"/></a></div>
+<br />
+<br />
+<br />
+<br />
+<div class="footer"></div></div>
+
+<div id="content">
+<div id="printable">
+<h1>Condensatori</h1>
+<div id="social"><a href="mailto:danilo.mauro@isismattiussipertini.edu.it" class="highlightit" rel="nofollow"  target="new"><img src="../images/mail.jpg" style="vertical-align: middle; border-width:0" alt="Mandami un e-mail" title="Mandami un e-mail"  width="30"   /></a>&nbsp;<a onclick="printPage('printable');" class="highlightit" rel="nofollow" target="new"><img src="../images/print.jpg" style="vertical-align: middle; border-width:0" alt="Manda in stampa" title="Manda in stampa"  width="30" /></a></div>
+<h2>L'accumulo di cariche elettriche</h2>
+
+<p>
+In questa sezione descriveremo un primo componente dei circuiti elettrici: il <strong>condensatore</strong>. Un condensatore &egrave; formato da due piastre dette anche <strong>armature</strong>, costituite da materiale conduttore e separate da un sottile strato di materiale isolante.
+Come abbiamo visto nelle precedenti sezioni, il campo elettrico E che si viene a creare tra le due armature &egrave; un campo elettrico uniforme e la <a href="condensatori.html">differenza di potenziale</a> tra le due armature del condensatore &egrave; data da &Delta;V = E s, dove s &egrave; la distanza tra le due armature. 
+</p><p>Ogni condensatore &egrave; caratterizzato da una <strong>capacit&agrave;</strong> C, la quale viene definita come il rapporto tra la carica Q che si accumula su ciascuna delle due piastre del condensatore e la differenza di potenziale &Delta;V, presente tra le piastre. In formule, possiamo scrivere: C = Q / &Delta;V. 
+Siccome, fissato il condensatore, C &egrave; una costante, possiamo affermare che la differenza di potenziale &Delta;V tra le armature &egrave; direttamente proporzionale alla quantit&agrave; di carica Q che si accumula su ognuna delle armature.</p>
+<p>
+L'unit&agrave; di misura della capacit&agrave; nel Sistema Internazionale prende il nome di <strong>farad</strong> (simbolo F). Poich&eacute; la carica elettrica si misura in coulomb e la differenza di potenziale in volt avremo che 1 F = 1 C / 1 V. Il farad &egrave; un'unit&agrave; di misura molto grande e perci&ograve; si usano spesso i suoi sottomultipli.
+La capacit&agrave; di un condensatore dipende dalle <strong>caratteristiche geometriche</strong> del condensatore stesso. In particolare, se il condensatore &egrave; piano, la capacit&agrave; dipende dall'area A delle piastre e dalla distanza d tra le due piastre: C = &epsilon;<sub>r</sub> &middot; A / (4 &pi; k<sub>0</sub> s) dove &epsilon;<sub>r</sub> &egrave; la <a href="carica1.html">costante dielettrica</a> del mezzo presente tra le due piastre del condensatore. Il fatto che la capacit&agrave; di un condensatore dipenda dalla distanza tra le armature pu&ograve; essere sfruttato per scopi pratici, ad esempio nel circuito elettrico della tastiera di un computer: la pressione su un tasto riduce la distanza tra le armature del condensatore sottostante e l'aumento di capacit&agrave; del condensatore segnala che c'&egrave; stata una pressione sul tasto associato.</p>
+<p>Analizziamo ora il <strong>processo di carica</strong> di un condensatore, che avviene ad esempio quando colleghiamo le due armature del condensatore ai due poli di una pila. Man mano che la carica elettrica Q si accumula sulle armature, aumenta anche la differenza di potenziale tra le due piastre, fino ad arrivare a un valore massimo &Delta;V dato dalla d.d.p. della pila, come emerge dalla figura seguente: 
+</p>
+<p>
+<img class="img1" width="200" src="../images/condensatori3.gif" alt="indietro" />
+</p>
+<p>
+Vogliamo ora calcolare il lavoro che dobbiamo fare per caricare completamente le due piastre. Non possiamo applicare direttamente la formula L = Q &middot; &Delta;V perch&eacute; sia la carica Q presente sulle armature sia la differenza di potenziale &Delta;V tra le armature aumentano man mano che il tempo passa. Possiamo per&ograve; considerare intervalli di tempo talmente piccoli che in ognuno di questi intervalli sia Q che &Delta;V possono essere considerati costanti. In ognuno di questi intervalli il lavoro compiuto &egrave; uguale all'area di uno dei rettangoli in figura. Al termine del processo il lavoro L sar&agrave; dato dalla somma delle aree di tutti i rettangoli. Tale somma verr&agrave; a coincidere con l'area del triangolo di base Q e altezza &Delta;V. In conclusione, il <strong>lavoro</strong> immagazzinato nel condensatore sotto forma di <strong>energia potenziale elettrica</strong> si ottiene mediante la seguente formula: L = 1/2 Q &Delta;V = 1/2 C (&Delta;V)<sup>2</sup>.
+Tale energia pu&ograve; essere utilizzata poi in un secondo momento per gli scopi pi&ugrave; vari, ad esempio per attivare il flash di una macchina fotografica.</p>
+</div>
+<script type="text/javascript">
+function Calcolaenergia(capacity, ddp, resultElementName) {
+capacity = Number(capacity)
+ddp = Number(ddp)
+var resultElement = document.getElementById(resultElementName)
+resultElement.innerHTML =
+Math.round(capacity * ddp * ddp / 2)
+}
+</script>
+<form >
+<p><strong>Form interattivo</strong>: Inserisci il valore della capacit&agrave; del condensatore e della differenza di potenziale &Delta;V
+a cui &egrave; sottoposto per trovare l'energia immagazzinata tra le armature.</p>
+<table>
+<tr>
+<td><label for="capacity">Capacit&agrave;&nbsp;</label></td>
+<td><input type="text" name="capacity" id="capacity" value="&nbsp;"/> &mu;F</td>
+</tr>
+<tr>
+<td><label for="ddp">d.d.p.&nbsp;</label></td>
+<td><input type="text" name="ddp" id="ddp" value="&nbsp;"/> V</td>
+</tr>
+</table>
+<p>
+<input type="button" name="calc" value="Calcola"onclick="Calcolaenergia(this.form.capacity.value, this.form.ddp.value,'result')" />
+</p>
+<p>
+L'energia immagazzinata tra le armature &egrave; <span id="result"></span> &mu;J.
+</p>
+
+</form>
+<div class="indietro"><a href="condensatori.html"><img class="img" width="20" src="../images/indietro.gif" alt="indietro" /></a></div><div class="avanti"><a href="condensatori2.html"><img class="img" width="20" src="../images/avanti.gif" alt="avanti" /></a></div>
+<div id="paginavanti"><a href="condensatori2.html">Collegamenti di condensatori</a></div>
+<div id="paginindietro"><a href="condensatori.html">Differenza di potenziale</a></div>
+<br/>
+</div>
+<div class="footer"></div>
+</div>
+
+<div id="footer"> <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/" target="NEW"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/80x15.png" /></a><br />Quest'opera &#232; pubblicata sotto <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/" target="NEW">Licenza Creative Commons</a>.</div>
+</body>
+</html>

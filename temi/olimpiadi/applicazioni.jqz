@@ -1,0 +1,1057 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<hotpot-jquiz-file>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description rdf:about="">
+</rdf:Description>
+</rdf:RDF>
+<version>6</version>
+<data>
+<title>Applicazioni della dinamica</title>
+<timer>
+<include-timer>0</include-timer>
+<seconds>59</seconds>
+</timer>
+<reading>
+<reading-text></reading-text>
+<include-reading>0</include-reading>
+<reading-title></reading-title>
+</reading>
+<questions>
+<question-record>
+<question>In un esperimento una sferetta leggera cade in aria a velocit&amp;#x00e0; costante &amp;#x003C;i&amp;#x003E;V&amp;#x003C;/i&amp;#x003E;. Se la sferetta viene sottoposta anche a una forza di modulo &amp;#x003C;i&amp;#x003E;F&amp;#x003C;/i&amp;#x003E; diretta verso l&apos;alto, risale assumendo una velocit&amp;#x00e0; costante 2&amp;#x003C;i&amp;#x003E;V&amp;#x003C;/i&amp;#x003E;.
+
+Se poi il modulo della forza diventa &amp;#x003C;i&amp;#x003E;F&amp;#x003C;/i&amp;#x003E;/2, la sferetta . . .</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>. . . cade con velocit&amp;#x00e0; &amp;#x003C;i&amp;#x003E;V&amp;#x003C;/i&amp;#x003E;/4.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>. . . cade con velocit&amp;#x00e0; &amp;#x003C;i&amp;#x003E;V&amp;#x003C;/i&amp;#x003E;/2.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>. . . sale con velocit&amp;#x00e0; &amp;#x003C;i&amp;#x003E;V&amp;#x003C;/i&amp;#x003E;/2.</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>. . . sale con velocit&amp;#x00e0; 3&amp;#x003C;i&amp;#x003E;V&amp;#x003C;/i&amp;#x003E;/2.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>. . . rimane ferma.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Un sasso viene lanciato verso l&apos;alto, raggiunge l&apos;altezza massima e torna gi&amp;#x00f9;. 
+
+Quale, fra le affermazioni seguenti che riguardano l&apos;accelerazione del sasso, risulta vera?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>Varia continuamente, con un valore massimo all&apos;inizio e zero alla sommit&amp;#x00e0;.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Cambia solo il segno quando il sasso &amp;#x00e8; alla sommit&amp;#x00e0;.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Rimane sempre costante.</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Nel punto pi&amp;#x00f9; alto &amp;#x00e8; diretta orizzontalmente in avanti.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Varia ed &amp;#x00e8; zero all&apos;inizio e massima alla sommit&amp;#x00e0;.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Per un corpo che si muove di moto armonico semplice, quali delle seguenti affermazioni sono vere in ogni istante? 
+
+1 - La velocit&amp;#x00e0; istantanea &amp;#x00e8; direttamente proporzionale allo spostamento dalla posizione centrale. 
+2 - L&apos;accelerazione del corpo &amp;#x00e8; inversamente proporzionale allo spostamento dalla posizione centrale. 
+3 - La forza di richiamo &amp;#x00e8; direttamente proporzionale allo spostamento dalla posizione centrale.</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>Solo la 1 e la 2</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Solo la 1 e la 3</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Solo la 1</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Solo la 2</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Solo la 3</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Un disco la cui superficie &amp;#x00e8; uniforme, posto orizzontalmente, ruota intorno a un asse verticale passante per il suo centro.
+Un piccolo corpo di massa &amp;#x003C;i&amp;#x003E;m&amp;#x003C;/i&amp;#x003E; &amp;#x00e8; appoggiato sul disco a distanza &amp;#x003C;i&amp;#x003E;r&amp;#x003C;/i&amp;#x003E; dal centro e viene trascinato nella rotazione. La velocit&amp;#x00e0; angolare del disco viene gradualmente aumentata fino a quando il corpo viene lanciato via; ci&amp;#x00f2; accade quando la velocit&amp;#x00e0; angolare &amp;#x00e8; &amp;#x0026;omega;&amp;#x003C;sub&amp;#x003E;0&amp;#x003C;/sub&amp;#x003E;.
+
+Se il corpo deve essere lanciato via a una velocit&amp;#x00e0; angolare minore di &amp;#x0026;omega;&amp;#x003C;sub&amp;#x003E;0&amp;#x003C;/sub&amp;#x003E;, quale delle seguenti operazioni possono essere adeguate?
+
+1 - Aumentare il valore di &amp;#x003C;i&amp;#x003E;r&amp;#x003C;/i&amp;#x003E;.
+2 - Diminuire il coefficiente di attrito fra corpo e disco. 
+3 - Diminuire la massa &amp;#x003C;i&amp;#x003E;m&amp;#x003C;/i&amp;#x003E; del corpo.</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>Tutte e tre</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Solo la 1 e la 2</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Solo la 2 e la 3</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Solo la 1 e la 3</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Nessuna delle tre</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>La figura rappresenta l&apos;orbita ellittica di una cometa nel suo moto intorno al Sole. 
+
+&amp;#x003C;img src=&quot;0412.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;300&quot; height=&quot;180&quot; /&amp;#x003E;
+
+Il modulo dell&apos;accelerazione centripeta &amp;#x00e8; massimo nel punto</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>A</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>B</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>C</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>D</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>In tutti i punti l&apos;accelerazione ha lo stesso modulo.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Un carrello di 2 kg si muove a velocit&amp;#x00e0; costante su una pista circolare di 3 m di raggio; la forza centripeta applicata al carrello &amp;#x00e8; di 24 N.
+
+Trovare la velocit&amp;#x00e0; del carrello, in m s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E;.</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>4.0</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>6.0</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>12</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>16</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>36</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Un pallone da calcio descrive la traiettoria rappresentata in figura. 
+
+&amp;#x003C;img src=&quot;0419.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;300&quot; height=&quot;140&quot; /&amp;#x003E;
+
+Quale vettore rappresenta meglio la direzione della resistenza dell&apos;aria sul pallone, nel punto P?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>&amp;#x003C;img src=&quot;0419a.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;110&quot; height=&quot;100&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;0419b.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;110&quot; height=&quot;100&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;0419c.jpg&quot; alt=&quot;&quot; title=&quot;&quot;  width=&quot;110&quot; height=&quot;100&quot;/&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;0419d.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;110&quot; height=&quot;100&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;0419e.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;110&quot; height=&quot;100&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Un corpo di 2 kg viene fatto scivolare sul pavimento ed &amp;#x00e8; accelerato da una forza orizzontale di 30 N; l&apos;accelerazione risulta essere di 10 m s&amp;#x003C;sup&amp;#x003E;-2&amp;#x003C;/sup&amp;#x003E;.
+
+Determinare il modulo della forza d&apos;attrito che agisce sul corpo?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>0 N</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>5 N</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>10 N</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>20 N</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>30 N</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>La forza gravitazionale esercitata dalla Terra su un grosso libro che si trova sulla cima del Gran Sasso (altezza 2900 m s.l.m.) ha un&apos;intensit&amp;#x00e0; di 20 N.
+
+Quale sarebbe approssimativamente l&apos;intensit&amp;#x00e0; della forza gravitazionale della Terra sullo stesso libro se questo fosse ad un&apos;altezza doppia rispetto al livello del mare?
+
+&amp;#x003C;i&amp;#x003E;Nota: Si consideri la Terra come una sfera omogenea di raggio R&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;T&amp;#x003C;/sub&amp;#x003E; = 6 370 km.</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>2.5 N</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>5.0 N</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>10 N</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>20 N</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>40 N</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Un paracadutista sta scendendo verticalmente alla velocit&amp;#x00e0; di regime con il paracadute ancora chiuso. Ad un certo istante apre il paracadute e, dopo un breve intervallo di tempo, raggiunge una nuova velocit&amp;#x00e0; di regime, molto pi&amp;#x00f9; bassa. Si confrontino le intensit&amp;#x00e0; della forza di resistenza dell&apos;aria sul paracadutista nelle due situazioni a regime, rispettivamente con il paracadute aperto e chiuso. 
+
+Quale delle seguenti affermazioni &amp;#x00e8; corretta?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>Il rapporto tra le due intensit&amp;#x00e0; &amp;#x00e8; uguale al rapporto tra le due velocit&amp;#x00e0;.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Il rapporto tra le due intensit&amp;#x00e0; &amp;#x00e8; uguale all&apos;inverso del rapporto tra le due velocit&amp;#x00e0;.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>L&apos;intensit&amp;#x00e0; della forza a paracadute aperto dipende dalle dimensioni del paracadute.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>La forza a paracadute chiuso &amp;#x00e8; pi&amp;#x00f9; intensa a causa della maggiore velocit&amp;#x00e0;.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Le due intensit&amp;#x00e0; sono uguali.</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Due leggere buste di plastica da supermercato, di massa trascurabile, distano 2 m. Ciascuna busta contiene 15 arance uguali. 
+
+Assumendo che le buste con le arance abbiano una forma approssimativamente sferica, se 10 arance vengono spostate da una busta all&apos;altra, la forza di attrazione gravitazionale tra le due buste dovrebbe. . .</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>. . . aumentare fino a raggiungere i 3/2 del valore originale.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>. . . diminuire fino a raggiungere i 2/5 del valore originale.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>. . . aumentare fino a raggiungere i 5/3 del valore originale.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>. . . diminuire fino a raggiungere i 5/9 del valore originale.</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>. . . rimanere la stessa.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Un libro che pesa 20 N scivola a velocit&amp;#x00e0; costante lungo una rampa inclinata di un angolo di 30&amp;#x00b0; con il piano orizzontale, come mostrato in figura. 
+
+&amp;#x003C;img src=&quot;0616.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;250&quot; height=&quot;160&quot; /&amp;#x003E;
+
+Quanto vale la forza d&apos;attrito tra il libro e il piano della rampa?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>17 N lungo la rampa, verso l&apos;alto.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>10 N lungo la rampa, verso l&apos;alto.</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>10 N lungo la rampa, verso il basso.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>17 N lungo la rampa, verso il basso.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Non &amp;#x00e8; possibile dirlo se non si conosce il coefficiente d&apos;attrito dinamico.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>In figura &amp;#x00e8; rappresentato un sistema di due blocchi A e B le cui masse sono rispettivamente di 16 e 4 kg; l&apos;attrito tra il blocco A e la superficie di appoggio &amp;#x00e8; trascurabile, mentre le superfici dei due blocchi a contatto tra loro presentano un coefficiente d&apos;attrito pari a 0.50. Il blocco A viene spinto, in direzione AB, da una forza orizzontale &amp;#x003C;i&amp;#x003E;F&amp;#x003C;/i&amp;#x003E; in modo tale che il blocco B non cada per effetto del suo peso. 
+
+&amp;#x003C;img src=&quot;0625.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;200&quot; height=&quot;100&quot; /&amp;#x003E;
+
+Il valore minimo della forza &amp;#x003C;i&amp;#x003E;F&amp;#x003C;/i&amp;#x003E;, perch&amp;#x00e9; ci&amp;#x00f2; sia possibile, &amp;#x00e8;
+(&amp;#x003C;i&amp;#x003E;NOTA: si approssimi il valore di g con&amp;#x003C;/i&amp;#x003E; 10 m s&amp;#x003C;sup&amp;#x003E;-2&amp;#x003C;/sup&amp;#x003E;.)</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>50 N</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>100 N</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>200 N</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>400 N</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>1600 N</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Due blocchi identici, ciascuno di peso &amp;#x003C;i&amp;#x003E;P&amp;#x003C;/i&amp;#x003E;, sono collocati l&apos;uno sull&apos;altro come mostrato nella figura. Il blocco superiore &amp;#x00e8; legato al muro. Il blocco inferiore &amp;#x00e8; tirato da una forza orizzontale di modulo &amp;#x003C;i&amp;#x003E;F&amp;#x003C;/i&amp;#x003E;. Il coefficiente di attrito statico tra tutte le superfici &amp;#x00e8; &amp;#x0026;mu;. 
+
+&amp;#x003C;img src=&quot;0702.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;220&quot; height=&quot;110&quot; /&amp;#x003E;
+
+Qual &amp;#x00e8; il massimo valore che pu&amp;#x00f2; avere &amp;#x003C;i&amp;#x003E;F&amp;#x003C;/i&amp;#x003E; se si vuole che il blocco inferiore non si muova?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>&amp;#x0026;mu; P</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>3/2 &amp;#x0026;mu; P</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>2 &amp;#x0026;mu; P</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>5/2 &amp;#x0026;mu; P</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>3 &amp;#x0026;mu; P</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>La velocit&amp;#x00e0; di un aeroplano viene raddoppiata, ma il raggio di curvatura della sua traiettoria rimane lo stesso. 
+
+L&apos;intensit&amp;#x00e0; della forza centripeta agente sull&apos;arcobaleno risulter&amp;#x00e0; . . .</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>. . . dimezzata.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>. . . raddoppiata.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>. . . la quarta parte.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>. . . quadruplicata.</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>. . . uguale.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Un oggetto di massa 10 kg si trova sopra un piano inclinato. Il modulo della componente della forza peso lungo la direzione del piano inclinato vale 50 N. Un forza di 300 N, parallela al piano inclinato, &amp;#x00e8; applicata all&apos;oggetto, come mostrato in figura. L&apos;oggetto accelera verso l&apos;alto lungo il piano inclinato a 10 m s&amp;#x003C;sup&amp;#x003E;-2&amp;#x003C;/sup&amp;#x003E;. 
+
+&amp;#x003C;img src=&quot;0816.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;200&quot; height=&quot;130&quot; /&amp;#x003E;
+
+Quanto vale l&apos;intensit&amp;#x00e0; della forza di attrito che si oppone al moto dell&apos;oggetto?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>50 N</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>100 N</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>150 N</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>200 N</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>250 N</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>In un episodio di Star Trek un oggetto di peso &amp;#x003C;i&amp;#x003E;P&amp;#x003C;/i&amp;#x003E; (sulla Terra) viene teletrasportato dal capitano Kirk su di un pianeta X il cui raggio e la cui massa sono esattamente met&amp;#x00e0; di quelli terrestri. 
+
+Se il capitano pesasse di nuovo l&apos;oggetto troverebbe un valore &amp;#x003C;i&amp;#x003E;P&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;X&amp;#x003C;/sub&amp;#x003E; pari a . . .</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>4 &amp;#x003C;i&amp;#x003E;P&amp;#x003C;/i&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>2 &amp;#x003C;i&amp;#x003E;P&amp;#x003C;/i&amp;#x003E;</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;i&amp;#x003E;P&amp;#x003C;/i&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;i&amp;#x003E;P&amp;#x003C;/i&amp;#x003E; / 2</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;i&amp;#x003E;P&amp;#x003C;/i&amp;#x003E; / 4</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Una pallina di peso P viene lasciata cadere dalla cima di una torre. Dopo un tempo sufficientemente lungo, si osserva che si muove con velocit&amp;#x00e0; costante. 
+Possiamo dedurre che, durante la caduta, l&apos;intensit&amp;#x00e0; della forza di attrito viscoso che l&apos;aria esercita sulla pallina. . .</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>. . . diminuisce gradualmente dal valore P a zero.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>. . . diminuisce gradualmente fino al valore P, dopodich&amp;#x00e9; si pu&amp;#x00f2; ritenere costante.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>. . . aumenta in modo costante per tutta la caduta.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>. . . aumenta gradualmente fino al valore P, dopodich&amp;#x00e9; si pu&amp;#x00f2; ritenere costante.</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>. . . &amp;#x00e8; trascurabile.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Un blocco di 2 kg, partendo da fermo, scivola per 20 m lungo un piano inclinato privo di attrito, da X a Y, scendendo in verticale per 10 m, come mostrato in figura. 
+
+&amp;#x003C;img src=&quot;0939.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;240&quot; height=&quot;150&quot; /&amp;#x003E;
+
+Approssimativamente, qual &amp;#x00e8; l&apos;intensit&amp;#x00e0; della forza risultante che agisce sul blocco mentre scivola?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>0.1 N</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>0.4 N</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>2.5 N</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>5.0 N</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>10 N</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Un satellite artificiale, di massa molto piccola e trascurabile rispetto a quella del pianeta intorno al quale sta ruotando, viene osservato da un astronomo. Vengono misurati la minima e la massima distanza del satellite dal pianeta e la massima velocit&amp;#x00e0; orbitale del satellite. 
+
+Quale delle seguenti quantit&amp;#x00e0; &amp;#x003C;b&amp;#x003E;non pu&amp;#x00f2;&amp;#x003C;/b&amp;#x003E; essere ottenuta a partire dai dati misurati?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>La massa del satellite.</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>La massa del pianeta.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>La velocit&amp;#x00e0; orbitale minima del satellite.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Il semiasse maggiore dell&apos;orbita del satellite.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Il periodo dell&apos;orbita del satellite.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Un palloncino, dopo essere stato gonfiato a fiato, viene lasciato cadere dal soffitto di una palestra della scuola fino al pavimento, 10 metri sottostante. 
+
+Quale dei grafici seguenti rappresenta meglio la sua velocit&amp;#x00e0; in funzione del tempo?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>&amp;#x003C;img src=&quot;1105a.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;100&quot; height=&quot;120&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;1105b.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;100&quot; height=&quot;120&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;1105c.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;100&quot; height=&quot;120&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;1105d.jpg&quot; alt=&quot;&quot; title=&quot;&quot;  width=&quot;100&quot; height=&quot;120&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;1105e.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;100&quot; height=&quot;120&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Un&apos;automobile di 900 kg percorre lentamente una curva a raggio costante di 25 m, essendo la strada scivolosa. Il modulo della sua velocit&amp;#x00e0; &amp;#x00e8; pari a 5 m s&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E; mentre il coefficiente d&apos;attrito tra le ruote e la strada &amp;#x00e8; 0.51. 
+
+Quanto vale la forza d&apos;attrito tra le ruote e la strada, se l&apos;automobile riesce a completare la curva?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>1.13 x 10&amp;#x003C;sup&amp;#x003E;5&amp;#x003C;/sup&amp;#x003E; N</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>9.80 x 10&amp;#x003C;sup&amp;#x003E;4&amp;#x003C;/sup&amp;#x003E; N</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>4.4 x 10&amp;#x003C;sup&amp;#x003E;4&amp;#x003C;/sup&amp;#x003E; N</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>4.5 x 10&amp;#x003C;sup&amp;#x003E;3&amp;#x003C;/sup&amp;#x003E; N</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>0.9 x 10&amp;#x003C;sup&amp;#x003E;3&amp;#x003C;/sup&amp;#x003E; N</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Un palleone aerostatico, riempito di elio ed avente una massa complessiva di 1.5 kg, sta salendo velocemente, a velocit&amp;#x00e0; verticale costante, fino ad un&apos;altezza di 100 m dal suolo. 
+
+Quale, tra i valori indicati, pu&amp;#x00f2; esprimere la spinta idrostatica sul pallone alla quota di 50 m?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>0 N</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>1.47 N</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>2.2 N</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>14.7 N</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>22 N</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Un satellite di massa &amp;#x003C;i&amp;#x003E;m&amp;#x003C;/i&amp;#x003E; orbita attorno alla Terra. L&apos;orbita &amp;#x00e8; circolare ed ha raggio &amp;#x003C;i&amp;#x003E;R&amp;#x003C;/i&amp;#x003E;. 
+Se al satellite &amp;#x00e8; applicata solo la forza gravitazionale &amp;#x003C;i&amp;#x003E;F&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;g&amp;#x003C;/sub&amp;#x003E;, la sua velocit&amp;#x00e0; &amp;#x00e8; data da:</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>&amp;#x003C;img src=&quot;1136a.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;55&quot; height=&quot;45&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;i&amp;#x003E;F&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;g&amp;#x003C;/sub&amp;#x003E; &amp;#x003C;i&amp;#x003E;R&amp;#x003C;/i&amp;#x003E; / &amp;#x003C;i&amp;#x003E;m&amp;#x003C;/i&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;1136c.jpg&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;65&quot; height=&quot;45&quot; /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;i&amp;#x003E;F&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;g&amp;#x003C;/sub&amp;#x003E; &amp;#x003C;i&amp;#x003E;m&amp;#x003C;/i&amp;#x003E; / &amp;#x003C;i&amp;#x003E;R&amp;#x003C;/i&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;i&amp;#x003E;F&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;g&amp;#x003C;/sub&amp;#x003E; &amp;#x003C;i&amp;#x003E;m R&amp;#x003C;/i&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text></text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Sul pianeta X, privo di atmosfera, un corpo ha massa &amp;#x003C;i&amp;#x003E;m&amp;#x003C;/i&amp;#x003E; = 15 kg e peso &amp;#x003C;i&amp;#x003E;W&amp;#x003C;/i&amp;#x003E; = 60 N. Si lascia andare il corpo in caduta libera in una zona prossima alla superficie del pianeta. 
+Si vuol sapere qual &amp;#x00e8; l&apos;accelerazione dell&apos;oggetto dopo essere caduto per 6.0 s.</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>0.25 m s&amp;#x003C;sup&amp;#x003E;-2&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>4.0 m s&amp;#x003C;sup&amp;#x003E;-2&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>10 m s&amp;#x003C;sup&amp;#x003E;-2&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>15 m s&amp;#x003C;sup&amp;#x003E;-2&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>24 m s&amp;#x003C;sup&amp;#x003E;-2&amp;#x003C;/sup&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+</questions></data>
+<hotpot-config-file>
+<global>
+<separate-js-file>0</separate-js-file>
+<clue-caption>Clue</clue-caption>
+<next-q-caption>=&amp;#x003E;</next-q-caption>
+<last-q-caption>&amp;#x003C;=</last-q-caption>
+<incorrect-indicator>X</incorrect-indicator>
+<font-size>10pt</font-size>
+<include-next-ex>0</include-next-ex>
+<restart-caption>Restart</restart-caption>
+<contents-url>contents.htm</contents-url>
+<include-timer>0</include-timer>
+<font-face>Arial,Verdana,sans-serif</font-face>
+<include-scorm-12>0</include-scorm-12>
+<user-string-3>three</user-string-3>
+<show-correct-first-time>0</show-correct-first-time>
+<user-string-2>two</user-string-2>
+<user-string-1>one</user-string-1>
+<vlink-color>#0000CC</vlink-color>
+<title-color>#FF0000</title-color>
+<correct-indicator>:-)</correct-indicator>
+<contents-caption>Index</contents-caption>
+<show-all-questions-caption>Mostra tutte le domande</show-all-questions-caption>
+<undo-caption>Undo</undo-caption>
+<header-code></header-code>
+<hint-caption>Hint</hint-caption>
+<check-button-caption>Check</check-button-caption>
+<email>you@yourserver.com</email>
+<show-one-by-one-caption>Mostra le domande una alla volta</show-one-by-one-caption>
+<name-please>Please enter your name:</name-please>
+<formmail-url>http://yourserver.com/cgi-bin/FormMail.pl</formmail-url>
+<next-ex-caption>=&amp;#x003E;</next-ex-caption>
+<back-caption>&amp;#x003C;=</back-caption>
+<text-color>#333333</text-color>
+<page-bg-color>#ffeee8</page-bg-color>
+<times-up>Your time is over!</times-up>
+<nav-bar-color>#FF9900</nav-bar-color>
+<include-contents>0</include-contents>
+<your-score-is>Il tuo punteggio &amp;#x00e8;:</your-score-is>
+<graphic-url></graphic-url>
+<link-color>#0000FF</link-color>
+<keypad-characters></keypad-characters>
+<show-also-correct>1</show-also-correct>
+<correct-first-time>Risposte esatte al primo tentativo: </correct-first-time>
+<include-cgi>0</include-cgi>
+<ex-bg-color>#FFFFFF</ex-bg-color>
+<ok-caption>OK</ok-caption>
+<process-for-rtl>0</process-for-rtl>
+<check-caption>Controlla</check-caption>
+<include-back>0</include-back>
+<next-correct-letter>Next correct letter is: </next-correct-letter>
+</global>
+<jquiz>
+<next-caption>Next</next-caption>
+<instructions></instructions>
+<enter-a-guess>Prova a dare una risposta:</enter-a-guess>
+<correct-list>Risposte esatte:</correct-list>
+<completed-so-far>Domande completate finora:</completed-so-far>
+<header-code></header-code>
+<include-hint>0</include-hint>
+<include-keypad>0</include-keypad>
+<short-answer-tries-on-hybrid-q>2</short-answer-tries-on-hybrid-q>
+<partly-incorrect>La tua risposta &amp;#x00e8; parzialmente sbagliata: </partly-incorrect>
+<guess-incorrect>Sbagliato! Riprova:</guess-incorrect>
+<case-sensitive>0</case-sensitive>
+<continuous-scoring>1</continuous-scoring>
+<next-ex-url>nextpage.htm</next-ex-url>
+<send-email>0</send-email>
+<show-also-correct>1</show-also-correct>
+<exercise-subtitle>Quiz</exercise-subtitle>
+<exercise-completed>L&apos;esercizio &amp;#x00e8; stato completato. </exercise-completed>
+<questions-to-show>10</questions-to-show>
+<shuffle-answers>0</shuffle-answers>
+<guess-correct>Esatto!</guess-correct>
+<next-correct-letter>Lettera esatta successiva nella risposta:</next-correct-letter>
+<show-limited-questions>0</show-limited-questions>
+<shuffle-questions>0</shuffle-questions>
+<include-show-answer>1</include-show-answer>
+<show-correct-first-time>0</show-correct-first-time>
+<separate-javascript-file>0</separate-javascript-file>
+<delete-caption>Delete This Flashcard</delete-caption>
+<show-answer-caption>Mostra risposta</show-answer-caption>
+</jquiz>
+</hotpot-config-file>
+
+</hotpot-jquiz-file>

@@ -1,0 +1,443 @@
+body
+{ background-color:#ffeee8;
+  font-family: Arial, Trebuchet MS, Verdana,Sans-serif;
+  color:#333333;
+  font-size: 90%;
+  text-align:center;}
+
+h1
+{ background-color: #FFF;
+  color:#FF0000;
+  font-size:140%;
+  font-weight:bold;
+  margin-top:0;
+  margin-bottom:10px;}
+
+h2
+{ background-color: #fff;
+  color:#FF0000;
+  font-size:120%;
+  font-weight:normal;
+  margin-top:0;
+  margin-bottom:0;
+  margin-bottom:10px;}
+
+ol{text-align:justify;}
+
+		#primary-nav a
+{
+display: block;
+width: 293px;
+color:#333333;
+background-color: #FF9900;
+}
+
+#primary-nav h2{font-size:100%;
+color: #333333;
+font-weight:bold;
+margin-bottom:0px;}
+
+#primary-nav a:link, #navlist a:visited
+{
+text-decoration: none;
+}
+
+#primary-nav a:hover
+{
+background-color: #FFCC99;
+color:#333333;
+}
+
+#paginavanti
+{margin-right:0px;
+float:right;
+width:290px;
+  text-align:right;}
+  
+  
+#paginindietro
+{
+margin-left:0px;
+width:350px;
+  text-align:left;}
+  
+  #paginavanti a
+{color:#FF0000;}
+
+  #paginindietro a
+{color:#FF0000;}
+        
+        #edmodo-logo {
+  position: relative;
+  top: 0px;
+  left: 0px;
+  margin:0;
+}
+#vertical-divider {
+  position: relative;
+  width: 0px;
+  right: 7px;
+  display: inline-block;
+  border-left: 1px solid #2567a8;
+  border-right: 1px solid #4b8dce;
+  height:inherit;
+}
+#vertical-divider:after {
+    content: '.';
+    visibility: hidden;
+}
+#edmodo {
+  font-weight: 500;
+  font-family: "Helvetica Neue Light", "Helvetica Neue", Arial, Helvetica, sans-serif;
+}
+button.login-edmodo-button {
+    line-height: 40px;
+    padding: 0 14px 0 28px;
+    border-radius: 2px;
+    cursor: pointer;
+    background-color: #3784d3;
+    box-shadow: 0 2px 0 #276bb0;
+    border:0;
+    height: 34px;
+}
+button.login-edmodo-button:hover {
+    text-decoration: none;
+    color: white;
+    background-color: #2d7bcc;
+}
+button.login-edmodo-button p {
+    color: white;
+    text-shadow: 0 1px 0 #555555;
+    font-size: 14px;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Arial, Helvetica, sans-serif;
+    font-weight: 300;
+    display: inline-block;
+    margin:0;
+}
+
+  ul#primary-nav,
+        ul#primary-nav ul {
+            margin: 0;
+            padding: 0;
+            width: 305px; /* Width of Menu Items */
+            background-color: #fff; /* IE6 Bug */
+            font-size: 100%;
+        }
+		
+
+
+      ul#primary-nav li {
+			font-weight: bold;
+            position: relative;
+            list-style: none;
+        }
+
+        ul#primary-nav li a {
+            display: block;
+            text-decoration: none;
+            color: #fff;
+			background-color: #FF9900;
+            padding: 5px;
+            border-left: 1px solid #FF3300;
+			border-right: 1px solid #FF3300;
+			border-bottom: 1px solid #FF3300;
+        }
+
+        /* Fix IE. Hide from IE Mac \*/
+        * html ul#primary-nav li { float: left; height: 1%; }
+        * html ul#primary-nav li a { height: 1%; }
+        /* End */
+
+        ul#primary-nav ul {
+            position: absolute;
+            display: none;
+            left: 304px; /* Set 1px less than menu width */
+            top: -1px;
+        }
+
+        ul#primary-nav li ul li a { padding: 5px;
+		background-color:#FFCC99; color:#333; font-weight: normal;} /* Sub Menu Styles */
+
+  ul#primary-nav li ul li a:hover { padding: 5px;
+		background-color:#FF9900; color:#fff}
+		
+        ul#primary-nav li:hover ul ul,
+        ul#primary-nav li:hover ul ul ul,
+        ul#primary-nav li.over ul ul,
+        ul#primary-nav li.over ul ul ul { display: none; } /* Hide sub-menus initially */
+
+        ul#primary-nav li:hover ul,
+        ul#primary-nav li li:hover ul,
+        ul#primary-nav li li li:hover ul,
+        ul#primary-nav li.over ul,
+        ul#primary-nav li li.over ul,
+        ul#primary-nav li li li.over ul { display: block; } /* The magic */
+
+        ul#primary-nav li.menubar { background: #FFCC99 right center no-repeat; }
+
+        ul#primary-nav li:hover,
+        ul#primary-nav li.over { background-color: #f9f9f9; }
+
+        ul#primary-nav li a:hover { color: #333; background-color: #FFCC99;}
+
+ul#primary-nav li.titolo {  width:304px; background: #fff; font-size:100%;
+color: #333333;
+font-weight:bold;
+margin-bottom:0px;
+margin-top:15px;}
+
+    ul#primary-nav li.titolo.over { background-color: #fff; }
+        
+ul#primary-nav li.titolo1 { width:304px; background: #fff; font-size:100%;
+color: #333333;
+font-weight:bold;
+margin-bottom:0px;
+margin-top:25px;}
+
+ul#primary-nav li.titolo1.over { background-color: #fff; }
+
+nav {
+	margin:10px;
+	width:305px;
+	float:left;
+}
+
+
+a:link, a:visited, a:active
+{background-color: #fff; text-decoration:none; color:#FF0000;}	
+a:hover
+{background-position:inherit; background-color: #fff; text-decoration: underline; 
+color:#FF9900;}
+
+
+
+header
+{ height:124px;
+  width:960px;
+  margin-top:15px;
+  margin-left:auto;
+  margin-right:auto;  
+  border:#FF9900 1px solid;
+  background-color:#ffeee8;
+  color:#FF9900;}
+
+main
+{ width: 960px;
+  margin-top: 10px;
+  margin-right: auto;
+  margin-left: auto;
+  border:#FF9900 1px solid;
+  background-color: #fff;  
+  font-size:100%;
+  color:#333333;}
+
+#content
+{ width:590px;
+  padding:10px 15px 10px 15px;
+  float:left; 
+  text-align:justify;}
+
+
+#blog
+{ width:590px;
+  padding:10px 15px 10px 15px;
+  float:left; 
+  text-align:justify;}
+
+#blog h2 {
+	border-bottom: 1px dotted #333;
+}
+
+
+
+#condividi h2 {
+	border-bottom: 1px dotted #333;
+}
+
+
+
+#condividi
+{ width:590px;
+  padding:10px 15px 10px 15px;
+  float:left; 
+  text-align:justify;
+  font-size:83%;}
+  
+  #condividitemi h2 {
+	border-bottom: 1px dotted #333;
+}
+
+
+
+#condividitemi
+{ width:590px;
+  float:left; 
+  text-align:justify;
+  font-size:83%;}
+
+#blog li {margin-bottom: 2px;
+}
+
+footer
+{ height:28px;
+  width:960px;
+  margin-top:10px;
+  margin-left:auto;
+  margin-right:auto;
+  padding:10px 0;  
+  border:#FF9900 1px solid;
+  background-color: #fff;
+  font-size:83%;
+  color:#333333;
+  text-align:center;}
+  
+#social
+{ margin-top:20px;
+  height:40px;
+  width:80px;
+  float:right;}
+
+#nav a {font: 120%}
+
+.footer 
+{ clear: both; 
+  background:#fff;
+  color:inherit;
+  height:1px;}
+  
+  .avanti
+{margin-left:547px;
+width:40px;
+  text-align:right;}
+  
+    .indietro
+{ float:left; 
+margin-left:3px;
+width:40px;
+  text-align:left;}
+ 
+
+.left
+{ width:235px;
+  float:left;
+  margin:10px 0px 10px 0;
+  text-align:justify;
+  overflow: hidden;}
+
+.mid 
+{ width:285px;
+  margin:0;
+  overflow: hidden;}
+  
+.quotation
+{ font-style:italic;}
+  
+.img
+{ border:0;}
+  
+figure
+{ border:0; margin-left:50px;}
+
+
+
+.img1
+{ border:0; margin-left:50px;}
+
+
+
+.img2
+{ border:0; margin-left:50px;}
+
+.table1
+{ width:580px;  text-align:center;}
+
+.table2
+{ width:240px; text-align:center;}
+
+.table3
+{ width:410px; text-align:center;}
+
+
+#calendar {width: 305px;
+	padding: 0;
+	margin: 0;
+	border-left: 1px solid #FF3300;
+	font: normal 100%  Arial, "Trebuchet MS", Verdana, Helvetica, sans-serif;
+	color: #333;
+	text-align: center;
+}
+
+.nav, .nav a {
+	font: bold 100% Arial,Verdana,Sans-serif;
+	background: #FF9900;
+	color: #fff;
+	text-align: center;
+	text-decoration: none;
+}	
+
+
+caption { margin-bottom:0px;
+	padding: 0;
+	width: 305px;
+	background: #fff;
+	color: #333;
+	font: bold 100% Arial, "Trebuchet MS", Verdana, Helvetica, sans-serif;
+	text-align: center;
+}
+
+corsivo { font-style: italic; }
+
+strong { font-weight: bold; }
+
+#calendar th {
+	font: bold 100% Arial, "Trebuchet MS", Verdana, Helvetica, sans-serif;
+	color: #333;
+	background: #FF9900;
+	border-right: 1px solid #FF3300;
+	border-bottom: 1px solid #FF3300;
+	border-top: 1px solid #FF3300;
+	height: 20px;
+}
+
+
+#calendar td {
+	border-right: 1px solid #FF3300;
+	border-bottom: 1px solid #FF3300;
+	text-align: center;
+	background: #FFCC99;
+	height: 25px;
+
+}
+
+#calendar td a {
+	text-decoration: none;
+	font-weight: bold;
+	display: block;
+	height:22px;
+	padding-top:3px;
+}
+
+#calendar td a:link, td a:visited {	
+	color: #fff;
+	background: #FF9900;
+	text-align: center;
+	height:21px;
+	padding-top:4px;
+	}
+
+#calendar td a:hover, td a:active {
+	color: #333;
+	background: #fff;
+	text-align: center;
+	height: 21px;
+}
+
+
+.highlightit img{ 
+opacity: 1;
+}
+
+.highlightit:hover img{
+opacity: 0.5;
+}
+

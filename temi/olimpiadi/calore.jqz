@@ -1,0 +1,1165 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<hotpot-jquiz-file>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description rdf:about="">
+</rdf:Description>
+</rdf:RDF>
+<version>6</version>
+<data>
+<title>Calore</title>
+<timer>
+<include-timer>0</include-timer>
+<seconds>59</seconds>
+</timer>
+<reading>
+<reading-text></reading-text>
+<include-reading>0</include-reading>
+<reading-title></reading-title>
+</reading>
+<questions>
+<question-record>
+<question>Il conduttore termico XY mostrato in figura &amp;#x00e8; isolato termicamente lungo la sua superficie laterale e gli estremi X e Y sono mantenuti a temperature differenti; al suo interno il conduttore &amp;#x00e8; interrotto da uno strato MN di un materiale diverso. 
+
+&amp;#x003C;img src=&quot;0009.jpg&quot; alt=&quot;&quot; title=&quot;&quot;  /&amp;#x003E;
+
+In condizioni stazionarie, la differenza di temperatura tra gli estremi dello strato MN &amp;#x003C;b&amp;#x003E;non&amp;#x003C;/b&amp;#x003E; dipende . . . 
+
+1 - . . . dalla differenza di temperatura tra gli estremi XY del conduttore. 
+2 - . . . dallo spessore dello strato MN.
+3 - . . . dalla posizione di MN lungo XY.
+
+Quali delle precedenti affermazioni sono corrette?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>Tutte e tre.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Sia la 1 che la 2.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Sia la 2 che la 3.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Soltanto la 1.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Soltanto la 3.</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Una massa di 5 kg di acqua alla temperatura di 10&amp;#x00b0;C viene aggiunta ad una massa di 10 kg di acqua alla temperatura di 40&amp;#x00b0;C.
+
+Trascurando la capacit&amp;#x00e0; termica del recipiente e le perdite di calore, la temperatura di equilibrio sar&amp;#x00e0; prossima a . . .</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>20&amp;#x00b0;C</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>25&amp;#x00b0;C</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>30&amp;#x00b0;C</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>33&amp;#x00b0;C</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>35&amp;#x00b0;C</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Il calore specifico dell&apos;acqua &amp;#x00e8; 4180 J kg&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E;K&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E;.
+
+Per aumentare da 20&amp;#x00b0;C a 100&amp;#x00b0;C la temperatura di 500 g di acqua &amp;#x00e8; necessario fornire una quantit&amp;#x00e0; di energia &amp;#x003C;i&amp;#x003E;E&amp;#x003C;/i&amp;#x003E; uguale a</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>167 J</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>334 J</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>16.7 kJ</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>167 kJ</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>334 kJ</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Una parete di mattoni &amp;#x00e8; lunga 5 m, alta 3 m e spessa 0.3m. Il coefficiente di conducibilit&amp;#x00e0; termica del mattone vale 0.6 Wm&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E;K&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E;.
+
+Quando la temperatura della parete interna &amp;#x00e8; di 20&amp;#x00b0;C e la temperatura esterna di 0&amp;#x00b0;C, quanto vale la potenza termica che attraversa la parete?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>25 W</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>60 W</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>125 W</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>600 W</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>1 250 W</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Per preparare un t&amp;#x00e8;, si riscaldano 200 g d&apos;acqua portandoli da 20&amp;#x00b0;C a 80&amp;#x00b0;C.
+
+Per riscaldare l&apos;acqua del t&amp;#x00e8; l&apos;energia che occorre vale circa</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>25 kJ</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>50 kJ</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>75 kJ</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>100 kJ</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>125 kJ</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Un forno solare usanto per scaldare acqua &amp;#x00e8; costituito da uno specchio concavo di area 0.40 m&amp;#x003C;sup&amp;#x003E;2&amp;#x003C;/sup&amp;#x003E;. La potenza radiante per unit&amp;#x00e0; di superficie, che arriva dal Sole sullo specchio, &amp;#x00e8; &amp;#x003C;i&amp;#x003E;P&amp;#x003C;/i&amp;#x003E; = 10&amp;#x003C;sup&amp;#x003E;3&amp;#x003C;/sup&amp;#x003E;W m&amp;#x003C;sup&amp;#x003E;-2&amp;#x003C;/sup&amp;#x003E;.
+
+La migliore stima del minimo tempo necessario per riscaldare nel forno 1 kg di acuqa da 20&amp;#x00b0;C a 50&amp;#x00b0;C &amp;#x00e8;</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>0.8 min</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>5 min</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>20 min</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>50 min</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>320 min</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Un corpo si sta raffreddando in un ambiente ventilato alla temperatura costante &amp;#x003C;i&amp;#x003E;T&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;a&amp;#x003C;/sub&amp;#x003E;. 
+Quali dei seguenti grafici rispettano la relazione tra la sua temperatura &amp;#x003C;i&amp;#x003E;T&amp;#x003C;/i&amp;#x003E; e il tempo &amp;#x003C;i&amp;#x003E;t&amp;#x003C;/i&amp;#x003E;?
+
+&amp;#x003C;img src=&quot;0305.jpg&quot; alt=&quot;&quot; title=&quot;&quot;  /&amp;#x003E;</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>Tutti e tre</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Solo lo 1 e il 2</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Solo il 2 e il 3</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Solo lo 1</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Solo il 3</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Il calore specifico di un certo metallo &amp;#x00e8; &amp;#x003C;i&amp;#x003E;c&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;a&amp;#x003C;/sub&amp;#x003E;/9 e la sua densit&amp;#x00e0; &amp;#x00e8; 6&amp;#x0026;rho;&amp;#x003C;sub&amp;#x003E;a&amp;#x003C;/sub&amp;#x003E; dove &amp;#x003C;i&amp;#x003E;c&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;a&amp;#x003C;/sub&amp;#x003E; e &amp;#x0026;rho;&amp;#x003C;sub&amp;#x003E;a&amp;#x003C;/sub&amp;#x003E; indicano, rispettivamente, il calore specifico e la densit&amp;#x00e0; dell&apos;acqua. Volumi uguali di acqua e del metallo vengono riscaldati in modo che le loro temperature aumentino della stessa quantit&amp;#x00e0; e si osserva che l&apos;energia che si &amp;#x00e8; dovuto fornire al metallo &amp;#x00e8; &amp;#x003C;i&amp;#x003E;k&amp;#x003C;/i&amp;#x003E; volte quella trasferita all&apos;acqua. 
+
+Quanto vale &amp;#x003C;i&amp;#x003E;k&amp;#x003C;/i&amp;#x003E;?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>1/3</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>2/3</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>3/2</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>4</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>54</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Un recipiente di polistirolo con coperchio contiene 0.30 kg di acqua a 100&amp;#x00b0;C.
+
+Se vengono versati nele recipiente 0.10 kg di acuqa a 20&amp;#x00b0;C, la temperatura finale sar&amp;#x00e0;</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>20&amp;#x00b0;C</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>40&amp;#x00b0;C</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>60&amp;#x00b0;C</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>80&amp;#x00b0;C</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>100&amp;#x00b0;C</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Il grafico rappresenta la temperatura di un campione di 2 kg di una sostanza in funzione del tempo, quando viene assoribito del calore a un tasso costante di 15 kJ/minuto.
+
+&amp;#x003C;img src=&quot;0420.jpg&quot; alt=&quot;&quot; title=&quot;&quot;  /&amp;#x003E;
+
+Quanto vale il calore specifico della sostanza nella sua fase solida, espresso in kJ kg&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E; K&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E;?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>0.2</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>0.3</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>0.4</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>0.5</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>0.6</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Una barra metallica a sezione costante &amp;#x00e8; costituita da due pezzi di materiale diverso: la conducibilit&amp;#x00e0; termica del materiale X &amp;#x00e8; doppia rispetto a quella del materiale Y. 
+I due pezzi hanno uguale lunghezza L e sono mantenuti in perfetto contatto termico tra loro mentre l&apos;intera barra &amp;#x00e8; isolata termicamente dall&apos;ambiente. Le due estremit&amp;#x00e0; della barra sono mantenute a temperature costanti &amp;#x003C;i&amp;#x003E;T&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;1&amp;#x003C;/sub&amp;#x003E; e &amp;#x003C;i&amp;#x003E;T&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;2&amp;#x003C;/sub&amp;#x003E;.
+
+&amp;#x003C;img src=&quot;0423.jpg&quot; alt=&quot;&quot; title=&quot;&quot;  /&amp;#x003E;
+
+Quale dei grafici seguenti rappresenta meglio l&apos;andamento della temperatura nei diversi punti della barra?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>&amp;#x003C;img src=&quot;0423a.jpg&quot; alt=&quot;&quot; title=&quot;&quot;  /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;0423b.jpg&quot; alt=&quot;&quot; title=&quot;&quot;  /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;0423c.jpg&quot; alt=&quot;&quot; title=&quot;&quot;  /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;0423d.jpg&quot; alt=&quot;&quot; title=&quot;&quot;  /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;0423e.jpg&quot; alt=&quot;&quot; title=&quot;&quot;  /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Un bollitore d&apos;alluminio contiene 0.50 kg d&apos;acqua a 20&amp;#x00b0;C. Il bollitore viene scaldato finch&amp;#x00e9; tutta l&apos;acqua si trasforma in vapore a 100&amp;#x00b0;C.
+
+Quanto calore &amp;#x00e8; necessario per far evaporare completamente l&apos;acqua dopo che ha raggiunto il punto di ebollizione a 100&amp;#x00b0;C?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>1.67 x 10&amp;#x003C;sup&amp;#x003E;5&amp;#x003C;/sup&amp;#x003E; J</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>3.35 x 10&amp;#x003C;sup&amp;#x003E;5&amp;#x003C;/sup&amp;#x003E; J</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>1.13 x 10&amp;#x003C;sup&amp;#x003E;6&amp;#x003C;/sup&amp;#x003E; J</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>1.84 x 10&amp;#x003C;sup&amp;#x003E;6&amp;#x003C;/sup&amp;#x003E; J</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>2.26 x 10&amp;#x003C;sup&amp;#x003E;6&amp;#x003C;/sup&amp;#x003E; J</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Un recipiente rigido, di volume pari a 0.008 m&amp;#x003C;sup&amp;#x003E;3&amp;#x003C;/sup&amp;#x003E;, contiene gas perfetto monoatomico. 
+
+Se viene fornita al sistema una quantit&amp;#x00e0; di calore pari a 40 J, di quanto aumenter&amp;#x00e0; la pressione del gas?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>5 Pa</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>320 Pa</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>1 600 Pa</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>3 333 Pa</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>5 000 Pa</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Durante il processo di fusione del piombo, c&apos;&amp;#x00e8; un cambiamento apprezzabile. . .</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>. . . della temperatura.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>. . . del calore di fusione.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>. . . del valore medio dell&apos;energia cinetica delle molecole.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>. . . del valore medio dell&apos;energia potenziale delle molecole.</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>. . . della massa.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Un pezzo di ghiaccio di 100 g a 0&amp;#x00b0;C viene messo in un recipiente contenente 100 g di acqua a 100&amp;#x00b0;C. 
+
+Quale dei grafici seguenti rappresenta meglio l&apos;andamento della temperatura dei due componenti della miscela in funzione del tempo?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>&amp;#x003C;img src=&quot;0621a.jpg&quot; alt=&quot;&quot; title=&quot;&quot;  /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;0621b.jpg&quot; alt=&quot;&quot; title=&quot;&quot;  /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;0621c.jpg&quot; alt=&quot;&quot; title=&quot;&quot;  /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;0621d.jpg&quot; alt=&quot;&quot; title=&quot;&quot;  /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;0621e.jpg&quot; alt=&quot;&quot; title=&quot;&quot;  /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Quando una studentessa beve dell&apos;acqua fredda, il suo corpo scalda l&apos;acqua fino al raggiungimento dell&apos;equilibrio termico. 
+
+Se la studentessa, nell&apos;arco di una giornata, beve circa un litro e mezzo d&apos;acqua a 8.0&amp;#x00b0;C, quanta energia - sotto forma di calore - deve fornire approssimativamente il suo corpo all&apos;acqua?
+
+&amp;#x003C;i&amp;#x003E;(NOTA: si consideri la temperatura interna della studentessa pari a 37&amp;#x00b0;C)&amp;#x003C;/i&amp;#x003E;</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>44 kJ</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>180 kJ</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>190 kJ</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>230 kJ</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>470 kJ</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Una sbarra metallica ha lunghezza &amp;#x003C;i&amp;#x003E;L&amp;#x003C;/i&amp;#x003E; e sezione trasversale di area &amp;#x003C;i&amp;#x003E;A&amp;#x003C;/i&amp;#x003E;. Un&apos;estremit&amp;#x00e0; della sbarra &amp;#x00e8; tenuta a temperatura costante &amp;#x003C;i&amp;#x003E;t&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;1&amp;#x003C;/sub&amp;#x003E;, l&apos;altra a temperatura costante &amp;#x003C;i&amp;#x003E;t&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;2&amp;#x003C;/sub&amp;#x003E;. Sia &amp;#x003C;i&amp;#x003E;t&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;1&amp;#x003C;/sub&amp;#x003E; &amp;#x003E; &amp;#x003C;i&amp;#x003E;t&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;2&amp;#x003C;/sub&amp;#x003E;.
+
+Quali, tra le seguenti affermazioni riguardanti il flusso termico (quantit&amp;#x00e0; di calore trasportato per unit&amp;#x00e0; di tempo) attraverso la sbarra, sono corrette?
+
+1 - Il flusso termico &amp;#x00e8; proporzionale a 1/(&amp;#x003C;i&amp;#x003E;t&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;1&amp;#x003C;/sub&amp;#x003E;-&amp;#x003C;i&amp;#x003E;t&amp;#x003C;/i&amp;#x003E;&amp;#x003C;sub&amp;#x003E;2&amp;#x003C;/sub&amp;#x003E;).
+2 - Il flusso termico &amp;#x00e8; proporzionale ad &amp;#x003C;i&amp;#x003E;A&amp;#x003C;/i&amp;#x003E;. 
+3 - Il flusso termico &amp;#x00e8; proporzionale a &amp;#x003C;i&amp;#x003E;L&amp;#x003C;/i&amp;#x003E;.</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>Solo la 2.</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Solo la 3.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Solo la 1 e la 2.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Solo la 1 e la 3.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Solo la 2 e la 3.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Un bollitore di alluminio di massa &amp;#x003C;i&amp;#x003E;m&amp;#x003C;/i&amp;#x003E; = 0.80 kg contiene 0.50 kg d&apos;acqua a 20&amp;#x00b0;C. Il bollitore viene riscaldato finch&amp;#x00e9; l&apos;acuqa bolle a 100&amp;#x00b0;C e il bollitore pu&amp;#x00f2; ritenersi in equilibrio termico con l&apos;acqua. 
+
+Qual &amp;#x00e8; - approssimativamente - la quantit&amp;#x00e0; netta di calore assorbita dal bollitore di alluminio da quando l&apos;acqua &amp;#x00e8; a 20&amp;#x00b0;C a quando &amp;#x00e8; a 100&amp;#x00b0;C?
+
+&amp;#x003C;i&amp;#x003E;NOTA: Il calore specifico dell&apos;acqua &amp;#x00e8; 4.19 x 10&amp;#x003C;sup&amp;#x003E;3&amp;#x003C;/sup&amp;#x003E; J kg &amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E; K&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E;, quello dell&apos;alluminio &amp;#x00e8; 904 J kg &amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E; K&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E;.&amp;#x003C;/i&amp;#x003E;</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>1.30 MJ</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>630 kJ</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>270 kJ</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>160 kJ</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>60 kJ</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Un cubo di ghiaccio di massa pari a 60 g a 0&amp;#x00b0;C viene posto in un recipiente di vetro contenente 250 g di acqua a 25&amp;#x00b0;C. Si pu&amp;#x00f2; considerare il sistema isolato termicamente. 
+
+Quale delle affermazioni seguenti descrive il sistema quando &amp;#x00e8; stato raggiunto l&apos;equilibrio?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>Il ghiaccio &amp;#x00e8; completamente fuso e la temperatura dell&apos;acqua &amp;#x00e8; superiore a 0&amp;#x00b0;C</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Il ghiaccio &amp;#x00e8; completamente fuso e la temperatura dell&apos;acqua &amp;#x00e8; 0&amp;#x00b0;C</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Resta presente del ghiaccio e la temperatura dell&apos;acqua &amp;#x00e8; superiore a 0&amp;#x00b0;C</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Resta presente del ghiaccio e la temperatura dell&apos;acqua &amp;#x00e8; 0&amp;#x00b0;C</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Non si pu&amp;#x00f2; dire nulla sullo stato di equilibrio, se non si conosce la capacit&amp;#x00e0; termica del recipiente.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text></text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Cinque oggetti sono fatti, rispettivamente di piombo, argento, tungsteno, rame e cromo; hanno tutti massa di 10 g e sono alla temperatura di 20&amp;#x00b0;C. 
+
+Se ad ogni oggetto vengono forniti 100 J di calore , quale di essi alla fine avr&amp;#x00e0; la temperatura pi&amp;#x00f9; bassa?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>Il piombo, dato che presenta il calore di fusione pi&amp;#x00f9; basso.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>L&apos;argento, dato che ha la conducibilit&amp;#x00e0; termica pi&amp;#x00f9; alta.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Il tungsteno, dato che ha il calore di vaporizzazione pi&amp;#x00f9; alto.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Il rame, dato che ha il calore specifico pi&amp;#x00f9; alto.</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>Il cromo, dato che ha il calore specifico pi&amp;#x00f9; basso.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Un riscaldatore elettrico a immersione viene usato per aumentare di 0.1 K in 100 s la temperatura di 1 kg di un liquido avente un calore specifico di 1000 J kg&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E; K&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E;.
+
+Nell&apos;ipotesi che le perdite di calore siano trascurabili, qual &amp;#x00e8; approssimativamente la potenza del riscaldatore?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>0.1 W</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>1 W</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>10 W</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>100 W</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>1000 W</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Quanto calore &amp;#x00e8; necessario, approssimativamente, per vaporizzare 2.0 g di acqua alla temperatura di ebollizione e alla pressione atmoferica? 
+
+&amp;#x003C;i&amp;#x003E;Il calore di vaporizzazione dell&apos;acqua (a 100&amp;#x00b0;C) &amp;#x00e8; &amp;#x0026;lambda&amp;#x003C;sub&amp;#x003E;v&amp;#x003C;/sub&amp;#x003E; = 2.26 x 10&amp;#x003C;sup&amp;#x003E;6&amp;#x003C;/sup&amp;#x003E; J kg&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E;&amp;#x003C;/i&amp;#x003E;</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>8.4 J</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>500 J</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>670 J</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>840 J</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>4500 J</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Un sistema costituito da una miscela di acqua e ghiaccio viene riscaldato.
+
+Quale dei grafici seguenti rappresenta correttamente la relazione tra la temperatura del sistema e il calore fornito ?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>&amp;#x003C;img src=&quot;1012a.jpg&quot; alt=&quot;&quot; title=&quot;&quot;  /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;1012b.jpg&quot; alt=&quot;&quot; title=&quot;&quot;  /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;1012c.jpg&quot; alt=&quot;&quot; title=&quot;&quot;  /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;1012d.jpg&quot; alt=&quot;&quot; title=&quot;&quot;  /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>&amp;#x003C;img src=&quot;1012e.jpg&quot; alt=&quot;&quot; title=&quot;&quot;  /&amp;#x003E;</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>In un recipiente aperto all&apos;aria &amp;#x00e8; in ebollizione 1 kg di acqua. Vi si inserisce un campione di 0.5 kg di piombo a 250&amp;#x00b0;C. 
+Per effetto di questo inserimento, come cambiano le temperature delle due sostanze?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>La temperatura dell&apos;acqua diminuisce e quella del piombo rimane invariata.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>La temperatura dell&apos;acqua aumenta e quella del piombo rimane invariata.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>La temperatura dell&apos;acqua rimane invariata e quella del piombo diminuisce.</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>La temperatura dell&apos;acqua aumenta e quella del piombo diminuisce.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>La temperatura dell&apos;acqua rimane invariata e quella del piombo aumenta.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>In quale modo un aumento della pressione al di sopra di quella atmosferica modifica la temperatura di ebollizione dell&apos;acqua e quella di fusione del ghiaccio?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>La temperatura di ebollizione aumenta e quella di fusione aumenta.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>La temperatura di ebollizione aumenta e quella di fusione diminuisce.</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>La temperatura di ebollizione diminuisce e quella di fusione aumenta.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>La temperatura di ebollizione diminuisce e quella di fusione diminuisce.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>La temperatura di ebollizione diminuisce e quella di fusione rimane invariata.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>1.5 L d&apos;acqua si trovano alla pressione atmosferica e alla temperatura di 20&amp;#x00b0;C. Successivamente l&apos;acqua viene scaldata da un bollitore che le fornisce 2.2 kJ di energia al secondo. Si supponga di poter trascurare il calore disperso e l&apos;evaporazione dell&apos;acqua che avviene al di sotto del punto di ebollizione. 
+
+Dopo 20 minuti ...</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>... la temperatura dell&apos;acqua &amp;#x00e8; arrivata a 22.4&amp;#x00b0;C.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>... la temperatura dell&apos;acqua &amp;#x00e8; arrivata a 84.3&amp;#x00b0;C.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>... l&apos;acqua sta bollendo e rimangono 550 cm&amp;#x003C;sup&amp;#x003E;3&amp;#x003C;/sup&amp;#x003E; di liquido.</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>... l&apos;acqua sta bollendo e rimangono 50 cm&amp;#x003C;sup&amp;#x003E;3&amp;#x003C;/sup&amp;#x003E; di liquido.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>... tutta l&apos;acqua &amp;#x00e8; passata allo stato di vapore.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>La porta di un forno industriale ha un coefficiente di conducibilit&amp;#x00e0; termica &amp;#x003C;i&amp;#x003E;K&amp;#x003C;/i&amp;#x003E; = 46 W m&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E; K&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E; ed uno spessore di 3 mm. 
+La porta viene sostituita da un&apos;altra porta di conducibilit&amp;#x00e0; termica &amp;#x003C;i&amp;#x003E;K&amp;#x003C;/i&amp;#x003E;&apos; = 109 W m&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E; K&amp;#x003C;sup&amp;#x003E;-1&amp;#x003C;/sup&amp;#x003E; e spessore 9 mm.
+
+A parit&amp;#x00e0; di temperatura dell&apos;ambiente esterno e del forno, la sostituzione ha moltiplicato la potenza termica dispersa attraverso la porta di un fattore. . .</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>. . . 0.15</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>. . . 0.79</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>. . . 1</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>. . . 1.38</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>. . . 1.84</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+<question-record>
+<question>Un campione solido viene riscaldato e si osserva che la sua temperatura aumenta, ma il solido non fonde. 
+
+Quale, tra le affermazioni seguenti, descrive meglio come variano l&apos;energia cinetica media e l&apos;energia potenziale media delle molecole del campione durante il riscaldamento?</question>
+<clue></clue>
+<category></category>
+<weighting>100</weighting>
+<fixed>0</fixed>
+<question-type>1</question-type>
+<answers>
+<answer><text>L&apos;energia potenziale diminuisce e l&apos;energia cinetica aumenta.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>L&apos;energia potenziale aumenta e l&apos;energia cinetica rimane costante.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>L&apos;energia potenziale rimane costante e l&apos;energia cinetica diminuisce.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>L&apos;energia potenziale rimane costante e l&apos;energia cinetica aumenta.</text>
+<feedback></feedback>
+<correct>1</correct>
+<percent-correct>100</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer><answer><text>SIa l&apos;energia potenziale che l&apos;energia cinetica decrescono.</text>
+<feedback></feedback>
+<correct>0</correct>
+<percent-correct>0</percent-correct>
+<include-in-mc-options>1</include-in-mc-options>
+</answer></answers>
+</question-record>
+</questions></data>
+<hotpot-config-file>
+<global>
+<separate-js-file>0</separate-js-file>
+<clue-caption>Clue</clue-caption>
+<next-q-caption>=&amp;#x003E;</next-q-caption>
+<last-q-caption>&amp;#x003C;=</last-q-caption>
+<incorrect-indicator>X</incorrect-indicator>
+<font-size>10pt</font-size>
+<include-next-ex>0</include-next-ex>
+<restart-caption>Restart</restart-caption>
+<contents-url>contents.htm</contents-url>
+<include-timer>0</include-timer>
+<font-face>Arial,Verdana,sans-serif</font-face>
+<include-scorm-12>0</include-scorm-12>
+<user-string-3>three</user-string-3>
+<show-correct-first-time>0</show-correct-first-time>
+<user-string-2>two</user-string-2>
+<user-string-1>one</user-string-1>
+<vlink-color>#0000CC</vlink-color>
+<title-color>#FF0000</title-color>
+<correct-indicator>:-)</correct-indicator>
+<contents-caption>Index</contents-caption>
+<show-all-questions-caption>Mostra tutte le domande</show-all-questions-caption>
+<undo-caption>Undo</undo-caption>
+<header-code></header-code>
+<hint-caption>Hint</hint-caption>
+<check-button-caption>Check</check-button-caption>
+<email>you@yourserver.com</email>
+<show-one-by-one-caption>Mostra le domande una alla volta</show-one-by-one-caption>
+<name-please>Please enter your name:</name-please>
+<formmail-url>http://yourserver.com/cgi-bin/FormMail.pl</formmail-url>
+<next-ex-caption>=&amp;#x003E;</next-ex-caption>
+<back-caption>&amp;#x003C;=</back-caption>
+<text-color>#333333</text-color>
+<page-bg-color>#ffeee8</page-bg-color>
+<times-up>Your time is over!</times-up>
+<nav-bar-color>#FF9900</nav-bar-color>
+<include-contents>0</include-contents>
+<your-score-is>Il tuo punteggio &amp;#x00e8;:</your-score-is>
+<graphic-url></graphic-url>
+<link-color>#0000FF</link-color>
+<keypad-characters></keypad-characters>
+<show-also-correct>1</show-also-correct>
+<correct-first-time>Risposte esatte al primo tentativo: </correct-first-time>
+<include-cgi>0</include-cgi>
+<ex-bg-color>#FFFFFF</ex-bg-color>
+<ok-caption>OK</ok-caption>
+<process-for-rtl>0</process-for-rtl>
+<check-caption>Controlla</check-caption>
+<include-back>0</include-back>
+<next-correct-letter>Next correct letter is: </next-correct-letter>
+</global>
+<jquiz>
+<next-caption>Next</next-caption>
+<instructions></instructions>
+<enter-a-guess>Prova a dare una risposta:</enter-a-guess>
+<correct-list>Risposte esatte:</correct-list>
+<completed-so-far>Domande completate finora:</completed-so-far>
+<header-code></header-code>
+<include-hint>0</include-hint>
+<include-keypad>0</include-keypad>
+<short-answer-tries-on-hybrid-q>2</short-answer-tries-on-hybrid-q>
+<partly-incorrect>La tua risposta &amp;#x00e8; parzialmente sbagliata: </partly-incorrect>
+<guess-incorrect>Sbagliato! Riprova:</guess-incorrect>
+<case-sensitive>0</case-sensitive>
+<continuous-scoring>1</continuous-scoring>
+<next-ex-url>nextpage.htm</next-ex-url>
+<send-email>0</send-email>
+<show-also-correct>1</show-also-correct>
+<exercise-subtitle>Quiz</exercise-subtitle>
+<exercise-completed>L&apos;esercizio &amp;#x00e8; stato completato. </exercise-completed>
+<questions-to-show>10</questions-to-show>
+<shuffle-answers>0</shuffle-answers>
+<guess-correct>Esatto!</guess-correct>
+<next-correct-letter>Lettera esatta successiva nella risposta:</next-correct-letter>
+<show-limited-questions>0</show-limited-questions>
+<shuffle-questions>0</shuffle-questions>
+<include-show-answer>1</include-show-answer>
+<show-correct-first-time>0</show-correct-first-time>
+<separate-javascript-file>0</separate-javascript-file>
+<delete-caption>Delete This Flashcard</delete-caption>
+<show-answer-caption>Mostra risposta</show-answer-caption>
+</jquiz>
+</hotpot-config-file>
+
+</hotpot-jquiz-file>
